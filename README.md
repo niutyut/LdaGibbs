@@ -17,4 +17,7 @@ The gibbs_output.R file contains functions for reasoning about the output from t
 * The collapsed gibbs sampler runs very slowly.  
 * It also may have some errors because the word distributions weren't super intuitive.
 * Write some functions that plot the output with ggplot2. 
+* Put in a gitignore. 
+
+
 
