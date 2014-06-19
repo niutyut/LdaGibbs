@@ -34,11 +34,25 @@ source("gibbs_output.R")
 ```
 
 Now we need to get whatever corpus we have into a Document-Term-Matrix. 
-If that corpus is organized as a directory, where documents are individual text files, you're in luck.  Simply provide the get_corpus() function in gibbs_prep with the path to that directory, and you will receive a corpus object.  Then pass that corpus object to the get_dtm_matrix() function, and you've got a dtm that's ready to roll with LDA.  You've just got to choose your parameters and pass them to the gibbs.sampler.lda() function, as follows: 
+If that corpus is organized as a directory, where documents are individual text files, you're in luck.  Simply provide the get_corpus() function in gibbs_prep with the path to that directory, and you will receive a corpus object.  Then pass that corpus object to the get_dtm_matrix() function, and you've got a dtm that's ready to roll with LDA.  
 
 ```R
 corpus <- get_corpus(path)
 dtm <- get_dtm_matrix(corpus)
+```
+
+Alternatively, we can use data from the CRAN lda package, using the helper functions that convert these objects into a tdm usable by this gibbs sampler. We can do that as follows: 
+
+``` R
+library(lda)
+data(cora.documents)
+data(cora.vocab)
+dtmCORA <- lda_corpus_to_dtm(cora.documents, cora.vocab)
+```
+
+You've just got to choose your parameters and pass them to the gibbs.sampler.lda() function, as follows: 
+
+```R
 K <- 10  # number of topics. 
 alpha <- 50/K  # Heuristic suggested in Heinrich Paper. 
 beta <- 0.01 # same comment as above.
