@@ -25,6 +25,9 @@ The gibbs_output.R file contains functions for reasoning about the output from t
 
 ## Use
 
+You can see a full demo in the file *reuters_analysis.R*.  Otherwise, follow the instructions below: 
+
+
 cd into the home directory for this project, and import the functions.  
 
 ```R
