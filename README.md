@@ -78,4 +78,15 @@ top.topic.words
 ```
 
 Todo: Write utilities that display these results in ggplot2.  
-Todo: Generalize/upload my sanity check code.  
+
+
+## Sanity Check
+
+Unfortunately, I'm not capable of sanity checking the CORA corpus from the CRAN lda package.  We can, however, sanity check corpuses of our own of the first type mentioned in the docs, i.e. a corpus that is a directory containing .txt files which represent individual documents.  
+
+This is pretty janky, but it does the trick.  We can figure out which row index of the dtm (and therefore, the output parameters) corresponds to which document (by filename) with the following helper functions, from gibbs_prep.R: 
+
+```R
+keys <- get_doc_keys(corpus) # This returns a vector s.t. keys[i] is the filename of document i.  We can sanity check by going into the .txt file and making sure that the wordsfrom the topic assignments do indeed appear frequently.  
+
+```
