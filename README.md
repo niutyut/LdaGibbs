@@ -16,6 +16,7 @@ The gibbs_output.R file contains functions for reasoning about the output from t
 
 * The collapsed gibbs sampler runs very slowly.  
 * It also may have some errors because the word distributions weren't super intuitive.
+* Maybe we should work with logs as in the Met-Hastings code.  
 * Write some functions that plot the output with ggplot2. 
 * Put in a gitignore. 
 
