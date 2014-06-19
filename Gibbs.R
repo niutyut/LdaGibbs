@@ -176,8 +176,8 @@ gibbs.sampler.lda <- function(dtm, n.sim, K, alpha, beta) {
 
   ## Output 
   
-  output <- list(Phi, Theta)
-  names(output) <- c("Phi", "Theta")
+  output <- list(Phi, Theta, topic.assignments)
+  names(output) <- c("Phi", "Theta", "Topic Assignments")
   output
  
 }
