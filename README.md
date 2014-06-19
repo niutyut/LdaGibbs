@@ -91,6 +91,8 @@ keys <- get_doc_keys(corpus) # This returns a vector s.t. keys[i] is the filenam
 
 ```
 
+Todo: write utilities that automate this process.  I.e.  instead of having to open the document and check yourself, it will read the document in as a file object and use regular expressions to notify you of the locations of topical words (line, index).  
+ 
 ## Runtime of Gibbs. 
 
 The runtime of this Gibbs sampler is O(n.sim*M*V*K), where 
