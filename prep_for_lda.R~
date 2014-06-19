@@ -1,0 +1,94 @@
+# Get a directory of .txt files ready for analysis with LDA. 
+require("tm")
+require("lda")
+require("ggplot2")
+require("reshape2")
+
+
+# Give this function a path to the directory containing your .txt file documents.  
+get_corpus <- function(path) {
+  old_directory <- getwd()
+  new_directory <- as.character(path) # Making sure it's a string
+  setwd(new_directory)
+  corpus <- Corpus(DirSource(getwd()), readerControl = list(language="lat"))
+  corpus <- tm_map(corpus, removeNumbers)
+  corpus <- tm_map(corpus, removePunctuation)
+  corpus <- tm_map(corpus, stripWhitespace)
+  corpus <- tm_map(corpus, tolower)
+  corpus <- tm_map(corpus, removeWords, stopwords("english"))
+  corpus <- tm_map(corpus, stemDocument, language="english")
+  corpus
+}
+
+# Given a corpus object defined by the tm package, get a "vocab" of the format accepted by the LDA package. 
+
+get_vocabObj <- function(corpus) {
+  dtm <- DocumentTermMatrix(corpus)
+  dtm_matrix <- as.matrix(inspect(dtm))
+  vocab <- colnames(dtm_matrix)
+  vocab
+}
+
+dtm_to_vocab <- function(dtm_matrix) {
+  vocab <- colnames(dtm_matrix)
+  vocab
+}
+
+# Get a dtm as an R matrix given a corpus. 
+get_dtm_matrix <- function(corpus) {
+  dtm <- DocumentTermMatrix(corpus)
+  dtm_matrix <- as.matrix(dtm)
+  dtm_matrix 
+}
+
+# Get "documents" in the format accepted by LDA given a corpus. 
+get_docs <- function(corpus) {
+  dtm <- DocumentTermMatrix(corpus)
+  dtm_matrix <- as.matrix(dtm)
+  docs <- split(dtm_matrix, row(dtm_matrix))
+  vocab <- get_vocabObj(corpus)
+  indices <- seq(1, length(vocab))	  
+  for (i in 1:length(docs)) {
+    docs[[i]] <- rbind(indices,docs[[i]])
+  }
+  for (i in 1:length(docs)) {
+    docs[[i]] <- docs[[i]][,which(docs[[i]][2,] != 0)]
+    docs[[i]] <- unname(docs[[i]])
+    storage.mode(docs[[i]]) <- "integer"
+  }
+  docs <- unname(docs)  
+}
+
+  #Uses parameters from demo.
+  get_lda_result <- function(corpus, K) {
+    result <- lda.collapsed.gibbs.sampler(get_docs(corpus), K, get_vocabObj(corpus), 100, 1/K, 0.01, compute.log.likelihood=TRUE)
+    result  
+  }
+
+  # N is the number of documents to display. 
+  make_plot <- function(result, N, K) {
+    top.words <- top.topic.words(result$topics, 5, by.score=TRUE)
+    topic.proportions <- t(result$document_sums) / colSums(result$document_sums)
+    doc_sample <- sample(1:dim(topic.proportions)[1], N)
+    topic.proportions <- topic.proportions[doc_sample,]
+    topic.proportions[is.na(topic.proportions)] <-  1 / K
+    colnames(topic.proportions) <- apply(top.words, 2, paste, collapse=" ")
+    topic.proportions.df <- melt(cbind(data.frame(topic.proportions),
+                           document=factor(1:N)),
+                           variable.name="topic",
+                           id.vars = "document")
+    plot <- qplot(topic, value, fill=document, ylab="proportion",
+          data=topic.proportions.df, geom="bar") +
+          theme(axis.text.x = theme_text(angle=90, hjust=1)) +  
+          coord_flip() +
+          facet_wrap(~ document, ncol=5)
+    list(plot, doc_sample)
+
+  }
+
+  get_doc_order <- function(corpus) {
+    dtm <- DocumentTermMatrix(corpus)
+    dtm_matrix <- as.matrix(dtm)
+    doc_order <- names(dtm_matrix[,1])
+    doc_order
+  }
