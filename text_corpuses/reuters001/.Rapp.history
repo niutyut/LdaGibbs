@@ -1,0 +1,249 @@
+A
+A = cbind(A,c(100, 101, 102))
+A
+dim(A)
+A = matrix(c(1, 2, 3, 4, 5, 6), byrow = T, nrow = 3)
+B = matrix(c(11, 12, 13, 14, 15, 16), byrow =T, nrow = 3)
+A
+B
+C = cbind(A,B)
+C
+C = matrix(c(1,1,2,2),byrow=T, nrow = 2)
+C
+A %*% C
+A ^2
+A
+v = c(1,2,3)
+v
+log(v)
+exp(v)
+abs(v)
+v
+-v
+ones = rep(1,3)
+ones
+ones + v
+v + rep(1,3)
+v + rep(1,length(v))
+length(v)
+t(A)
+t(t(A))
+a = c(1, 15, 2, 0.5)
+a
+max(a)
+which(a <3)
+?magic
+??magic square
+??magic
+sum(a)
+prod(a)
+diag(a)
+a
+A
+diag(A)
+A = matrix(c(8, 1, 6, 3, 5, 7, 4, 9, 2),byrow= T, nrow = 3)
+A
+solve(A)
+?pseudoinverse
+??pseudoinverse
+v = rep(0,10)
+v
+for (i in 1:10) {}
+for (i in 1:10) {
+v[i] = 2^i
+}
+v
+indices = 1:10
+indices
+for (i in indices) {
+v[i] = 2^i
+}
+v
+var squareThisNumber = function(x) {
+function(x) {}
+function(x) {
+}
+squareThisNumber(x) {
+squareThisNumber = function(x) {
+return x^2
+squareThisNumber = function(x) {
+x^2
+}
+squareThisNumber(2)
+squareThisNumber(4)
+squareThisNumber(20)
+x <- matrix(c(1, 2, 1, 2, 1, 3), byrow = T, nrow = 3)
+x
+costFunctionJ = function(X,y,theta) {
+m = nrow(X)
+predictions = X %*% theta
+sqrErrors = (predictions - y)^2
+J = 1/(2*m) * sum(sqrErrors)
+J
+}
+y = c(1,2,3)
+x
+y
+theta = c(0,1)
+j = costFunctionJ(x,y,theta)
+j
+theta
+X %*% theta
+theta <- as.matrix(tehta)
+theta <- as.matrix(theta)
+X %*% theta
+X
+x %*% theta
+x
+x <- matrix(c(1, 1, 1, 2, 1, 3), byrow = T, nrow = 3)
+j = costFunctionJ(x,y,theta)
+j
+data(reuters)
+library(tm)
+data(reuters)
+reuters
+library(lda)
+demo(lda)
+crude <- data(crude)
+crude
+data("crude")
+crude <- data("crude")
+crude
+library(tm)
+crude
+tm.crude
+?crude
+summary(crude)
+remove(crude)
+library(Tm)
+library(tm)
+crude
+data(crude)
+summary(crude)
+reut21578 <- system.file("texts", "crude", package = "tm")
+reut21578
+reuters <- Corpus(DirSource(reut21578),
+readerControl = list(reader = readReut21578XML))
+reuters
+reuters[1]
+?readPdf
+?readPdf(0)
+?readPdf()
+?readPDF
+curve(dbinom(x, 20, 0.5))
+plot(dbinom(x, 20, 0.5))
+plot(dbinom(seq(1,20), 20, 0.5))
+plot(dbinom(seq(1,20), 20, 0.1))
+plot(dbinom(seq(1,20), 20, 0.5))
+density(dbinom(seq(1,20), 20, 0.5))
+plotdensity(dbinom(seq(1,20), 20, 0.5))
+?plo
+?plot
+plot(density(dbinom(seq(1,20), 20, 0.5)))
+X <- dbinom(seq(1,20), 20, 0.5))
+X <- dbinom(seq(1,20), 20, 0.5)
+plot(X)
+?plto
+?plot
+barplot(X)
+X <- dbinom(seq(1, 20), 20, 0.05)
+Y <- dbinom(seq(1,20), 20, 0.1)
+Z <- dbinom(seq(1, 20), 20, 0.20)
+cols <- c("red","blue","yellow")
+barplot(c(X,Y,Z),col=cols)
+barplot(c(X,Y,Z),col=cols, breaks = 20)
+barplot(c(X,Y,Z),col=cols, break = 20)
+?barplot
+barplot(X)
+barplot(Y, add = T, col ="red")
+barplot(Z, add = T, col = "blue")
+?seq
+thetas <- seq(from = 2, to = 20, by = 0.1)
+theta <- dbeta(thetas, 2, 20)
+plot(theta)
+hist(theta)
+barplot(theta)
+curve(dbeta(x, 2, 20))
+xs <- seq(0, 1, 0.001)
+plot(dbeta(xs, 2, 20))
+hist(dbeta(xs, 2, 20))
+hist(dbeta(xs, 2, 20), break = 30)
+hist(dbeta(xs, 2, 20), breaks = 30)
+hist(dbeta(xs, 2, 20), breaks = 100)
+hist(dbeta(xs, 2, 20), breaks = 200)
+length(xs)
+hist(dbeta(xs, 2, 20), breaks = 1000)
+hist(dbeta(xs, 2, 20), breaks = 200)
+dbeta(.1, 2, 20)
+qbeta(.1, 2, 20)
+pbeta(.1, 2, 20)
+pbeta(.2, 2, 20) - pbeta(.5, 2, 20)
+pbeta(.2, 2, 20) - pbeta(.05, 2, 20)
+rmult
+?mult
+?multinomial
+rmultinom(1, 3, c(0.2, 0.3, 0.5))
+rmultinom(3, 1, c(0.2, 0.3, 0.5))
+rmultinom(1, 3, c(0.2, 0.3, 0.5))
+rmultinom(1, 1, c(0.2, 0.3, 0.5))
+rmultinom(1, 1, c(0.01, 0.01, 0.98))
+rmultinom(20, 1, c(0.01, 0.01, 0.98))
+rmultinom(20, 1, c(0, 0, 1))
+rmultinom(100, 1, c(0, 0, 1))
+rmultinom(1000, 1, c(0, 0, 1))
+rmultinom(1000000, 1, c(0, 0, 1))
+rmultinom(10000, 1, c(0, 0, 1))
+rmultinom(10000, 10, c(.2, .3, .5))
+rowMeans(rmultinom(10000, 10, c(.2, .3, .5)))
+rowMeans(rmultinom(10000, 10, c(.2, .3, .5)))/10
+rowMeans(rmultinom(100000, 10, c(.2, .3, .5)))/10
+rowMeans(rmultinom(1000000, 10, c(.2, .3, .5)))/10
+rowMeans(rmultinom(100000000, 10, c(.2, .3, .5)))/10
+sum(rowMeans(rmultinom(100000, 10, c(.2, .3, .5)))/10)
+rowMeans(rmultinom(100000, 10, c(.2, .3, .5)))/10
+library(lda)
+cora.documents[1]
+cora.vocab
+cora.vocabulary
+library(tm)
+data(cora)
+demo(lda)
+cora.documents[[1]]
+data(cora)
+quit()
+setwd("/Users/jacobmenick/Desktop/Summer_2014_Research/r_scripts/LdaGibbs")
+source("prep_for_lda.R")
+path001 = "/Users/jacobmenick/Desktop/Summer_2014_Research/text_corpuses/corpus001"
+data(cora.documents)
+data(cora.vocab)
+corpus001 <- get_corpus(path001)
+K <- 20
+K <- 10
+N <- 10
+result001 <- get_lda_result(corpus001, K)
+make_plot(result001, N, K)
+source("prep_for_lda.R")
+path_to_script = "/Users/jacobmenick/Desktop/Summer_2014_Research/r_scripts/LdaGibbs"
+path
+path_to_corpus = "/Users/jacobmenick/Desktop/Summer_2014_Research/text_corpuses/corpus001"
+path001
+corpus001 <- get_corpus(path001)
+result001 <- get_lda_result(corpus001, K)
+vocab001 <- get_vocabObj(corpus001)
+length(vocab001)
+docs001 <- get_docs(corpus001)
+result001 <- get_lda_result(corpus001, K)
+path_to_script
+source(path_to_script + "prep_for_lda.R")
+"cat" + "dog"
+paste("cat", "dog")
+paste("cat", "dog", sep="")
+source(paste(path_to_script,"prep_for_lda.R",sep=""))
+paste(path_to_script, "prep_for_lda.R")
+source(paste(path_to_script, "prep_for_lda.R"))
+source(paste(path_to_script, "/prep_for_lda.R"))
+source(paste(path_to_script, "/prep_for_lda.R",sep=""))
+get_lda_result(corpus001, K)
+update.packages(lda)
+update.packages('lda')
+library(lda)
