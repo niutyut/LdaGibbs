@@ -50,7 +50,11 @@ params_est <- gibbs.sampler.lda(dtm, 25, K, alpha, beta) # Meat and Cheese. Runs
 
 *params_est* now holds the parameter estimates for the topic-word multinomial distributions and the document-topic mixture proportions.  See Gibbs.R for more detail on that. 
 
+Note: alpha is a K-dimensional vector, the parameter for the dirichlet prior on theta. If we pass *gibbs.sampler.lda* a scalar rather than a K-vector, it assumes that the distribution is symmetric.  Same for beta, except in V dimensions, the length of the vocabulary. 
+
 We can make sense of this output with the helper functions in gibbs_output.R.  For instance, let's look at the topic mixtures for document 1, and then let's look at the most probable words for each topic. 
+
+
 
 ```R
 doc1_mix <- get_mixture_proportions(params_est, 1)
@@ -58,3 +62,6 @@ doc1_mix <- get_mixture_proportions(params_est, 1)
 top.topic.words <- get_top_k_words(dtm, get_vocabObj(dtm), params_est, 5, 1:K)
 top.topic.words
 ```
+
+Todo: Write utilities that display these results in ggplot2.  
+Todo: Generalize/upload my sanity check code.  
