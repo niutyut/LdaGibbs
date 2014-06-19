@@ -109,4 +109,5 @@ This is due to the triply nested for loop (over n.sim, M, and V) in Gibbs.R, and
 This may well be extremely inefficient, even as far as Gibbs samplers are concerned, which have a reputation for being slower than other approximate inference methods.  A paper from Blei et.al [2] shows that Variational Bayes is faster, and Online Variational Bayes is faster still. 
 
 [1] http://faculty.cs.byu.edu/~ringger/CS601R/papers/Heinrich-GibbsLDA.pdf
+
 [2] https://www.cs.princeton.edu/~blei/papers/HoffmanBleiBach2010b.pdf
