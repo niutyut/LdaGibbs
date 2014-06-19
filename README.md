@@ -16,7 +16,7 @@ The gibbs_output.R file contains functions for reasoning about the output from t
 ## Todo
 
 
-* The collapsed gibbs sampler runs very slowly.  
+* The collapsed gibbs sampler runs very slowly.  More on this later. 
 * It also may have some errors because the word distributions weren't super intuitive.
 * Maybe we should work with logs as in the Met-Hastings code.  
 * Write some functions that plot the output with ggplot2. 
@@ -90,3 +90,15 @@ This is pretty janky, but it does the trick.  We can figure out which row index 
 keys <- get_doc_keys(corpus) # This returns a vector s.t. keys[i] is the filename of document i.  We can sanity check by going into the .txt file and making sure that the wordsfrom the topic assignments do indeed appear frequently.  
 
 ```
+
+## Runtime of Gibbs. 
+
+The runtime of this Gibbs sampler is O(n.sim*M*V*K), where 
+* M is the number of documents
+* V is the number of words in the vocabulary
+* K is the number of topics.  
+* n.sim is the number of iterations of MCMC.  
+
+This is due to the triply nested for loop (over n.sim, M, and V) in Gibbs.R, and the fact that *sample.from.conditional()* has a for loop that runs K times.  
+
+This may well be extremely inefficient, even as far as Gibbs samplers are concerned, which have a reputation for being slower than other approximate inference methods.  A paper from Blei at all shows that Variational Bayes is faster, and Online Variational Bayes is faster still.  Will footnote these soon. 
