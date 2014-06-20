@@ -1,6 +1,6 @@
 # LdaGibbs
 
-Implementation of a collapsed Gibbs sampler for LDA.  
+Implementation of a collapsed Gibbs sampler for approximate inference in the Latent Dirichlet Allocation (LDA) model. LDA is a topic modeling algorithm for a corpus of text datasets. 
 
 ## Organization
 
