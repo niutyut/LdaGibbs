@@ -1,6 +1,6 @@
 # LdaGibbs
 
-Implementation of a collapsed Gibbs sampler for approximate inference in the Latent Dirichlet Allocation (LDA) model. LDA is a topic modeling algorithm for a corpus of text datasets. 
+Implementation of a collapsed Gibbs sampler for approximate inference in the Latent Dirichlet Allocation (LDA) model [1]. LDA is a topic modeling algorithm for a corpus of text datasets. 
 
 ## Organization
 
@@ -57,7 +57,7 @@ You've just got to choose your parameters and pass them to the gibbs.sampler.lda
 
 ```R
 K <- 10  # number of topics. 
-alpha <- 50/K  # Heuristic suggested in Heinrich Paper [1]. 
+alpha <- 50/K  # Heuristic suggested in Heinrich Paper [2]. 
 beta <- 0.01 # same comment as above.
 n.sim <- 25 # This implementation is REAL slow.  Let's start small.   
 
@@ -106,10 +106,12 @@ The runtime of this Gibbs sampler is O(n.sim*M*V*K), where
 
 This is due to the triply nested for loop (over n.sim, M, and V) in Gibbs.R, and the fact that *sample.from.conditional()* has a for loop that runs K times.  
 
-This may well be extremely inefficient, even as far as Gibbs samplers are concerned, which have a reputation for being slower than other approximate inference methods.  A paper from Blei et.al [2] shows that Variational Bayes is faster, and Online Variational Bayes is faster still. 
+This may well be extremely inefficient, even as far as Gibbs samplers are concerned, which have a reputation for being slower than other approximate inference methods.  A paper from Blei et.al [3] shows that Variational Bayes is faster, and Online Variational Bayes is faster still. 
 
 Regardless, there is work to do in this implementation, as far as optimizing speed is concerned.  
 
-[1] http://faculty.cs.byu.edu/~ringger/CS601R/papers/Heinrich-GibbsLDA.pdf
+[1] http://machinelearning.wustl.edu/mlpapers/paper_files/BleiNJ03.pdf
 
-[2] https://www.cs.princeton.edu/~blei/papers/HoffmanBleiBach2010b.pdf
+[2] http://faculty.cs.byu.edu/~ringger/CS601R/papers/Heinrich-GibbsLDA.pdf
+
+[3] https://www.cs.princeton.edu/~blei/papers/HoffmanBleiBach2010b.pdf
