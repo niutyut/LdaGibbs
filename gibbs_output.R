@@ -43,12 +43,19 @@ sample_doc_indices <- function(corpus, n) {
     indices <- sample(pool, n, rep=F)
 }
 
-get_plottable_df <- function(params, numdocs) {
+get_plottable_df_lda <- function(dtm, vocab, params, numdocs) {
 
   theta <- params[[2]]
   M <- dim(theta)[1]
   K <- dim(theta)[2]
-  colnames(theta) <- paste("topic", seq(1:K))
+  colnames <- rep(0, K)
+  for (i in 1:K) {
+    colnames[i] <- paste(get_top_k_words(dtm, vocab, params, 5, i), collapse=", ")
+  }
+
+  colnames(theta) <- colnames
+
+  
 
   random_doc_indices <- sample(1:M, numdocs)
   theta.sample <- theta[random_doc_indices,]
@@ -56,16 +63,42 @@ get_plottable_df <- function(params, numdocs) {
   theta.sample.m <- melt(theta.sample)
   theta.sample.m.df <- data.frame(theta.sample.m)
   names(theta.sample.m.df) <- c("Document", "Topic", "Proportion")
-  output <- list(theta.sample.m.df, random_doc_indices)
-  names(output) <- c("Theta.Sample.M.DF", "Random Doc Indices")
-  output
+  df <- theta.sample.m.df
+  df 
+}
 
+get_plottable_df <- function(corpus, dtm, vocab, params, numdocs) {
+
+  theta <- params[[2]]
+  M <- dim(theta)[1]
+  K <- dim(theta)[2]
+
+  # Set colnames to be top topic words
+  colnames <- rep(0, K)
+  for (i in 1:K) {
+    colnames[i] <- paste(get_top_k_words(dtm, vocab, params, 5, i), collapse=", ")
+  }
+
+  colnames(theta) <- colnames
+
+  # Set row names to be document filenames. 
+  filenames <- get_filenames_from_indices(corpus, 1:M)
+  rownames(theta) <- filenames
+
+  random_doc_indices <- sample(1:M, numdocs)
+  theta.sample <- theta[random_doc_indices,]
+  
+  theta.sample.m <- melt(theta.sample)
+  theta.sample.m.df <- data.frame(theta.sample.m)
+  names(theta.sample.m.df) <- c("Document", "Topic", "Proportion")
+  df <- theta.sample.m.df
+  df
 }
 
 get_primitive_qplot <- function(df, numdocs) {
-  # TODO - put top.topic.words on plot labels.  
 
-  plot <- qplot(Topic, Proportion, fill=factor(Document), data = df, geom="bar") + 
+
+  plot <- qplot(Topic, Proportion, fill=factor(Document), data = df, geom="bar",stat="identity") + 
           coord_flip() + facet_wrap( ~ Document, ncol = numdocs/2)
 
   plot
