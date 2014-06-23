@@ -25,13 +25,8 @@ beta <- 0.01
 # Run Gibbs Sampler and store results in the variable 'params001'
 params001 <- gibbs.sampler.lda(dtm001, n.sim, K, alpha, beta)
 
-# Let's get the top 5 words for each topic.  
-# let's store them in a Kxk matrix where rows correspond to topics. 
-k <- 5
-top_5_words <- matrix(rep(0, k*K), nrow = K, ncol = k)
+# Let's visualize the results by making plots. 
+df <- get_plottable_df(reuters001, dtm001, vocab001, params001, 10)
 
-for (i in 1:K) {
-  top_5_words[i, ] <- get_top_k_words(dtm001, vocab001, params001, k, i)
-}
-
-top_5_words
+plot <- get_primitive_qplot(df, 10)
+print(plot)
