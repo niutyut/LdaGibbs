@@ -11,6 +11,9 @@
 ## Theta is a M*K matrix whose mth row 
 ##   is a vector giving the topic mixture proportions for document m.   
 
+require(ggplot2)
+require(reshape)
+
 source("gibbs_prep.R")
 
 get_mixture_proportions <- function(params, doc_index) {
@@ -38,4 +41,33 @@ sample_doc_indices <- function(corpus, n) {
     num_docs <- nrow(dtm_matrix)
     pool <- 1:num_docs
     indices <- sample(pool, n, rep=F)
+}
+
+get_plottable_df <- function(params, numdocs) {
+
+  theta <- params[[2]]
+  M <- dim(theta)[1]
+  K <- dim(theta)[2]
+  colnames(theta) <- paste("topic", seq(1:K))
+
+  random_doc_indices <- sample(1:M, numdocs)
+  theta.sample <- theta[random_doc_indices,]
+  
+  theta.sample.m <- melt(theta.sample)
+  theta.sample.m.df <- data.frame(theta.sample.m)
+  names(theta.sample.m.df) <- c("Document", "Topic", "Proportion")
+  output <- list(theta.sample.m.df, random_doc_indices)
+  names(output) <- c("Theta.Sample.M.DF", "Random Doc Indices")
+  output
+
+}
+
+get_primitive_qplot <- function(df, numdocs) {
+  # TODO - put top.topic.words on plot labels.  
+
+  plot <- qplot(Topic, Proportion, fill=factor(Document), data = df, geom="bar") + 
+          coord_flip() + facet_wrap( ~ Document, ncol = numdocs/2)
+
+  plot
+		    
 }
