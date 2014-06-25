@@ -99,6 +99,7 @@ get_primitive_qplot <- function(df, numdocs) {
 
 
   plot <- qplot(Topic, Proportion, fill=factor(Document), data = df, geom="bar",stat="identity") + 
+          theme(axis.text.x = element_text(colour="black")) +
           coord_flip() + facet_wrap( ~ Document, ncol = numdocs/2)
 
   plot
