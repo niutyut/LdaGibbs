@@ -45,5 +45,6 @@ numDocs <- 10
 df <- get_plottable_df_lda(dtmCORA, cora.vocab, paramsCORA, numDocs)
 
 # Plot the results. 
-plot <- get_primitive_plot(df, numDocs)
+plot <- get_primitive_qplot(df, numDocs)
+print(plot)
 
