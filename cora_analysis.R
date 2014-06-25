@@ -28,7 +28,8 @@ cora.vocab <- new_corpus_objects[[2]]
 # The remove.stopwords function affects both the dtm and the vocab, though. 
 
 # Remove some stop words. 
-stop.words <- c("paper", "result", "model", "show", "method", "approach")
+stop.words <- c("paper", "result", "model", "show", "method", "approach", "base", 
+                "data", "general", "function", "perform", "comput", "present")
 
 new_corpus_objects <- remove.stopwords(dtmCORA, cora.vocab, stop.words)
 dtmCORA <- new_corpus_objects[[1]]

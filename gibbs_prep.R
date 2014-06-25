@@ -1,5 +1,6 @@
 # Get a directory of .txt files ready for analysis with LDA. 
 require("tm")
+require("SnowballC")
 
 # Give this function a path to the directory containing your .txt file documents.  
 get_corpus <- function(path) {
@@ -63,12 +64,8 @@ stemmify <- function(dtm, vocab) {
     }
   }
   stemmed.vocab <- stemmed.vocab[first.unique.indices]
-  vocab <- vocab[first.unique.indices]
-  to.be.completed <- which(vocab != stemmed.vocab)
-  stemmed.vocab[to.be.completed] <- unname(stemCompletion(stemmed.vocab[to.be.completed], vocab, type="prevalent"))
-  vocab <- stemmed.vocab
   dtm <- dtm[,first.unique.indices]
-  new_corpus_objects <- list(dtm, vocab)
+  new_corpus_objects <- list(dtm, stemmed.vocab)
   new_corpus_objects
 }
 
