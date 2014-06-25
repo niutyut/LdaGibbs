@@ -45,6 +45,8 @@ remove.stopwords <- function(dtm, vocab, stop.words) {
   keepers <- setdiff(1:length(vocab), stop.word.indices)
   vocab <- vocab[keepers]
   dtm <- dtm[,keepers]
+  output <- list(dtm, vocab)
+  output
 }
 
 inspect.frequent.words <- function(dtm, vocab, how.many) {

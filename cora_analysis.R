@@ -18,6 +18,16 @@ data(cora.vocab)
 # Get the dtm for cora. 
 dtmCORA <- lda_corpus_to_dtm(cora.documents, cora.vocab)
 
+# Remove some stop words. 
+stop.words <- c("paper", "results", "model", "show", "method", "approach")
+new_corpus_objects <- remove.stopwords(dtmCORA, cora.vocab, stop.words)
+dtmCORA <- new_corpus_objects[[1]]
+cora.vocab <- new_corpus_objects[[2]]
+# I realize the list operations are probably counterintuitive. 
+# I couldn't think of a better way to return multiple objects.
+# The remove.stopwords function affects both the dtm and the vocab, though. 
+		   
+
 # Set Parameters for the Gibbs Sampler, 
 n.sim <- 25
 K <- 10
