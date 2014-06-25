@@ -27,13 +27,13 @@ beta <- 0.1
 # Run Gibbs Sampler and store results in the variable 'paramsCORA'
 paramsCORA <- gibbs.sampler.lda(dtmCORA, n.sim, K, alpha, beta)
 
-# Let's get the top 5 words for each topic.  
-# let's store them in a Kxk matrix where rows correspond to topics. 
-k <- 5
-top_5_words <- matrix(rep(0, k*K), nrow = K, ncol = k)
+# Now let's visualize the results of the model fit with ggplot2. 
 
-for (i in 1:K) {
-  top_5_words[i, ] <- get_top_k_words(dtmCORA, cora.vocab, paramsCORA, k, i)
-}
+numDocs <- 10
 
-top_5_words
+# Get a melted dataframe
+df <- get_plottable_df_lda(dtmCORA, cora.vocab, paramsCORA, numDocs)
+
+# Plot the results. 
+plot <- get_primitive_plot(df, numDocs)
+
