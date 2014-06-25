@@ -49,6 +49,29 @@ remove.stopwords <- function(dtm, vocab, stop.words) {
   output
 }
 
+stemmify <- function(dtm, vocab) {
+
+  stemmed.vocab <- stemDocument(vocab, language="english")
+  first.unique.indices <- seq_along(stemmed.vocab)[!duplicated(stemmed.vocab)]
+  for (master.index in first.unique.indices) {
+    other.matches <- which(stemmed.vocab == stemmed.vocab[master.index])
+    if (length(other.matches) > 1) {
+      to.reduce <- other.matches[-1]
+      for (index in to.reduce) {
+        dtm[, master.index] <- dtm[, master.index] + dtm[, index]
+      }
+    }
+  }
+  stemmed.vocab <- stemmed.vocab[first.unique.indices]
+  vocab <- vocab[first.unique.indices]
+  to.be.completed <- which(vocab != stemmed.vocab)
+  stemmed.vocab[to.be.completed] <- unname(stemCompletion(stemmed.vocab[to.be.completed], vocab, type="prevalent"))
+  vocab <- stemmed.vocab
+  dtm <- dtm[,first.unique.indices]
+  new_corpus_objects <- list(dtm, vocab)
+  new_corpus_objects
+}
+
 inspect.frequent.words <- function(dtm, vocab, how.many) {
   M <- dim(dtm)[1]
   V <- dim(dtm)[2]
