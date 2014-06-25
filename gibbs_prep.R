@@ -37,6 +37,33 @@ get_dtm_matrix <- function(corpus) {
   dtm_matrix 
 }
 
+remove.stopwords <- function(dtm, vocab, stop.words) {
+  stop.word.indices <- rep(0, length(stop.words))
+  for (i in 1:length(stop.words)) {
+    stop.word.indices[i] <- which(vocab == stop.words[i])
+  }
+  keepers <- setdiff(1:length(vocab), stop.word.indices)
+  vocab <- vocab[keepers]
+  dtm <- dtm[,keepers]
+}
+
+inspect.frequent.words <- function(dtm, vocab, how.many) {
+  M <- dim(dtm)[1]
+  V <- dim(dtm)[2]
+  total.word.counts <- rep(0,V)
+  for (m in 1:M) {
+    for (t in 1:V) {
+      total.word.counts[t] <- total.word.counts[t] + dtm[m,t]
+    }
+  }		       
+  
+  top.word.indices <- order(total.word.counts, decreasing = T)[1:how.many]
+  most.common <- vocab[top.word.indices]
+  most.common
+}
+
+
+
 get_doc_keys <- function(corpus) {
     dtm <- DocumentTermMatrix(corpus)
     dtm_matrix <- as.matrix(dtm)

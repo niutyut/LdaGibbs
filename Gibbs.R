@@ -67,6 +67,7 @@ gibbs.sampler.lda <- function(dtm, n.sim, K, alpha, beta) {
       		prob <- (topic.term.counts[k,n] + beta[n]) 
       		prob <- prob * (doc.topic.counts[m,k] + alpha[k])
       		prob <- prob / (sum(topic.term.counts[k,]) + sum(beta))
+		prob <- prob / (sum(doc.topic.counts[m,]) + sum(alpha))
       	
       		multinom.params[k] <- prob
     	}
