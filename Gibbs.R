@@ -1,7 +1,6 @@
 require("tm")
-require("lda")
-require("reshape2")
-require("ggplot2")
+
+
 
 gibbs.sampler.lda <- function(dtm, n.sim, K, alpha, beta) {
   # This gibbs sampler takes the following inputs: 

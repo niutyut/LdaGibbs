@@ -12,7 +12,7 @@
 ##   is a vector giving the topic mixture proportions for document m.   
 
 require(ggplot2)
-require(reshape)
+require(reshape2)
 
 source("gibbs_prep.R")
 
