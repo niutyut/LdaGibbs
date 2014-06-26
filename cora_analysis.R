@@ -32,16 +32,16 @@ corpusCORA <- stem_corpus(corpusCORA)
 
 # Convert back to a dtm.  
 dtmCORA <- get_dtm_matrix(corpusCORA)
-cora.vocab <- get_vocabObj(dtmCORA)
+cora.vocab <- colnames(dtmCORA)
 
 
 # Remove some stop words. Blei mentioned in a video that they did this as well.  
-stop.words <- c("paper", "result", "model", "show", "method", "approach", "base", 
+# stop.words <- c("paper", "result", "model", "show", "method", "approach", "base", 
                 "data", "general", "function", "perform", "comput", "present")
 
-new_corpus_objects <- remove.stopwords(dtmCORA, cora.vocab, stop.words)
-dtmCORA <- new_corpus_objects[[1]]
-cora.vocab <- new_corpus_objects[[2]]
+# new_corpus_objects <- remove.stopwords(dtmCORA, cora.vocab, stop.words)
+# dtmCORA <- new_corpus_objects[[1]]
+# cora.vocab <- new_corpus_objects[[2]]
 
 		
 # Set Parameters for the Gibbs Sampler, 
