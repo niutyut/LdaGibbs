@@ -25,10 +25,15 @@ data(cora.vocab)
 # Get the dtm for cora. 
 dtmCORA <- lda_corpus_to_dtm(cora.documents, cora.vocab)
 
-# Stemify the corpus. TODO - reconstruct the terms later. 
-new_corpus_objects <- stemmify(dtmCORA, cora.vocab)
-dtmCORA <- new_corpus_objects[[1]]
-cora.vocab <- new_corpus_objects[[2]]
+# Convert the dtm to a tm 'corpus' for pre-processing. 
+corpusCORA <- dtm_to_corpus(dtmCORA)
+corpusCORA <- process_corpus(corpusCORA)
+corpusCORA <- stem_corpus(corpusCORA)
+
+# Convert back to a dtm.  
+dtmCORA <- get_dtm_matrix(corpusCORA)
+cora.vocab <- get_vocabObj(dtmCORA)
+
 
 # Remove some stop words. Blei mentioned in a video that they did this as well.  
 stop.words <- c("paper", "result", "model", "show", "method", "approach", "base", 
