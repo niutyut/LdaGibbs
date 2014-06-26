@@ -37,7 +37,7 @@ cora.vocab <- colnames(dtmCORA)
 
 # Remove some stop words. Blei mentioned in a video that they did this as well.  
 # stop.words <- c("paper", "result", "model", "show", "method", "approach", "base", 
-                "data", "general", "function", "perform", "comput", "present")
+#                "data", "general", "function", "perform", "comput", "present")
 
 # new_corpus_objects <- remove.stopwords(dtmCORA, cora.vocab, stop.words)
 # dtmCORA <- new_corpus_objects[[1]]
