@@ -1,9 +1,16 @@
 ## This file runs the analysis on the 'cora' corpus from the CRAN lda package.  
-## We hope to achieve similar results as their demo so as test whether or not 
-## this implementation of the Gibbs sampler is correct. 
+## 1.  We hope to achieve similar results as 
+##     their demo so as test whether or not his implementation of 
+##     the Gibbs sampler is correct. 
 ##
-## It assumes our current directory is the root of this project.  
-## We use the same parameters as are used in the demo(lda) script. 
+## 2.  It assumes our current directory is the root of this project.  
+##     We use the same parameters as are used in the demo(lda) script. 
+##
+## 3.  You may want to try a few runs with different seeds.  
+##     Because the Gibbs sampler is non-deterministic, 
+##     And we are doing a relatively samll number of iterations,
+##     The initial state of the Markov Chain can have big effects on 
+##     the output.  
 
 # Load functions into workspace
 source("gibbs_prep.R")
@@ -18,16 +25,12 @@ data(cora.vocab)
 # Get the dtm for cora. 
 dtmCORA <- lda_corpus_to_dtm(cora.documents, cora.vocab)
 
-# Stemify the corpus. 
+# Stemify the corpus. TODO - reconstruct the terms later. 
 new_corpus_objects <- stemmify(dtmCORA, cora.vocab)
 dtmCORA <- new_corpus_objects[[1]]
 cora.vocab <- new_corpus_objects[[2]]
 
-# I realize the list operations are probably counterintuitive. 
-# I couldn't think of a better way to return multiple objects.
-# The remove.stopwords function affects both the dtm and the vocab, though. 
-
-# Remove some stop words. 
+# Remove some stop words. Blei mentioned in a video that they did this as well.  
 stop.words <- c("paper", "result", "model", "show", "method", "approach", "base", 
                 "data", "general", "function", "perform", "comput", "present")
 
