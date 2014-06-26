@@ -13,7 +13,7 @@ get_corpus <- function(path) {
   corpus <- tm_map(corpus, stripWhitespace)
   corpus <- tm_map(corpus, tolower)
   corpus <- tm_map(corpus, removeWords, stopwords("english"))
-#  corpus <- tm_map(corpus, stemDocument, language="english")
+  corpus <- tm_map(corpus, stemDocument, language="english")
   corpus
 }
 
@@ -37,6 +37,29 @@ get_dtm_matrix <- function(corpus) {
   dtm_matrix <- as.matrix(dtm)
   dtm_matrix 
 }
+
+
+# Get a tm 'corpus' object from a dtm (with vocab terms attached
+#     to column names.)
+dtm_to_corpus <- function(dtm) {
+  dtm2list <- apply(dtm, 1, function(x) {
+    paste(rep(names(x), x), collapse = ' ')
+  })
+  corp <- VCorpus(VectorSource(dtm2list))
+  corp
+}
+
+# Process a manually created corpus as if we imported it with get_corpus
+process_corpus <- function(corpus) {
+  corpus <- tm_map(corpus, removeNumbers)
+  corpus <- tm_map(corpus, removePunctuation)
+  corpus <- tm_map(corpus, stripWhitespace)
+  corpus <- tm_map(corpus, tolower)
+  corpus <- tm_map(corpus, removeWords, stopwords("english"))
+  corpus <- tm_map(corpus, stemDocument, language="english")
+  corpus
+}
+
 
 remove.stopwords <- function(dtm, vocab, stop.words) {
   stop.word.indices <- rep(0, length(stop.words))
@@ -122,5 +145,6 @@ lda_corpus_to_dtm <- function(docs, vocab) {
   	row[indices] <- docs[[m]][2,]
   	dtm[m, ] <- row
   }
+  colnames(dtm) <- vocab
   dtm
 } 
