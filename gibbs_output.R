@@ -13,6 +13,7 @@
 
 require(ggplot2)
 require(reshape2)
+require(topicmodels)
 
 source("gibbs_prep.R")
 
@@ -67,7 +68,16 @@ get_plottable_df_lda <- function(dtm, vocab, params, numdocs) {
   df 
 }
 
-#TODO - make get_plottable_df for model return by 'topicmodels' LDA() func. 
+# Uses the c code from 'topicmodels' to fit a topic model
+# rather than my own. 
+get_params_from_topicmodels <- function(dtm, k) {
+  vem_model <- LDA(dtm, k = k, control = list(seed = 420))
+  Phi <- vem_model@beta
+  Theta <- vem_model@gamma
+  params <- list(Phi,Theta)
+  params			    
+}
+
 
 get_plottable_df <- function(corpus, dtm, vocab, params, numdocs) {
 
