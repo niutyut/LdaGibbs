@@ -67,6 +67,8 @@ get_plottable_df_lda <- function(dtm, vocab, params, numdocs) {
   df 
 }
 
+#TODO - make get_plottable_df for model return by 'topicmodels' LDA() func. 
+
 get_plottable_df <- function(corpus, dtm, vocab, params, numdocs) {
 
   theta <- params[[2]]
