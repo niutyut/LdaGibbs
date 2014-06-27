@@ -71,7 +71,9 @@ get_plottable_df_lda <- function(dtm, vocab, params, numdocs) {
 # Uses the c code from 'topicmodels' to fit a topic model
 # rather than my own. 
 get_params_from_topicmodels <- function(dtm, k) {
-  vem_model <- LDA(dtm, k = k, control = list(seed = 420))
+  vem_model <- LDA(dtm, k = k, control = list(seed = 420,
+                                              estimate.alpha = F,
+					      alpha = 50/k))
   Phi <- vem_model@beta
   Theta <- vem_model@gamma
   params <- list(Phi,Theta)
