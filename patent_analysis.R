@@ -15,18 +15,24 @@ path_to_patents <- "/Users/jacobmenick/Desktop/Summer_2014_Research/r_scripts/Ld
 # Get corpus and dtm.
 corpusPATENTS <- get_corpus(path_to_patents)
 dtmPATENTS <- get_dtm_matrix(corpusPATENTS)
+vocabPATENTS <- colnames(dtmPATENTS)
 
-# Set Parameters for the Gibbs Sampler
-n.sim <- 25
-K <- 30
+# Remove stopwords.
+# The words 'title' and 'abstract' appear in each file.  
+stop.words <- c("title", "abstract")
+new_objs <- remove.stopwords(dtmPATENTS, vocabPATENTS, stop.words)
+dtmPATENTS <- new_objs[[1]]
+vocabPATENTS <- new_objs[[2]]
+
+# Set Parameters for the LDA Model
+K <- 50
 alpha <- 50/K
-beta <- 0.01
 
-# Run Gibbs Sampler and store results in the variable 'params001'
-params001 <- gibbs.sampler.lda(dtm001, n.sim, K, alpha, beta)
+# Run the LDA code from the 'topicmodels' package. 
+paramsPATENTS <- get_params_from_topicmodels(dtmPATENTS, K)
 
 # Let's visualize the results by making plots. 
-df <- get_plottable_df(reuters001, dtm001, vocab001, params001, 10)
+df <- get_plottable_df(corpusPATENTS, dtmPATENTS, colnames(dtmPATENTS), paramsPATENTS, 10)
 
 plot <- get_primitive_qplot(df, 10)
 print(plot)
