@@ -23,6 +23,14 @@ gibbs.sampler.lda <- function(dtm, n.sim, K, alpha, beta) {
 
   M = nrow(dtm)
   V = ncol(dtm)
+  
+  if (length(alpha) == 1) {
+  	alpha <- rep(alpha, K)
+  }
+  
+  if (length(beta) == 1) {
+  	beta <- rep(beta, V)
+  }
 
   ## Create Count Matrices
 
@@ -55,11 +63,12 @@ gibbs.sampler.lda <- function(dtm, n.sim, K, alpha, beta) {
     	for (k in 1:K) {
     		# 'prob' is the full conditional distribution. 
     		# Calculations broken up into several lines. 
-    		print(paste("loop iter ", k))
+    	
       		prob <- (topic.term.counts[k,n] + beta[n]) 
       		prob <- prob * (doc.topic.counts[m,k] + alpha[k])
       		prob <- prob / (sum(topic.term.counts[k,]) + sum(beta))
-      		print(paste("prob",prob))
+		prob <- prob / (sum(doc.topic.counts[m,]) + sum(alpha))
+      	
       		multinom.params[k] <- prob
     	}
     	
@@ -168,8 +177,8 @@ gibbs.sampler.lda <- function(dtm, n.sim, K, alpha, beta) {
 
   ## Output 
   
-  output <- list(Phi, Theta)
-  names(output) <- c("Phi", "Theta")
+  output <- list(Phi, Theta, topic.assignments)
+  names(output) <- c("Phi", "Theta", "Topic Assignments")
   output
  
 }
