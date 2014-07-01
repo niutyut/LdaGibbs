@@ -1,0 +1,4 @@
+title: FFT accelerated display mode
+
+abstract: 
+An FFT accelerated display mode for a spectrum analyzer processes time domain samples in increments as they are received until a complete measurement frame of samples is processed to provide a desired frequency resolution. After a first set of time domain samples is received, a spectrum analysis display is provided having a coarse frequency resolution. Then the spectrum analysis display is updated at intervals as more and more time domain samples are received until the complete measurement frame is processed, providing the desired frequency resolution for the spectrum analysis display.

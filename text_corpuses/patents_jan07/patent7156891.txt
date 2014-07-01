@@ -1,0 +1,4 @@
+title: Forced air system air filter
+
+abstract: 
+An air filter including a filter media having a plurality of flat pleats defining a plurality of truncated pleat tips and sloping side surfaces along a front face and a rear face. The truncated pleat tips are oriented perpendicular to the direction of pleating and are configured with a planar tip portion. The reinforcement structure includes at least one generally planar first reinforcing strip oriented in the direction of the pleating and connected to the truncated pleat tips along the rear face. The reinforcing structure further includes at least one generally planar second reinforcing strip oriented in the direction of pleating and connected to the truncate pleat tips along the front face.

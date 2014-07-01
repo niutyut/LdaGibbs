@@ -1,0 +1,4 @@
+title: Plastic tube joint
+
+abstract: 
+A connector assembly for creating a plastic tube joint in a length of plastic tubing having a distal end, a proximal end and a hollow lumen includes forming a flare in the tube proximate the proximal end thereof by means of a flared ferrule disposed in the lumen and defining a void between the flare and the proximal end of the tubing, the void being defined between the ferrule and a collet, the tubing contracting into the void, and forming a neck between the ferrule and the collet proximate the ferrule flare, the neck substantially permanently capturing the tubing contracted into the void; and substantially permanently bonding the collet to a connector body. A connector assembly for simultaneously forming a plastic tube joint in a pair of plastic tubes is further included as is a method for simultaneously forming a plastic tube joint in a pair of plastic tubes.

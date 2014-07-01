@@ -1,0 +1,4 @@
+title: System and method for processing information related to laboratory tests and results
+
+abstract: 
+A system and method are provided that addresses the need for an improved microbiology validation system that monitors and validates clinical culture laboratory test results as they occur throughout the testing lifecycle of a clinical culture. Techniques are provided that consider the results of earlier performed tests when entering results for later performed tests so that inconsistent or wrong test results of a patient are not inadvertently released to a physician for review.

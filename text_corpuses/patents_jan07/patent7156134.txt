@@ -1,0 +1,4 @@
+title: Fuel Transferring system and method of use
+
+abstract: 
+A portable system for transferring liquids, such as diesel fuel, from a first tank, such as a railcar, to a second tank, such as on a transport truck. The system is self-contained and comprises a pump driven by an engine fueled by the liquid being transferred. A meter measures the amount of liquid being transferred. An inlet hose is used to connect the system to the railcar, and an outlet hose is used to connect the system to the transport truck. The inlet and outlet hoses may be stored in hose storage tubes. A throttle of the engine may be actuated from a rear portion of the system. A sample line is provided through which a sample may be taken of the liquid being transferred. Air from the truck may be used to blow any liquid out of the outlet hose after a transferring operation.

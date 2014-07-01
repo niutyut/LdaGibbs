@@ -1,0 +1,4 @@
+title: Portable spray rack
+
+abstract: 
+A spray rack suitable for testing a window in a building includes a plurality of spray bars and at least one stand-off leg. The plurality of spray bars each include at least one nozzle for spraying fluid. The at least one stand-off leg is coupled with the plurality of spray bars and includes a plurality of pre-measured settings each corresponding to a distance between the at least one nozzle and the window. The at least one stand-off leg is configured to be set at one of the plurality of pre-measured settings to interface with the building and to position the plurality of spray bars a desired distance from the window for testing the window by spraying the fluid from the at least one nozzle of each of the plurality of spray bars toward the window.

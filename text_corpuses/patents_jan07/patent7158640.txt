@@ -1,0 +1,4 @@
+title: Method and apparatus for re-synchronization of a stream cipher during handoff
+
+abstract: 
+A method and apparatus for re-synchronizing a stream cipher during soft handoff. Transmitted quasi-secret keying information is used with a secret key to reinitialize a stream cipher generator located in a base station and a stream cipher generator located in a travelling mobile station. Since the quasi-secret keying information is uniquely determined according to each base station in the wireless telephone system, a base station's quasi-secret keying information and a shared secret key can also be used to create a new key. Thus, as the mobile station travels from one base station to another base station, a unique new key is generated for each base station.

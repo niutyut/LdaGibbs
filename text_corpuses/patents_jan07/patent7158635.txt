@@ -1,0 +1,4 @@
+title: Generation of user equipment identification specific scrambling code for the high speed shared control channel
+
+abstract: 
+The present invention provides embodiments for producing a user equipment identification scrambling sequence (UEIDSS). The produced sequences for different user identification codes have a high separation. A base station uses the UEIDSS to scramble a high speed shared control channel (HS-SSCH) and a user equipment (UE) uses the UEIDSS to descramble the HS-SSCH. The embodiments utilize various blocks for producing the codes. These blocks include Reed-Muller encoding, concatenation, rate matching, segmentation, convolutional encoding, tail bit discarding, zero padding, repeating, CRC calculation, quadratic residue coding, parity-check bit, shortening, puncturing and BCH encoding blocks.

@@ -1,0 +1,4 @@
+title: Disk cutter
+
+abstract: 
+A disk cutter including an annular disk-shaped base, a plurality of tip supports formed integrally along an outer circumference of the base, a gullet is defined between adjacent ones of the tip supports, a plurality of tip inserts respectively fixed to the tip supports, a plurality of outer slits formed at an outer circumferential portion of the base at given intervals, each of the outer slits having an outer end opening to the gullet, a plurality of intermediate slit pairs formed at a radially intermediate portion of the base at the given intervals, each of the intermediate slit pairs is located between adjacent ones of the outer slits. Each intermediate slit pair includes a substantially J-shaped first slit and a substantially inverted J-shaped second slit arranged in point symmetrical relationship with the first slit. Each of the first and second slits is filled with a viscous material.

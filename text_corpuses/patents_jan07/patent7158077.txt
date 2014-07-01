@@ -1,0 +1,4 @@
+title: Radar device and method for suppressing interference with a radar device
+
+abstract: 
+A radar device is described having an arrangement to generate a carrier signal having a carrier frequency f, an arrangement to generate pulses having a pulse repetition rate f, an arrangement to split the carrier signal between a transmission branch and a reception branch, an arrangement to delay the pulses, an arrangement to mix the carrier signal in the reception branch with a reception signal, and an arrangement to integrate the mixed signal. An arrangement to modulate the carrier signal in the transmission branch with the delayed pulses and an arrangement to alter the delay in the pulses according to a predetermined code are also provided. A method of suppressing interference with the functioning of a radar device is also described.

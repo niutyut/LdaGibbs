@@ -1,0 +1,4 @@
+title: Nickel-base alloys and methods of heat treating nickel-base alloys
+
+abstract: 
+Embodiments of the present invention relate to nickel-base alloys, and in particular 718-type nickel-base alloys, having a desired microstructure that is predominantly strengthened by ??-phase precipitates and comprises an amount of at least one grain boundary precipitate. Other embodiments of the present invention relate to methods of heat treating nickel-base alloys, and in particular 718-type nickel-base alloys, to develop a desired microstructure that can impart thermally stable mechanical properties. Articles of manufacture using the nickel-base alloys and methods of heat treating nickel-base alloys according to embodiments of the present invention are also disclosed.

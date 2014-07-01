@@ -1,0 +1,4 @@
+title: Pneumatically operated fastener driving tool
+
+abstract: 
+A pneumatically operated fastener driving tool capable of reducing a time period from operation timing of a trigger to downward movement of a driver blade for fastener driving, and reducing a time period from the release timing of the trigger to a timing at which respective components are returned to their initial positions for a subsequent nail driving. As components a main valve and a trigger valve is provided. The main valve is movable within a main valve chamber connected to a main valve control channel. The trigger valve selectively provides fluid communication between the accumulator and a main valve chamber through the main valve control channel and between the main valve chamber and the atmosphere through the main valve control channel. A ratio of cross-sectional area of the main valve control channel to an internal volume of the main valve chamber is defined to a specified ratio.

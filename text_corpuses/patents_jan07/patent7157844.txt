@@ -1,0 +1,4 @@
+title: Cathode ray tube provided with a faceplate having a convex outer surface and a lens assembly attached therein
+
+abstract: 
+In a projection cathode ray tube device in which a projection cathode ray tube and a projection lens assembly are coupled and held by a coupler, superior focus characteristics and high resolution are realized by eliminating the deviation between the center of the phosphor screen of the cathode ray tube and the center of the lens assembly. In the cathode ray tube, each of the outside and inside surfaces of a faceplate is formed as a spherical convex surface which is curved toward an electron gun.

@@ -1,0 +1,4 @@
+title: Terminal-based link adaptation scheme having a detector which monitors application signaling and a requestor which requests a special channel based on the detection
+
+abstract: 
+Apparatus, and associated method, converts real-time multimedia information generated pursuant to an RTP protocol into a form amenable for transmission upon a radio channel, such as a radio channel defined in a cellular communication system. When converted, the informational content of the multimedia information is transmitted in a manner that achieves spectral efficiency and low, constant delay. Once transmitted over the radio channel, the multimedia information is converted back into form corresponding to the RTP protocol before being sent to the receiving station.

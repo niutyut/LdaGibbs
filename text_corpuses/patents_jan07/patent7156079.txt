@@ -1,0 +1,4 @@
+title: Diesel engine
+
+abstract: 
+A diesel engine  of the present invention comprises: a camshaft  with a cam ; a fuel injection pump  having a plunger ; a tappet for driving the plunger ; and a slide portion . The tappet includes a roller  and a roller tappet . The roller  serves as a rotor which abuts against the cam  so as to drive the fuel injection pump , and a roller tappet  serves as a support portion for supporting the rotor. The slide portion slidably fits to the support portion. The roller tappet  has a tappet guide serving as a projection for restriction of rotation, and the slide portion has a guide groove  into which the projection is fitted. Therefore, the rotor and the cam abutting against the rotor can be prevented from abrasion so as to maintain high accuracy in controlling slide stroke of the plunger.

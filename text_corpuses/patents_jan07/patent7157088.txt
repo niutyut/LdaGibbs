@@ -1,0 +1,4 @@
+title: Surface protein of Leptospira 
+
+abstract: 
+The invention relates to Leptospiral surface proteins, and the nucleic acid molecules which encode them. Various uses are described, including immunoprophylactic, diagnostic and therapeutic methods.

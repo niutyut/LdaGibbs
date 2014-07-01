@@ -1,0 +1,4 @@
+title: Heat-resistant coated member
+
+abstract: 
+A heat-resistant coated member comprises a substrate composed of a material selected from among molybdenum, tantalum, tungsten, zirconium, aluminum, titanium, carbon, and alloys, oxide ceramics, non-oxide ceramics and carbide materials thereof, which is covered with a layer composed primarily of a rare earth-containing oxide. In addition to heat resistance, the coated member has good corrosion resistance and non-reactivity, making it highly suitable as a part for sintering or heat-treating metals and ceramics in a vacuum, an inert atmosphere or a reducing atmosphere.

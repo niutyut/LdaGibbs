@@ -1,0 +1,4 @@
+title: Delta subunit of human GABAA receptor
+
+abstract: 
+The present invention relates to the cloning of novel cDNA sequences encoding the ?and ? receptor subunits of the human GABA receptor; to stably co-transfected eukaryotic cell lines capable of expressing a human GABAreceptor, which receptor comprises at least one of the novel ?and ? receptor subunits; and to the use of such cell lines in screening for and designing medicaments which act upon the human GAGAreceptor.

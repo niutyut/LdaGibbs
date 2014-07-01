@@ -1,0 +1,4 @@
+title: Dispatch call setup method
+
+abstract: 
+A call setup method () makes an early detection if a mobile call is to be placed (). The mobile unit () then checks to insure that the battery life of the mobile unit is above a threshold level (). If the battery level is sufficient, the mobile unit begins an early scan for an RF acquisition message ().

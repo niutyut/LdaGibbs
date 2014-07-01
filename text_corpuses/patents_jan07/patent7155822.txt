@@ -1,0 +1,4 @@
+title: Connector locking device
+
+abstract: 
+A locking device for a connector that can be readily adapted to an existing electronics enclosure such as personal computer. Preferably the locking device has one or more sheathing members that form a hollow space for at least partially retaining a connector. The sheathing member has one or more openings connecting the hollow space inside the sheathing member with the space outside of the sheathing member. The openings are adapted to permit the connector to be connected to a mating connector and to provide for at least partial entry of a cable that is associated with the connector. Finally, the sheathing member has one or more projecting members for securing the connector locking device to the electronics enclosure.

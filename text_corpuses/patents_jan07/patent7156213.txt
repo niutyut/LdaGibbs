@@ -1,0 +1,4 @@
+title: Shock absorber having a hydraulic stop
+
+abstract: 
+A shock absorber includes a hydraulic stop. The hydraulic stop includes two housings connected together by a spring. At the end of the stroke of the shock absorber, the piston causes the two housings to approach each other thereby causing fluid disposed between the housings to flow through a bleed passage. The size or total area of the bleed passage will determine the amount of hydraulic damping provided by the hydraulic stop.

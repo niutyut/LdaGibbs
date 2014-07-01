@@ -1,0 +1,4 @@
+title: Systems for producing semiconductors and members therefor
+
+abstract: 
+A member provided around a susceptor for mounting a semiconductor in a chamber of a semiconductor production system. The member has a face opposing the susceptor and a center line average surface roughness of the face opposing the susceptor is 0.5 ?m or less. Alternatively, the face opposing the susceptor has a thermal emissivity ? of 0.5 or lower. The member can also be a liner [] having a supported face [] whose area is not more than 20 percent of that of the face [] opposing the susceptor.

@@ -1,0 +1,4 @@
+title: Hydrophobic starch derivatives
+
+abstract: 
+The invention relates to a process for preparing a hydrophobic starch, comprising etherification, esterification or amidation of a root or tuber starch comprising at least 95 wt. % of amylopectin, based on dry substance of the starch, or a derivative thereof, with a substituent comprising an alkyl chain having from 4?24 carbon atoms. The invention further relates to a hydrophobic starch obtainable by said process.

@@ -1,0 +1,4 @@
+title: Termination detection for shared-memory parallel programs
+
+abstract: 
+A ?garbage collector? employed to reclaim memory dynamically allocated to data objects employs multiple execution threads to perform a parallel-execution operation and its garbage-collection cycle. A thread executes tasks that it selects from lists whose entries represent tasks dynamically identified during other tasks' performance. When a thread fails to find a task in one of these lists, it sets to an inactivity-indicating value a field associated with it in a global status word. It also determines whether any field associated with any of the other threads indicates activity. If not, the thread concludes that the parallel-execution operation has been completed. Otherwise, it returns to searching for further tasks to perform.

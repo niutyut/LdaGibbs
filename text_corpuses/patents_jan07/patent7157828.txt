@@ -1,0 +1,4 @@
+title: Fuel pump for high torque in compact structure
+
+abstract: 
+In a fuel pump, four permanent magnets are installed in a housing. An armature is installed inside the permanent magnets rotatably. Six magnetic pole coil portions of the armature are installed in a central core. Each magnetic pole coil portion has a coil core, a bobbin and a coil formed by winding a winding on the bobbin in a concentrated winding form. Each coil core has an outer region in opposition to the permanent magnet in a direction of revolution, and a board-shaped coil-winding portion extending from the outer region toward the central core. Each bobbin covers the coil core except for the outer surface of the outer region and a convex portion.

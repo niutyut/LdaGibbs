@@ -1,0 +1,4 @@
+title: Automatically-activated hand-supportable laser scanning bar code symbol reading system with data transmission activation switch
+
+abstract: 
+An automatically-activated bar code symbol reading system for carrying out bar code symbol reading operations, comprising a hand-supportable housing; a manually-actuatable data transmission activation switch integrated with the hand-supportable housing; and an automatically-activated laser scanning bar code symbol reading engine, disposed within the hand-supportable housing, and having (i) a preprogrammed set of operational states wherethrough the system automatically passes during each bar code symbol reading operation, and (ii) a preprogrammed symbol character data transmission state of operation into which the system is automatically induced in response to the manually-actuation of the symbol character data transmission activation switch.

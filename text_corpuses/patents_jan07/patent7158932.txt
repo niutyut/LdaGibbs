@@ -1,0 +1,4 @@
+title: Noise suppression apparatus
+
+abstract: 
+In the noise suppression apparatus, a spectrum correction gain calculation unit calculates the noise amplitude spectrum correction gain and the noise removal spectrum correction gain using the input amplitude spectrum, noise amplitude spectrum and respective coefficients; a spectrum deduction unit deducts the product of the noise amplitude spectrum and the noise amplitude spectrum correction gain from the input amplitude spectrum and outputs the result as a first noise removal spectrum; a spectrum suppression unit multiplies the first noise removal spectrum by the noise removal spectrum correction gain and outputs the result as a second noise removal spectrum; finally a frequency/time conversion unit converts the second noise removal spectrum into a time domain signal.

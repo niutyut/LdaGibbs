@@ -1,0 +1,4 @@
+title: Collapsible fluid container
+
+abstract: 
+The present invention is a collapsible fluid container for handling liquid. The collapsible fluid container has an interior volume for storing the liquid, which defines a main chamber and an auxiliary chamber connected to the main chamber. The auxiliary chamber is positioned to receive a substance. A fitment is sealed to the collapsible fluid container that defines a port communicating with the interior volume of the fluid container.

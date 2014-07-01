@@ -1,0 +1,4 @@
+title: Orthogonally-multiplexed orthogonal amplitude modulation method
+
+abstract: 
+An orthogonally-multiplexed orthogonally-amplitude-modulated (OMOAM) method is disclosed. The OMOAM signal is constituted by orthogonally multiplexing M component signals, each constructed by a data-chosen group of L orthogonal pulse-amplitude-modulated basis signals. A generalized signal model is proposed to characterize the OMOAM signal in a unified way such that the generalized signal model contains a multitude of new modulations. A generalized optimum receiver for coherently demodulating OMOAM signals is developed and analyzed in terms of the bit error probability for the additive white Gaussian noise channel. The spectral characteristics of the OMOAM signals constructed from various time-limited and band-limited basis sets are studied in terms of the fractional out-of-band power containment. Several general trends of error and spectral performance characteristics are exploited.

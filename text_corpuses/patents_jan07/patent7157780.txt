@@ -1,0 +1,4 @@
+title: Semiconductor device and method for producing the same
+
+abstract: 
+A gate electrode is formed on a substrate via a gate insulating film. The gate insulating film includes a high dielectric constant film containing a metal, oxygen and hydrogen, and a lower barrier film formed below the high dielectric constant film and containing a metal, oxygen, silicon and nitrogen.

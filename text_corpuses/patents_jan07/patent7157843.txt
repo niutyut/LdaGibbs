@@ -1,0 +1,4 @@
+title: Transfer film, method for forming metal back layer, and display device
+
+abstract: 
+A transfer film comprising a base film (), a parting-agent layer (), a protective film (), and a metal film (), the latter three being formed on the base film () in order, wherein the protective film () contains a softening agent such as a phosphate, an aliphatic monobasic acid ester, an aliphatic dibasic acid ester, or a dihydric alcohol ester. By using such a transfer film, a metal back layer is formed. Since the transfer layer of the transfer film has a surface resistivity of as high as 10?10?/, the surface resistivity of the formed metal back layer is high, and discharge is suppressed.

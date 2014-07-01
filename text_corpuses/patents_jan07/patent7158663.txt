@@ -1,0 +1,4 @@
+title: Method for measuring confidence of ball grid array model in surface mounted devices
+
+abstract: 
+A method for obtaining confidence measure of a ball grid array (BGA) model having a plurality of balls in semiconductor surface mounted devices is provided. The method comprises the steps of extracting BGA images from a real surface mounted device, generating a BGA ball model and a BGA body model, generating a first confidence measure of the BGA ball model wherein the first confidence measure includes a first standard deviation of the BGA ball model and a first local image contrast of each BGA ball, and generating a second confidence measure of the BGA body model wherein the second confidence measure includes a second standard deviation of the BGA body model and a second local image contrast of the BGA body.

@@ -1,0 +1,5 @@
+title: Radar system and car radar system
+
+abstract: 
+To provide a radar system for controlling a gate power supply and drain power supply of a MMIC (microwave monolithic IC), protecting the MMIC at the time of start and shut-off, and simultaneously avoiding an occurrence of a failure in the MMIC due to a residual charge and an abnormal supply potential at the time of shut-off.
+A power supply control means controls the gate and drain power supplies at the rise time so that an output voltage of the gate power supply rises earlier than that of the drain power supply. Another power supply control means controls the gate and drain power supplies at the fall time so that an output voltage of the gate power supply falls later than that of the drain power supply. Another power supply control means turns off the drain power supply of the FET among power supplies when it is detected by a voltage monitoring means that even either of output voltages of the power supplies is not within said specified range.

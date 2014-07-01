@@ -1,0 +1,4 @@
+title: Heterocyclic dihydropyrimidine compounds
+
+abstract: 
+Novel heterocyclic dihydropyrimidine compounds useful as inhibitors of potassium channel function (especially inhibitors of the K1 subfamily of voltage gated K channels, especially inhibitors K1.5 which has been linked to the ultra-rapidly activating delayed rectifier K current I), methods of using such compounds in the prevention and treatment of arrhythmia and I-associated conditions, and pharmaceutical compositions containing such compounds.

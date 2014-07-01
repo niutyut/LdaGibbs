@@ -1,0 +1,4 @@
+title: Driving apparatus, sheet processing apparatus having driving apparatus, image forming apparatus having sheet processing apparatus and control system
+
+abstract: 
+A driving apparatus includes a plurality of driving devices, a plurality of detectors for detecting a malfunction of the driving devices, and a controller, which is responsive to a detection result of the detectors, for decreasing a driving speed of a driving device at which a malfunction is detected and increases a driving speed of another driving device.

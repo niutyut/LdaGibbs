@@ -1,0 +1,4 @@
+title: Reuseable labeling constructions for containers, along with containers and methodologies utilizing the same
+
+abstract: 
+Labeling constructions are provided for use in facilitating the preparation of shipping containers. The labeling constructions are also reusable so that packages can be conveniently shipped between senders and recipients numerous times. Container constructions and methodologies which employ such labeling constructions are also provided.

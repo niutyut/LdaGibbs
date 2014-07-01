@@ -1,0 +1,13 @@
+title: Method for the production of (r)- and (S)-8-chloro-6-hydroxyoctanic acid alkyl esters by enzymatic reduction
+
+abstract: 
+The invention relates to a method for the production of (R)- or (S)-8-chloro-6-hydroxyoctanoic acid alkyl esters of the general formula (R)-II or (S)-II
+
+
+in which R has the meaning C-alkyl, from 8-chloro-6-oxooctanoic acid alkyl esters of the general formula I
+
+
+
+in which R has the above meaning, by enzymatic reduction using alcohol dehydrogenases, such as or , in the presence of cofactor regeneration systems.
+
+The resulting (R)- and (S)-8-chloro-6-hydroxyoctanoic acid esters can be converted in a known manner into (R)-?-lipoic acid and (S)-?-lipoic acid, respectively.

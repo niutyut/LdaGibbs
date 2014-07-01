@@ -1,0 +1,4 @@
+title: Deflector devices
+
+abstract: 
+A deflector for offsetting a streamer being towed by its lead-in by a seismic survey vessel comprises a wing-shaped body which is coupled to the lead-in and shaped to produce a sideways force which urges the lead-in laterally with respect to the direction of movement of the vessel. A boom extends rearwardly from the wing-shaped body, and forms part of an arrangement by which the angle of the wing-shaped body in the water, and therefore the sideways force produced by it, can be varied. The upper end of the wing-shaped body is directly connected to the underside of an elongate float.

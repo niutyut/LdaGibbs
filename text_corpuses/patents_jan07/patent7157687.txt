@@ -1,0 +1,4 @@
+title: Optical devices with folded optical path designs
+
+abstract: 
+Optical devices with folded optical paths to reduce size of optical devices and optical elements in the optical devices. The folded optical paths operate by manipulating optical polarization of light. Exemplary optical switches and variable optical attenuators are described.

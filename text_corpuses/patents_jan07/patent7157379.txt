@@ -1,0 +1,4 @@
+title: Strained semiconductor structures
+
+abstract: 
+A method for in situ formation of low defect, strained silicon and a device formed according to the method are disclosed. In one embodiment, a silicon germanium layer is formed on a substrate, and a portion of the silicon germanium layer is removed to expose a surface that is smoothed with a smoothing agent. A layer of strained silicon is formed on the silicon germanium layer. In various embodiments, the entire method is conducted in a single processing chamber, which is kept under vacuum.

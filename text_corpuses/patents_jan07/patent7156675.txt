@@ -1,0 +1,4 @@
+title: Coaxial connector with a switch
+
+abstract: 
+The invention provides a coaxial connector with a switch in which the life property and contact reliability of a movable contact piece portion are improved, which is further miniaturized and low-profiled than the conventional art, and in which the component configuration is simple, and hence the production cost is low. According to the coaxial connector  with a switch, in accordance with fitting with a counter connector, a plug pin  is elastically contacted with the plug pin contact portion  of a movable contact piece portion , and the movable contact piece portion  is displaced in a direction substantially perpendicular to the direction of insertion and extraction of the plug pin against the spring force, and separated from the stationary contact portion 

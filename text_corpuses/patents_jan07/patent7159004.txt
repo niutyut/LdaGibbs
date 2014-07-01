@@ -1,0 +1,4 @@
+title: Adder, multiplier and integrated circuit
+
+abstract: 
+An adder includes a first XOR element for generating an XOR output of the first and the second data inputs, a first multiplexer for selecting one of the first carry input or the first data input while the XOR output is made a selection signal, a second multiplexer for selecting one of the second carry input or the second data input, a third multiplexer for selecting one of the first or the second carry inputs while the carry selection input is made a selection signal, and a second XOR element for generating an XOR output of an output of the third multiplexer and the XOR output, and is characterized in that an output of the first multiplexer is made a first carry output, an output of the second multiplexer is made a second carry output, and an output of the third multiplexer is made an addition value.

@@ -1,0 +1,4 @@
+title: Light loading control circuit for a buck-boost voltage converter
+
+abstract: 
+A light loading control circuit operates a switching circuit of a buck-boost voltage converter alternately in a plurality of phase cycles and a sleep period. Each phase cycle has a rising phase, a falling phase, and a maintaining phase. In the rising phase, the switching circuit is operated to increase an inductor current. In the falling phase, the switching circuit is operated to decrease the inductor current. In the maintaining phase, the switching circuit is operated to keep the inductor current approximately constant. The sleep period prevents two terminals of an inductor from being respectively coupled to two selected from a group consisting of an input voltage, an output voltage, and a ground potential.

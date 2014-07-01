@@ -1,0 +1,4 @@
+title: Plasma display panel
+
+abstract: 
+A plasma display panel comprises: a plurality of substrate having a front substrate and a back substrate disposed opposite to each other; dielectric walls disposed between a front surface and a back surface, and defining discharge cells in cooperation with the front substrate and the back substrate; a plurality of discharge electrodes separately disposed around the discharge cells and buried into the dielectric walls; dummy electrodes formed at outer portions of the discharge electrodes disposed in one direction of the substrate and etched when over-etching takes place during the time of developing; and red, green and blue color fluorescent layers coated within the discharge cells.

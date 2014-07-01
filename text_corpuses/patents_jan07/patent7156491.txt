@@ -1,0 +1,4 @@
+title: Separable key for establishing detachable printer component compatibility with a printer
+
+abstract: 
+A separable key element operably secured to a printer component base for receiving a key from a printer component to be received therein. The key indicates a required characteristic of the printer component thereby allowing only compatible printer components to be installed onto the printer component base. The key element can matingly engage the printer component base in a unique configuration such that only compatible key elements can be secured to the printer component base. Moreover, the key element can include a display surface for visually identifying the required characteristic of the printer component. In a preferred embodiment, the printer component is a detachable ink reservoir and the printer component base is secured to the carriage of an inkjet printer, thereby providing an on-axis ink reservoir.

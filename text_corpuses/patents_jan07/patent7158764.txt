@@ -1,0 +1,4 @@
+title: System and method for sending high fidelity sound between wireless units
+
+abstract: 
+A system and method for sending high fidelity sound between wireless units include the capability to receive audible sounds at a wireless unit and generate signals that represent the audible sounds. The system and method also include the capability to encode a first portion of the signals and encode a second portion of the signals. The system and method further include the capability to transmit the first encoded portion over a first synchronous channel and transmit the second encoded portion over a second synchronous channel.

@@ -1,0 +1,4 @@
+title: Radio device communication setting method of switching from first setting information to second setting information
+
+abstract: 
+When setting information for wireless communication is registered for a peripheral device by an information processing apparatus, the original setting information set in the information processing apparatus is backed up, then the setting information based on unique information of the peripheral device is set in both the information processing apparatus and the peripheral device, thereby a wireless communication is established between the information processing apparatus and the peripheral device. Then the original setting information is copied in the peripheral device via the wireless communication. Thereafter, the information processing apparatus restores the backed up original setting information.

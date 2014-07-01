@@ -1,0 +1,4 @@
+title: Card reading device for service access
+
+abstract: 
+A read device () for reading an interface card (). The card () is configured for insertion into the read device (). The card () comprises indicia formed thereon and a memory having data stored therein for communicating with an external device (). The read device () comprises a substantially transparent touch sensitive membrane () arranged to overlay the interface card () upon receipt of the card () in the read device (). The read device () also comprises a central processing unit () for sending a service identifier, a distinguishing identifier and a specific portion of the data to the external device (). The specific data is related to a user selected indicia (). A service identified by the service identifier upon receipt of the data is provided via the external device ().

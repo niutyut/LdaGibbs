@@ -1,0 +1,4 @@
+title: Aliphatic amino-substituted demethoxylated hypocrellins and their synthesis
+
+abstract: 
+The invention involves a methods and compositions for use in photodynamic therapy. Novel perylenequinone derivatives, conjugates comprising perylenequinone derivatives and a binding agent, and methods of treatment using these compositions are disclosed. The present invention relates to the field of photosensitizers possessing photodynamic activities. They possess high photodynamic activities and low dark toxicities, which makes them as more potent photodynamic agents than HPD against cancer and AIDS virus.

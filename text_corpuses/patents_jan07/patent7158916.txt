@@ -1,0 +1,4 @@
+title: Method for analyzing net weights of packaged goods
+
+abstract: 
+A method for analyzing the net weight of packaged goods includes obtaining a sample lot having one or more samples of the packaged goods and recording a stated net weight value for each sample. A gross weight value for each of the samples is then measured. Further, a component weight value for each component making up a respective packaging of at least one of the samples is weighed for its individual contribution to an overall tare value. This overall tare value derived from the individual component weights is then taken from the gross weight value to obtain an actual net weight value for each sample. The actual net weight value may then be compared with the stated net weight value to determine whether an error exists.

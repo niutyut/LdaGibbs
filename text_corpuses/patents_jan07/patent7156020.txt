@@ -1,0 +1,4 @@
+title: Composite stamp pad
+
+abstract: 
+A composite stamp pad is made of two layers joined together at their interface. The top layer of the composite stamp pad, which contacts the raised points side of the stamp, has a dense and firm fine denier fibrous structure in order to be able to transfer ink to the raised points of the stamp with high precision and without depositing ink into the recessed areas located between the raised points of the stamp. The bottom layer of the composite stamp pad has a lighter and softer coarser denier fibrous structure in order to be able to have a large ink holding capacity. A method of manufacturing the composite stamp pad is described.

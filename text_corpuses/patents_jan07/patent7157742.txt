@@ -1,0 +1,4 @@
+title: Integrated circuit device
+
+abstract: 
+An integrally packaged optronic integrated circuit device () including an integrated circuit die () containing at least one of a radiation emitter and radiation receiver and having top and bottom surfaces formed of electrically insulative and mechanically protective material, at least one of the surfaces () being transparent to radiation, and electrically insulative edge surfaces () having pads.

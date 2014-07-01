@@ -1,0 +1,4 @@
+title: Compressor
+
+abstract: 
+A compressor has a swash plate and shoes. Surfaces of the swash plate slides on flat surfaces of the shoes. A sliding film is formed on each of the swash plate surfaces. The sliding films are formed of a polyamide-imide resin that contains at least solid lubricant. The polyamide-amide resin has a glass transition temperature of 270? C., a tensile strength at room temperature of 200 MPa, or more imide groups than amide groups. When a base portion of the swash plate is made of an aluminum-based metal, the sliding films are formed on the base portion with middle layers made of anodized aluminum in between.

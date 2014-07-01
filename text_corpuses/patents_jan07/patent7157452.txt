@@ -1,0 +1,4 @@
+title: Substituted 4,9-dihydrocyclopenta{imn}phenanthridine-5-ones derivatives thereof and their uses
+
+abstract: 
+This invention relates to compounds, pharmaceutical compositions, and methods of using the disclosed compounds for inhibiting PARP.

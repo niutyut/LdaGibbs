@@ -1,0 +1,4 @@
+title: Hepatoma specific chimeric regulatory sequence
+
+abstract: 
+The present invention relates to a chimeric regulatory sequence with hepatoma cell specificity. The chimeric regulatory sequence includes a proximal regulatory sequence and a distal enhancer of 5? flanking region of human ?-fetoprotein (AFP) gene.

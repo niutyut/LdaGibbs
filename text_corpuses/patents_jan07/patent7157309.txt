@@ -1,0 +1,4 @@
+title: Manufacture of microelectronic fold packages
+
+abstract: 
+An elongated strip of a sheetlike substrate bearing microelectronic elements such as semiconductor chips is advanced in a downstream direction through one or more folding stations where successive portions of the substrate are folded so as to form a strip including a plurality of fold packages, each including confronting top and bottom runs and a fold region with one or more of the runs bearing one or more microelectronic elements. The strip incorporating the plural fold packages can be wound on a reel or otherwise handled, stored and shipped to a subsequent manufacturing operation, where individual fold packages can be severed from the strip.

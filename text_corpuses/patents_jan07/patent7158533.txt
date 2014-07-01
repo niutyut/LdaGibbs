@@ -1,0 +1,4 @@
+title: Self-configuring wireless mobile data base stations and configuration operations and computer program products for same
+
+abstract: 
+A wireless base station of a wireless mobile data communications system, such as a Mobile Data Base Station (MDBS) of a Cellular Digital Packet Data (CDPD) communications system, is configured. A packet, such as a frame relay frame, is communicated from a node of a packet data network to the wireless base station to configure the wireless base station to use a predetermined address, e.g., a Data Link Connection Identifier (DLCI), in the packet data network. The present invention may be implemented as methods, apparatus, and computer program products.

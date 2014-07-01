@@ -1,0 +1,4 @@
+title: Cryopump temperature control of arrays
+
+abstract: 
+An electronic controller maintains the operating temperature of a cryopump by controlling a heater coupled to the cryopump. The heater is coupled to a cryopumping surface of the cryopump. The controller can control the operation of the heater in response to feedback from temperature sensors coupled to the cryopump. The controller can cause the heater to shut-off if a temperature sensor reads out of its normal temperature range.

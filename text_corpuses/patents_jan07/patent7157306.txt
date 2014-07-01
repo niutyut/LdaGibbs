@@ -1,0 +1,4 @@
+title: Method of and system for manufacturing organic EL devices
+
+abstract: 
+It is an object of the present invention to eliminate a color deviation possibly caused by a film formation failure in an organic layer of organic EL devices, thereby improving product yield. A method of manufacturing organic EL devices according to the invention comprises: a pre-treating step for forming lower electrodes and the like on a substrate, a film formation step to be performed after the pre-treating step for forming on the lower electrodes an organic layer containing at least an organic luminescent layer and also forming upper electrodes thereon, and a sealing step to be performed after the film formation step for sealing up the organic layer and the upper electrodes, characterized in that an inspection step is performed after the pre-treating step but before the formation of the upper electrodes.

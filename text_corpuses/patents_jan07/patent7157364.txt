@@ -1,0 +1,4 @@
+title: Method for forming metal contacts on a substrate
+
+abstract: 
+Metal traces and solder bump pads are formed on a semiconductor substrate by way of a semiconductor template that has been micromachined to receive solder paste material. The solder paste material is then formed into precisely controlled ball shapes and metal trace geometries.

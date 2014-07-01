@@ -1,0 +1,4 @@
+title: Ozone vapor clean method
+
+abstract: 
+A method for cleaning and forming an oxide film on a surface, particularly a silicon surface. The surface is initially cleaned and then exposed to ozone vapor, which forms the oxide film on the surface. The method is particularly useful for forming a pre-liner oxide film on trench surfaces in the fabrication of STI (shallow trench isolation) structures.

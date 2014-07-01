@@ -1,0 +1,4 @@
+title: Lipase variants
+
+abstract: 
+Attaching a peptide extension to the C-terminal amino acid of a lipase re-duces the tendency to form odor. This may lead to lipase variants with a reduced odor generation when washing textile soiled with fat which includes relatively short-chain fatty acyl groups (e.g. up to C8) such as dairy stains containing butter fat or tropical oils such as coconut oil or palm kernel oil.

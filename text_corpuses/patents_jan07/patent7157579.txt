@@ -1,0 +1,19 @@
+title: Process for producing pyridine compound
+
+abstract: 
+The present invention provides a process for producing the pyridine compound [d]:
+
+
+[wherein Rand Rare as defined below],
+
+which has an excellent herbicidal activity, by making a pyridine compound [a]:
+
+
+
+[wherein Rrepresents a C1?C6 alkoxy group, Rrepresents a halogen atom, cyano group or nitro group, and Rrepresents a hydrogen atom or halogen atom] react with an ?-diazoester compound [f]:
+
+NCHCOR[f]
+
+[wherein Ris defined above]
+
+in the presence of an acid.

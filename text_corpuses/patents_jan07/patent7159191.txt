@@ -1,0 +1,4 @@
+title: Input of data
+
+abstract: 
+A data input method in user terminals having a limited-size keyboard with two different data input methods linked in such a way that toggling between the modes does not require from the user any special action during text input, since the change of mode is automatically performed as a result of keystrokes which are normal when a text is being edited.

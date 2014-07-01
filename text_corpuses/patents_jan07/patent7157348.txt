@@ -1,0 +1,4 @@
+title: Method for fabricating capacitor device
+
+abstract: 
+After a capacitor device including a lower electrode, a capacitor dielectric film made from a ferroelectric film and an upper electrode is formed on a substrate, an insulating film covering the capacitor device is formed. Subsequently, the capacitor device covered with the insulating film is annealed for crystallizing the ferroelectric film.

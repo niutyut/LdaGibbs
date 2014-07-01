@@ -1,0 +1,4 @@
+title: High voltage switch circuit for semiconductor device
+
+abstract: 
+Provided is concerned with a high voltage switch circuit for a semiconductor device, which rapidly discharges a gate voltage of a pass transistor through an additional discharge transistor during inactivation of itself in the circuit structure with a positive feedback loop for transferring an internal high voltage without a voltage drop by applying an enough voltage to the gate of the pass transistor. The high voltage switch circuit prevents the internal high voltage from decreasing.

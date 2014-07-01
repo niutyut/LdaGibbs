@@ -1,0 +1,4 @@
+title: Method and apparatus to manage address translation for secure connections
+
+abstract: 
+Techniques to manage address translation for secure connections are described. An apparatus may include a secure connection manager. The secure connection manager may comprise a flow module to create a list of identifiers, with each identifier representing a secure flow terminating at a device with an internal address. The secure connection manager may also comprise a translation module to select an internal address for an encrypted packet having an external address and a flow identifier. Other embodiments are described and claimed.

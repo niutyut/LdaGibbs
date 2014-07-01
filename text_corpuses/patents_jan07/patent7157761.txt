@@ -1,0 +1,4 @@
+title: Capacitor with noble metal pattern
+
+abstract: 
+An intermediate product for an integrated circuit is disclosed. The intermediate product comprises a first portion of a conductive layer, preferably a layer of noble metal, which will form an upper electrode of a capacitor or a patterned wiring. The intermediate product also comprises an adjacent second portion of the conductive layer, the second portion being a removable silicide of the conductive layer.

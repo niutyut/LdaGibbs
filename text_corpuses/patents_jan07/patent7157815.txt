@@ -1,0 +1,4 @@
+title: Brushless electric motor
+
+abstract: 
+A solenoid-based propulsion system and methodology comprised of at least one multiple wire coil set solenoid that reversibly receives at least a portion of a magnetic object, wherein the wire coil sets of the solenoid are connected to the energizing control system that controls the alternate energizing of the wire coil sets; the adjustable dwell angle of the energizing; and provides for skip energizing. The electronic format of the energizing control system utilizes an electronic timer to establish the frequency at which the alternate energization occurs to propel the magnetic object in a reciprocal motion. The energizing control system in a payload delivery system embodiment of the invention helps converts the kinetic energy stored in the reciprocal motion of the magnetic object into a movement propelling the magnetic object completely and unilaterally out of the invention.

@@ -1,0 +1,4 @@
+title: Optical delay circuit, integrated optical device, and method of manufacturing integrated optical device
+
+abstract: 
+An optical delay circuit includes a plurality of defect waveguides arranged in parallel and including a line-shaped defect in a periodic refractive-index distribution structure of a photonic crystal. The defect waveguides include a multiplexing/demultiplexing portion in which the defect waveguides are arranged close to each other to multiplex and demultiplex light; and an optical delay portion extending from the multiplexing/demultiplexing portion, in which the defect waveguides are arranged with a predetermined distance therebetween so that light propagating in any of the defect waveguides does not interfere with light propagating in the other defect waveguides. Each of the waveguides has a different configuration.

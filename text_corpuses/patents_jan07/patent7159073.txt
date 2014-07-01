@@ -1,0 +1,4 @@
+title: Data storage and caching architecture
+
+abstract: 
+An extent record for an extent based data buffer that includes a host pointer that links the extent record to a next host extent record of a host extent record set, and a storage device pointer that links the extent record to a next storage device extent record of a storage device extent record set. Also, a system for transferring data between a host and a storage device that includes a data buffer coupled to the host and the storage device, where memory in the data buffer is divided into one or more extents, an extent table associated with the data buffer, where the extent table includes at least one extent record, an LBA chain table coupled to the host and the extent table, and a track section table coupled to the storage device and the extent table.

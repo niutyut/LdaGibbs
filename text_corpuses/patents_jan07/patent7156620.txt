@@ -1,0 +1,4 @@
+title: Internally cooled gas turbine airfoil and method
+
+abstract: 
+An internally cooled airfoil for a gas turbine engine, wherein a plurality of elongated cooling fins are provided inside the concave sidewall.

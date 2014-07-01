@@ -1,0 +1,4 @@
+title: Dynamic loading of C-API HDL model instrumentation
+
+abstract: 
+A method and system for tracking instances of a testcase execution event within a hardware description language (HDL) model using a simulation control program. In accordance with the method of the present invention, a design entity list is generated within the HDL model, wherein the design entity list identifies all design entities instantiated within the HDL model. One or more instrumentation code modules are dynamically loaded into the simulation control program, wherein the instrumentation code modules generate and process testcase execution events associated with at least one of the identified design entities.

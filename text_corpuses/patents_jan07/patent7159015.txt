@@ -1,0 +1,4 @@
+title: Method and apparatus for managing configuration information in a distributed computer system
+
+abstract: 
+A configuration manager federated bean is provided for each host computer in the three-tiered management system. The configuration manager federated bean for a host computer is contacted by federated beans that manage each of the data services when a data service starts and stops using a data storage volume associated with the host computer. The configuration manager bean maintains persistent configuration information for each data service. In one embodiment, configuration manager beans can operate in a clustered environment where several beans store configuration information in a single storage area. Each of the beans implements an arbitration protocol so that only one bean writes to the storage area at any given time.

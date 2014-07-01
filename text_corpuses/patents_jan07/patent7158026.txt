@@ -1,0 +1,4 @@
+title: Security system configured to provide video and/or audio information to public or private safety personnel at a call center or other fixed or mobile emergency assistance unit
+
+abstract: 
+A security system for monitoring a premises. Alarm information, including a near real-time feed of video and/or audio data, is collected at the premises and retrieved by a remotely located monitoring computer workstation over a data network. If desired, a remotely located emergency response computer workstation coupled to the data network may be authorized, by the monitoring computer workstation, to retrieve the collected alarm information over the data network. The emergency response computer workstation may also be granted control of the alarm information collecting devices located at the monitored premises.

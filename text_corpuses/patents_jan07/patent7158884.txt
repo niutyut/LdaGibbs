@@ -1,0 +1,4 @@
+title: Saddle-type vehicle equipped with a navigation system
+
+abstract: 
+A GPS antenna is arranged such that it can easily receive satellite radio waves. An ATV vehicle equipped with a navigation system for measuring the position of the vehicle by receiving radio waves from an artificial satellite. A meter box is mounted to a steering handle of the ATV vehicle, and a GPS unit and a GPS antenna mounted inside the meter box. A second GPS antenna is mounted to a rear fender to enable diversity of reception.

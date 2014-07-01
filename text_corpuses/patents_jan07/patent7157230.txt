@@ -1,0 +1,4 @@
+title: Electron induced fluorescent method for nucleic acid sequencing
+
+abstract: 
+An apparatus, compositions and related methods for sequencing a target nucleic acid are described. In certain embodiments, the apparatus is a microfluidic apparatus comprising an input chamber, microchannel, output chamber and a detection unit that is operatively connected to the microchannel. In preferred embodiments, the methods include hybridizing a target nucleic acid to one or more probe libraries, moving the hybridized target nucleic acid past the detector, and detecting bound probes. Probe libraries may comprise oligonucleotides or oligonucleotide analogs, preferably with each probe uniquely labeled. A linear order of labeled probes hybridized to the target nucleic acid can be detected and the target nucleic acid sequence deduced. In preferred embodiments, probe labels are detected by analysis of electron-induced fluorescence of probes labeled with conductive polymers.

@@ -1,0 +1,4 @@
+title: Device for data stream decoding
+
+abstract: 
+A device for data stream analyzing that is able to recognize different data streams and then start processors or functionalities to store or check data in a data stream. The device includes a processor means and a program memory, making it possible to parse a data stream in a way that is controlled by an interchangeable program. There will be no need for changing the hardware. This could save time and money for companies responsible for providing, maintaining and updating network switches. The device also includes a multiplexable data stream delayline for receiving the data streams, and multiplexing means for connecting different parts of the data stream to the processor.

@@ -1,0 +1,4 @@
+title: Portable swing-type digital communication device with step compensating mechanism
+
+abstract: 
+Disclosed herein is a portable swing-type digital communication device with a step compensating mechanism. The portable swing-type digital communication device comprises a body housing, and a swing housing rotatably attached to the body housing by means of a hinge module. The swing housing is rotatable about a hinge axis at a prescribed angle perpendicular to the top surface of the body housing. The swing housing being disposed at a prescribed angle to a planar surface of the body housing when the swing housing is rotated a prescribed angle from the body housing. Also, the portable swing-type digital communication device comprises a step compensating mechanism for preventing a step between the top surface of the body housing and the top surface of the swing housing when the swing housing is rotated to the prescribed angle from the body housing.

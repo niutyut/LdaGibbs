@@ -1,0 +1,4 @@
+title: Circuit substrates, semiconductor devices, semiconductor manufacturing apparatus methods for manufacturing circuit substrates, and methods for manufacturing semiconductor devices
+
+abstract: 
+A method is provided to control the height of bump electrodes and increase a clearance between edge sections of a semiconductor chip and lead terminals of a tape substrate. By applying suction to a tape substrate through a suction groove, boundary portions of a semiconductor chip mounting region are drawn into the suction groove, and curved sections are formed in the tape substrate at locations corresponding to edge sections of a semiconductor chip.

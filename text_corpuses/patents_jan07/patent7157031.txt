@@ -1,0 +1,4 @@
+title: Method of replicating a textured surface
+
+abstract: 
+The present invention relates to methods for forming textured surfaces in a polymeric surfaces. Moreover, the present invention relates to methods for forming textured surfaces in a polymeric surfaces and faithfully replicating the textured surfaces in the surfaces of sol-gel films on the surfaces of very hard materials, e.g., of glass, ceramic, or glass-ceramic substrates.

@@ -1,0 +1,4 @@
+title: Controlling spark for an engine with controllable valves
+
+abstract: 
+A system and method to control spark in a cylinder of a multi-cylinder engine. Spark can be controlled in a cylinder while reducing the possibility of producing a spark at a spark plug coupled to an ignition coil.

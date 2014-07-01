@@ -1,0 +1,4 @@
+title: Method of making a semiconductor device manufacturing mask substrate
+
+abstract: 
+A method of making a semiconductor device manufacturing mask, which makes it possible to suppress a semiconductor-device global step and simply manufacture a highly reliable semiconductor device. Square dummy patterns each having one side of, for example, 0.25 ?m or less are inserted into an area other than an actual pattern lying within a semiconductor device manufacturing mask to thereby uniformize a pattern density, enable etching processing without changing conditions set for every semiconductor device manufacturing mask an prevent an increase in global step of a post-CMP interlayer insulating film.

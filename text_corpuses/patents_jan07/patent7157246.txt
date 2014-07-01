@@ -1,0 +1,4 @@
+title: RNA polymerase I transcription factor TIF-IA
+
+abstract: 
+The present invention relates to an RNA polymerase I transcription factor TIF-IA and proteins related thereto, whose concentration and/or activity are correlated with the cell proliferation rate, and to DNA sequences encoding these proteins. The present invention also concerns ligands binding to an RNA polymerase I transcription factor TIF-IA and proteins related thereto, respectively, antagonists as well as antisense RNAs and/or ribozymes, directed against the TIF-IA expression. These compounds are of use for the prevention or treatment of diseases associated with an increased or reduced cell proliferation.

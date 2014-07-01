@@ -1,0 +1,4 @@
+title: Method and apparatus for servo track writing by track following on a dedicated servo disk on a fluid spindle bearing
+
+abstract: 
+What is disclosed is a method and apparatus for writing servo information on disks to be used in a hard disk drive assembly. In one embodiment, servo information is pre-written onto a disk using an offline servo track writer which employs a fluid dynamic bearing spindle to rotate the disk(s) during read/write operations. In another embodiment, servo information is written onto a disk by a method of track following on a reference disk using an offline servo track writer.

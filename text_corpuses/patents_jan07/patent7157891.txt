@@ -1,0 +1,4 @@
+title: DC-DC voltage converter with reduced output voltage ripple
+
+abstract: 
+An integrated DC?DC converter circuit in which multiple switched circuits operate in parallel to drive the output electrode with multiple pulsed charging voltages such that the corresponding respective output ripple voltage components combine with destructive interference, thereby reducing the net output ripple voltage.

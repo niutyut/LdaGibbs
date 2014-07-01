@@ -1,0 +1,4 @@
+title: Control of software via bundling
+
+abstract: 
+A method of revising multi-component software in a multifunctional printer, including revising at least one software component of the multi-component software, qualifying the multi-component software, bundling the multi-component software as a software bundle; and loading the software bundle on to a multifunctional printer. Additional methods and/or devices are also included.

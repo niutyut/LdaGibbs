@@ -1,0 +1,4 @@
+title: Use of web usage trail data to identify relationships between browsable items
+
+abstract: 
+Related web locations are identified from the web usage trails of a population of users. Each usage trail is preferably in the general form of a sequence of URLs accessed by a user during a browsing session. The usage trails are preferably collected using a special client application that operates in conjunction with a web browser and reports the navigation activities of users. In a preferred embodiment, the relatedness of two web locations A and B is determined using a minimum sensitivity calculation that takes into consideration the number of transitions that occurred between A and B relative to the total number of transitions that involved A and/or B. The method may be used independently, or may be used in combination with other methods for identifying related web locations.

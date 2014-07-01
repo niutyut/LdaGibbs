@@ -1,0 +1,4 @@
+title: Method for testing an integrated semiconductor memory
+
+abstract: 
+An integrated semiconductor memory can be operated in a normal operating state synchronously with a control clock. In the test operating state, the integrated semiconductor memory is driven synchronously with a clock edge of the control clock with a first control signal and starts a test run independent of the control clock. Driving with the first control signal, selection transistors in a memory bank that can be selected by a memory bank address are turned off. Afterward, bit lines in the selected memory bank are interconnected and driven with a predetermined precharge potential. After a precharge time has elapsed, one of the word lines is selected by an applied word line address and the selection transistors in the selected memory bank connected to the selected word line are turned on. Precharge times are set and tested independently of the clock period of the control clock.

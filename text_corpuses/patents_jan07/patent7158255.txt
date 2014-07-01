@@ -1,0 +1,4 @@
+title: Method for printing shingling print data
+
+abstract: 
+A method for printing shingling print data in a shingling print pass of a multi-shingling-pass print swath. One step includes compacting the shingling print data by removing the deterministic voids associated with the shingling print algorithm. Another step includes expanding the compacted shingling print data based on the shingling print algorithm. An additional step includes printing the expanded shingling print data.

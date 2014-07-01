@@ -1,0 +1,4 @@
+title: Battery
+
+abstract: 
+A battery wherein a cathode and an anode are layered and wound with a separator and an electrolyte in between them. The electrolyte is formed by firstly forming a coating layer containing a high molecular weight compound, a high viscosity solvent having a boiling point of more than 150? C., and an electrolyte salt on the cathode and the anode, and then injecting an injection solution containing a low viscosity solvent having a boiling point of 150? C., or less in the coating layer. A concentration of the low viscosity solvent in the electrolyte changes in the facing direction of the cathode and the anode. The concentration of the low viscosity solvent in the electrolyte is higher between the cathode and the anode, than on the cathode side and the anode side. Therefore, a diffusion rate of lithium ions is raised, and overvoltage is reduced.

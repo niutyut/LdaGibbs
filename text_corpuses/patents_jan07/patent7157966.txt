@@ -1,0 +1,4 @@
+title: Multi-mode power amplifier
+
+abstract: 
+A power amplifier includes an input network, output stages, coupled in parallel and configured to output power optimally in corresponding power-ranges, the output stages coupled to the input network, an output impedance matching network, coupled to the output stages and not containing a switching element, and a bias-control network, coupled between the output impedance matching network, the input network, and the output stages. In some amplifiers the output impedance matching network does not contain a switching element corresponding to the output stage configured to output power in the highest range. In other amplifiers the bias-control network is configured to isolate output stages by providing a hard shut-off to transistors of the isolated output stages.

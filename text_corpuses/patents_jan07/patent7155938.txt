@@ -1,0 +1,4 @@
+title: Method and device for loading a glass processing installation
+
+abstract: 
+In the method for loading a glass processing installation () with loading portions (), glass plates () are extracted repeatedly from a storage unit () in a predetermined sequence and divided into a residual portion (), which is stored in the storage unit, and a loading portion (), which is delivered to the glass processing installation. It is thereby possible to selectively load the glass processing unit with portions of glass plates of certain dimensions and of a determined sort. The device for loading a glass processing installation comprises a storage unit () with at least two compartments (), each compartment being capable of receiving at least one glass plate (), and displacing means for displacing a glass plate in a compartment at least partially out of the compartment.

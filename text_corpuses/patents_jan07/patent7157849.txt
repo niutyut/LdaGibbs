@@ -1,0 +1,4 @@
+title: Field emission display including mesh grid and focusing electrode and its method of manufacture
+
+abstract: 
+A field emission display device includes: a first substrate; an electron emission assembly arranged on the first substrate; a second substrate arranged a predetermined distance from the first substrate, the first and second substrates forming a vacuum space; an illumination assembly arranged on the second substrate, the illumination assembly being illuminated by electrons emitted from the electron emission assembly; and a mesh grid and above the electron emission assembly.

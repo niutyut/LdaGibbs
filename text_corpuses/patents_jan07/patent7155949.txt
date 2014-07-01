@@ -1,0 +1,4 @@
+title: Fluid cell press with a gripping arrangement and method and use of the press
+
+abstract: 
+The present invention relates to a method in a press of pressure cell type comprising a forming tool and, separated therefrom, a diaphragm, which define a forming space in which a blank is inserted for forming thereof against the forming tool by pressing the diaphragm against the blank. A blank portion projecting from the forming space is gripped by means of at least one gripping device and the connection between the blank and the gripping device is shielded from the diaphragm at least when the diaphragm is pressed against the blank. The invention further relates to a press of pressure cell type and a tray device.

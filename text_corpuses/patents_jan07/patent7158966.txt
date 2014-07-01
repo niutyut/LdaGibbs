@@ -1,0 +1,4 @@
+title: User intent discovery
+
+abstract: 
+a system  that facilitates determining a user's intent given a user search query comprises a search engine that is employed to search over a collection of objects within a data store to retrieve a user search result set. The objects within the result set are associated with queries that were previously utilized to locate such objects. A level of relatedness between the previous queries and the user search query is determined, and previous queries that are associated with a result set that is novel and related to the user search result set are returned to the user.

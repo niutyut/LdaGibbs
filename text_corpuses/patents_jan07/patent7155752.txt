@@ -1,0 +1,4 @@
+title: Toilet overflow control mechanism
+
+abstract: 
+A control mechanism for preventing overflow of a toilet including a bowl, a water tank, and a filler float operatively communicating with a filler valve includes a knob or handle that can be manipulated to cause the filler float to occupy a position that shuts off the filler valve. The control mechanism includes a filler float guide member having a low guide section separated from a high guide section by a ramped section. By manipulating the knob or handle of the control mechanism, the filler float is forced up the ramp section to the high guide section, shutting off the filler valve.

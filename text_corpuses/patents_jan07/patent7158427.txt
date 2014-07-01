@@ -1,0 +1,4 @@
+title: Semiconductor memory device
+
+abstract: 
+A semiconductor memory device comprises a central control circuit for receiving an operation command from an external chipset, generating an active signal for executing the operation command, and generating a precharge signal after a predetermined time, a row path control circuit for controlling a bank according to the active signal or the precharge signal of the central control circuit, and a precharge time control circuit, which is enabled according to the active signal to output an oscillation signal having a predetermined frequency, divides the oscillation signal based on a setting time from when an active operation is performed until when a precharge operation is performed, and then outputs a precharge time control signal, thereby controlling generation of the precharge signal of the central control circuit.

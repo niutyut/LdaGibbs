@@ -1,0 +1,4 @@
+title: Positioning device and method of initializing a positioning device
+
+abstract: 
+In order to realize initializing sequences with high accuracy and high reproducibility, a positioning device according includes an XY slider movable in directions X and Y, an object position measuring device for measuring the position of the XY slider, an X beam guiding the XY slider in the direction Y and movable in the direction X, a Y beam guiding the XY slider in the direction X and movable in the direction Y, electromagnet units having at least two pairs of electromagnets provided on the XY slider in such a manner as to embrace side faces of the X beam and the Y beam, and a rotation regulating portion provided on the X beam for regulating the rotation of the X beam.

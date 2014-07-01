@@ -1,0 +1,4 @@
+title: Method for making stator of rotary electric machine
+
+abstract: 
+A rotary electric machine has a stator core and a winding. The winding has a plurality or sub-winding sets which are mounted on the stator in the order. Each of the sub-winding sets has a plurality of phase windings. Each of the phase windings is made of a continuous wire. The sub-winding sets are formed into a cylindrical shape having a plurality of straight portions and turn portions before the sub-winding sets are mounted on the stator core. The turn portions are regularly arranged to avoid collisions between the turn portions. It is possible to avoid collisions since the winding is mounted on.

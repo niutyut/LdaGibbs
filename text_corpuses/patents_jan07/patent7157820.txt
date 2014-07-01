@@ -1,0 +1,4 @@
+title: Resolver
+
+abstract: 
+Plurality of air gaps are formed in a torus-shaped stator body of the resolver. If a straight line were drawn from a center point of the stator body toward the outside in the radial direction of the stator body and the straight line were rotated 360 degrees about the center point, the straight line would intersect with at least one of an inside air gap and an outside air gap. Therefore, magnetic flux (i.e., noise caused by magnetism) that has penetrated from the outer peripheral surface side of the stator body will always pass through a portion of the stator body that is to the outside in the radial direction of the air gaps, such that a large portion of the magnetic flux is eliminated by the air gaps.

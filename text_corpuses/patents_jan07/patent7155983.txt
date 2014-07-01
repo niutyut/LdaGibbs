@@ -1,0 +1,4 @@
+title: Magnetic flow meter with unibody construction and conductive polymer electrodes
+
+abstract: 
+A magnetic flow metering device and method is disclosed for the measurement of corrosive flow streams. The device utilizes a unibody construction wherein the flow conduit is constructed entirely from an insulative, non-conducting material without resorting to a metallic outer housing. The portions of the electrodes in contact with the flow stream are made of a suitable conductive polymer material, resistant to the corrosive media. The electrodes also feature shields that are molded into the electrode assembly to reduce background electrical noise. The invention also utilizes an electrical configuration that actively drives the electrode shield circuit (electrodes as well as cabling) to provide a more accurate measurement of the electromotive force.

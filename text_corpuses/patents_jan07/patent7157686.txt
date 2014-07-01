@@ -1,0 +1,4 @@
+title: Optical receiver
+
+abstract: 
+An optical receiver is provided to receive light signals in a specific frequency range and transform into an electric current. The optical receiver has a photo diode with a sensitization area coated with an anti-reflection film and a filter film. The filter film allows a light of a specific frequency range to go through. In comparison with a filter lens used in prior arts, the optical receiver using the filter film has a comparatively smaller volume.

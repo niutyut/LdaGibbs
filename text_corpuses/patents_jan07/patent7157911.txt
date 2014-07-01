@@ -1,0 +1,4 @@
+title: RF shield and MRI system
+
+abstract: 
+An eddy current induced in an RF shield by an X-axis gradient coil, a Y-axis gradient coil, and a Z-axis gradient coil respectively is homogeneously released to an earth ground simultaneously with induction. An RF shield is connected to a magnet via capacitors at four points whose angles are different from one another by 90?. The magnet is connected to the earth ground. An eddy current induced in the RF shield can be prevented from degrading MRI image quality.

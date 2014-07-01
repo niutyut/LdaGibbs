@@ -1,0 +1,4 @@
+title: Interfacing with ink
+
+abstract: 
+The present invention relates to interfacing with electronic ink. Ink is stored in a data structure that permits later retrieval by applications. The ink includes stroke information and may include property information. Through various programming interfaces, one may interact with the ink through methods and setting or retrieving properties. Other objects and collections may be used as well in conjunction with the ink objects.

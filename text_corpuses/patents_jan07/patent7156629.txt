@@ -1,0 +1,4 @@
+title: Piping structure in tire vulcanizing machine
+
+abstract: 
+The invention relates to a piping structure in a tire vulcanizing machine which has a simple structure, has an improved operability of a valve, can easily execute a maintenance work such as a valve replacement or the like, and can form a compact valve unit. A plurality of panel valves  are attached to a block main body side by side in a vertical direction in a state of flush connecting a block side connection surface  formed approximately perpendicularly in a block main body  which is long in a vertical direction, and a valve side connection surface  formed approximately perpendicularly in one side of an outer surface of a valve main body , and main flow paths  formed in an inner portion of the block main body and flow paths  formed in an inner portion of each of the panel valves are connected.

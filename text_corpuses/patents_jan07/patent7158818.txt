@@ -1,0 +1,4 @@
+title: Slide type mobile terminal and sliding mechanism thereof
+
+abstract: 
+In accordance with one aspect of the invention, a slide type mobile terminal comprises a first body; a second body slidably installed on the first body; and a sliding mechanism installed between the first body and the second body for guiding a slide motion of the second body in relation to the first body such that the second body automatically slides over a substantial portion of the first body after the second body slides over a first portion of the first body by way of exertion of external force.

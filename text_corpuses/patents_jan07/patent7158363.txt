@@ -1,0 +1,4 @@
+title: Liquid metal varactor and method
+
+abstract: 
+A varactor includes a container forming a liquid chamber, a first electrode mounted adjacent the chamber, and a second electrode mounted adjacent the chamber. The chamber may be sized and configured, and a spacing between the electrodes and the chamber may be selected, so that a contact angle of a quantity of liquid metal in the chamber relative to at least one of the electrodes can be changed by applying a bias voltage.

@@ -1,0 +1,4 @@
+title: Temperature sensor system for mobile platforms
+
+abstract: 
+A temperature sensor system includes a body and window arrangement. The body defines an air intake and is flush mounted to a mobile platform having a boundary layer. The window arrangement is integrated into the body and transfers a first signal and receives a second signal. The second signal represents energy from the first signal that is reflected by air particles beyond the boundary layer. The second signal is processed to determine a temperature beyond the boundary layer. The air intake receives air particles, transfers a first set of the air particles to a first air vent into the mobile platform, receives the first set of the air particles from a second air vent from the mobile platform, vents the first set of the air particles, and vents a second set of the air particles that bypass the first air vent.

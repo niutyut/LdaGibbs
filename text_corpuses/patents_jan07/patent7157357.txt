@@ -1,0 +1,4 @@
+title: Methods of forming halo regions in NMOS transistors
+
+abstract: 
+Disclosed are methods of forming a halo region in n-channel type MOS (NMOS) transistors. In one example, the method includes forming, on a channel region of a semiconductor substrate, a structure having a gate insulation film pattern and a gate conductive film pattern stacked sequentially; forming an ion implantation buffer film on an exposed surface of the semiconductor substrate and the gate conductive film pattern; performing a first ion implantation process for injecting fluorine ions into the semiconductor substrate; performing a second ion implantation process for implanting p-type halo ions into the semiconductor substrate; performing a third ion implantation process for implanting n-type impurity ions into the semiconductor substrate; and diffusing the p-type halo ions and the n-type impurity ions using a thermal process.

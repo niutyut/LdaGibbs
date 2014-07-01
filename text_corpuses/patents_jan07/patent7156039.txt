@@ -1,0 +1,4 @@
+title: Keel guide system
+
+abstract: 
+A technique for guiding a riser in an offshore environment. The technique utilizes a keel guide that permits the passage of connectors or other components therethrough. A bushing is mounted within the keel guide to guide the relative linear motion of the riser assembly through the keel guide.

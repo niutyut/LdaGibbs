@@ -1,0 +1,4 @@
+title: Radio frequency identification transponder with a quadrupler or N-tupler circuit for efficient RF to DC conversion
+
+abstract: 
+A multistage voltage multiplying circuit for single chip passive RF tags is provided, wherein the parasitic capacitance of the diodes of each stage of the voltage multiplying circuit is much less than the parasitic capacitance of the diodes of the preceding stage.

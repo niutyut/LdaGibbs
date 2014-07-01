@@ -1,0 +1,4 @@
+title: Electrical capped contact stud and method of fastening an electrical contact
+
+abstract: 
+A device and method for creating an electrical contact region between an electrical contact shoe and a stud is provided. The stud includes a flange having a contact face facing a threaded shank. A welding portion extending from the flange faces opposite to the contact face. The welding portion is stud welded to a metal sheet having a thickness of 0.6 mm or less. A cap nut made of a plastic material is fastened to the stud, the plastic material permitting self-locking. To prevent deformation of the metal sheet, a maximum torque of 4 Nm is applied to the cap nut. The cap nut serves a first function of sealing against paint penetration into the electrical contact region and a second function of creating electrical contact between the contact shoe and the stud.

@@ -1,0 +1,4 @@
+title: Process for producing L-epi-2-inosose and novel process for producing epi-inositol using microorganisms
+
+abstract: 
+Provided are novel processes for the efficient production of L-epi-2-inosose and epi-inositol which are useful either as various medicines or intermediates for the syntheses of various medicines. In the processes, inexpensive myo-inositol is used as a starting compound which is reacted with a gram-negative bacterium capable of converting myo-inositol into L-epi-2-inosose, and thereby producing L-epi-2-inosose by conversion of myo-inositol into L-epi-2-inosose. A biologically pure culture of sp. AB 10215 strain is also provided which has a characteristic nature of being capable of converting myo-inositol into L-epi-2-inosose.

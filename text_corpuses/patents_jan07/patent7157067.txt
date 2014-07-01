@@ -1,0 +1,4 @@
+title: Tough diamonds and method of making thereof
+
+abstract: 
+A single crystal diamond grown by microwave plasma chemical vapor deposition has a hardness of 50?90 GPa and a fracture toughness of 11?20 MPa m. A method for growing a single crystal diamond includes placing a seed diamond in a holder; and growing single crystal diamond at a temperature of about 1000? C. to about 1100? C. such that the single crystal diamond has a fracture toughness of 11?20 MPa m.

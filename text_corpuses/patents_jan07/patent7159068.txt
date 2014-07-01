@@ -1,0 +1,4 @@
+title: Method of optimizing performance of a flash memory
+
+abstract: 
+A method of writing data to a flash memory for efficiently managing the flash memory is provided. According to the method of the present invention, a page or a block can be selected as a unit for writing data to the flash memory. When a host, for instance, computer, card reader, cellular phone and alike, process the step of writing data into the flash memory, the volume of data is calculated for determining the time and frequency of moving and erasing data for both page and block as a unit. Based on the above result, the most appropriate method of writing data is selected to substantially improve speed of the writing process and also to reduce the frequency of erasing steps in order to extend the service life of the flash memory.

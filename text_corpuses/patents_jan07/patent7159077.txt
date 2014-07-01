@@ -1,0 +1,4 @@
+title: Direct processor cache access within a system having a coherent multi-processor protocol
+
+abstract: 
+A computer system has a plurality of processors in a multiprocessor system with each processor associated with a cache memory. The cache traffic is monitored by the respective processors to determine the load for each of the cache memories. Signals corresponding to the cache loads are generated and analyzed. A target processor is selected for a push data operation from a bus agent to the cache memory using the load information. The push operations to the caches are optimized based on the cache traffic information.

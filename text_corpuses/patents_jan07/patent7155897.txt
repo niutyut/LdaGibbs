@@ -1,0 +1,4 @@
+title: Combustion temperature high speed detection device
+
+abstract: 
+A combustion temperature high speed detection device is provided with a phase lead processing portion, thereby canceling out a detection lag of a temperature detector, and detecting the combustion gas temperature of a combustor at a high speed. The combustion temperature high speed detection device is also provided with a first-order lag filtering portion with a time constant of 0.25 second, a phase lag processing portion with a time constant of 10 seconds, a temperature change filtering portion with a cutoff frequency of 2 to 3 Hz, and a disturbance filtering portion including first-order lag filtering portions with different time constants and a high value selecting portion. Thus, high speed detection of the combustion gas temperature more suitable for a gas turbine system can be performed.

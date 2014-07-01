@@ -1,0 +1,4 @@
+title: Motorcycle
+
+abstract: 
+A motorcycle includes a seat supporting member provided extending in a rearward direction from a body. The seat supporting member includes an upper seat supporting member with a seat in place and a lower seat supporting member connected to and separated in a downward direction from the upper seat supporting member. The lower seat supporting member is configured as a plate-like member in a shape to cover a region above at least an exhaust pipe.

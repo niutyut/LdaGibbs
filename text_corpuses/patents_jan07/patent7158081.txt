@@ -1,0 +1,4 @@
+title: Phased array antenna
+
+abstract: 
+The invention relates to a miniaturized phased array antenna with a plurality of individual radiator elements (10xy), which antenna is designed in particular for use in the microwave frequency range. The antenna is characterized in particular that the radiator elements (10xy) are each aligned in dependence on their positions in the array so as to achieve a current distribution over the antenna as determined for a desired antenna characteristic. This renders it possible to realize a very strongly miniaturized antenna without the efficiency of the antenna being appreciably reduced.

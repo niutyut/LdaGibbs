@@ -1,0 +1,4 @@
+title: Structure of photonic crystal
+
+abstract: 
+Disclose is a photonic crystal structure comprises atomic dielectric pillars having a refractive index distribution and a structure which are both mirror-symmetrical in a thicknesswise direction of the photonic crystal. The atomic pillars are arrayed in a two-dimensional lattice pattern to form a dielectric pillar lattice. The dielectric pillar lattice is disposed within a surrounding dielectric having a uniform or substantially uniform refractive index distribution. An organic resin which serves as part of surrounding dielectric is disposed in an asymmetrical position in a thicknesswise direction of the photonic crystal.

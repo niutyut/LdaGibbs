@@ -1,0 +1,4 @@
+title: Uninterruptible power supply socket
+
+abstract: 
+An uninterruptible power supply (UPS) socket of the present invention consists of a front panel, an upper cover, a socket member, a wiring insulation plate, a battery set, a print circuit board assembly, a detachable lower cover, a power cord lead and several components. The upper and lower covers are connected via several electric conductive wires, and said print circuit board assembly contains a power circuit board, a control circuit board and a surge protection circuit board.

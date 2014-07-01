@@ -1,0 +1,4 @@
+title: Control device for flashlight systems in airports
+
+abstract: 
+A control for a flashlight system in an airport, includes flash units which are connected to an energy supply line and, on the output side, to respective flashlights of the flashlight system via a light cable. In order to avoid unwanted high voltages, each flash light unit includes an energy-integrating low-voltage capacitor which can be supplied by a current source having a corrected power factor and which is connected to the flashlights embodied as low-voltage lights. The energy transmitted to the flashlights can be electronically controlled. A connection device connecting the flash units to a local master control system is embodied as a local field bus system, in such a way that different, conventionally arranged, simultaneous or mixed flash configuration patterns can be produced by way of the same electrical installation.

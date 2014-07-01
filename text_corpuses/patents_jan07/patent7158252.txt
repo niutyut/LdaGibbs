@@ -1,0 +1,4 @@
+title: Real-time distribution of imaging metrics information
+
+abstract: 
+In a distributed computing environment, the following arrangements and procedures provide an imaging device and an imaging metric information server to distribute the imaging device's operational metrics (e.g., print media and toner utilization information) The metrics information are accessible by applications at any time from the server in real-time, independent of forwarding any request for the imaging metrics to the imaging device. Because imaging operational metrics are accessed by an application through the server, the imaging device does not use valuable resources such as bandwidth and processing power to respond to metrics information requests received from the application.

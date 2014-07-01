@@ -1,0 +1,4 @@
+title: Clocked DAC current switch
+
+abstract: 
+A switch having a first arrangement for providing a first set of first and second complementary intermediate signals; a second arrangement for providing a second set of third and fourth complementary intermediate signals; a third arrangement responsive to the first set of signals for providing complementary output signals; a fourth arrangement responsive to the second set of signals for providing complementary output signals; and a fifth arrangement for selectively activating the third means or the fourth arrangement in response to a control signal.

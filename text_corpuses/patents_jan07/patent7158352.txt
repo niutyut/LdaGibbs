@@ -1,0 +1,4 @@
+title: Magnetoresistive device and method of manufacturing same, and thin-film magnetic head and method of manufacturing same
+
+abstract: 
+A reproducing head of a thin-film magnetic head incorporates an MR element, a pair of bias field applying layers located to be adjacent to the side portions of the MR element, and a pair of electrode layers that are located on the bias field applying layers and overlap the MR element. The electrode layers each have a first layer that is laid over part of the top surface of the MR element via a protection layer, and a second layer that overlaps the first layer. In the method of manufacturing the reproducing head, after forming the protection layer on an element-to-be film to make the MR element, a first electrode-to-be film to make the first layers is formed continuously without interposing a step of exposing the protection layer to the air.

@@ -1,0 +1,4 @@
+title: Subfield coding circuit and subfield coding method
+
+abstract: 
+A subfield coding circuit which subfield-converts R, G, and B image data for producing subfield-converted image data, includes (a) a multiplexer which multiplexes R, G, and B image data, (b) a memory such as a static random access memory (SRAM), including a single lookup table through which the R, G, and B image data is converted into subfield-coded data in time-division, and (c) a demultiplexer which demultiplexes the subfield-coded data to output subfield-coded R, G, and B image data.

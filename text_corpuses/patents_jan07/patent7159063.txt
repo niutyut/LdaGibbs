@@ -1,0 +1,4 @@
+title: Method and apparatus for hot-swapping a hard disk drive
+
+abstract: 
+Methods and apparatus are provided for hot swapping a hard disk drive. A gateway is connected between the disk drive and the bus leading to the host adapter. The gateway can isolate the disk drive from the bus prior to a disk drive being removed and can signal to the host adapter when a new drive has been installed. The gateway can de-isolate the newly installed disk drive from the bus to allow the host adapter to communicate with the newly installed disk drive. Additionally, the gateway can remove system power from a disk drive being removed and ramp up power to a newly installed disk drive while system power is uninterrupted for other components of the computer system. An adapter may be provided to connect a disk drive to the gateway, and the gateway and the adapter engage and/or disengage during the hot-swapping of the disk drive.

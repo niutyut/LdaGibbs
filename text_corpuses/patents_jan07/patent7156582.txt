@@ -1,0 +1,4 @@
+title: Inspectable tunnel for underground pipes and cables
+
+abstract: 
+An inspectable tunnel comprises two opposite, vertical trays (), whereof one is equipped with pallets () used to hold cables or conduits whilst the other has supports () whereon a plurality of hinged lids () can rest. The latter are connected to the pallets () and can have two positions; an appreciably vertical one to form an independent compartment joined to the two adjacent pallets, and the other position is appreciably horizontal and resting on the supports (), so that the compartment thus defined is accessible from the outside.

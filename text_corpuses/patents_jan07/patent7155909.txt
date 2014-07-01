@@ -1,0 +1,4 @@
+title: Hydraulic controller for working machine
+
+abstract: 
+A hydraulic controller for working machine according to the present invention, which presupposes an electronic control system where an integrated bleed-off valve common to hydraulic actuators is used for bleed-off control and the bleed-off valve is controlled by the secondary pressure of a proportional solenoid valve controlled by a controller, is constituted to compensate supply of a pressure oil for the hydraulic actuators even if the secondary pressure of the proportional solenoid valve is stopped, by providing, at the bleed-off valve, a fail-safe position with a fail-safe path which opens with an opening having smaller area than an unload opening.

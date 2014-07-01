@@ -1,0 +1,4 @@
+title: Flowering genes
+
+abstract: 
+The cen gene of has been cloned, also homologues from (tfl1) and rice. Flowering characteristics of transgenic plants, especially switching of apical meristem to a floral fate and the timing of flowering, may be manipulated by regulating gene expression. The promoter of the cen gene may be used to drive tissue-specific expression, specifically in the apical meristem of plants.

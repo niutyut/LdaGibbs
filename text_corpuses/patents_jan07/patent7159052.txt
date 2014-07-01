@@ -1,0 +1,4 @@
+title: Configurable architecture for virtual socket client to an on-chip bus interface block
+
+abstract: 
+An interface block provides an interface between an internal bus of an integrated circuit and a socket of a logic block. The interface block includes a synchronization module that performs any needed synchronization between a clock domain of the internal bus and a clock domain of the socket of the logic block. A translation module provides translation of block encoding of the data for data transferred between the internal bus and the socket of the logic block. A queue module buffers data flowing between the internal bus and the socket of the logic block. A driver module handles low level and electrical drive specifications of the internal bus.

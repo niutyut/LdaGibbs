@@ -1,0 +1,4 @@
+title: Oscillating-type generator
+
+abstract: 
+An oscillating-type generator is provided in which an impact member impacts piezoelectric elements to generate electricity and which can efficiently increase the number of impacts and generate a large amount of electricity. This oscillating-type generator includes: a generator member  having an impact member  impacting piezoelectric elements  to generate electricity; and an elastic member  having elasticity, attached to the generator member  and, when applied an external force, adapted to oscillate the generator member  to cause the impact member  to repeat impacting the piezoelectric elements 

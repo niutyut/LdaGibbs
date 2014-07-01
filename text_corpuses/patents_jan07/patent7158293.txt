@@ -1,0 +1,4 @@
+title: Tube for a microscope
+
+abstract: 
+A tube for a microscope includes a tube housing, an adaptation interface, a beam guidance device, an operator interface, and a beam deflecting device. The beam deflecting device deflects a light beam coming from the adaptation interface so that the optical axis of the light beam extends in a plane and is guided by the beam guidance device to the operator interface. The tube housing, together with the beam guidance device and the operator interface, is movable relative to the microscope in a direction parallel to the plane.

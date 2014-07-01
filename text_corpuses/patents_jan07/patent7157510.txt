@@ -1,0 +1,8 @@
+title: Method of nucleating a polyolefin composition with acetal-based compounds
+
+abstract: 
+An acetal-based composition useful as a nucleating, gelling, thickening or clarifying agent is disclosed. The composition may be synthesized or provided in many different forms, including multicarbon diacetals formed from carbohydrates. Once synthesized, the compound may be employed as an additive in a plastic composition, such as (for example) a polypropylene copolymer. Co-additives may also be employed. Several aryl structures may reside upon the hydrocarbon chain backbone. One structure of such an acetal-based composition which happens to have two aryl-containing groups is shown:
+
+
+wherein:
+

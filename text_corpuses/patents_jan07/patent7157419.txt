@@ -1,0 +1,4 @@
+title: Growth factor binding molecules
+
+abstract: 
+Growth factor binding molecules having a plurality of peptide loops attached to a non-peptide organic scaffold, preferably having pseudo-six amino acid peptide loops with four amino acid sidechains. The growth factor binding molecules specifically bind various growth factors and are suitable for treating a subject having tumors or restinosis. In one embodiment a platelet-derived growth factor binding molecule is disclosed that is used to inhibit tumor growth and angiogenesis in solid tumors.

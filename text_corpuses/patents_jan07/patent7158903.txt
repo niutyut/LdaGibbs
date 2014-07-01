@@ -1,0 +1,4 @@
+title: Methods for quantitative analysis by tandem mass spectrometry
+
+abstract: 
+The present invention provides methods for high throughput analysis of analytes in complex mixtures for unresolved chromatographic peaks including specific embodiment for summing intensities for each mass transition of interest over a selected chromatographic peak () to generate a signal corresponding to total intensity for each transition (). The intensities are deconvoluted into intensities of individual analytes (), based on branching ratios acquired from authentic standards, and a comparison to calibration curve is performed to obtain a quantitative concentration measurement of a particular analyte in a sample.

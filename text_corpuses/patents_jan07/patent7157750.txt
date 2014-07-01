@@ -1,0 +1,4 @@
+title: Molecular memory device
+
+abstract: 
+A novel memory cell is provided with an active region including a molecular system and ionic complexes distributed in the molecular system. A pair of write electrodes are arranged for writing information to the memory cell. The active region is responsive to an electric field applied between the pair of write electrodes for switching between an on state and an off state. The active region has a high impedance in the off state and a low impedance in the on state. A pair of read electrodes is used to detect whether the active region is in the on state or in the off state to read the information from the memory cell. Read electrodes may be made of different materials having different work functions to reduce leakage current.

@@ -1,0 +1,4 @@
+title: Switchable memory diode-a new memory device
+
+abstract: 
+Systems and methodologies are provided for forming a diode component integral with a memory cell to facilitate programming arrays of memory cells created therefrom. Such a diode component can be part of a PN junction of memory cell having a passive and active layer with asymmetric semiconducting properties. Such an arrangement reduces a number of transistor-type voltage controls and associated power consumption, while enabling individual memory cell programming as part of a passive array. Moreover, the system provides for an efficient placement of memory cells on a wafer surface, and increases an amount of die space available for circuit design.

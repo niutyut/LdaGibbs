@@ -1,0 +1,4 @@
+title: Systems and methods of binding a plurality of text bodies
+
+abstract: 
+A binding system for binding a plurality of text bodies in a continuous manner includes an adhesive strip applier, a heating device, and a cooling device. A transporting system transports a plurality of text bodies to the adhesive strip applier which applies a preformed adhesive strip to the moving text body. The heating device heats the adhesive strip and melts the adhesive strip into contact with the text body and the cooling device cools the adhesive to form a bound text body.

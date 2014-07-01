@@ -1,0 +1,4 @@
+title: Optical junction apparatus and methods employing optical power transverse-transfer
+
+abstract: 
+Discrete first and second optical transmission subunits are formed each having a corresponding transmission optical waveguide with a corresponding optical junction region. The first transmission optical waveguide is a planar optical waveguide formed on a substrate. The first transmission optical waveguide or the second transmission optical waveguide is adapted for enabling substantially adiabatic transverse-transfer of optical power between the optical waveguides at the respective optical junction regions. The first and second optical transmission subunits are assembled together to form an optical apparatus.

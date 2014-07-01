@@ -1,0 +1,4 @@
+title: Thin-film magnetic head having helical coils and manufacturing method for the same
+
+abstract: 
+A plurality of first coil segments is formed in a space encompassed by a lower core layer, a protuberant layer, and a back gap layer, and a magnetic pole layer is deposited on the first coil segments. Ends of adjacent first coil segments are connected through the intermediary of a plurality of second coil segments formed on the magnetic pole layer so as to form a helical coil layer. The upper surfaces of the protuberant layer, the first coil segments, and the back gap layer are formed to be a continuous planarized surface. A Gd-determining layer made of an insulating material is formed on the planarized surface such that it covers the upper surfaces of the first coil segments. The Gd-determining layer serves also as an insulating layer that isolates the first coil segments and the magnetic pole layer.

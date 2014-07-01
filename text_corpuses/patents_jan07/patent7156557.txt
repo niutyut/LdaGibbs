@@ -1,0 +1,4 @@
+title: Bearing in a manual transmission
+
+abstract: 
+A bearing arrangement () in a manual transmission for transferring torque between at least a first guide surface () on a swivel element (), which can swivel and which is fixed along the bearing relative to the manual transmission, and a second flat guide surface (), which can move in the longitudinal direction relative to the bearing () and which is supported with the swivel element () so that it can swivel at least in the bearing (). The bearing holds a selector shaft () so that it can move in the longitudinal direction and so that it can also swivel, wherein the selector shaft () is provided with an adapter ().

@@ -1,0 +1,4 @@
+title: Process for producing high-purity 2,3-pyridinedicarboxylic acid
+
+abstract: 
+A process for producing 2,3-pyridinedicarboxylic acid having a significantly decreased heavy metal content and capable of satisfying the purity level required for medicinal and agricultural chemicals comprising the steps of: adding at least one sulfur-containing substance selected from a hydrosulfide, a sulfide, a polysulfide, and sulfur to an aqueous solution of 2,3-pyridinedicarboxylic acid or its salt; removing the resulting precipitates from the solution; acidifying the solution with a mineral acid to precipitate 2,3-pyridinedicarboxylic acid; and recovering the precipitates. The aqueous solution to be treated may be an aqueous solution of an alkali metal salt of 2,3-pyridinedicarboxylic acid obtained by alkali decomposition of 2,3-pyridinedicarboxylic acid copper (II) salt, which has been formed or precipitated in a process for producing 2,3-pyridinedicarboxylic acid.

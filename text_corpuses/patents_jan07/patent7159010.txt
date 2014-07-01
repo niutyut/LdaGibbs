@@ -1,0 +1,4 @@
+title: Network abstraction of input/output devices
+
+abstract: 
+A topology of storage nodes coupled to a network to provide storage resources to clients coupled to the network is described. A common transport agent (CTA) comprises a common communication interface with each of the storage nodes. The common communication interface with each storage node may be independent of any particular input/output format to be used in storing data in or retrieving data from a storage medium associated with the storage node. The CTA may also comprise a communication interface with the network which is independent of any particular network protocol to transmit data over the network.

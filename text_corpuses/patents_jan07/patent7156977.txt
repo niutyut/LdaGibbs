@@ -1,0 +1,4 @@
+title: Hydroprocessing process and method of retrofitting existing hydroprocessing reactors
+
+abstract: 
+A process for hydroprocessing a hydrocarbon feed. The hydrocarbon feed is first admixed with a hydrogen rich gas. The resultant process stream is then contacted with a hydrocracking catalyst. The resultant catalyst effluent process stream is separated into a gas phase stream and a liquid phase stream, and the gas phase stream is withdrawn. The liquid phase stream is admixed with a hydrogen rich gas, and the resultant process stream is contacted with a hydrocracking catalyst. The resultant catalyst effluent process stream is withdrawn and admixed with the previously obtained gas phase stream, and the resultant process stream is withdrawn.

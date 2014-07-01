@@ -1,0 +1,4 @@
+title: Color code for device configuration
+
+abstract: 
+A method is disclosed that scans a colored code using a scanner disposed internal a device. As setting of the device is then adjusted based on a color of the colored code.

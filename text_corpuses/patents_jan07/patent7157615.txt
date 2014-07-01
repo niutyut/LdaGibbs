@@ -1,0 +1,4 @@
+title: Production of biofilaments in transgenic animals
+
+abstract: 
+Disclosed is a method for the recombinant production of biofilaments, such as spider silk or insect fibroins, using transgenic animals which secrete the biofilaments in their milk and/or urine, and transgenic cells which secrete the biofilaments into culture media. Such a method is useful for producing large quantities of biofilament material. Also disclosed is a nucleic acid molecule for generating such transgenic animals.

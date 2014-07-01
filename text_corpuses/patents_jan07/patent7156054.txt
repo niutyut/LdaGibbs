@@ -1,0 +1,4 @@
+title: Horse walker/animal conditioning system
+
+abstract: 
+An animal walker or conditioning system. The preferred embodiment of the present invention contemplates a horse walker or conditioner incorporating a direct drive hydraulic motor, the motor configured to provide a powered bearing surface to support and axially rotate a vertical shaft having laterally extending arms emanating therefrom, which arms can be utilized to direct a horse or other animal in a circular path about the vertical shaft. The unique design utilizes an off the shelf direct drive hydraulic motor and conventional power system, with the hydraulic power unit preferably situated away from the vertical shaft, and power and control lines running underground to the hydraulic motor supporting the vertical shaft.

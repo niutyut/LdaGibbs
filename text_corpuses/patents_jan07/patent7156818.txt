@@ -1,0 +1,4 @@
+title: Multi-functional joint brace
+
+abstract: 
+A multi-functional brace for a joint includes a releasable locking mechanism that allows the brace to be set for static stretch of the joint in either flexion or extension, and a range of motion assembly that allows for free movement of the joint through its natural axis over a controlled range of motion when the locking mechanism is released.

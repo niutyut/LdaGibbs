@@ -1,0 +1,4 @@
+title: Freeze drying for gas chromatography stationary phase deposition
+
+abstract: 
+The present disclosure relates to methods for deposition of gas chromatography (GC) stationary phases into chromatography columns, for example gas chromatography columns. A chromatographic medium is dissolved or suspended in a solvent to form a composition. The composition may be inserted into a chromatographic column. Alternatively, portions of the chromatographic column may be exposed or filled with the composition. The composition is permitted to solidify, and at least a portion of the solvent is removed by vacuum sublimation.

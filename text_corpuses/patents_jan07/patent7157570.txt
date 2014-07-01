@@ -1,0 +1,4 @@
+title: Human ribonucleotide reductase M2 subunit
+
+abstract: 
+An isolated nucleic acid containing a human ribonucleotide reductase M2 subunit promoter sequence or genomic sequence. Also disclosed are methods of determining whether a subject is suffering from or at risk for developing a cell proliferation-associated disorder, identifying a compound for treating a cell proliferation-associated disorder, treating a cell proliferation-associated disorder, and developing a procedure for treating a cell proliferation-associated disorder.

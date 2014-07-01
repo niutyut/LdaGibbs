@@ -1,0 +1,4 @@
+title: Antireflection film, optical element and visual display
+
+abstract: 
+An antireflection film having a hard coat layer prepared on one side of a transparent substrate directly or through other layers, and further an antireflection layer laminated on a surface of the hard coat layer, wherein the antireflection layer is formed by a dry cured film obtained from a solution comprising a siloxane oligomer (A) obtained by condensation polymerization after partial hydrolysis of a hydrolyzable alkoxy silane that contains a tetra alkoxy silane represented by a general formula (1): Si(OR)(where R represents methyl group or ethyl group) as a principal component and a compound (B) having a fluoro alkyl structure and a polysiloxane structure, is excellent scratch-proof property, stain resistance, and cured in a short period of time at comparatively low temperature.

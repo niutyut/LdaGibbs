@@ -1,0 +1,4 @@
+title: Refrigerant cycle apparatus
+
+abstract: 
+It is an object of the present invention to provide a refrigerant cycle apparatus which can optimize the capability of releasing heat from a refrigerant in a gas cooler and an auxiliary heat exchanger under use conditions at a low cost. There are provided an intermediate cooling circuit which once releases heat from a refrigerant discharged from a compressor and then returns the refrigerant to the compressor, and a fan which ventilates an inter cooler of the intermediate cooling circuit and a gas cooler. The inter cooler has substantially the same ventilation area as that of the gas cooler.

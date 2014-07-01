@@ -1,0 +1,4 @@
+title: Holding mechanism in exposure apparatus, and device manufacturing method
+
+abstract: 
+Disclosed is a holding system and an exposure apparatus having the same, wherein deformation of an optical member resulting from its thermal expansion and causing degradation of imaging performance can be reduced to assure desired imaging performance. The holding system for holding an optical member includes a barrel for at least partially surrounding the optical member and/or a heat source, an average of radiation coefficient of an inside surface of the barrel is not less than 0.8.

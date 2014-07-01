@@ -1,0 +1,4 @@
+title: Pressure drag reduction system with a side duct
+
+abstract: 
+Systems, methods and media for reducing the aerodynamic drag of vehicles are disclosed. More particularly, embodiments may include at least one fan for directing air into a lower pressure region behind a vehicle in motion in order to reduce pressure drag. Embodiments may also include one or more internal ducts for directing air from other parts of the vehicle to the at least one fan. In one embodiment, the operation of the at least one fan may be controlled based on sensed conditions, user control, or other means.

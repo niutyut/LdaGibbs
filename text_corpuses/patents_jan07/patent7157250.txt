@@ -1,0 +1,6 @@
+title: Glutamic acid receptor and utilization thereof
+
+abstract: 
+An agonist or antagonist of glutamic acid or an allosteric modulator is screened by reacting a glutamic acid receptor protein having the following properties with a substance binding thereto in the presence of a test substance and detecting the inhibition or promotion of the reaction:
+(A) it has a transmembrane domain and an intracellular domain common to those of type 4 metabotropic glutamic acid receptor protein, or
+(B) it has an extracellular domain by about 316 or 327 amino acid residues shorter than that of the type 4 metabotropic glutamic acid receptor protein.

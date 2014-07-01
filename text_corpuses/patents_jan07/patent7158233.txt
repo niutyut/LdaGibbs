@@ -1,0 +1,4 @@
+title: Alignment mark, alignment apparatus and method, exposure apparatus, and device manufacturing method
+
+abstract: 
+An alignment mark includes a first mark usable for global alignment measurement in the direction of a scribe line, and a second mark usable for pre-alignment measurement in a direction perpendicular to the direction of the scribe line. The first mark is formed by arranging a plurality of strip-shaped X measurement marks whose longitudinal direction is perpendicular to the direction of the scribe line. In the second mark, strip-shaped second measurement marks are arranged at the two ends of the first mark such that the longitudinal direction of the second measurement mark is perpendicular to that of the first measurement mark. The alignment mark can be shared by global alignment and pre-alignment, and applied to a narrow scribe line.

@@ -1,0 +1,4 @@
+title: T-shaped ratchet wrench
+
+abstract: 
+A T-shaped ratchet wrench having a main body and a force-applying auxiliary arm. The main body includes a cross shaft and a working shaft. A ratchet driving mechanism having a change-over selector is disposed within an intersection position of both shafts. Each end of the cross shaft having an annular groove, and the working shaft has a polygonal head for inserting into a sleeve. Furthermore, the working shaft includes an annular groove in close vicinity to the cross shaft. The force-applying auxiliary arm includes an internal hole for mounting on either end of the working shaft or the cross shaft of the main body. The force-applying auxiliary arm has one end with an engaging socket and another end with a handle portion.

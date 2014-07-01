@@ -1,0 +1,4 @@
+title: Apparatus and methods for forward error correction decoding
+
+abstract: 
+An apparatus includes an instruction decoder, at least one control register coupled to the instruction decoder, and an add-compare-select (ACS) engine coupled to the at least one control register. The instruction decoder is operative to control the ACS engine to perform Viterbi decoding in response to the instruction decoder receiving a first instruction, and is operative to control the ACS engine to perform turbo decoding in response to the instruction decoder receiving a second instruction.

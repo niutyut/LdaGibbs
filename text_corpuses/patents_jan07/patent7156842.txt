@@ -1,0 +1,4 @@
+title: Electrosurgical pencil with improved controls
+
+abstract: 
+An electrosurgical pencil is provided which includes an elongated housing, an electrocautery blade supported within the housing and extending distally from the housing. The electrocautery blade is connected to a source of electrosurgical energy. The pencil also includes at least one activation switch supported on the housing which is configured and adapted to complete a control loop extending from the source of electrosurgical energy. At least one voltage divider network is also supported on the housing and is electrically connected to the source of electrosurgical energy.

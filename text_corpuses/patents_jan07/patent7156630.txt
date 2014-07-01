@@ -1,0 +1,4 @@
+title: Apparatus for the rapid development of photosensitive printing elements
+
+abstract: 
+This invention pertains to a system for thermally treating a photosensitive element to form a relief structure suitable for flexographic printing. The system of the invention comprises a plurality of consecutively arranged blotting stations for removing uncured photopolymer from the imaged surface of the photosensitive printing element. The flexographic plates produced in the apparatus of the invention are especially suited for use in printing newspapers and other publications.

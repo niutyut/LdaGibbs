@@ -1,0 +1,4 @@
+title: Optical emission spectroscopy of plasma treated bonding surfaces
+
+abstract: 
+A method and system are provided for real-time contaminant detection and plasma treatment verification during plasma treatment of bonding surfaces. Optical emission spectroscopy (OES) is utilized to determine contamination of a bonding surface prior to the bonding process. OES is further utilized to monitor bonding sites on the bonding surface to verify effectiveness of the plasma treatment.

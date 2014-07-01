@@ -1,0 +1,4 @@
+title: Modified target enzymes having catalytic triads and uses thereof
+
+abstract: 
+Modified target molecules are disclosed comprising genetically modified molecules, preferably enzymes, that include a catalytic triad which alters the performance of the polypeptide. Optionally, such a catalytic triad in the modified target molecule comprises three members equivalent to amino acid residues Serine 227, Histidine 200, or Glutamate 139, respectively, in the Bacillus cellulase 103 sequence. Using the embodiments disclosed by the present invention, altered performance profiles, such as enzyme activity or stability, under alkaline conditions can be achieved. Methods of making and using modified target molecules are also disclosed.

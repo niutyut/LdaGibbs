@@ -1,0 +1,4 @@
+title: Method of compensating for image faults in an x-ray image recording
+
+abstract: 
+Method for compensating for image faults in a digital image recording which has been created by an x-ray system consisting of a radiographic source, an anti-scatter grid and a digital x-ray detector such as an image amplifier or a solid-state image detector, said image faults resulting from decentering, defocusing or defects in the anti-scatter grid or by the Heel effect and causing an intensity reduction of the primary radiation falling on the x-ray detector, characterized in that the actual reduction in intensity is measured through the anti-scatter grid and correction parameters are determined based on the measured values recorded which are then used to correct the x-ray image recording.

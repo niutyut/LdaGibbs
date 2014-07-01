@@ -1,0 +1,4 @@
+title: Friction stir welding method and apparatus
+
+abstract: 
+A friction stir welding (FSW) method and apparatus are provided by which power needed for FSW is reduced and a compact FSW tool can be used. In the FSW method, metal members are lapped one on another and a rotating probe of an FSW tool is inserted into a contact portion of the metal members. The contact portion is softened by frictional heat and stirred by the probe so that the metal members are welded together. A portion of the metal members surrounding the probe is heated by a heater.

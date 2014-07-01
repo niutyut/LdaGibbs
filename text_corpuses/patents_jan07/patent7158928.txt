@@ -1,0 +1,4 @@
+title: Cross platform file system emulation
+
+abstract: 
+A method for emulating one or more file system functions is provided. On a first processing device, a request is received. The request comprises a first data indicating a first file that a file system resident on the first processing device does not support. In an emulation library a second data for emulation of the first file is located. A response based upon the first and second data is formed.

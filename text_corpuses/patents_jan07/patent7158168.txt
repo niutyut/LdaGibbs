@@ -1,0 +1,4 @@
+title: Auto Focus and Zoom Controller for controlling multiple cameras
+
+abstract: 
+An Auto Focus and Zoom Controller for controlling multiple cameras and their lens tracking a vehicle in flight at a test range. The Auto Focus and Zoom Controller controls camera lens functions including focus, focal length, and exposure settings, based upon information stored in a track file, in order to obtain optimal recordings of launch events at the test range.

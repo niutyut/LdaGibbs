@@ -1,0 +1,4 @@
+title: System and method for managing projector bulb life
+
+abstract: 
+Projector bulb life is managed to achieve desired performance parameters, such as a maximum life mode or maximum brightness mode, by sensing bulb luminance and applied the sensed luminance with a luminance feedback controller to drive the bulb to achieve the desired performance parameter. For instance, in maximum life mode the luminance feedback controller reduces power applied to the bulb to restrict bulb luminance to a maximum luminance setpoint when greater luminance is available with a newer bulb. In maximum brightness mode, the luminance feedback controller increases power applied to the bulb to increase bulb luminance if the sensor senses luminance below a threshold due bulb wear. Bulb life management improves project image illumination to display information in a variety of projector types, including digital mirror devices and liquid crystal displays.

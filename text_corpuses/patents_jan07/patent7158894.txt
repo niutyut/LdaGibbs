@@ -1,0 +1,4 @@
+title: Residential fuel tank monitoring system and proactive replacement program
+
+abstract: 
+A data collection and management system is provided for monitoring the condition of fuel tanks and for determining for each tank a degradation profile which provides an estimate of useful tank life and a prediction of when the tank is likely to need replacement before failure. The system is especially useful for monitoring residential fuel tanks and is also applicable for commercial and other tanks which are in a location where a tank failure would be harmful and potentially hazardous. A primary benefit of the system is to allow fuel dealers to identify tanks that should be replaced before they actually fail. The system provides the dealer with information which is useful in monitoring and servicing the fuel tanks of the dealers' customers.

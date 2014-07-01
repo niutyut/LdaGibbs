@@ -1,0 +1,4 @@
+title: Direct injection diesel engine
+
+abstract: 
+A combustion chamber opening toward a cylinder head is provided on a top surface of a piston, and this combustion chamber comprises a first volume having an inclined surface and a second volume further recessed from the first volume toward a pin boss. Fuel spray F from a fuel injection nozzle is injected toward an inner peripheral wall section of the second volume in a former stage of fuel injection and toward the inclined surface of the first volume in a later stage of fuel injection, and the percentage of the fuel injection period in the former stage against the total fuel injection period is set to the range from 40% to 70%.

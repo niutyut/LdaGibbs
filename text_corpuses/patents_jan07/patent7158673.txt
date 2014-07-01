@@ -1,0 +1,4 @@
+title: Image-processing apparatus and image-processing method
+
+abstract: 
+An image-processing apparatus for processing the image data input from an image-handling device and then outputting the image data to another image-handling device. The apparatus comprises a black-adaptation correction device. The black-adaptation correction device corrects the image data in consideration of the fact that adaptation to black varies from person to person, if the darkest points of the image-handling devices differ from each other. Since the image is so corrected, the colors of the images produced by the image-handling devices look almost the same in spite of the fact that the darkest points of the image-handling devices differ from each other.

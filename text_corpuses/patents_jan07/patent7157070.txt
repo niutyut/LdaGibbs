@@ -1,0 +1,4 @@
+title: Method for purifying gas containing hydrocarbons
+
+abstract: 
+A hydrocarbon gas containing HS, mercaptans and COis fed to an absorption plant operated at a pressure of 20 to 80 bar and supplied with a selective solvent, a solvent stream loaded with HS and a roughly desulfurized gas stream are withdrawn, the HS loaded solvent stream is charged to a regeneration plant and the roughly desulfurized gas stream is charged to an absorption and regeneration plant operated at a pressure of 20 to 80 bar, a large first gas stream of HS and COand an unloaded solvent stream are withdrawn from the absorption regeneration plant, and the large first gas steam of HS and COis supplied to a Claus plant, and a valuable hydrocarbon gas stream is withdrawn from the absorption and regeneration plant.

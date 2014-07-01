@@ -1,0 +1,4 @@
+title: Automated process execution for project management
+
+abstract: 
+A computer-readable medium causes a computer to operate as a server for managing the development of software by a software development team. Stored on this computer readable medium is a computer program which includes an object module and a process execution module. The object module performs operations on a linked object structure that represents a software development project. The process execution module has one interface that interacts with the object module and has another interface that interacts over a communication network with personal computers of the team members. By this interaction, the phases of each project are started in a non-fixed, non-predictable sequence by?1) sensing when all the tasks, that are represented by an entry set of CRITERIALIST_ITEM objects, are completed, and 2) sending a notice to begin the phase of the project which is related to the one entry set.

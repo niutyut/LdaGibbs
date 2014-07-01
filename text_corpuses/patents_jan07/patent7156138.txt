@@ -1,0 +1,4 @@
+title: Pneumatic tire with belt ply having composite topping rubber layer
+
+abstract: 
+A pneumatic tire includes a carcass extending between bead portions through a tread portion and sidewall portions and a belt disposed radially outside the carcass in the tread portion, the belt constituting at least one belt ply made of parallel cords embedded in a composite topping rubber layer, the composite topping rubber layer formed from at least two kinds of topping rubbers having different complex elastic moduli, and the topping rubbers alternately disposed in a a circumferential direction of the tire.

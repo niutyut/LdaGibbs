@@ -1,0 +1,4 @@
+title: Continuous manufacturing system for composite aluminum panels
+
+abstract: 
+A continuous manufacturing system for composite aluminum panels comprises a continuous expanding device for expanding a raw material of a core and a main body of a continuous manufacturing system of composite aluminum panels. The continuous expanding device consists of a cramp for holding raw material, a raw material supplier, a number of sliding rods for sliding raw material and the core, a subsidiary cramp that reciprocates from side to side and ascends and descends on racks, a cramp for expanding a raw material and a roller running idle transferring to the main body. The main body consists of a supplying part for providing top and bottom aluminum plates, a supplying part for providing adhering materials, a combination part comprising the upper and lower rollers and a hot pressing part comprising rollers for hot pressing and supporting are provided.

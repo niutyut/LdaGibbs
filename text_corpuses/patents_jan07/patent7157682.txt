@@ -1,0 +1,4 @@
+title: Method and apparatus for a CMOS image sensor with a distributed amplifier
+
+abstract: 
+A CMOS image sensor circuit having a distributed amplifier is disclosed. The CMOS image sensor circuit is constructed using a photo sensor that converts light intensity to into voltage, a reset transistor to charge the photo sensor, and a distributed amplifier to detect and read out the voltage value created by the photo sensor. The distributed amplifier is distributed in the sense that portions of the amplifier circuitry reside within individual pixel circuits that form a CMOS image sensor array. The remainder of the amplifier resides in a column read out circuit that is at the bottom of the CMOS image sensor array.

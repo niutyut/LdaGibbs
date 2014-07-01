@@ -1,0 +1,4 @@
+title: System and method for balancing video encoding tasks between multiple processors
+
+abstract: 
+System and method for balancing video encoding tasks between multiple processors. The method may include receiving a real time video stream, performing picture level and upper processing on a main processor, executing a macroblock loop in parallel on a main processor and a co-processor, wherein executing includes processing a first group of video encoding tasks on the main processor and processing a second group of video encoding tasks on the co-processor, and outputting an encoded version of the real time broadcast. The method may be implemented on a system that includes a main processor, a co-processor, and an interface to receive the real time video stream, each coupled to one or more buses. The encoding may be performed according to the well known Moving Pictures Experts Group (MPEG) standards.

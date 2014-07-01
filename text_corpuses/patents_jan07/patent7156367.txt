@@ -1,0 +1,4 @@
+title: Gas control knob that is operated manually or automatically
+
+abstract: 
+A gas control knob includes a main body having a gas inlet hole and a gas outlet hole, a throttling cock rotatably mounted in the main body to regulate the gas flow rate between the gas inlet hole and the gas outlet hole of the main body, a rotation lever rotatably mounted on the main body to rotate the throttling cock, and a motor mounted on a fixing bracket to drive a transmission mechanism automatically which drives a clutch mechanism to drive and rotate the rotation lever to rotate the throttling cock. Thus, the gas control knob is operated manually or automatically, thereby facilitating a user operating the gas control knob.

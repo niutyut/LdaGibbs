@@ -1,0 +1,4 @@
+title: Processes for making protein hydrolysates from animal peptone and for preserving mucosa
+
+abstract: 
+A process for hydrolyzing products with enzymatic activity remaining in peptone solutions after mucosa hydrolysis is provided along with a process for preserving mucosa tissue. Broadly, the processes are carried out by hydrolyzing mucosa tissue according to conventional heparin manufacturing processes wherein an excess quantity of proteolytic enzymes is used. The resulting peptone solution is then contacted with proteins or protein-containing materials in order to hydrolyze the proteins. In another embodiment, mucosa tissue is preserved by mixing it with a preserving agent selected from the group consisting of hydrogen peroxide and phosphoric acid. The product preserved by hydrogen peroxide is low in ash, stable for at least a week, and has a reduced odor.

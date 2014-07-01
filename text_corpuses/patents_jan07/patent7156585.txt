@@ -1,0 +1,4 @@
+title: Method and apparatus for drawing a mole through a composition
+
+abstract: 
+A method of advancing a mole to define a passageway through a composition between first and second locations spaced from each other a substantial first distance. The method includes the steps of: attaching the mole to a cable; providing a support; providing a cable pulling assembly on the support; and operating the cable pulling assembly to cause a pulling force on the cable to be continuously applied through the cable pulling assembly to the cable and therethrough to the mole to thereby cause the mole to be advanced in a path a substantial second distance at least partially over the first distance between the first and second locations.

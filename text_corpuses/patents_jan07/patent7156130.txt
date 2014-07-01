@@ -1,0 +1,4 @@
+title: Toner filling device and toner production management system
+
+abstract: 
+There is provided a toner container filling device and a toner production management system. The toner container filling device is installed at a toner container filling base and is able to fill a toner container with toner automatically, and obtain information about the toner container filling process while filling the toner container with toner. The toner production management system receives the information from the toner container filling device, and determines the amount of toner to be produced at a toner production base and time of delivering toner to the toner container filling base according to the received information.

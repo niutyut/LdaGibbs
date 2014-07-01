@@ -1,0 +1,4 @@
+title: Integrated torsion bar liftgate
+
+abstract: 
+A method and apparatus for coupling a liftgate panel on a vehicle body for pivotal movement along a path between open and closed positions. A mounting includes hinge sets formed from two hinge leafs, at least one torsion rod extending through aligned pivot portions on each hinge set. Preferably, each hinge set is integrally formed with a common torsion pin by retainers holding ends of the torsion pin with respect to one leaf of each of the hinge sets. In a preferred embodiment, a return bent end of a common torsion pin is received in a first leaf of one of at least two hinge sets, while the other end of the rod is return bend and retained in a second leaf catch that receives an arm throughout a limited portion of the liftgate path between closed and open positions.

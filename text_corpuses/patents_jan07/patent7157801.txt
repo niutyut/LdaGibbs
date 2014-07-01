@@ -1,0 +1,4 @@
+title: Device and a method for thermal sensing
+
+abstract: 
+A device for thermal sensing is disclosed based on one thermopile. The cold junctions of the thermopile are coupled thermally to a first channel comprising a first substance while the hot junctions of the thermopile are coupled thermally to a second channel comprising a second substance, the first and the second channel are separated and thermally isolated one from another. The device can further comprise a membrane to thermally and electrically isolate the thermopile and to mechanically support the thermopile. Particularly a liquid rubber, i.e., ELASTOSIL LR3003/10A, B can be used as a membrane material. Further disclosed is a method for fabricating such a device using micromachining techniques.

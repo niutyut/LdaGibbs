@@ -1,0 +1,4 @@
+title: Selective estrogen receptor modulators
+
+abstract: 
+The present invention relates to compounds and derivatives thereof, their synthesis, and their use as estrogen receptor modulators. The compounds of the instant invention are ligands for estrogen receptors and as such may be useful for treatment or prevention of a variety of conditions related to estrogen functioning including: bone loss, bone fractures, osteoporosis, cartilage degeneration, endometriosis, uterine fibroid disease, hot flashes, increased levels of LDL cholesterol, cardiovascular disease, impairment of cognitive functioning, cerebral degenerative disorders, restenosis, gynecomastia, vascular smooth muscle cell proliferation, obesity, incontinence, and cancer, in particular of the breast, uterus and prostate.

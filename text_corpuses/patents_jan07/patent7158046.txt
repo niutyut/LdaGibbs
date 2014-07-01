@@ -1,0 +1,4 @@
+title: System and method for radio frequency tag group select
+
+abstract: 
+A master entity is capable of broadcasting commands to slaves which move to another state when they satisfy a primitive condition specified in the command. By moving slaves among three sets, a desired subset of slaves can be isolated in one of the sets. This desired subset of slaves ten can be moved to one of the states that is unaffected by commands that cause the selection of other desirable subsets of slaves. In the incorporated U.S. Pat. Nos. 5,550,547 and 5,673,037, certain subgroups of radio frequency tags are selected for querying, communicating, and/or identifying by commands from a base station.

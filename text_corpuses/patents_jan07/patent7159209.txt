@@ -1,0 +1,4 @@
+title: Inter-application validation tool for use in enterprise architecture modeling
+
+abstract: 
+A device for modeling an integrated enterprise includes a first tool for constructing a model of the integrated enterprise and a second tool for analyzing inter-application call sets contained in the constructed model. The second tool analyzes a selected inter-application call set by constructing a data attribute matrix having a row for each data attribute contained in at least one of the inter-application calls and a column for each one of the inter-application calls. The data attribute matrix is then marked to indicate which ones of the data attributes are contained in which ones of the selected inter-application calls. The constructed data attribute matrix may then be analyzed to identify improper association of data attributes with calls.

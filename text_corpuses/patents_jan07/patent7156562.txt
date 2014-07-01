@@ -1,0 +1,4 @@
+title: Opto-electronic module form factor having adjustable optical plane height
+
+abstract: 
+An apparatus opto-electronic module that is flexible in design such that components of different types and dimensions can be incorporated into the module without straying from certain mechanical standards requirements is described. Generally, an opto-electronic module of the present invention includes a first substrate that supports an opto-electronic device and thereby the optical port, a second substrate that includes the electrical port, and a flexible connector that electrically connects the first and second substrates. The flexible connector allows for the first substrate and the second substrate to be positioned in various orientations with respect to each other so that optical and electrical components of various sizes can be utilized and still remain in compliance with a set of mechanical standards.

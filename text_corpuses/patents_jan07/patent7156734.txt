@@ -1,0 +1,4 @@
+title: Systems and methods for resolving a hand of blackjack that results in a push
+
+abstract: 
+Systems and methods are provided for resolving a hand of blackjack played by a player. If it is determined that the hand of blackjack has resulted in a push, then it is determined if the player has won the hand of blackjack based on a random outcome. For example, a dealer may receive from the player an indication of a wager amount associated with a hand of blackjack. The hand of blackjack may then be played according to traditional rules. If it is determined that the hand has resulted in a push, an indication of a random outcome may be received. The random outcome may be, for example, statistically independent of the hand of blackjack. Based on the random outcome, it is determined if the player has won the hand of blackjack. If the player has won, he or she receives payment of a winning amount based on the wager amount.

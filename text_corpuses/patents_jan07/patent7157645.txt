@@ -1,0 +1,4 @@
+title: Coaxial cables having improved smoke performance
+
+abstract: 
+A coaxial cable includes an elongate inner conductor. A dielectric layer surrounds the inner conductor. A first outer conductor surrounds the dielectric layer and has perforations defined therein. A second outer conductor surrounds the first outer conductor. A polymeric jacket surrounds the second outer conductor. The cable is adapted such that, when the dielectric layer is melted, at least a portion thereof and/or smoke therefrom can flow through the perforations in the first outer conductor. According to some embodiments, the second outer conductor defines a plurality of voids therein and, when the dielectric layer is melted, at least a portion thereof and/or smoke therefrom can flow through the perforations in the first outer conductor and into the voids. According to some embodiments, the second outer conductor is braided.

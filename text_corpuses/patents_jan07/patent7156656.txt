@@ -1,0 +1,4 @@
+title: Bleaching device using electro-optical and chemical means namely in the medical and dental field
+
+abstract: 
+A device for bleaching a part of the human body has a wave-current generator, a plurality of electrodes and a conductive gel. The conductive gel is maintained in contact with the part of the body. An active product is cooperative with the gel so as to be activated under the presence of light or heat. A conductive circuit and a resistor define poles of the electrodes on the container of the conductive gel and the part of the body. The photosensitive bleaching product is activated by applying photonic energy of a wavelength of 400 to 500 nanometers.

@@ -1,0 +1,4 @@
+title: Modular computer
+
+abstract: 
+The invention concerns a computer comprising a central unit, an input device, a communication interface with a remote network and display and/or sound reproduction means. The invention is essentially characterised in that the computer can consist of elements already existing in the user's surroundings (for example, portable telephone, television).

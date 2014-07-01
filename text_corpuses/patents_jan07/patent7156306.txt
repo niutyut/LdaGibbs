@@ -1,0 +1,4 @@
+title: Computer operation control and item selection and vending methods and systems
+
+abstract: 
+A signal is transmitted into a computer in response to an image on a display screen of the computer such that the computer operates in response to the signal; this includes moving a scanner in optical communication with the display screen such that the scanner detects an image (for example, a bar code) displayed on the screen and generates the signal in response. One or more computers may be used, and this may be used for vending a product or other purposes. With or without such scanning, a portion of a store environment may be displayed on a screen of a computer, including showing images of actual products for sale at the store, in which images of actual products are accessed via the computer from a database containing in-store images recorded in the store during a period of non-existent or minimal customer presence in the store. A vending system is also disclosed.

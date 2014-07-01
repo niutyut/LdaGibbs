@@ -1,0 +1,4 @@
+title: Neisserial vaccine compositions and methods
+
+abstract: 
+Methods and compositions for the treatment of microbial infection, and in particular meningococcal disease, comprise a commensal or an extract of a commensal . Further methods and compositions comprise commensal which express genes from virulent strains of and/or heterologous gene products from non-neisserial sources. Such compositions are used in vaccine preparations for the treatment of microbial infection.

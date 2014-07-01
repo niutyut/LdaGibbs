@@ -1,0 +1,4 @@
+title: Method for fabricating encapsulated semiconductor components
+
+abstract: 
+A semiconductor component includes a thinned semiconductor die having protective polymer layers on up to six surfaces. The component also includes contact bumps on the die embedded in a circuit side polymer layer, and terminal contacts on the contact bumps in a dense area array. A method for fabricating the component includes the steps of providing a substrate containing multiple dice, forming trenches on the substrate proximate to peripheral edges of the dice, and depositing a polymer material into the trenches. In addition, the method includes the steps of planarizing the back side of the substrate to contact the polymer filled trenches, and cutting through the polymer trenches to singulate the components from the substrate. Prior to the singulating step the components can be tested and burned-in while they remain on the substrate.

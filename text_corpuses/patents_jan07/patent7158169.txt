@@ -1,0 +1,4 @@
+title: Method and system for displaying content while reducing burn-in of a display
+
+abstract: 
+A method and system for reducing burn-in of a display is disclosed. A plurality of assets containing text, graphics, and video are stored and then gathered. These assets are then assembled into a template to form a video frame or ?screen?, which is subsequently output in a video transport stream or video display. Based upon a trigger, the assets are gathered again and reassembled in a second template to form a second video frame or screen wherein the assets are in positions on the screen, which are different from those of the first screen. The second screen is subsequently output to the video transport stream and the process is repeated.

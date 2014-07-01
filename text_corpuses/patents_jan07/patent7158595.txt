@@ -1,0 +1,4 @@
+title: Apparatus and method for acquiring frame synchronization in a mobile communication system
+
+abstract: 
+A method for acquiring frame synchronization of a broadcast channel (BCH) in an asynchronous mobile telecommunication system. The method according to the invention includes steps of acquiring a system timing through a synchronous channel (SCH), demodulating a primary common control physical channel (PCCPCH) based on the system timing, checking a cyclic redundancy check (CRC) by decoding a predetermined time interval of the demodulated PCCPCH, and acquiring frame synchronization of the BCH by reference to the CRC checked result.

@@ -1,0 +1,4 @@
+title: Interchangeable lens system
+
+abstract: 
+A lens system is provided. The lens system includes a first lens system moveable between a first position removed from an optical axis and a second position on the optical axis. The first lens system includes a first lens element, an aperture stop, and a second lens element positioned in order from an object side to an image side of the lens system. The first lens system has a first focal length. A second lens system is moveable between a first position on the optical axis and a second position removed from the optical axis. The second lens system has a second focal length with the second focal length being greater than the first focal length such that a magnification ratio change results from interchanging the first lens system and the second system on the optical axis.

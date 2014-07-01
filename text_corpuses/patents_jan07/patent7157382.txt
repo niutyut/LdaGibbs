@@ -1,0 +1,4 @@
+title: Method for expanding a trench in a semiconductor structure
+
+abstract: 
+The present invention provides a method for expanding a trench in a semiconductor structure. A trench is provided in a semiconductor substrate, hydrogen-terminated silicon surfaces are provided in the trench, anisotropic wet etching of the silicon surfaces in the trench with an alkaline etchant occur, and the trench is rinsed with a proton-containing neutralizing agent for the removal of the alkaline etchant. Between the wet etching step and the rinsing step, an anodic passivation of the etched silicon surfaces in the trench is carried out, in the course of which an etching stop layer is formed on the etched silicon surfaces in the trench.

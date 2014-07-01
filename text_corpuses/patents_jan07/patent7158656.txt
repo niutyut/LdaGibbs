@@ -1,0 +1,4 @@
+title: Three dimensional object pose estimation which employs dense depth information
+
+abstract: 
+Dense range data obtained at real-time rates is employed to estimate the pose of an articulated figure. In one approach, the range data is used in combination with a model of connected patches. Each patch is the planar convex hull of two circles, and a recursive procedure is carried out to determine an estimate of pose which most closely correlates to the range data. In another aspect of the invention, the dense range data is used in conjunction with image intensity information to improve pose tracking performance. The range information is used to determine the shape of an object, rather than assume a generic model or estimate structure from motion. In this aspect of the invention, a depth constraint equation, which is a counterpart to the classic brightness change constraint equation, is employed. Both constraints are used to jointly solve for motion estimates.

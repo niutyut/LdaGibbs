@@ -1,0 +1,4 @@
+title: Input device and input and output device
+
+abstract: 
+An input device includes: a sense line; a CS line to which an output voltage is applied; a TFT having a control terminal, a first terminal connected to the sense line, and a second terminal connected to the CS line, the first control terminal being supplied an input signal so that a conductivity between the first and second terminals is controlled; a photo-sensor having a first terminal which is connected to the control terminal of the TFT; and a holding capacitance, connected in parallel to the photo-sensor, having a terminal on an opposite side of the control terminal, to which a holding voltage is supplied, and in the input device, a voltage of the CS line is outputted as a detection signal to the sense line via the TFT.

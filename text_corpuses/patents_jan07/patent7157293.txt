@@ -1,0 +1,4 @@
+title: Method for making a semiconductor light emitting device
+
+abstract: 
+A method for making a semiconductor light emitting device comprises the steps of: (a) forming a plurality of buttresses on a first supporting substrate such that the buttresses are separated by a plurality of intercommunicated spaces thereamong; (b) forming a base layer on top end portions of the buttresses in such a manner that the top end portions of the buttresses are enclosed in the base layer; (c) forming a multi-layered light-emitting structure on the base layer; (d) attaching a second supporting substrate to the light-emitting structure; and (e) separating the first supporting substrate from the light-emitting structure by destroying the buttresses.

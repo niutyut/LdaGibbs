@@ -1,0 +1,4 @@
+title: Apparatus and method for recording URL together with voice message in a browser equipped telephone
+
+abstract: 
+The present invention provides an apparatus and method for, in a browser equipped telephone, transmitting a URL together with a voice message when a called party is set to an answering mode, and allowing URL information to be extracted and passed to the browser when a recorded message is played or reproduced.

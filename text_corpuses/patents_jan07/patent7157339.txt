@@ -1,0 +1,4 @@
+title: Method for fabricating semiconductor devices having dual gate oxide layers
+
+abstract: 
+A method for forming a dual gate oxide layer, including the steps of: a) forming a gate oxide layer on a semiconductor substrate; and b) increasing a thickness of a part of the gate oxide layer by performing a decoupled plasma treatment. Additional heat processes are not necessary because the dual gate oxide layer is formed with the decoupled plasma. Also, the channel characteristic of the semiconductor device can be ensured because the silicon substrate is not damaged. Furthermore, because the threshold voltage in the cell region is increased without additional channel ion implantation, the electrical characteristic of the semiconductor device can be enhanced.

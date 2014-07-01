@@ -1,0 +1,4 @@
+title: Slinger and wear sleeve seal assembly
+
+abstract: 
+A seal assembly provides a rotating portion and a rotationally fixed portion. The rotating portion includes a running sleeve, a slinger segment and an upper seal segment. The slinger segment radially extends outward of the fixed portion so as to protect the fixed portion. The fixed portion includes a press fit outer diameter which is pressed into an opening located within the assembly. A seal mount segment located receives a resilient annular seal which rides upon the running sleeve and the upper seal segment.

@@ -1,0 +1,4 @@
+title: Prioritized interrupt for waveform measurement
+
+abstract: 
+An interrupt request is asserted in anticipation of a period of latency preceding preparedness of a power meter data processing device to sample a voltage or current enabling the use an interrupt to control the data processing device's performance of real-time sampling in combination with other tasks related to the power meter's operation.

@@ -1,0 +1,4 @@
+title: Contact having multiple contact beams
+
+abstract: 
+An electrical socket is provided that holds an array of contacts. Each contact includes first and second contact elements that are configured to be joined in an electrically common manner. The first and second contact elements have first and second contact beams, respectively, that are oriented to project toward one another and to overlap. The first and second contact elements each have base portions that are formed separate from one another and are configured to be joined to a common conductive path on the circuit board.

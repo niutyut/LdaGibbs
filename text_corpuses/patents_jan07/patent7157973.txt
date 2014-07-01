@@ -1,0 +1,4 @@
+title: Layout technique for matched resistors on an integrated circuit substrate
+
+abstract: 
+Provided a method of reducing impedance variations in an electrical circuit structured and arranged for placement on an integrated circuit (IC) substrate. The method includes forming sets of parallel connected resistors, each set corresponding to one of the impedance devices on the IC. Each set also includes two or more parallel resistor paths, each resistor path including two or more cascaded resistors and has a total impedance value substantially equal to the predetermined impedance value of its corresponding impedance device. Finally, the method includes configuring the sets of parallel resistor paths to form an interdigital structure across the substrate when the electrical circuit is placed on the IC.

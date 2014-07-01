@@ -1,0 +1,4 @@
+title: Tire demounting tool
+
+abstract: 
+A tire demounting tool for demounting a second bead of a tire from a rim having a flange, the tire demounting tool including a handle; a head extending radially outward as it extends axially outward from the handle; a bill extending axially outward from the head, wherein the bill includes a tip insertable between the second bead and the rim and wherein the head extends radially outward relative to the bill to capture the second bead when the bill is inserted between the rim and the second bead.

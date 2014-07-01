@@ -1,0 +1,4 @@
+title: Image forming apparatus with toner concentration controller
+
+abstract: 
+An image forming apparatus includes a toner concentration detector for detecting the toner concentration within a two-component developing unit, a toner supply unit for supplying a toner into the developing unit, a storage unit for sequentially holding and updating a history of a toner supply operation for a certain period of time, and a toner concentration control unit for determining the time of the toner supply operation by the toner supply unit, based on information stored in the storage unit and a difference between an output value of the toner concentration detector and a reference value, and maintaining the toner concentration constant.

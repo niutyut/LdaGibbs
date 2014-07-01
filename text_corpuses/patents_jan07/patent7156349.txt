@@ -1,0 +1,4 @@
+title: Artificial satellite
+
+abstract: 
+A plurality of panels are coupled rotatably by a hinge mechanism. The panels are folded when a rocket loaded with the panels is launched and unfolded in space after the artificial satellite is released. Each of the panels is loaded with at least functional elements such as a solar panel, a battery, an attitude control device and a communication device separately or together. The devices loaded on the panels are electrically connected to each other.

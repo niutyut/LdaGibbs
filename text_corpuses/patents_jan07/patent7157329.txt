@@ -1,0 +1,4 @@
+title: Trench capacitor with buried strap
+
+abstract: 
+A trench capacitor with improved strap is disclosed. The strap is located above the top surface of the capacitor. The top surface of the trench capacitor, which is formed by the top surfaces of the collar and storage plate, is planar. By locating the strap on a planar surface, the divot present in conventional strap processes is avoided. This results in improved strap reliability and device performance.

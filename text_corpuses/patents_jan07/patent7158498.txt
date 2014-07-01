@@ -1,0 +1,4 @@
+title: Interleaver and deinterleaver for use in a diversity transmission communication system
+
+abstract: 
+Methods and apparatuses for transmitting and receiving enhance the performance of a system utilizing interleaving and transmit diversity by reordering the sequence of symbols transmitted along the different transmission channels. This enhancement is accomplished by providing different shuffling functions in conjunction with the interleavers and deinterleavers used with different transmission channels, which decreases the probability of loss of sequential symbols when transmission channels or antennas become correlated.

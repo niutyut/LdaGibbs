@@ -1,0 +1,4 @@
+title: Expendables container capable of measuring residual amount of expendables
+
+abstract: 
+This invention is an apparatus configured to receive expendable from an expendable container with a piezoelectric element attached. This apparatus has a detection signal generation circuit configured to charge and discharge the piezoelectric element, and generate a detection signal including information representing a cycle of remaining vibration of the piezoelectric element after a lapse of a predetermined standby time from a completion of the discharge; and a controller configured to generate a clock signal, and control the charge and the discharge of the piezoelectric element. The cycle is available for determining whether a residual quantity of the expendable is greater than a preset level. The controller is configured to determine the predetermined standby time by counting a number of pulses in the clock signal.

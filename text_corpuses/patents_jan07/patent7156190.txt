@@ -1,0 +1,4 @@
+title: Impact tool
+
+abstract: 
+An impact tool has a slidable hammer that is driven by hydraulic oil under pressure inside a chamber. The hydraulic oil is pressurized by a piston driven by compressed gas on the opposite side of the piston from the hydraulic oil. The gas in the gas chamber is compressed by the piston on an initial stroke, and has a large annular chamber holding the gas so that higher average gas pressure can be attained during the power stroke. As the piston is moved to compress the gas, the piston lifts a valve that opens a passage for the hydraulic oil moved by the piston to act on a hammer to impact a breaking tool. The piston is a two part piston that serves to lower the inertia during the final closing of the valve, and thereby reduces impact loads on the valve as it is closed. The valve also is controlled as to its stroke for efficient operation.

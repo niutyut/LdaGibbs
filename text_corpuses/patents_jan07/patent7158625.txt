@@ -1,0 +1,4 @@
+title: Method and apparatus for automatically terminating a call
+
+abstract: 
+Systems and techniques for automatically terminating a call in a communications system involve a first subscriber unit originating a call to a second subscriber unit and terminating the call when the second subscriber unit rings.

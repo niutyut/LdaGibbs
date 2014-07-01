@@ -1,0 +1,4 @@
+title: Test pattern for testing resistance of pattern of semiconductor substrate
+
+abstract: 
+A test pattern includes a test wiring pattern on a lower surface of a substrate. First, second, third and fourth upper patterns are formed on an upper surface of the substrate. First, second, third and fourth electrodes are formed respectively on the first, second, third and fourth upper patterns. The first and second electrodes are for connection to first and second test probes. First and second via-holes are formed through the substrate respectively to connect the first and second upper patterns electrically to one end of the test wiring pattern. Third and fourth via-holes are formed through the substrate respectively to connect the third and fourth upper patterns electrically to another end of the test wiring pattern.

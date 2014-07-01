@@ -1,0 +1,4 @@
+title: SERS-active structures including nanowires
+
+abstract: 
+A SERS-active structure is disclosed that includes a substrate and at least one nanowire disposed on the substrate. The at least one nanowire includes a core including a first material and a coating including a SERS-active material. A SERS system is also disclosed that includes a SERS-active structure. Also disclosed are methods for forming a SERS-active structure and methods for performing SERS with SERS-active structures.

@@ -1,0 +1,4 @@
+title: Floating-gate field-effect transistors having doped aluminum oxide dielectrics
+
+abstract: 
+Doped aluminum oxide layers having a porous aluminum oxide layer and methods of their fabrication. The porous aluminum oxide layer may be formed by evaporation physical vapor deposition techniques to facilitate formation of a high-purity aluminum oxide layer. A dopant material is embedded in the pores of the porous aluminum oxide layer and subsequently converted to a dielectric form. The degree of porosity of the porous aluminum oxide layer may be controlled during formation to facilitate control of the level of doping of the doped aluminum oxide layer. Such doped aluminum oxide layers are useful as gate dielectric layers, intergate dielectric layers and capacitor dielectric layers in various integrated circuit devices.

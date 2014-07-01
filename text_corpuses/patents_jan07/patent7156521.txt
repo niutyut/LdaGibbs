@@ -1,0 +1,4 @@
+title: Projector for compensating chromatic aberration of magnification
+
+abstract: 
+A projector having a cross-dichroic prism () synthesizing three kinds of red, green, and blue light emitted from liquid crystal panels (); and a projection lens () projecting the synthesized light and also having polarizing plates () disposed on the optical paths between the corresponding liquid crystal panels () and the cross-dichroic prism () includes a lens element (), serving as an optical element for compensating chromatic aberration of magnification, which is formed on and integrally with one surface of the polarizing plate () disposed on the light path of the red light and which adjusts the size of the projected image screen of the red light extending along at least a predetermined direction so as to be nearly equal to those of the projected image screens of the other kinds of color light extending along the predetermined direction.

@@ -1,0 +1,4 @@
+title: Angled wafer rotating ion implantation
+
+abstract: 
+Ion implantation by mounting a semiconductor wafer on a rotating plate that is tilted at an angle relative to an ion implantation flux. The tilt angle and the ion implantation energy are adjusted to produce a desired implantation profile. Ion implantation of mesa structures, either through the semiconductor wafer's surface or through the mesa structure's wall is possible. Angled ion implantation can reduce or eliminate ion damage to the lattice structure along an aperture region. This enables beneficial ion implantation profiles in vertical cavity semiconductor lasers. Mask materials, beneficially that can be lithographically formed, can selectively protect the wafer during implantation. Multiple ion implantations can be used to form novel structures.

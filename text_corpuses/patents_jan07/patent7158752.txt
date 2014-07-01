@@ -1,0 +1,4 @@
+title: Methods and systems for providing geographic specific services to receivers in a satellite communications network via specific position location and information tagging schemes
+
+abstract: 
+Methods and systems for providing geographic specific services to receivers in a satellite communications network utilizes specific position location and information tagging to provide manual or automatic delivery of such services to the receivers.

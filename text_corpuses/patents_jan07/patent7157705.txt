@@ -1,0 +1,4 @@
+title: Handheld infrared camera
+
+abstract: 
+A handheld infrared camera having a lens assembly, an electric energy source and a handling elements for recording and handling information received via the lens assembly has an essentially elongate housing. The lens assembly is mounted at one end of the housing, the other end portion of which is formed as a user handle, the longitudinal axis of which preferably is inclined relative to the optical axis of the lens assembly to form an angle (?alpha) with the optical axis. There are provided manual control elements for allowing single hand operation of the camera, and a visual control elements is intended to be viewed when holding and operating the camera away from the eye and the body of a user. The camera is advantageously provided with elements for wireless transmission of information from the camera.

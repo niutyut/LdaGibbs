@@ -1,0 +1,4 @@
+title: Hinge assembly for foldable electronic device
+
+abstract: 
+A hinge assembly () for joining a body and a cover of a mobile phone includes an inner housing (), a key (), a pressure spring (), a can (), a slider (), a damper (), an outer housing (), a fastener (), and a torsion-bar spring (). The can includes an acceptor () defining an axial slot () in a peripheral wall thereof, and a protrusion () having a stepped hole. The slider has an adjoining block () received in the stepped hole. One end of the torsion-bar spring is secured onto the fastener, and the other end of the torsion-bar spring is received in the slot. A user presses the key to slidably remove the slider from the stepped hole of the can, whereupon the torsion-bar spring can rotationally drive the slider and the fastener, with the outer housing turning in unison therewith. Thus the cover is opened.

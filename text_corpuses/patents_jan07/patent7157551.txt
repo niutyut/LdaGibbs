@@ -1,0 +1,4 @@
+title: Compositions and methods for the detection and treatment of methylthioadenosine phosphorylase deficient cancers
+
+abstract: 
+Compositions and methods involving agents that specifically bind to methylthioadenosine phosphorylase (MTAP) protein are disclosed. Illustrative compositions comprise binding agents that bind to human MTAP protein in biological samples, including embedded samples. The binding agents are useful, for example, in the detection, prognosis, and/or treatment of MTAP deficient cancers. Also disclosed are kits containing the reagents necessary for the detection of human MTAP protein in an embedded sample.

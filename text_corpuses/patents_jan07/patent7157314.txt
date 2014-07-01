@@ -1,0 +1,4 @@
+title: Vertically stacked field programmable nonvolatile memory and method of fabrication
+
+abstract: 
+A very high density field programmable memory is disclosed. An array is formed vertically above a substrate using several layers, each layer of which includes vertically fabricated memory cells. The cell in an N level array may be formed with N+1 masking steps plus masking steps needed for contacts. Maximum use of self alignment techniques minimizes photolithographic limitations. In one embodiment the peripheral circuits are formed in a silicon substrate and an N level array is fabricated above the substrate.

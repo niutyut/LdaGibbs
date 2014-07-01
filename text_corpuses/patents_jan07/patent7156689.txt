@@ -1,0 +1,4 @@
+title: Dual wire connector with multiple press fit connection
+
+abstract: 
+An electrical connector includes a nonconductive center housing and a plurality of substantially planar contacts situated within the housing. Each of the contacts includes an insulation displacement section, and at least one stuffer is slidably mounted to the housing and configured to engage a primary wire to more than one of the insulation displacement sections.

@@ -1,0 +1,4 @@
+title: Antenna apparatus with inner antenna and grounded outer helix antenna
+
+abstract: 
+A dual-band cellular telephone antenna. A monopole antenna is tuned to a first resonant frequency of operation. A first helical antenna is coupled to the monopole antenna and has turns surrounding the monopole antenna, where the first helical antenna is tuned to a second resonant frequency of operation. A grounded second helical antenna surrounds the first helical antenna and is formed to have an upper capacitive loading segment to tune the grounded second helical antenna at substantially the second resonant frequency of operation. The cellular telephone has a housing formed of a conductive material. A printed circuit board (PCB) has a metalized ground plane, wherein the metalized ground plane and the grounded second helical antenna are coupled to the cellular telephone housing.

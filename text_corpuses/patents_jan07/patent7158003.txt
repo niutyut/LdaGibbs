@@ -1,0 +1,4 @@
+title: Construction of medium voltage power line data couplers
+
+abstract: 
+There is provided an inductive coupler for coupling a data signal to a phase line of a power line. The inductive coupler includes a split magnetic core having an aperture formed by an upper magnetic core and a lower magnetic core. The aperture permits the phase line to pass therethrough as a primary winding, the upper magnetic core is for making electrical contact with an outer surface of the phase line, and the lower magnetic core makes electrical contact with the upper magnetic core.

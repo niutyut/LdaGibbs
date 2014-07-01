@@ -1,0 +1,4 @@
+title: Method and apparatus for generating a seed set in a data dependent seed selector
+
+abstract: 
+A communications channel includes a buffer that receives user data symbols including a plurality of M-bit symbols. A seed selector receives the plurality of M-bit symbols, selectively removes symbols from a seed set based on Hamming distances between at least two of the M-bit symbols, and selects a scrambling seed from remaining symbols in the seed set. A scrambling device that communicates with the seed selector and the data buffer generates scrambled user data based on the user data symbols and the scrambling seed. The communications channel is implemented in a data storage system. The seed selector ensures a minimum Hamming weight of 15 percent in the scrambled user data. The seed selector compares first and second user data symbols in the plurality of M-bit symbols.

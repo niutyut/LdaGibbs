@@ -1,0 +1,4 @@
+title: Electronic device having a keyboard rotatable about an axis
+
+abstract: 
+An electronic device having a housing which supports a processor, a memory device, a display device and a keyboard. The housing has a support member which enables the keyboard to move about an axis. The axis extends between the ends of the keyboard.

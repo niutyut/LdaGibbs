@@ -1,0 +1,4 @@
+title: Needleless syringe with membrane isolating a multiple duct injector
+
+abstract: 
+The invention concerns the field of needleless syringe having an injector with several ducts. The problem that needs to be solved is the long term compatibility of the injector with the liquid active principle. For that purpose the syringe () comprises a cylindrical reservoir (), closed at its upstream part by a closure element () capable of being moved by driving means (), and closed at its downstream part by an injector () comprising at least an injection duct and said reservoir being secured to the body () of the syringe, said syringe is such that the diaphragm (), compatible with the active principle, isolates the latter from the injector () and said diaphragm can be passed through by the liquid () when pressurised for injection.

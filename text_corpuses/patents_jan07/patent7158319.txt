@@ -1,0 +1,4 @@
+title: Imaging lens system
+
+abstract: 
+It is to provide an imaging lens system which, while reduced in size and weight, can fully meet the demand for more improvement in the optical performance and also improvement in the productivity. The imaging lens system comprises, in order from an object side towards an image surface side, a diaphragm, a first lens which is a meniscus lens having a positive power whose concave surface facing the object side, and a second lens which is a meniscus lens having a negative power whose convex surface facing the image surface side, wherein the Abbe number of the second lens is set smaller than the Abbe number of the first lens.

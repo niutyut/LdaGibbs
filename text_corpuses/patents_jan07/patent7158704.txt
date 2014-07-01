@@ -1,0 +1,4 @@
+title: Image fiber
+
+abstract: 
+An image fiber includes an image fiber body having a twisted portion which is formed by heating, softening, and twisting a portion of the image fiber body. The rate of twist in the twisted portion is made to be constant. Moreover, the rate of twist may preferably be set in a range from 1?/mm to 4000?/mm. In addition, the rate of twist at the beginning portion of the twisted portion and the rate of twist at the end portion of the twisted portion may preferably be set in a range from 3?/mm to 400?/mm. The twisted portion may be provided with a protective element.

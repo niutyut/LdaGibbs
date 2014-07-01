@@ -1,0 +1,4 @@
+title: Projection type video display and method of adjusting the same at factory shipping
+
+abstract: 
+A microcomputer performs image drawing processing of a projection video for adjustment by an OSD (On-Screen Display) circuit when it detects the press of an adjustment command key. The projection video for adjustment is an image having a black-and-white area high in contrast formed therein. The projection video for adjustment is picked up by a CCD line sensor in a sensor. A microcomputer has its input an image pick-up signal from the CCD line sensor, to make focusing adjustment and trapezoidal distortion correction on the basis of the image pick-up signal.

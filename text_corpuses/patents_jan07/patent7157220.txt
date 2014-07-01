@@ -1,0 +1,7 @@
+title: Silver halide photosensitive material and photothermographic material
+
+abstract: 
+The present invention provides a silver halide photosensitive material and a photothermographic material having, on at least one side of a support, at least a photosensitive silver halide, a non-photosensitive organic silver salt, and a reducing agent for the organic silver salt, wherein the silver halide photosensitive material and the photothermographic material contain a phthalocyanine compound represented by the following formula (PC-1):
+
+
+wherein, M represents a hydrogen atom or a metal atom; R, R, R, R, R, R, R, and Reach independently represent a hydrogen atom or a substituent; at least one of R, R, R, R, R, R, R, and Rrepresents an electron-attracting group; and R, R, R, R, R, R, R, and Reach independently represent a hydrogen atom or a substituent.

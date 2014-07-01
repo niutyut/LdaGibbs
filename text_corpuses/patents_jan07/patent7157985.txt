@@ -1,0 +1,4 @@
+title: PLL modulation circuit and polar modulation apparatus
+
+abstract: 
+First and second calibration signals () are sent to a frequency divider () and an adder () of a PLL section (A), demodulated in a demodulator (), filtered through a low pass filter () and a high pass filter () and thereafter sent to a modulation signal control circuit (). The modulation signal control circuit () generates control information () in comparison with the phase and amplitude of the first and second calibration signals ( and ) and sends the control information () to a modulation control signal generator (). Modulation control signal generator () holds the control information () and controls the values of the first modulation signal and second modulation signal sent to the frequency divider () and adder () on the based on the control information () held in modulation operation.

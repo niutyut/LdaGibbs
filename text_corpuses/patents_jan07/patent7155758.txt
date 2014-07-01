@@ -1,0 +1,4 @@
+title: Bathtub liquid dispensing system
+
+abstract: 
+A bathtub liquid dispensing system for dispensing a mixture of water and a household liquid, such as soap, shampoo and bath oil through an outlet such as a faucet of a bathtub. The bathtub liquid dispensing system comprises a bathtub having an outlet, a storage unit for storing at least one household liquid operatively connected to a bathtub water supply, and a control for connecting and disconnecting the storage unit from the bathtub water supply. In a first aspect of the invention the liquid is introduced into the bathtub water system by a venturi. In a second aspect of the invention, the storage unit is positioned above the bathtub and is introduced by gravity. The control is normally biased to an ?off? position.

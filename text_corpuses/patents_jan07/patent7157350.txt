@@ -1,0 +1,4 @@
+title: Method of forming SOI-like structure in a bulk semiconductor substrate using self-organized atomic migration
+
+abstract: 
+Bulk silicon is transformed into an SOI-like structure by annealing. Trenches are formed in a bulk substrate to define device sites. The lower portions of the trenches are annealed at low pressure in a hydrogen atmosphere. This transforms the lower trench portions to expanded, spheroidal voids that extend under the device sites. Neighboring voids each reside about half way under an intervening site. A silicon-consuming process forms a liner on the walls of the voids, with the liners on neighboring voids abutting to isolate the intervening device site from the substrate and other device sites.

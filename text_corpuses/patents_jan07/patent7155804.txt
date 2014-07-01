@@ -1,0 +1,4 @@
+title: Method of forming an electric motor
+
+abstract: 
+A stator is provided for an electrical device (e.g., a motor) comprised of one or more stator segments formed by the compaction of one or more powdered metallic materials. Each stator section has at least one tooth that forms a substantially toroidal path for magnetic flux entering and leaving the stator segment. Each stator segment also has a continuous insulated electrical winding that is associated with the stator segment such that a magnetic field is induced in the stator segment when a current is passed through the continuous insulated electrical winding. The current that is passed through the continuous insulated electrical winding of any one stator segment is not of the same electrical phase as the current that is passed through the winding of any adjacent stator segment.

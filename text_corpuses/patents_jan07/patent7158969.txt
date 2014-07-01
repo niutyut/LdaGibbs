@@ -1,0 +1,4 @@
+title: Iterative data analysis process via query result augmentation and result data feedback
+
+abstract: 
+The present invention is generally directed to a system, method and article of manufacture for accessing data represented abstractly through an abstraction model. In one embodiment, a data abstraction model provides a logical view of an underlying data repository that is independent of the particular manner of data representation. For a given abstract query, the abstract query is augmented with additional computer-selected result fields. In addition, the data abstraction model is also augmented with fields corresponding to the result fields of the previously executed abstract query.

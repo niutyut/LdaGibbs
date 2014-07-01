@@ -1,0 +1,4 @@
+title: Manufacturing process of aluminum support for planographic printing plate, aluminum support for planographic printing plate, planographic printing plate material and image formation process
+
+abstract: 
+A process for manufacturing an aluminum support for a planographic printing plate material, the process containing the steps of: (a) electrolytically surface-roughening an aluminum plate in an electrolyte solution containing hydrochloric acid as a main component; and (b) anodizing the surface-roughened aluminum plate, wherein the step (a) contains: (i) a first stage which surface-roughens the aluminum plate employing a sine-wave alternating current; and (ii) a second stage which surface-roughens the aluminum plate employing a controlled sine-wave alternating current using a thyristor so that a current flow starts at a phase angle of 60 to 120 degree of an alternating current cycle.

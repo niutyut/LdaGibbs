@@ -1,0 +1,4 @@
+title: Visual display system for displaying virtual images onto a field of vision
+
+abstract: 
+An optically transparent, ghost-free visual display system that superimposes a virtual image comprising graphical or textual information onto a field of vision. Embodiments of the visual display system utilize illumination and optical components that introduce a virtual image onto a field of vision while minimally obstructing and/or attenuating other objects within the field of vision. Embodiments of the visual display system can be used in numerous applications, including head-up displays (?HUDs?) for automotive, tracked and rail-mounted vehicles, marine, aerospace applications, see-through speech prompt displays, and see-through projection displays.

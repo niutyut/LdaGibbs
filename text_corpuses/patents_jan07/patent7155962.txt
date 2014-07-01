@@ -1,0 +1,4 @@
+title: Method and apparatus to study a surfactant
+
+abstract: 
+The invention relates to a method of and an apparatus for studying properties, especially physical properties of a surfactant. A fluid is introduced in the form of a sample volume in another fluid which is immiscible with said fluid so that an interface is formed between the one fluid and the other fluid, at least in a partial area of a surface of the sample volume. The sample volume is configured so as to be axially symmetrical around a given defining axis, whereby the interface is formed axially symmetrically with respect to the given defining axis. The surfactant is spread across the interface to form a surface film in the area of the interface with the surfactant. Thereupon the surface film can by studied microscopically.

@@ -1,0 +1,4 @@
+title: System and method for providing interface compatibility between two hierarchical collections of IC design objects
+
+abstract: 
+A system and method for providing interface compatibility between two hierarchical collections of integrated circuit (IC) design objects. Upon establishing an associative correspondence between a design object from a first hierarchical collection and a design object from a second hierarchical collection, a port compatibility map is generated based on determination that a particular associative correspondence includes a pair of design objects, one from each hierarchical collection, that are port-compatible. Thereafter, the port compatibility map is reduced to determine a set of design object pairs that allow interface-compatible replaceability between the first and second hierarchical collections.

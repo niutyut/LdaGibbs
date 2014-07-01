@@ -1,0 +1,4 @@
+title: Implement grip
+
+abstract: 
+A cushioned implement grip for an hand held implement which serves the dual purposes of increased user comfort and providing an improved gripping surface to better hold the implement. The grip is a generally tapered cylindrical shape and may further include gripping rings as raised or indentation structures on the surface of the grip. The invention may be slid on to the implement outer surface proximate the gripping end of the implement for use with an existing device. Alternatively, the grip may be formed integrally with or assembled onto an implement during manufacture or assembly.

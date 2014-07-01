@@ -1,0 +1,4 @@
+title: Control system with customizable menu structure for personal mobility vehicle
+
+abstract: 
+A wheelchair assembly comprises a wheelchair. A plurality of modules is provided on the wheelchair. An input device is provided on the wheelchair. A controller includes a display having a displayed menu. The controller is responsive to the input device for selectively changing the displayed menu and for selectively causing the controller to operate the plurality of modules.

@@ -1,0 +1,4 @@
+title: Method and apparatus for detecting biomolecular interactions
+
+abstract: 
+Method and apparatus for detecting biomolecular interactions. The use of labels is not required and the methods may be performed in a high-throughput manner. An apparatus for detecting biochemical interactions occurring on the surface of a biosensor includes a light source. A first optical fiber is coupled to the light source and illuminates the biosensor. A second optical fiber detects a wavelength reflected from the biosensor. A spectrometer determines spectra of a reflected signal from the biosensor.

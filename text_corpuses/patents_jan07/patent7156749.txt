@@ -1,0 +1,4 @@
+title: Golf club set and golf club shaft set
+
+abstract: 
+Disclosed is a golf club set having harmonized golf club performance among the club numbers. In the golf club set, for at least three golf clubs, a ratio or a sum of a frequency, the frequency being measured by vibrating a tip portion of a golf club shaft constituting each of the golf clubs, and a frequency, the frequency being measured by vibrating a rear end portion of the golf club shaft, is determined in relation with order of the club number.

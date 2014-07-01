@@ -1,0 +1,4 @@
+title: Liquid injector
+
+abstract: 
+Provided is a liquid injecting apparatus equipped with a liquid injecting head, which is mounted on a carriage and moved reciprocally in a widthwise direction of a target, and a valve unit, which is mounted on the carriage to be supplied with liquid via a supply passage from a liquid retainer and to supply liquid to the liquid injecting head. The valve unit has a pressure chamber connected to the liquid retainer via the supply passage; a valve, which opens or closes the supply passage to supply liquid to the pressure chamber; and a flexible film member, which is displaced based on a negative pressure generated as liquid in the pressure chamber decreases to thereby operate the valve.

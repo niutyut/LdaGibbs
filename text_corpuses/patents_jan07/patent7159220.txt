@@ -1,0 +1,4 @@
+title: Flexible acceleration of java thread synchronization on multiprocessor computers
+
+abstract: 
+A method and machine-readable medium measure requests by threads requesting a lock to differentiate ?hot? and ?cold? locks in accordance with the level of contention for the locks. A hardware accelerator manages access to hot locks to improve performance.

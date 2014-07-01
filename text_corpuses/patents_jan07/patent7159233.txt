@@ -1,0 +1,4 @@
+title: Method and apparatus for preprocessing and postprocessing content in an interactive information distribution system
+
+abstract: 
+A method and apparatus for preprocessing and preprocessing content in an interactive information distribution system. Content is retrieved from a storage medium and encapsulated in accordance to an Internet Protocol (IP) format. The encapsulated content is then uploaded for storage in a stream caching server and for future streaming of content to different types of access networks.

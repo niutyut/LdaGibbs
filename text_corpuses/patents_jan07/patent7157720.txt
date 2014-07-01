@@ -1,0 +1,4 @@
+title: Multi-mode charged particle beam device
+
+abstract: 
+A charged particle device is provided comprising a charged particle source configured to direct charged particles in the direction of a specimen under examination and an imaging device configured to convert charged particles to an image representing the specimen. The imaging device comprises a detector defining a pixel array. The detector is configured to generate electric charges for individual pixels of the pixel array such that the electric charges collectively define the image. The imaging device is configured such that a portion of the pixel array can be transitioned between a partially masked state and a substantially unmasked state.

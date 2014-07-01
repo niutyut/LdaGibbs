@@ -1,0 +1,4 @@
+title: Ternary bit line signaling
+
+abstract: 
+A memory device is disclosed having a plurality of dual-bit addressable memory cells. In each memory cell, a first storage circuit for storing a first bit may be activated or de-activated depending upon the state of a second bit stored in a second storage circuit. The second bit may be considered to be a ?don't care? bit, because depending upon the state of the second bit, the first bit may be irrelevant in that it cannot be read. Thus, each memory cell may effectively store three states: zero, one, and don't care.

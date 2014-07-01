@@ -1,0 +1,4 @@
+title: Assembly for removing dust from gas stream
+
+abstract: 
+A dust collection assembly includes a primary collection assembly and a secondary collection assembly and may be connected to a source of gas having dust entrained therein. The primary collection assembly includes a primary duct having an inlet end and an outlet end. A first apparatus is mounted within the primary duct imparts a swirling motion to the gas which enters through the inlet end of the duct. A second apparatus is located downstream of the first apparatus for removing a portion of the dust entrained in the gas. The secondary collection assembly is in fluid communication with the outlet end of the primary collection assembly, and it includes a plurality of filter bags. The dust collection assembly also includes a fan that is in fluid communication with the secondary collection assembly.

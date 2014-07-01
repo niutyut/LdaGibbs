@@ -1,0 +1,4 @@
+title: Exhaust system for small-sized boat
+
+abstract: 
+An exhaust system for a small-sized boat which can efficiently reduce exhaust noises in a low frequency band includes a water muffler provided at one location along exhaust pipes extending from an engine disposed in a boat body. The inside of the water muffler is divided into a single expansion chamber and a resonator chamber, and a front exhaust pipe coupled to the engine and a rear exhaust pipe opened to the outside of the boat are connected to the expansion chamber. Between the front exhaust pipe opened to the inside of the expansion chamber and the rear exhaust pipe, a water-controlling plate is provided in an upper side of the expansion chamber.

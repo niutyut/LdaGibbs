@@ -1,0 +1,4 @@
+title: Rear projection screen and diffusing sheet
+
+abstract: 
+Provided herein is a rear projection screen capable of displaying a sharper image by reducing deterioration in the image quality, such as coarsening, flickering and glaring. A rear projection screen  comprises a Fresnel lens sheet  having, on its light-entering-side surface, a Fresnel lens part in the shape of a Fresnel lens. In the Fresnel lens sheet , both the Fresnel lens part and a part (diffusing part ) situated on the light-emerging side of the Fresnel lens part comprise light-diffusing particles P. The mean particle diameter of the light-diffusing particles P contained in the diffusing part is not more than  of the lens pitch of the Fresnel lens part 

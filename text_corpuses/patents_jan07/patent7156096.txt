@@ -1,0 +1,4 @@
+title: Dynamic infant nasal CPAP system and method
+
+abstract: 
+Continuous positive airway pressure systems are provided including an interface defining a plenum chamber therein, and a pair of nasal cannulas connected to and in fluid communication with the plenum chamber of the interface. The nasal cannulas are configured and dimensioned to deliver pressurized air from the plenum chamber to the nares of a patient, wherein each nasal cannula is capable of off axis movement and/or pivoting.

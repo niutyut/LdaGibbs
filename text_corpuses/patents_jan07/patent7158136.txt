@@ -1,0 +1,4 @@
+title: Methods and apparatus for displaying multiple data categories
+
+abstract: 
+Methods and apparatus are provided for displaying data categories. The apparatus comprises a display that is configured to produce a first visual presentation of a first data category of the data categories and a second visual presentation of a second data category of the data categories. The apparatus also comprises a processor that is configured to control the display during simultaneous production of the first visual presentation and the second visual presentation. The processor is configured to control the display such that the first visual presentation comprises a first line bordering at least a portion of a first object of the first data category.

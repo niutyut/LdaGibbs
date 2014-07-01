@@ -1,0 +1,4 @@
+title: Packaging machine for wrapping products in respective sheets of heat-seal wrapping material
+
+abstract: 
+A packaging machine has a wrapping device for forming a tubular wrapping from a continuous web of heat-seal material, and for feeding products successively into the tubular wrapping; each product being located between two free tubular portions of the tubular wrapping, which are folded substantially onto the relative products, and are stabilized by at least one pair of sealing devices, each of which has a sealing surface heated electrically by a heating device, operation of which is controlled by a control device carried by the sealing device and for determining an actual temperature of the sealing surface.

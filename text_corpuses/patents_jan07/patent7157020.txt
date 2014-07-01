@@ -1,0 +1,4 @@
+title: Refrigerant compositions comprising performance enhancing additives
+
+abstract: 
+The present invention is related to refrigerant and lubricant compositions containing performance-enhancing additives. The performance enhancing additives are found to improve the energy efficiency and capacity of vapor compression refrigeration and air conditioning systems, which utilize hydrofluorocarbon refrigerants (e.g. HFC-134a ) and oxygenated refrigeration lubricants (e.g. POEs, PAGs and PVEs).

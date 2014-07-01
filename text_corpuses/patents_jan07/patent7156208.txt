@@ -1,0 +1,4 @@
+title: Stairlift
+
+abstract: 
+A stair lift includes a lift assembly arranged to be driven along a rail. The lift assembly includes a chassis supporting a load bearing member such as a seat. The chassis is formed by a main member on which are mounted a drive assembly and a levelling assembly for maintaining the seat horizontal by altering the orientation of the chassis with respect to the rail as the lift assembly moves along the rail. One or both of the drive and levelling assemblies may be pivotally mounted on the chassis to permit rotation about a vertical axis so as to accommodate bends in the rail.

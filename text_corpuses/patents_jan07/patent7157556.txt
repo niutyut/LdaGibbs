@@ -1,0 +1,4 @@
+title: Deglycosylated kringle 1-3 region fragments of plasminogen and methods of use
+
+abstract: 
+Disclosed are deglycosylated fragments of a kringle 1-3 region of plasminogen, nucleotides encoding deglycosylated kringle 1-3 region proteins and antibodies specific for deglycosylated kringle 1-3 region proteins. The compositions of the present invention have increased antiangiogenic activity as compared to previously isolated kringle 1-3 region proteins. Also included in the present invention are methods of treating angiogenesis-associated diseases and conditions such as cancer using the compositions described herein.

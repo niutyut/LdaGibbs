@@ -1,0 +1,4 @@
+title: System and method for determining components of a blended plastic material
+
+abstract: 
+Methods and systems are disclosed for determining plastic components of a blended plastic material. According to a method of the present invention, a blending computer access supply data describing characteristics of each of a plurality of plastic components. The blending computer receives specification data which identifies at least one desired characteristic of the blended plastic material. The blending computer processes the supply data and the specification data to determine combinations of certain of the plastic components that may produce the blended plastic material having the at least one desired characteristic. The blending computer determines, for each combination, a preferred percentage of each of the plastic components of the combination, and reports the combinations and preferred percentages.

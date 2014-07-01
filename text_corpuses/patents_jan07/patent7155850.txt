@@ -1,0 +1,4 @@
+title: Safety traffic controller station
+
+abstract: 
+A portable safety traffic controller station is provided having a base unit having a rear base support, a front base support, and at least one transverse brace joining the rear base support and the front base support; a seat secured to a seat mounting frame, the seat mounting frame secured to the base unit; a rotationally movable sign pole supported by the base unit; a shading pole releasably mounted to the base unit; and means for shading releasably secured to the shading pole.

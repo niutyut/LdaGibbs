@@ -1,0 +1,4 @@
+title: Simple on screen display system using mapped ROM generated characters
+
+abstract: 
+The present invention provides a low cost OSD system with minimal ROM requirements, minimal computing power required from the microcontroller, and minimal I/O port requirements. The OSD system creates a fixed frame around a small set of programmable characters. The small set of programmable characters is used to create an icon within the OSD display. The icon is selected by sending minimal information to the microcontroller. In one particular example, four bits of information are sent to the microcontroller to select one of the available sixteen different icons. The OSD frame characters and OSD programmable area icon characters are stored in ROM and no RAM is used. The OSD silicon die size is reduced as compared to a traditional OSD silicon die size.

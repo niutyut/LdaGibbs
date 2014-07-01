@@ -1,0 +1,4 @@
+title: Thermal printing and cleaning assembly
+
+abstract: 
+A thermal printing assembly comprised of a first flexible section and a second flexible section joined to such first flexible section. The first section of such assembly is a thermally sensitive media that contains either a thermal transfer ribbon, a dye sublimation ribbon, or a direct thermal sensitive substrate (such as thermal paper); the thermally sensitive media is adapted to change its concentration of ink upon the application of heat. The second section of such assembly is a flexible support with two sides, at least one of which has a smoothness of less than 50 Sheffield Units and contains particles with a Knoop hardness of less than about 800 and the other side has an adhesive coating designed to remove dirt and debris from surfaces it contacts during use.

@@ -1,0 +1,4 @@
+title: System for read path acceleration
+
+abstract: 
+A system for read path acceleration has a first strobe reset circuit coupled to a first local amplifier. A second strobe reset circuit is coupled to a second local amplifier. A main amplifier is coupled to an output of the first local amplifier and an output of the second local amplifier.

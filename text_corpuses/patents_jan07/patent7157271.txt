@@ -1,0 +1,5 @@
+title: Biofilter equipped with a stirrer and injector of solid feed and method for removing odor and volatile organic compounds from waste gases using the same
+
+abstract: 
+The present invention relates to an apparatus and a method removing contaminated gas by a biofilter resolving malodorous substance and volatile organic compounds, included in the waste gas generated from industrial and environmental facilities, into innoxious substances such as water, microorganism and carbon dioxide by means of microorganism
+The agitator of microorganism carrier of the present invention prevents the clog induced from the growth of microorganism, the increase of pressure loss thereby and the decrease of removing capacity of malodorous substance and volatile organic compounds by desorbing the biofilm.

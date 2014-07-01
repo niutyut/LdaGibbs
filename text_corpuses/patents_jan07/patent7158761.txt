@@ -1,0 +1,4 @@
+title: Smart amplifier for time division duplex wireless applications
+
+abstract: 
+A bi-directional antenna-mount amplifier particularly suited to be compatible with a broad range of advanced spread spectrum TDD wireless applications relying on either direct sequence or frequency hopping, at a wide range of frequencies, and which allows the radio device sharing of an associated antenna in different time intervals, where signal distortion is minimized due to operation of the amplifier which is governed by an equation and associated gain control circuits to maintain constant output power and prevent transmit signal saturation.

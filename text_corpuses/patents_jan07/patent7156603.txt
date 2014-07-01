@@ -1,0 +1,4 @@
+title: Road transportable loading machine for gondola cars
+
+abstract: 
+A material handling and transport apparatus for railroad use comprises a rail car loading assembly and a deck vehicle. The rail car loading assembly comprises a loading machine having a handling arm, and means to move the rail car loading assembly forward and rearward along top edges of sidewalls of a string of gondola cars and across gaps between the gondola cars. The deck vehicle comprises a deck located at a deck end of the deck vehicle such that the deck can be maneuvered adjacent to an end gondola car of the string of gondola cars wherein the deck is located at a vertical loading position such that the means to move the rail car loading assembly is operative to move the rail car loading assembly onto the deck.

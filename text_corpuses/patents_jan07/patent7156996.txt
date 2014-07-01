@@ -1,0 +1,4 @@
+title: Multichamber microdialysis device
+
+abstract: 
+The invention is a multichamber microdialysis device with a multitude of sample chambers in close side by side arrangement (similar to a microtiter plate) for receiving liquid samples, and at least one dialysate chamber for receiving a dialysate liquid. The sample chambers are surrounded by circumferential sidewalls and are in liquid exchange contact to a neighboring dialysis chamber via an exchange opening covered by a semipermeable membrane. The semipermeable membrane is fixed liquid-tight to the walls of the sample chamber, so that a diffusion exchange between the sample chamber and the correspondingly neighboring dialysate chamber is only possible via the membrane. Consequently, only molecules with a molecular weight below the molecular cut-off of the semipermeable membrane can diffuse from the sample chamber to the dialysate chamber or from the dialysate chamber to the sample chamber.

@@ -1,0 +1,4 @@
+title: Method of manufacturing a sensor element having integrated reference pressure
+
+abstract: 
+A pressure sensor includes a pressure sensor house assembly which contains a reference cavity, in which a vacuum exists, and a getter capable of being thermally activated. The getter is activated by directly contacting the getter with an exterior heated body, conducting heat from the exterior heated body, maintaining the exterior heated body in direct contact with the getter for a predetermined period of time, and removing the exterior heated body.

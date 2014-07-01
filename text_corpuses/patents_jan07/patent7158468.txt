@@ -1,0 +1,4 @@
+title: Optical system for optical head
+
+abstract: 
+An optical system for an optical head of an optical disc drive is capable of using first and second discs, protective layer of the second disc being thicker than that of the first disc, a data density of the second disc being lower than that of the first disc. A light source selectively emits first and second laser beams having first and second wavelengths, respectively. An objective lens converges the first and second beams on the first and second discs, respectively. The second beam is incident on the objective lens as diverging light, and the first beam is incident on the objective lens as a beam of which degree of divergence is smaller. A diffraction lens structure is formed in the high NA exclusive area, which compensates for aberrations of a portion of the first laser beam, and causes aberrations to a portion of the second laser beam passed therethrough.

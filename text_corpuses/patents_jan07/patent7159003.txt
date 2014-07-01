@@ -1,0 +1,4 @@
+title: Method and apparatus for generating sign-digit format of sum of two numbers
+
+abstract: 
+A system and method for converting two binary digits into redundant sign-digit format. The system comprises a first adder for adding the binary digits together to generate a first result. A second adder adds an input carry from a previous digit to the first result and subtracts a value equal to the radix of the of the binary digits form the first result if the first result is greater than an initial threshold in order to generate an intermediate result. The system further includes a third adder for adding a second input carry from the previous digit to the intermediate result and subtracting the value of the radix from the intermediate result if the intermediate result is greater than a prescribed value such that the addition of the two binary digits are in redundant sign-digit format.

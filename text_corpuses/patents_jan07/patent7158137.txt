@@ -1,0 +1,4 @@
+title: Architecture for improved display performance in a signal acquisition and display device
+
+abstract: 
+A multiple channel signal acquisition device wherein each channel performs a respective rasterization process to provide respective waveform imagery, the respective waveform imagery having a display parameter reduced at a decay rate, the respective waveform imagery being propagated towards an adjacent input channel for combination, the combined image being propagated towards each remaining channel for combination into a final waveform image for display.

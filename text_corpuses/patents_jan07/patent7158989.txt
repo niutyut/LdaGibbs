@@ -1,0 +1,4 @@
+title: Limit engine database management system
+
+abstract: 
+A database management system utilizing a limit engine to provide ranked search results in response to search queries directed to a database that includes database data that matches the specific database user query as well as data that is within a programmable range of data relevant and responsive to said search queries. A method for providing ranked database search query results according to similarity of database objects to search query criteria, within a programmable range of deviation, is also disclosed and claimed.

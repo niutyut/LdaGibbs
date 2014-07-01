@@ -1,0 +1,4 @@
+title: Interactive system
+
+abstract: 
+An interactive system provides a video program signal and generates interactive content data to be associated with at least one object within a frame of the video program. The interactive content data is embedded with the object and the object is tracked through a sequence of frames and the interactive content data is embedded into each one of the frames. The program frames with the embedded data are multiplexed with video and audio signals and may be broadcast. A receiver identifies an object of interest and the embedded data associated with the object is retrieved. The embedded data may be used for e-commerce.

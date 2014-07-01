@@ -1,0 +1,4 @@
+title: Compressed gas cylinder
+
+abstract: 
+The present invention provides a compressed gas cylinder that is capable of storing a compressed fluid at high pressures. The cylinder of the present invention includes a body terminating in an inwardly domed cap. The dome included in the cap of the compressed gas cylinder of the present invention is formed such that the material near the tip of the dome is relatively thinner than the material near the base of the dome. The tip of the dome, therefore, creates a pierce region in the cap that can be pierced through the application of a relatively low pressure.

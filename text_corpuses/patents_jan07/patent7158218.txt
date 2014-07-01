@@ -1,0 +1,4 @@
+title: Vehicular radar device
+
+abstract: 
+A vehicular radar device capable of accurately detecting rain or the like or a road surface by discriminating between the rain or the like or the road surface and others. The vehicular radar device has a control circuit which performs a detection operation in an up state in which the visual field of the radar is shifted comparatively upwardly in the vertical direction so that the road surface is not detected, and determines that, from among detection data obtained during the up state, detection data which does not vary in reception intensity nor in reception delay time (distance data) for a predefined time is detection data relative to rain or the like.

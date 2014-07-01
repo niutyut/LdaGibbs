@@ -1,0 +1,4 @@
+title: Adjustable wrench
+
+abstract: 
+The adjustable wrench has two wrench elements each having a jaw portion and a body portion, each body portion having angled tongues and grooves, slideably mounted opposite one another with the jaw portions opposing each other. Between the two body portions is an actuator having two sides. Each side has angled tongues and grooves corresponding to and slideably engaging the angled tongues and grooves of each of the body portions. The actuator moves along a longitudinal axis of the handle thereby urging the wrench elements and jaws towards and away from one another depending on the direction of movement of the actuator, by interaction of the inclined grooves, acting as wedges using the inclined plane principle.

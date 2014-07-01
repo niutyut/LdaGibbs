@@ -1,0 +1,4 @@
+title: Water treatment device and water treatment method using the same
+
+abstract: 
+Object of the preferred embodiment is to remove sol-form microparticles and nitrogen components contained in CMP wastewater. Sol-form microparticle components contained in CMP wastewater are removed by a filtration treatment using a filter device , having a gel-form second filter. Also, nitrogen components in the CMP wastewater are removed by an electrochemical treatment using electrode . The filtration treatment and the electrochemical treatment can be carried out in individual tanks or can be carried out in the same tank. By performing the filtration treatment and the electrochemical treatment in the same tank, a space-saving water treatment device can be provided.

@@ -1,0 +1,4 @@
+title: Summing power amplifier
+
+abstract: 
+A power amplifier comprises an amplification stage comprises a plurality of amplifiers, wherein each amplifier provides an amplified output, and an inductive summing device configured to receive the plurality of amplified outputs and provide a combined output signal. A method of amplifying a signal comprises applying the signal to an amplifier stage comprising a plurality of amplifiers, wherein each amplifier is configured to provide an amplified output, and providing a combined output signal via an inductive summing device configured to receive the plurality of amplified outputs.

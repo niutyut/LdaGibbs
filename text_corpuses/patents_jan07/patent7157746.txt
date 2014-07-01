@@ -1,0 +1,4 @@
+title: Light emitting device having a divalent-europium-activated alkaline earth metal orthosilicate phosphor
+
+abstract: 
+The light emitting device has a light emitting diode which is made of a nitride semiconductor and a phosphor which absorbs a part of lights emitted from the light emitting diode and emits different lights with wavelengths other than those of the absorbed lights. The phosphor is made of alkaline earth metal silicate fluorescent material activated with europium.

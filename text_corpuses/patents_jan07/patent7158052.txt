@@ -1,0 +1,4 @@
+title: Method and system for monitoring the performance of an aircraft during take off
+
+abstract: 
+A system, method and display for monitoring the performance of an aircraft during the take-off maneuver that includes the steps of monitoring the progress of the take-off maneuver by acquiring data representative of the aircraft's motion at a plurality of points during the maneuver, generating a function that best fits the acquired data, and using the generated function to predict future progress of the maneuver.

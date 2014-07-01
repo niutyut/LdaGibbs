@@ -1,0 +1,4 @@
+title: Depth limiting safeguard for channel machining
+
+abstract: 
+A channel cutting tool may include an arbor that connects to a rotating spindle of a machining tool or a similar spinning part of a machining tool. Two slot cutting blades may be fixedly mounted to the arbor. An inner washer may be fixedly mounted on the arbor between the cutting blades and establish the blade spacing. An outer washer may be rotationally mounted to the inner washer with a smaller thickness to facilitate rotation relative to the two cutting blades. The arbor rotates about a longitudinal rotation axis, which also may be the rotation axis for the cutting blades, the inner washer, and the outer washer. The outer washer functions as a depth-limiting safeguard for the channel cutting tool.

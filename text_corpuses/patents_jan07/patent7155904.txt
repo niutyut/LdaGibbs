@@ -1,0 +1,4 @@
+title: Hydrodynamic converter
+
+abstract: 
+A hydrodynamic converter is provided having a pump wheel, which is flowed through in operation from the inside to the outside; a turbine wheel, which is flowed through in operation from the outside to the inside; guide blades between the pump wheel and the turbine wheel; and guide blades between the turbine wheel and the pump wheel. The converter can have a speed ratio of between the speed nof the turbine wheel and the speed nof the pump wheel of between 1.2 and 4 at approximately even or falling ? progress. The converter can also have different speed ratios between pump and turbine, which can be realized with the ratio R/r equal to or larger than 1.

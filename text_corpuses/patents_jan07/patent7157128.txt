@@ -1,0 +1,4 @@
+title: Optical information recording medium
+
+abstract: 
+An optical information recording medium which is capable of performing high-density recording of record data, and storing the recorded data for a long time period such that the recorded data can be normally reproduced during the long time period. An optical information recording medium has a recording layer formed on a substrate, for having a laser beam irradiated thereto for recording and reproduction of record data. The recording layer includes a first sub-recording film and a second sub-recording film. The first sub-recording film is formed of a first material containing Si as the main component. The second sub-recording film is formed of a second material containing Cu as the main component and having Si added thereto, and disposed in the vicinity of the first recording film.

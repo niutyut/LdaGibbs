@@ -1,0 +1,4 @@
+title: On-chip EE-PROM programming waveform generation
+
+abstract: 
+Circuit methods, and apparatus that provide waveforms having controlled rise and fall times, as well as accurate peak voltages. One embodiment provides circuitry for generating a clock signal and a current that are adjusted for an on-chip capacitance variation. This current is then used to generate rising and falling edges of a waveform. The clock signal is used to determine timing of transitions in the waveform. A bandgap or similar reference voltage is used to determine the peak voltage. This waveform is then gained using an amplifier circuit, and the output of the amplifier circuit is used as a programming voltage waveform for an EE-PROM. One embodiment further uses non-overlapping clocks to drive a charge pump that is used to generate a supply voltage for the amplifier circuit that far exceeds the available on-chip supply voltages.

@@ -1,0 +1,4 @@
+title: Mobility assist
+
+abstract: 
+A mobile apparatus for assisting a person with limited mobility. The apparatus is also for developing a higher level of mobility in a person having low mobility. The person may be assisted by the apparatus when walking. The apparatus includes a seating surface resiliently mounted to provide partial body weight support to the person. A person using the mobility assist may grasp lateral handles disposed on the apparatus while walking or he/she may attempt to mobilize without the use of the lateral handles. Multiple elastic cords positioned to generate a lifting force that varies according to the number of elastic cords employed provide the degree of resilience in the seat. The degree of resilience may be adjusted in accordance with the relative collapse of the lower extremities of the person. As the walking ability of the person progresses, such lifting force may be reduced overtime by reducing the number of elastic cords employed.

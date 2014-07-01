@@ -1,0 +1,4 @@
+title: System and method for navigating content in an item
+
+abstract: 
+A system and a method for a user interface which generates a preview display to aid in the navigation of items of content on a computer. A screen displays an item to a user. Upon receipt of a user input representing a proposed navigational action to be performed with respect to the item, a preview display is generated and rendered on the screen display. The preview display includes at least a portion of the display which would result from a selection to perform the navigational action with respect to the item.

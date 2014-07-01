@@ -1,0 +1,4 @@
+title: Granulated active ingredients
+
+abstract: 
+Granulated forms of various active ingredients can be prepared with a small amount of a dissolvable polymer and a solvent for that polymer. The solvent dissolves at least a portion of the polymer. This dissolved polymer acts as a particle lubricant for the extrusion process and, when the solvent is removed, as a binder for the final extrudate. A poly(alkylene oxide) is preferred and, in the presence of a small amount of solvent, dissolves sufficiently to provide lubricity to the extrusion mixture that the solids can be extruded with little friction and associated local temperature rise thru the extrusion die.

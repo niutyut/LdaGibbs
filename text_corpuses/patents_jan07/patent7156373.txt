@@ -1,0 +1,4 @@
+title: Line retrieval system
+
+abstract: 
+A line retrieval system comprises a line retriever adapted to magnetically couple to an object disposed within an enclosure through a wall of the enclosure such that the magnetic couple supports the line retriever adjacent the wall of the enclosure. The line retriever is adapted for movement relative to the enclosure in response to movement of the object within the enclosure toward an opening formed in the enclosure.

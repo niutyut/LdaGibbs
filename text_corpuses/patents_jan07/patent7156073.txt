@@ -1,0 +1,4 @@
+title: Idle speed control apparatus in throttle body for single cylinder
+
+abstract: 
+A single idle air control passage () open toward a suction air passage () downstream from a throttle valve (), a starter passage () and an air screw passage () independently branched from an upstream side passage () of the passage (), an upstream side of passage () communicates with atmospheric air, a downstream side thereof communicates with the upstream passage () of the idle air control passage (), a start opening and closing valve () controlling an opening area of the passage is arranged in the starter passage (), an upstream side of the passage () communicates with an atomospheric air, a downstream side communicates with the upstream side passage () of the idle air control passage (), and an air screw () controlling an opening area of the passage is screwed to the air screw passage.

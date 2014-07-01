@@ -1,0 +1,4 @@
+title: Systems for fingerprinting digital data
+
+abstract: 
+Systems for fingerprinting digital data are described. In one embodiment, a system for detecting a fingerprinting word is configured to receive a protected object that has embedded therein a fingerprinting word that contains a plurality of spread spectrum chips that are arranged in individual blocks that define individual spread sequences. The system processes the protected object sufficient to identify an entity that is associated with the fingerprinting word and which comprises a potential colluder. The system is configured to process the protected object by calculating a weight for each block and restricting the weights of certain blocks to a predetermined value.

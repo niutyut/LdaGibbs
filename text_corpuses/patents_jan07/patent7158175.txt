@@ -1,0 +1,4 @@
+title: System including a digital camera and a docking unit for coupling to the internet
+
+abstract: 
+Described is a system having a digital camera and a docking unit which permits the docking unit to receive images over a channel and direct them to a viewable display in the digital camera.

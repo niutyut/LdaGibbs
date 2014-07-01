@@ -1,0 +1,4 @@
+title: Method and apparatus for protecting a switching amplifier from excess current
+
+abstract: 
+A class D switching amplifier has a pulse width modulator that drives a speaker. The amplifier includes an over-current protection circuit, which includes current-monitoring MOSFETs that are each in parallel with one of four power MOSFETs. Signals taken from one side of the current-monitoring MOSFETs go to a logic circuit that removes the amplifier input circuit when the logic circuit indicates that an over-current condition is present. Current through the current-monitoring MOSFETs also goes through the speaker, thus improving amplifier efficiency.

@@ -1,0 +1,4 @@
+title: Method and system for a lock detector for a phase-locked loop
+
+abstract: 
+A lock detector receives a feedback signal from a phase-locked loop and a reference signal. The lock detector includes a first generator for receiving the reference and feedback signals, and for sampling the feedback signal with the reference signal. A second generator is coupled to the first generator for incrementing a count when the feedback signal is at different polarities at consecutive edges of the reference signal. An output line, for asserting a phase lock when the count reaches a defined value, is coupled to the second generator.

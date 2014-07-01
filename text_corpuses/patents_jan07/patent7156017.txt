@@ -1,0 +1,4 @@
+title: Method creating a picture by different layered stencils
+
+abstract: 
+A coloring book for method is provided creating a picture 51 by different layered stencils with the steps of: Lining up the border stencil holes 21 or holes marked for lining up, then coloring each stencil page for each individual color of the picture. When all colors or pages are colored the master page 20 will have a completed picture 51.

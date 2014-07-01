@@ -1,0 +1,4 @@
+title: Drive system operated by muscle-power
+
+abstract: 
+An electric drive system () operated by muscle power for a vehicle () includes a foot pedal () and a mechanical generator () mechanically connected to the foot pedal. The drive system also includes an electric transmission () and an electric control system () with a control program () of the generator, which is able to generate a counter or load moment (GM). The drive system also includes a starting control system () for the generator, by means of which a standstill pedal resistance (TW) and a high starting moment (MA) is produced at the foot pedal. When used in a stationary training apparatus (), the drive system includes a motor operation control system () with a bi-directional converter (), by means of which the generator is also able to be operated as a motor.

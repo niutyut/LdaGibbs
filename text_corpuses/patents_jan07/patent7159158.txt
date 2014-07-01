@@ -1,0 +1,4 @@
+title: System and method for reading data stored in a semiconductor device having multilevel memory cells
+
+abstract: 
+A semiconductor device has multilevel memory cells, each cell storing at least three levels of data each. The multilevel memory cells are arranged so as to correspond to a physical address space, each cell storing 2levels of data each expressed by n (n?2) number of bits (X, X Xn). A logical address is converted into a physical address of the physical address space. A judgement is made as to whether a logical address space including the logical address matches the physical address space. When matched, the most significant bit X is specified by performing a single comparison operation using a reference value. The specified bit is output from one of the cells corresponding to the physical address. If not matched, the bits (X Xn) are specified by performing multiple comparison operations using different reference values.

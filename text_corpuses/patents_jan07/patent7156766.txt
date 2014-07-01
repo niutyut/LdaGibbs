@@ -1,0 +1,4 @@
+title: Differential assembly for controlling the distribution of torque
+
+abstract: 
+A differential drive having an input element (E) and three output elements (A, A, A), which, relative to one another, have a differential effect, and wherein there exists a fixed ratio between the transmittable input torque and each of the output torques directly transmittable to the output elements and wherein one of the output elements (A), via at least one coupling (K, K), can be connected to each of the two other output elements (A, A).

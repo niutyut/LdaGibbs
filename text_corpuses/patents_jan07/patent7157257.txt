@@ -1,0 +1,4 @@
+title: Method of treating biological cells and/or their cell components with electrical fields
+
+abstract: 
+A method is described for treating biological cells and/or their cell components with electrical fields in a reaction medium, in which an inhibitor is added to the reaction medium to counteract the action of enzymes that break down protein.

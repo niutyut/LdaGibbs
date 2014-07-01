@@ -1,0 +1,4 @@
+title: Fuel injection control device
+
+abstract: 
+Provided is a fuel injection control device for an internal combustion engine capable of setting an overexcitation current time period which allows injectors to be reliably driven even when a fuel pressure sensor is in an abnormal state. A fuel supply control portion is equipped with an injector-valve opening signal generating unit, a first driving current supply signal generating unit, a first driving current supplying unit, a second driving current supplying unit, and a fuel pressure sensor malfunction detecting unit. When a malfunction in the fuel pressure sensor is detected, the first driving current supply signal generating unit sets a first driving current supply time period to a fixed time period which allows injectors to be opened even when a fuel pressure in the internal combustion engine is at its maximum.

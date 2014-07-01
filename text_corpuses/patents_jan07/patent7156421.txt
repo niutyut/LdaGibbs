@@ -1,0 +1,4 @@
+title: Composite cross member system
+
+abstract: 
+In a frame for an over the highway or off-highway truck or tractor, the frame includes a first and second frame rail and a composite cross-member comprising a first sheet, a second sheet and a core material sheet positioned between the first and second face sheet. The first and second face sheets being made of metal and plastic and the core material being made of any one of wood, plastic, honey-comb, foam and nomex. The first sheet, second sheet and core material sheet are all bonded together to form a cross-member. The cross-member is then mounted to frame rails to construct a truck or tractor frame.

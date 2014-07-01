@@ -1,0 +1,4 @@
+title: Memory controller
+
+abstract: 
+A memory controller, such as a SDRAM controller, forms a queue of memory access requests to maximize efficient use of the bandwidth of the memory data bus. More specifically, the SDRAM controller pre-calculates the number of data bursts required to retrieve all the required data from the SDRAM, and the starting address for each of the data bursts, and queues the access requests for these data bursts such that the data bursts may be retrieved without incurring the usual read latency for each data burst.

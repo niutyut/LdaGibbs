@@ -1,0 +1,4 @@
+title: Inflatable respirator hood
+
+abstract: 
+A respirator hood is designed to fit over and around the head of a wearer and includes a substantially transparent lens received in a front opening of the hood. An inflatable neck cuff is positioned near a lower portion of the hood and substantially circumscribes an opening through which the wearer inserts his head, with the inflatable neck cuff being supplied by an air source and inflated so as to exert a sealing pressure against the neck of the wearer and to prevent the hood from rising up relative to the head of the wearer. The respirator hood also includes one or more overhead channels which define an air delivery path from the air source over the head of the wearer to the interior of the lens and downwardly across the face of the wearer.

@@ -1,0 +1,4 @@
+title: Method for making a solder between metallic balls of an electronic component and mounting lands of a circuit and soldering furnace therefor
+
+abstract: 
+A method for producing a soldered joint between the metal balls present in either a ball grid array or a chip-scale package, and the receiving pads for a circuit printed on a substrate or the receiving pads of an integrated circuit. Solder cream or an adhesive flux is deposited on the receiving pads, which then have metal balls are placed on them so as to form an assembly. The assembly is placed in an oven so as to heat the metal balls above their melting point. The balls are then cooled at a rate around 5? C./sec, so that the balls remain in their liquid state for a time period between 20 seconds to 65 seconds.

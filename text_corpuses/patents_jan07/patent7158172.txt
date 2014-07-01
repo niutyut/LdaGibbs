@@ -1,0 +1,4 @@
+title: Digital camera with an automatic image transmission function
+
+abstract: 
+A digital camera with an automatic image transmission function which includes a transmission section for transmitting photo images and a transmission control unit connected to the transmission section. The transmission control unit judges whether a predetermined transmission allowance condition is satisfied and allows the transmission of photo images only when the predetermined transmission allowance condition is satisfied. As one example, the predetermined transmission allowance condition includes a condition when photography is completed.

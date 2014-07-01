@@ -1,0 +1,4 @@
+title: 10 Gbit/sec transmit structure with programmable clock delays
+
+abstract: 
+The present invention provides a robust solution to the task of re-aligning data at the transmit end of a fiber optic or other high performance serial link, and also offers flexibility in the circuit board design approach. A high performance analog phase locked-loop circuit is used to simultaneously provide clock recovery for multiple bit streams. The power dissipation required to perform clock recovery is thereby reduced to a fraction of that required in conventional transmit systems. This analog phase locked loop produces plural phase output signals. An output multiplexer selects one phase for use in electrical to optical conversion.

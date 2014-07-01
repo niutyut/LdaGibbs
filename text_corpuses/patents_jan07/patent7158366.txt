@@ -1,0 +1,5 @@
+title: Solid electrolytic capacitor
+
+abstract: 
+A multiterminal solid electrolytic capacitor mountable to a board for two terminals is provided.
+In the solid electrolytic capacitor () in accordance with the present invention, an anode of a capacitor device () is connected to one end part (B) of a via () connected to a plurality of anode leads (B) arranged on a base sheet surface (), whereas a cathode of the capacitor device () is connected to the other end part (A) of a via () connected to a plurality of cathode leads (A) similarly arranged on the base sheet surface (). Each end part (B) of the via () connected to the anode lead (B) is electrically connected to an end part (D) of the via () connected to a land electrode (B) arranged on the lower face () of the base sheet (). Each end part (A) of a plurality of vias () connected to the cathode lead (A) is electrically connected to an end part (C) of the via () connected to a land electrode (A).

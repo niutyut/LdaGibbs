@@ -1,0 +1,4 @@
+title: Treatment for inflammatory bowel disease with ?4-specific antibodies
+
+abstract: 
+The present invention disclosed recombinant anti-VLA-4 antibody molecules, including humanized recombinant anti-VLA-4 antibody molecules. These antibodies are useful in the treatment of specific and non-specific inflammation, including asthma and inflammatory bowel disease. In addition, the humanized recombinant anti-VLA-4 antibodies disclosed can be useful in methods of diagnosing and localizing sites of inflammation.

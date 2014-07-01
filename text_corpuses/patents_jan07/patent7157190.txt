@@ -1,0 +1,4 @@
+title: Method for repairing a photolithographic mask, and a photolithographic mask
+
+abstract: 
+A method for repairing at least one defect of a light-influencing structure on a photolithographic mask with a mask substrate, in particular a quartz substrate, characterized in that in the region of at least one defect, gallium ions are radiated in a targeted manner for the purpose of implantation into the mask substrate and/or for the purpose of sputtering away material from the mask substrate. Furthermore, the invention relates to a photolithographic mask with a defect repaired in this way. As a result, defects in a light-influencing structure of a mask can be reliably repaired, and are repaired, respectively.

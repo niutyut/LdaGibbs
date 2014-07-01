@@ -1,0 +1,4 @@
+title: Medium, method and system for proving a turbine meter
+
+abstract: 
+A novel medium, method and system for proving a turbine meter for use with natural gas. The novel test medium is a gas having the following characteristics: (a) Density>2?Density of Natural Gas; (b) Dynamic Viscosity<Dynamic Viscosity of Natural Gas; and (c) Ideal gas behavior for approximately 15? C.<T<25? C. and 1 bar<P<50 bar. The method and system make use of the novel test medium. Also disclosed is a novel method and system for cooling a test medium circulating in a turbine meter prover system involving injecting liquefied test medium into said circulating test medium.

@@ -1,0 +1,4 @@
+title: Boat lift
+
+abstract: 
+The pontoon boat lift system comprises a plurality of lifts mounted to an underside of a deck of the pontoon boat. Each lift comprises a leg that pivotally mounted to the underside of the deck and is moveable between a raised position and a lowered position. A free end of each leg includes its own support pad that contacts, for example, a lake bottom when the legs are in the lowered position. The operation of the lifts is coordinated to raise the pontoon boat above the surface of the water at desired shoreline locations.

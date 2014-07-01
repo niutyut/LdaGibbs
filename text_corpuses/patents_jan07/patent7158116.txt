@@ -1,0 +1,4 @@
+title: Rechargeable cordless input and pointing device
+
+abstract: 
+A wireless pointing device, such as a computer mouse, employs self-generated electric energy to power itself and to recharge its internal energy cell. The self-generated power may come from a flywheel coupled to a generator, from a photovoltaic cell, from a secondary coil inductively coupled to an alternating current-powered primary coil in a mouse pad, or from another source. The mouse can also include a movement detector for indicating when the mouse is in use. When the mouse is not in use for a predefined time period, the mouse turns itself off, or enters a low power consumption state, to conserve the energy stored in its internal energy cell.

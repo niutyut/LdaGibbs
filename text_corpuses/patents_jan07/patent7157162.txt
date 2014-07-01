@@ -1,0 +1,4 @@
+title: Magnetic recording medium and magnetic recording and reproducing apparatus
+
+abstract: 
+A magnetic recording medium having a substrate, an under-layer formed on the substrate, a magnetic layer formed on the substrate and a protective layer formed on the magnetic layer. The magnetic layer comprises Co, Cr and Pt with a thickness being from 10 nm to 22 nm. Further, a coercivity of the magnetic layer is not less than 2000 Oe, and a fluctuation field of magnetic viscosity at a field strength equal to remanence coercivity or coercivity is not less than 30 Oe.

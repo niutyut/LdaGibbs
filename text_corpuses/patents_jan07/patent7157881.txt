@@ -1,0 +1,4 @@
+title: Safety device for managing batteries
+
+abstract: 
+A safety device for lithium ion cells or groups of lithium ion cells connected in parallel and in series by providing a continuously balanced state of charge while in a discharge phase, a charge phase, a quiescent phase, a storage phase, or combinations of these phases.

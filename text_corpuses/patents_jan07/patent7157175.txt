@@ -1,0 +1,4 @@
+title: Solid polymer electrolyte membrane fuel cell electrode catalyst layer
+
+abstract: 
+A solid polymer electrolyte membrane fuel cell electrode catalyst layer comprises Pt particles carried on a carbon carrier and a solid polymer electrolyte, wherein a center-to-center distance dimension (Lpt?pt) between the Pt particles carried on the carbon carrier is made to substantially coincide with the sum of a double of a total dimension resulting by adding the length (Lpes) of a side chain having an ion-exchange group to the diameter (Dpem) of a main chain of the solid polymer electrolyte and the diameter (Dpt) of the Pt particle.

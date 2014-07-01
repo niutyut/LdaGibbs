@@ -1,0 +1,4 @@
+title: Paper shredder delaying device
+
+abstract: 
+A paper shredder delaying device according to the present invention includes a pushing block installed by the paper feeding entrance inside of a top lid and the two conductors each screwed on one side of the pushing block. When papers are inserted into the paper feeding entrance, the aforesaid pushing block is pushed and thus oppresses the two conductors to conduct power and activates the electrical delaying device for the paper shredder to achieve delaying purpose.

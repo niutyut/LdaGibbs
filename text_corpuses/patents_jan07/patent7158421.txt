@@ -1,0 +1,4 @@
+title: Use of data latches in multi-phase programming of non-volatile memories
+
+abstract: 
+A non-volatile memory device includes circuitry for governing a multi-phase programming process in a non-volatile memory. The exemplary embodiment uses a quick pass write technique where a single programming pass is used, but the biasing of the selected memory cells is altered to slow programming as the memory cells approach their target values by raising the voltage level of the channels of the selected memory cells. A principle aspect of the present invention introduces a latch associated with the read/write circuitry connectable to each selected memory cell along a corresponding bit line for the storage of the result of the verify at this lower level.

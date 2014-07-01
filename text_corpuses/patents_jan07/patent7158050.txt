@@ -1,0 +1,4 @@
+title: Revenue meter with fiber connection
+
+abstract: 
+A revenue meter includes electronics for measuring the delivery of electrical energy from an energy supplier to a consumer through an electric circuit, a display and a cover. The electronics includes at least transducers, an analog to digital converter and logic. A meter cover encloses the revenue meter. Communications of data to and from the revenue meter may be done via a fiber optic communications link.

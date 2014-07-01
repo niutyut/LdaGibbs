@@ -1,0 +1,4 @@
+title: Variable capactor structure and method of manufacture
+
+abstract: 
+A variable capacitor comprising a substrate having a first type ion-doped buried layer, a first type ion-doped well, a second type ion-doped region and a conductive layer thereon. The first type ion-doped well is formed within the substrate. The first type ion-doped well has a cavity. The first type ion-doped buried layer is in the substrate underneath the first type ion-doped well. The first type ion-doped buried layer and the first type ion-doped well are connected. The second type ion-doped region is at the bottom of the cavity of the first type ion-doped well. The conductive layer is above and in connection with the first type ion-doped buried layer.

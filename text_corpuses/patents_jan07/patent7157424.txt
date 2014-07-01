@@ -1,0 +1,4 @@
+title: Pharmaceutical compositions for hepatitis C viral protease inhibitors
+
+abstract: 
+Disclosed are pharmaceutical compositions of hepatitis C viral protease inhibitors, and methods of using these compositions for inhibiting the replication of the hepatitis C virus (HCV) and for the treatment of an HCV infection. These compositions are lipid based systems and comprise the hepatitis C viral protease inhibitor together with at least one pharmaceutically acceptable amine, at least one pharmaceutically acceptable base, at least one pharmaceutically acceptable oil and optionally one or more additional ingredients.

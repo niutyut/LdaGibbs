@@ -1,0 +1,4 @@
+title: Digital frequency difference detector with inherent low pass filtering and lock detection
+
+abstract: 
+A structure and method for implementing a fully digital frequency difference detector uses an n-bit counter to count cycles of a reference clock signal and an m-bit counter to count cycles of a synthesized clock signal, where m is greater than n. The two counters operate concurrently, and both are halted when the n-bit counter overflows into its nbit position. Two latches respectively record if bits n and (n+1) in the m-bit become set prior to the n-bit counter overflowing. By observing the state of the two latches and the state of a predefined bit range within the m-counter, the frequency difference detector can determined if the frequency of the synthesized clock is greater than, less than, or locked to the frequency of the reference clock signal.

@@ -1,0 +1,4 @@
+title: Diagnostic and therapeutic use of antibodies against the urokinase receptor
+
+abstract: 
+The invention concerns a method and a reagent kit for detecting cells in a biological sample using a double-fluorescence technique and the diagnostic and therapeutic application of amino acid sequence-specific antibodies against the urokinase receptor having a high affinity for tumour cell-expressed receptors.

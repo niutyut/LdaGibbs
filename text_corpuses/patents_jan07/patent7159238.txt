@@ -1,0 +1,4 @@
+title: Enhanced browser application for service related to the transportation of a message
+
+abstract: 
+A universal browser operates in conjunction with an underlying browser to provide a user of a PC with access to an enhanced service. The enhanced service can be post-marking for an electronic communication, encryption, or some other service or product offered by the universal browser provider. The universal browser is displayed as a frame, on a tool-bar, on a pull-down menu, as an icon, or the like on a page that has been accessed by the underlying browser.

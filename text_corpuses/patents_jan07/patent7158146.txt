@@ -1,0 +1,4 @@
+title: Image processing apparatus and method
+
+abstract: 
+If gamut mapping (hue restoration) defined by one Lab color space is applied in color matching under different reference white points, the human vision perceives the hue as inconsistent. In view of this, input data which is dependent on a color space of an input device is converted by the conversion LUT  to color space data which is independent of any devices, based on a viewing condition at the time of viewing an input original. The data is converted to data in the human color perception space by the forward converter , then subjected to gamut mapping, and converted back to data in the color space independent of any devices by the inverse converter , based on a viewing condition at the time of viewing an output original. Then, the data is converted to output data in a color space which is dependent on an output device by the conversion LUT 

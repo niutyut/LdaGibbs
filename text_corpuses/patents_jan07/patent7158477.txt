@@ -1,0 +1,4 @@
+title: Data communication apparatus with distributed traffic protection switching system
+
+abstract: 
+A data communication apparatus having a plurality of working ports for exchanging data traffic with network elements and a plurality of protection ports. The data communication apparatus further includes at least one protection switching functional element operative to perform a plurality of protection switching processes in parallel for switching data traffic from failed working ports to respective protection ports.

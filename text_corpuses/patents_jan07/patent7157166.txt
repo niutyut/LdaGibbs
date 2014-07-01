@@ -1,0 +1,4 @@
+title: Ammonia fuel cell
+
+abstract: 
+This invention refers to generating electrical energy comprising an ammonia fuel cell for generating electrical energy including a catalyst being in contact with a high temperature proton conducting membrane and the catalyst comprising at least one decomposition catalyst which causes NHto decompose to Nand Hand at least one catalytic anode which dissociates and ionizes Hinto H and electrons, the fuel cell further including at least one catalytic cathode for reaction of H, electrons and oxygen to form HO, an external circuit from the catalytic anode to the catalytic cathode, an ammonia source for introducing ammonia into the fuel cell, a gas exit for N, and an oxygen source.

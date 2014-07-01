@@ -1,0 +1,4 @@
+title: Method and system providing user with personalized recommendations by electronic-mail based upon the determined interests of the user pertain to the theme and concepts of the categorized document
+
+abstract: 
+Systems and methods for providing a user with personalized recommendations of accessing electronic-mail at an electronic-mail document server are provided. Recommendations may be based on determined interests of the user based on the theme or concept of a previously categorized document, the previously categorized document having been previously accessed by the user.

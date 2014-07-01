@@ -1,0 +1,4 @@
+title: Device and method for alerting user to interference
+
+abstract: 
+An alerting device allowing easy estimation of possible interference and useful suggestions to eliminate deteriorated communication quality due to interference is disclosed. A signal including a band used by a target radio communication system is selected from a received signal based on a prescribed system specification of the radio communication system. A detected signal level of the selected signal is detected and compared with the prescribed interference level. When the detected signal level is greater than the prescribed interference level, it is determined that interference occurs. Further, an interference source is estimated by analyzing the selected signal with respect to time and frequency components.

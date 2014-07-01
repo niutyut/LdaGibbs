@@ -1,0 +1,5 @@
+title: Method for evaluating delay test quality
+
+abstract: 
+All untestable delay faults are hardly calculated. Thus, when the fault coverage of an test sequence for a delay fault is calculated, the fault coverage is not calculated without excluding the number of untestable faults. Accordingly the fault coverage does not correctly represent a test quality.
+The delay faults are partly selected to analyze how many untestable delay faults exist among the selected delay faults. Thus, the, number of untestable delay faults included all the delay faults are estimated. Thus, a method for evaluating a delay fault test quality for calculating the fault coverage that correctly represents the test quality by using this value is provided.

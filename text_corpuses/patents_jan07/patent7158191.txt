@@ -1,0 +1,4 @@
+title: Video signal processing apparatus
+
+abstract: 
+Example burst signal sampling circuitry including synchronous separator circuit(s), waveshaping circuit(s), bandpass amplifier circuit(s), and burst separator circuit(s) is provided in order to extract burst signal(s) from video signal(s) output from video amplifier circuit(s). Level converting circuitry ACC detector/amplifier circuit(s) is provided in order to convert fluctuation in the burst signal(s) to DC voltage(s). This DC voltage(s) is fed back by way of intervening control circuit(s) to the cathode side(s) of input tuning variable capacitance diode(s) constituting frequency characteristics correction circuit(s) of input tuning circuit(s).

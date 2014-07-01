@@ -1,0 +1,4 @@
+title: Filter protection device for preventing damage to an air filter
+
+abstract: 
+A filter protection apparatus includes a frame of a closed curve defining an inner space isolated from surroundings, the frame having a shape of a filter securing part for securing an air filter, an attaching part for attaching the frame to a filter securing part, and a protection part, which is coupled on the inner surface of the frame to occupy the inner space with a plurality of minute holes through which air passes, for protecting the filter from damage. In operation, the protection part is able to prevent damage to the filter that may be caused by work instruments during maintenance work.

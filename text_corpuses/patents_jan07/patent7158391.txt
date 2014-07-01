@@ -1,0 +1,4 @@
+title: Switching power supply unit
+
+abstract: 
+A first side circuit connected to a primary coil of a transformer includes a main switching element driving the primary coil, and a control circuit which detects an output voltage to feedback and drives and controls the main switching element so as to keep constant the output voltage by acquiring a voltage induced in a tertiary coil of the transformer. A secondary side circuit of the transformer includes a dummy load circuit connected to the output terminal, a detection circuit which detects a secondary coil voltage of the transformer, and a dummy load control circuit which is controlled by the detection circuit and controls so as to flow current flow through the dummy load circuit only in a state of a light load.

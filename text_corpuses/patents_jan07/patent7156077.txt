@@ -1,0 +1,4 @@
+title: Fuel system for internal combustion engine
+
+abstract: 
+A fuel system for an internal combustion engine uses a fuel pump having an internally mounted pressure-responsive buffer which increases the volume available for fuel within the pump's discharge port upon shutdown of the pump, so as to assist in the mitigation of fugitive hydrocarbon emissions from fuel injectors which might otherwise result from a hot soak of an automotive engine.

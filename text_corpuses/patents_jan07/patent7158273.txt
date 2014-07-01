@@ -1,0 +1,4 @@
+title: Holographic data memory
+
+abstract: 
+A holographic data storage medium has a polymer film which is set up as a storage layer whose refractive index can be changed locally by heating. The polymer film is set up for the storage of optical phase information via the local optical path length of the polymer film, which is illuminated in transmission when the information is read out. To the polymer film, there can be assigned an absorber dye, in order to at least partly absorb a write beam to input information and to give up the heat produced in the process at least partly locally to the polymer film. Preferably, a reflective layer is arranged behind the polymer film.

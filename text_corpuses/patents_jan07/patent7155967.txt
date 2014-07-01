@@ -1,0 +1,4 @@
+title: Formation testing apparatus and method
+
+abstract: 
+A method and apparatus for testing formations surrounding an earth borehole. The method includes the following steps: providing a tool movable through the borehole; providing a flow line in the tool; establishing fluid communication between the formations and the flow line of the tool; and providing a sand trap in communication with the flow line of the tool for trapping sand flowing with fluid from the formations.

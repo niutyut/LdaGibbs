@@ -1,0 +1,4 @@
+title: String instrument
+
+abstract: 
+A stringed musical instrument, such as a guitar, wherein an easily accessible adjustment member allows the user to change the vertical height of the instrument's neck without affecting the angle of the neck relative to the guitar body. This invention allows the user to quickly adjust the action of the instrument without affecting the intonation or scale length of the guitar in one simple step without requiring the user to remove the strings, loosen any screws, or perform any additional mechanical adjustments.

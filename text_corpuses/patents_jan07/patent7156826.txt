@@ -1,0 +1,4 @@
+title: Medical connector and method for nasally administering or removing a substance
+
+abstract: 
+A medical connector contains a plurality of arms having respective entrance ports. The medical connector also contains a cover preferably having first and second caps coupled together by a first tether, and a fastener coupled to at least one of the first and second caps by a second tether. The fastener is secured to a portion of the medical connector. The first and second caps are adapted to cover at least a portion of the entrance ports of respective first and second arms of the plurality of arms. The medical connector preferably has a sleeve that is detachably coupled to a first arm of the plurality of arms. The first cap preferably comprises a first portion with a first inner diameter adapted to encircle an end of the first arm and a second portion with a second inner diameter adapted to encircle a distal end of the sleeve.

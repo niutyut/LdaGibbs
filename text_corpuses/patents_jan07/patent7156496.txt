@@ -1,0 +1,4 @@
+title: Use of fluidic seal in a method of ejecting ink from an inkjet nozzle
+
+abstract: 
+A method of ejecting ink from an inkjet nozzle is provided. The method comprises moving a first ink ejection member of the nozzle relative to a static member of the nozzle, thereby ejecting a droplet ink from an aperture in the nozzle. A sealing meniscus is formed between the first and second members, and the meniscus maintains a fluidic seal during ink ejection.

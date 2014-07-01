@@ -1,0 +1,4 @@
+title: Post etch cleaning composition for dual damascene system
+
+abstract: 
+A new cleaning chemistry based on a choline compound, such as choline hydroxide, is provided in order to address the problem of dual damascene fabrication. An etch stop inorganic layer at the bottom of a dual damascene structure protects the underlying interconnect of copper and allows a better cleaning. A two step etch process utilizing the etch stop layer is used to achieve the requirements of ULSI manufacturing in a dual damascene structure.

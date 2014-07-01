@@ -1,0 +1,4 @@
+title: Regenerant reuse
+
+abstract: 
+The invention provides a method for recycling the waste regenerant from softeners. The method includes passing a high concentration of monovalent ionic halide salt through a resin bed. The high monovalent cation concentration causes the divalent cations on the resin to be exchanged with the monovalent cations by osmotic forces. The regenerant is then treated to precipitate the divalent cations and replace them with monovalent cations.

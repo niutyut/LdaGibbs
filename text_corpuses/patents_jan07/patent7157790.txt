@@ -1,0 +1,4 @@
+title: Single die stitch bonding
+
+abstract: 
+An integrated circuit device comprising an integrated circuit die mounted on a leadframe having a plurality of inner leads. The integrated circuit die has a plurality of bond pads that are electrically connected to the inner leads of the leadframe, wherein at least two bond pads are connected to a one of the plurality of inner leads and/or at least two inner leads are connected to one or more bond pads with a single bond wire. A single bond wire is connected to a first bond pad or inner lead and subsequently wedge or stitch bonded to a second bond pad or inner lead, then it is connected to a third bond pad or inner lead. The single bond wire requires only one connection area at each of the bond pad(s) and inner lead(s). The bond pad(s) of the die and inner lead(s) of the leadframe are thereby electrically connected together by the single bond wire.

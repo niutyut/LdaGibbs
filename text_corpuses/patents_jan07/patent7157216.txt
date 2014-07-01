@@ -1,0 +1,4 @@
+title: Silver halide emulsion and silver halide photographic material
+
+abstract: 
+A silver halide emulsion is disclosed, comprising silver halide grains, wherein at least 50% by number of the silver halide grains is accounted for by cubic grains having a chloride content of not less than 90 mol %, an iodide content of from 0 to 2 mol % and a bromide content of from 0.1 to 10 mol % and containing dislocation lines in the edge region or the corner region of the grains.

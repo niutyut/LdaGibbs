@@ -1,0 +1,4 @@
+title: Vehicle seat with back rest
+
+abstract: 
+A vehicle seat has a backrest which is mounted displaceably in the vehicle by a sliding block guide. In order to enable a vehicle seat of compact configuration to be easily fitted, the backrest has a locking mechanism which secures the backrest releasably in the sliding block guide.

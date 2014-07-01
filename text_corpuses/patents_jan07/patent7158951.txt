@@ -1,0 +1,4 @@
+title: Dynamic computer software for trading securities
+
+abstract: 
+The invention relates to a computer-implemented method of trading securities, a computer-readable medium carrying one or more sequences of instructions for trading securities, and a computer program product for use with a graphics display device. The program determines a reference price for the security, monitors the value of the security over time, and receives an input corresponding to a differential in the value of the security. A trigger price is determined for the security as a function of the differential and the reference price. The program liquidates the security after determining that the value of the security reaches or passes the trigger price in a first direction. After liquidating the security, the program automatically acquires at least one position in the security when the value of the security reaches or passes the trigger price in a second direction opposite to the first direction.

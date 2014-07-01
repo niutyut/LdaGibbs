@@ -1,0 +1,4 @@
+title: Devices for dissipating heat in a fluid ejector head and methods for making such devices
+
+abstract: 
+A print cartridge includes a manifold that is molded from a polymer including at least one thermally conductive filler material, and a fluid ejector die module attached to the manifold. A method of manufacturing a print cartridge includes molding a manifold at least partially from a polymer including thermally conductive fillers, forming a fluid ejector die module, and attaching the manifold to the fluid ejector die.

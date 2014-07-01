@@ -1,0 +1,4 @@
+title: Heat generating resistive element, substrate for liquid discharge head having the heat generating resistive element, liquid discharge head, and manufacturing method therefor
+
+abstract: 
+A heat generating resistive element which is used in a liquid discharge head for discharging a liquid from a discharge port by thermal energy, comprises a composition ratio of 15?30 at% Fe, 35?60 at% Si, and 10?50 at% N, in total to 100 at% or substantially 100 at%.

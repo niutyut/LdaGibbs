@@ -1,0 +1,4 @@
+title: Reduction of storage elements in synthesized synchronous circuits
+
+abstract: 
+Method and apparatus for reducing a number of storage elements in a synthesized synchronous circuit. In one embodiment, the circuit is represented as a directed, partitioned graph. The graph is divided into a plurality of time-ordered timeslots that are bounded by storage elements. The strongly-connected components (SCCs) in the graph are first identified. For each middle SCC where there is slack between the middle SCC and a first SCC and slack between the middle SCC and a second SCC, a time-slot-relative direction is selected for moving the middle SCC. The direction is selected as a function of a number of storage elements required for moving the middle SCC toward the first SCC versus moving the middle SCC toward the second SCC. The middle SCC is then moved in the selected time-slot-relative direction.

@@ -1,0 +1,4 @@
+title: Communication network in particular for telephony
+
+abstract: 
+A communications network, in particular for telephony, comprises at least one operator a plurality of remote units for exchanging signals with mobile terminals and an interface unit for controlling the data traffic between the operator and the remote units. The interface unit is connected to the remote units by a first transmission support in which the main signal propagates. The main signal is divided into a plurality of secondary signals, each identified by a preset parameter value. Each remote unit is designed to process at least one secondary signal selected from amongst the secondary signals into which the main signal is divided. The secondary signal is identified by the remote unit according to the above-mentioned present parameter value.

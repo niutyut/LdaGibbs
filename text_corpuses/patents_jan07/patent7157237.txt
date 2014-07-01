@@ -1,0 +1,4 @@
+title: Antibodies for enzymes of the ?-oxidation pathway and methods relating thereto
+
+abstract: 
+The present invention provides antigenic peptides useful for the production of antibodies which selectively bind to an enzyme involved in the ?-oxidation of fatty acids and alkanes to ?,?-dicarboxylic acids in yeast. Antibodies which specifically bind to an enzyme involved in the ?-oxidation of fatty acids and alkanes to ?,?-dicarboxylic acids in yeast are also provided. In addition, methods of producing the subject antibodies, a method of detecting the presence and amount of a specific enzyme involved in the ?-oxidation of fatty acids and alkanes to ?,?-dicarboxylic acids, and a method of monitoring the degree of enzyme induction and/or enzyme stability in a mixture during ?-oxidation of fatty acids and alkanes to ?,?-dicarboxylic acids in yeast, are also provided.

@@ -1,0 +1,4 @@
+title: Method for removing Cryptosporidium oocysts from water
+
+abstract: 
+A method for stabilizing and removing oocysts or cysts from water. The method comprises adding chitosan, a salt or solution of chitosan to water containing oocysts or cysts and a halogenating agent. The method may also include adding a secondary polyelectrolyte flocculant to the water. The resulting flocs are filtered to remove the oocysts or cysts.

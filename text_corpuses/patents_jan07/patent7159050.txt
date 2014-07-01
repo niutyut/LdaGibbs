@@ -1,0 +1,5 @@
+title: File input/output control device and method for the same
+
+abstract: 
+In a technology for dividing a file into a plurality of fragments which are distributed to a plurality of storage devices, to maintain a high level of security and fault tolerance, while storing the file on fewer storage devices than in the past.
+A file input/output control device  upon receiving a file from a client  constructs a plurality of fragments from a file with reference to a predetermined number of divisions and redundancy. A file input/output control device  allows a plurality of fragments to be stored on a single storage device, but distributes fragments to storage devices  in such a way as to avoid sending a single type of fragment to any one storage device, and to avoid sending all types of fragments to any one storage device. By so doing, file input/output control device  ensures security against cracking and system fault tolerance, while enabling files to be stored on fewer storage devices than in the past.

@@ -1,0 +1,4 @@
+title: Shunt with enclosed pressure-relief valve
+
+abstract: 
+A shunt for relief of intra-ocular pressure includes a pressure-relief valve and a jacket enclosing the pressure relief valve. When implanted on the sclera of an eye, the jacket protects the valve from interference by a capsule formed on the shunt.

@@ -1,0 +1,4 @@
+title: Structure of a bipolar junction transistor and fabricating method thereof
+
+abstract: 
+A method for fabricating a bipolar junction transistor on a wafer is disclosed. The wafer has a N-type doped area and a plurality of isolated structures. A protection layer is formed on the wafer and portions of the protection layer are then removed to expose portions of the doped area. A P-type epitaxy layer is formed on the protection layer and the first doped area and then portions of the epitaxy layer and the protection layer are removed. An insulation layer is formed and at least a collector opening and emitter opening are formed within the insulation layer. Following that, a polysilicon layer is formed to fill the collector opening and the emitter opening. A spacer is formed beside the polysilicon layer and the epitaxy layer followed by performing a self-aligned silicidation process to form a salicide layer on the polysilicon layer and portions of the epitaxy layer.

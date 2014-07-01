@@ -1,0 +1,4 @@
+title: Method for controlling the ferric ion content of a plating bath containing iron
+
+abstract: 
+A system and method for reducing ferric ion content in a plating solution by exposing hydrogen to an electrode in a plating solution for reducing a ferric ion content in the plating solution.

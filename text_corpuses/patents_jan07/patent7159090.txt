@@ -1,0 +1,4 @@
+title: Reproducing method, reproducing apparatus, and data accessing method
+
+abstract: 
+A data accessing method includes the steps of obtaining a track information entry about a predetermined track from a play order table, which points to a track descriptor in a track information table; obtaining the track descriptor from the track information table, the track descriptor including a decryption key corresponding to the predetermined track, pointer information that points to a part descriptor of a plurality of part descriptors in a part information table, and name pointer information that points to a name slot entry in a name table having a plurality of name slot entries; using the name slot entry and the part descriptor to read a part of an audio file according to part pointer information in the part descriptor.

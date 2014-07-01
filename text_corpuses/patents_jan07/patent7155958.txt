@@ -1,0 +1,4 @@
+title: Hole diameter measurement
+
+abstract: 
+Methods of measuring the amount of wear at a hole. In a first embodiment, the method includes measuring a first diameter of the hole at a portion of the hole wall that is subject to wear and measuring a second diameter of the hole at a portion of the wall not subject to the wear. The measured diameters are then used to determine the amount of the wear. An assumption may be made regarding a profile of the wear. To determine the amount of the wear from the measured diameters, the Pythagorean Theorem may be used. Further, the method may include determining how far a fastener will protrude from the hole based on the amount of the wear. Moreover, the hole may be used to calibrate ring or chamfer gages.

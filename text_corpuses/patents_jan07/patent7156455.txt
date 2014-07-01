@@ -1,0 +1,4 @@
+title: Sunroof panel for a vehicle
+
+abstract: 
+A sunroof panel is composed of a resin panel and a weather strip. The resin panel is a plate-like resin panel and has a vehicle interior surface and a vehicle exterior surface, which are substantially parallel to each other. The resin panel is attached to a frame by means of a urethane adhesive. The resin panel has a peripheral portion, which extends from a portion sticking to the urethane adhesive to a side face, and a central portion surrounded by the peripheral portion. The peripheral portion is thinner than the central portion. The side face of the resin panel is formed so as to be inclined inwardly toward the vehicle interior surface. An approach-R portion is formed on a peripheral portion of the vehicle exterior surface.

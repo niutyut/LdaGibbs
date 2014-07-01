@@ -1,0 +1,4 @@
+title: Gene finding using ordered sets
+
+abstract: 
+A method, system and computer program product for identifying occurrences of a sequence of ordered marker strings in a string are disclosed. The method includes the steps of identifying sub-strings in the string that match the marker, for each marker string except the last marker string in the ordered sequence of marker strings creating directed links between a sub-string that matches a particular marker string and all the sub-strings that match a subsequent marker string in the ordered sequence of marker strings, and identifying occurrences of the sequence in the string by tracing one or more corresponding paths from each sub-string that matches the first marker string to all sub-strings that match the last marker string by following the directed links. The method, system and computer program product disclosed particularly relate to finding a gene in a DNA sequence.

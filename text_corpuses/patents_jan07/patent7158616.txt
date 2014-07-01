@@ -1,0 +1,4 @@
+title: Automated and integrated call control server
+
+abstract: 
+Allowing a tester of a telephonic device to issue call control commands to a call control server using an intuitive set of commands and using both data lines for data call control commands, and voice lines for touch tone or ?DTMF? call control commands. The user may initiate a call control command by either entering the call control command in a command line of a program executed at a telephonic device, or by crafting a function call using an Application Program Interface (API) that allows for more intuitive function calls that are more descriptive of the call control command. During execution, the more descriptive user-entered command or function call is converted into a form that recognized by the call control server. The converted call control command is then transmitted to the call control server.

@@ -1,0 +1,7 @@
+title: Polymer and polymeric luminescent element comprising the same
+
+abstract: 
+A polymer characterized by comprising repeating units represented by the following formula (1) and having a number-average molecular weight, in terms of polystyrene, of 10to 10.
+
+
+(In the formula, Rrepresents hydrogen, alkyl, alkoxy, alkylthio, aryl, aryloxy, arylthio, arylalkyl, arylalkoxy, arylalkylthio, arylalkenyl, arylalkynyl, amino, substituted amino, silyl, substituted silyl, silyloxy, substituted silyloxy, monovalent heterocyclic group, or halogeno; and rings D and E each represents an optionally substituted aromatic ring.)

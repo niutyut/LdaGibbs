@@ -1,0 +1,4 @@
+title: Image processing apparatus and method
+
+abstract: 
+The color reproduction performance of image input/output devices has been improved greatly and even very slight changes in color ascribable to a color balance correction are recognizable. As a consequence, there are cases where a specific color shift, such as a color shift in the yellow or blue direction, gives a disagreeable sensation when applied with regard to a slight color change in the color of the human skin, which is a memory color. Accordingly, highlight and shadow points are detected based upon the histogram of an image, color information of the highlight and shadow points is revised by adjusting average color difference information based upon a hue angle acquired from average color difference information of image data having luminance levels of the highlight and shadow points, and the image is corrected based upon the revised color information of the highlight and shadow points.

@@ -1,0 +1,4 @@
+title: Distributed storage system capable of restoring data in case of a storage failure
+
+abstract: 
+A collective storage system and method for restoring data in the system after a failure in the system. The system includes multiple storage nodes that are interconnected by a network and store data as extents. There are also a set of Data Service (DS) agents for managing the extents, a set of Metadata Service (MDS) agents for managing metadata relating to the nodes and the extents, and a Cluster Manager (CM) agent in each node. After a node failure is detected by one of the CM agents, the agents responsible for coordinating the data restoring are notified of the failure. The agents generate a plan to restore the data extents affected by the failure, and then collectively restoring the affected extents based on the generated plan. The coordinating agents might be the MDS agents or DS agents. The failure might be a node failure or a disk failure.

@@ -1,0 +1,4 @@
+title: Process monitoring device for sample processing apparatus and control method of sample processing apparatus
+
+abstract: 
+A plasma processing apparatus for processing a sample within a vacuum vessel, including: a plurality of sensors for detecting plural kinds of information relating to a processing state of the sample as monitor data; data selecting means for selecting a detection time range of the monitor data thus detected which is used for monitoring the plasma processing apparatus; a signal filter for converting the monitor data within the selected detection time range into an effective signal; a model expression unit for generating a predicted value of a patterned physical-shape of a sample based on the effective signal; and a display screen for displaying the patterned physical-shape predicted value; wherein the display screen displays the patterned physical-shape predicted value without measuring a patterned shape after processing of the sample.

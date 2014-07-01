@@ -1,0 +1,4 @@
+title: Optical connector
+
+abstract: 
+An optical fiber connector plug includes a housing through which extends a cable containing at least one optical fiber. A ferrule, which is supported by the housing, is provided for receiving the optical fiber. The ferrule has a mating facet and an opposing rear facet located in the housing. The ferrule has at least one guide pin thru-hole and at least one optical fiber thru-hole extending between the mating facet and the opposing rear facet. The guide pin thru-hole has an opening portion extending inward from the mating facet. The opening portion is tapered outward to meet the mating facet in an oblique manner such that the opening portion has a diameter in the plane of the mating facet that is greater than a diameter of a remainder of the guide pin thru-hole.

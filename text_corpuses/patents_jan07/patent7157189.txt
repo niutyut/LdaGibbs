@@ -1,0 +1,4 @@
+title: Lithographic process for reducing the lateral chromium structure loss in photomask production using chemically amplified resists
+
+abstract: 
+The invention relates to a process for the production of photomasks. A film of a photoresist, as used for structuring semiconductor substrates, for example a CARL resist, is applied to a chromium-coated quartz glass substrate. The photoresist layer is written on by means of a focused electron beam, heated and then developed. The now structured resist is treated with an amplification agent and thus increases in its etch resistance to an oxygen plasma. During etching of the bare chromium sections, the silicon introduced into the photoresist is converted into silicon dioxide, which forms a protective layer on the chromium layer. Thus, the structure written in by means of the electron beam can be transferred without loss into the chromium layer.

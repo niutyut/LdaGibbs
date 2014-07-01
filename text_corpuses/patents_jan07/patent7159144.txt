@@ -1,0 +1,4 @@
+title: Firmware code profiling
+
+abstract: 
+Disclosed herein are debugging tool(s) for profiling the frequency of execution of certain instructions in a host operation. The debugging tool causes interrupts to occur at random time intervals and records the address of the program counter at each interrupt. A profile is developed that indicates the frequency of execution of certain instructions after a statistically significant number of interrupts.

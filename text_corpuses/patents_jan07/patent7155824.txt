@@ -1,0 +1,4 @@
+title: Method of manufacturing an automotive differential having an input pinion
+
+abstract: 
+A method for fabricating an input pinion for an automotive differential that includes: providing a shaft; forging a pinion with a plurality of teeth such that each tooth is formed to at least a near-net size, forming a hole in the pinion, pressing an end of the shaft into the hole in the pinion, and securing the shaft to the pinion.

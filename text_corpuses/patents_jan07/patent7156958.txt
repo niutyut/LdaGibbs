@@ -1,0 +1,4 @@
+title: Preparation of hollow carbon nanocapsules
+
+abstract: 
+A method of producing hollow carbon nanocapsules. First, an arc chamber including a graphitic cathode and a graphitic anode is provided and an inert gas is introduced into the arc chamber. Next, a voltage is applied across the cathode and the anode by a pulse current with the voltage sufficient to generate a carbon arc reaction between the cathode and the anode. Finally, deposit formed on the cathode is collected. The deposit includes a hollow carbon nanocapsule main product and a carbon nanotube byproduct.

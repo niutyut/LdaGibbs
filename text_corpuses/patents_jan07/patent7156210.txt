@@ -1,0 +1,4 @@
+title: Freight elevator landing door control
+
+abstract: 
+A control system for a motorized freight elevator landing door in which all of the doors in a single line of a hoistway are controlled with one set of proximity sensors carried on the elevator car. The sensors signal a controller that operates electric motors for opening and closing the landing door where the car has stopped. The door operating motors are two speed units and the sensors and controller are arranged to operate the motors at high speed during most of the travel in opening or closing movement and at reduced speed at the end of movement. The controller applies power to the motor for a short period after the door is fully closed or open to stall the motors and thereby dampen any rebound motion.

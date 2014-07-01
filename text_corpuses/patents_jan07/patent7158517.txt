@@ -1,0 +1,4 @@
+title: Method and apparatus for frame-based protocol processing
+
+abstract: 
+A method and apparatus for an overhead processing system is described. More particularly, frame latency is used to process less time-critical overhead with the overhead processing system. Such a system uses less semiconductor wafer area and consumes less power than processing all overhead in a time-critical manner using flip-flops and the like.

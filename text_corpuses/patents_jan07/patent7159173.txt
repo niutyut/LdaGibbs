@@ -1,0 +1,4 @@
+title: Method, computer system and computer program product for printing a document page
+
+abstract: 
+The invention is directed to a method performed by a computer system to print a document page on one sheet or split over several sheets, comprising: simultaneously displaying on a computer display a preview of the document page as it will be printed, including displaying sheet splitting, and at least one control element for modifying the print scale or the number of sheets; dynamically changing the displayed sheet splitting in response to a corresponding actuation of the control element; printing the document page according to the displayed sheet splitting upon receiving a print command. The invention is also directed to a corresponding computer system an a corresponding computer program product.

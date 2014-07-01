@@ -1,0 +1,4 @@
+title: Triode structure of field emission display and fabrication method thereof
+
+abstract: 
+A triode structure of a field emission display and fabrication method thereof. A plurality of cathode layers arranged in a matrix is formed overlying a dielectric layer. A plurality of emitting layers arranged in a matrix is formed overlying the cathode layers, respectively. A plurality of lengthwise-extending gate lines is formed on the dielectric layer, in which each of the gate layers is disposed between two adjacent columns of the cathode layers.

@@ -1,0 +1,4 @@
+title: Elastic store circuit
+
+abstract: 
+An elastic store circuit includes a set/reset flip-flop circuit corresponding to plural pieces of input data and an AND circuit for receiving the output of each flip-flop circuit. Upon receipt of a frame pulse indicating the head of each piece of input data, the flip-flop circuit outputs a signal to the AND circuit. The AND circuit outputs an H signal when it receives signals from all flip-flop circuits, and detects the receipt of the data having the longest delay time. According to the output signal of the AND circuit, data is read from each unit of elastic store memory.

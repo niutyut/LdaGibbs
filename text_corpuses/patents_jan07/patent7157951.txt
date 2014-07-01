@@ -1,0 +1,4 @@
+title: Digital clock manager capacitive trim unit
+
+abstract: 
+A delay line for a digital clock manager includes a tap delay structure and a trim delay structure. The trim delay structure includes a first buffer coupled to receive a clock signal from the tap delay structure, and in response, provide a delayed clock signal to a set of clock lines. The trim delay structure also includes a capacitive trim unit having a plurality of capacitive trim elements tapped off the set of clock lines. The capacitive trim elements are selectively enabled or disabled, thereby introducing additional delay to the delayed clock signal on the set of clock lines. Each capacitive trim element can include a transmission gate structure, which is turned on to introduce significant junction capacitance to the set of clock lines. The trim delay structure can also include a second buffer adapted to buffer the delayed clock signal on the set of clock lines.

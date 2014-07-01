@@ -1,0 +1,4 @@
+title: Physical layer apparatus compliant to serial and parallel ATA interfaces
+
+abstract: 
+A physical layer apparatus compliant for both serial and parallel ATA interfaces is devised. The physical layer apparatus includes a serial ATA physical layer circuit, a channel selection unit and a channel selection controller. The channel selection unit is connected to a media access controller of a host through a first IDE bus. The channel selection unit is further selectively connected to a serial ATA device through the serial ATA physical circuit or connected to a parallel ATA device through second IDE bus. Therefore, the media access controller of the host can selectively access the serial ATA device and the parallel ATA device through the channel selection unit under the control of the channel selection controller.

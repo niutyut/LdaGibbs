@@ -1,0 +1,8 @@
+title: Method for preparing an organo-silicon sol and materials obtained from such a sol
+
+abstract: 
+The method consists in hydrolysing an initial volume Vse of a precursor material comprising at least one polyalkoxysilane with a quantity of water such that
+
+
+
+where x H0 and x Si represent the number of moles of H0 and Si present, respectively, the concentration of the hydrolysate up to a volume substantially equal to the initial volume Vsi, leaving the concentrated hydrolysate until segregation into an aqueous phase and an organo-silicon phase, and recovery of the organo-silicon phase. A product can be obtained which comprises an organo-silicon sol comprising silicon species T, T, and T, wherein the molar fraction of species Tis equal or greater than 50%, comprising a condensation rate equal to or greater than 0.65, and further defined as lacking water, as determined by analyzing a sample of said organo-silicon sol by H NMR and observing the absence of peak corresponding to water.

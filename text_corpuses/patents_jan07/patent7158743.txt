@@ -1,0 +1,4 @@
+title: Developing apparatus, configured to prevent splashing of toner and carrier
+
+abstract: 
+A developing apparatus prevents or reduces splashing of toner and carrier caused by abnormal outward airflows generated at downstream positions of a developing unit casing thereof through interactions between behaviors of magnetic brushes and local portions of the developing unit casing. The developing apparatus includes a developer carrying member, a first permanent magnet, a developing unit casing, a second permanent magnet, which is built in the developer carrying member at a fixed position at the downstream side from the first permanent magnet with respect to the rotational direction of the developer carrying member. The developing unit casing has a concave structure to form a low pressure area at a position facing the second permanent magnet. The low pressure area suppresses an increase in the speed of the airflow therein that causes the abnormal outward airflows.

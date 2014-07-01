@@ -1,0 +1,4 @@
+title: Coatings, coated articles and methods of manufacture thereof
+
+abstract: 
+A multi-layer coating is particularly useful for the coating of implants such as orthopedic and dental implants, particularly metallic implants. The first layer comprises a bond coating of a dense material insoluble and inert in body fluids. The second layer comprises apatite and a binder. The first layer protects the metallic implants from corrosion, apatite dissolution, and interfacial reaction with apatite and the binder. The apatite in the second layer is a bioactive agent that can osteobond to tissue. The binder allows adjustment of the thermal expansion coefficient between the coating and the metallic substrate. This multi-layer coating has both high bond strength to implants and excellent bioactivity with the surrounding body tissue.

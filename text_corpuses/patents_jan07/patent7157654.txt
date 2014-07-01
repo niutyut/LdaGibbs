@@ -1,0 +1,4 @@
+title: Pressure switch with protection of the membrane against over-stretching
+
+abstract: 
+A pressure switch for pressures up to a maximum permissible pressure (p), with a housing () and a membrane (), whereby the membrane is fastened in the housing. The membrane has an exposed face on which a pressure can act, and it is deformed when a pressure acts upon it. The pressure switch comprises a means () that converts the membrane deformation into a stroke, as well as an electric contact system that interacts with this means. The means causes a membrane deformation to actuate the electric contact system. The pressure switch also comprises a cast solid abutment member () that completely fills a cavity between an inner wall of the housing and the face of the membrane opposite the exposed face when the membrane is exposed to the maximum permissible pressure p.

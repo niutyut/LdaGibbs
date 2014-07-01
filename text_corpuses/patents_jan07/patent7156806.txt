@@ -1,0 +1,4 @@
+title: Stabilized table rail clamp
+
+abstract: 
+A clamping device which secures a retractor support apparatus to an operating table having a side rail. The clamping device has a first clamping member disposed between a side of the operating table and the side rail. The clamping device also includes a second clamping member disposed between the side rail and the first clamping member. A first securing mechanism operably connects the first and second clamping members such that a force provided by the first securing mechanism causes the first and second clamping members to move in opposing directions and frictionally engage the side of the operating table and the side rail.

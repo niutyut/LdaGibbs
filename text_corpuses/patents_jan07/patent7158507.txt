@@ -1,0 +1,4 @@
+title: Call setup method
+
+abstract: 
+A network element of a telephone network and method for monitoring connections and receiving data from an incoming leg of a connection and forwarding the data to an outgoing leg of a connection, wherein when the network element observes that both the incoming and outgoing legs of a connection are transmitted via a packet data network to a previous or correspondingly the next element of the telephone network, a release of the previous network element occurs, and an indication of a packet network address corresponding to the next telephone network element is made. The previous network element may then transmit data via the packet data network directly to the next telephone network element.

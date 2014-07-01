@@ -1,0 +1,4 @@
+title: LED warning beacon
+
+abstract: 
+A warning beacon includes a transparent housing, having a triangular shape suggestive of a warning sign, the housing having a front face, a back face, and side edges. A mounting plate is disposed within the housing between the front and back faces, and a plurality of LEDs are supported by the mounting plate, and oriented to provide light in at least a forward direction through the front face.

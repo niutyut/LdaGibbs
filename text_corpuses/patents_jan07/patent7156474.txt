@@ -1,0 +1,4 @@
+title: Track and drive mechanism for a vehicle
+
+abstract: 
+A tracked vehicle capable of traversing a variety of surfaces without damaging the surface traversed includes a track having an inner surface, an outer surface, and a pitch line between the inner surface and the outer surface. Driving lugs are attached to the inner surface of the track. The vehicle also includes a driver sprocket assembly having a number of driving portions for engaging the driving lugs to drive the track. Each drive lug has at least one angled sidewall which, as the drive lug is engaged with the drive portion, presents a wall either substantially parallel to a line between the axis of rotation of the sprocket and the driving portion of the sprocket or slightly declined with respect to a line between the axis of rotation of the sprocket and the driving portion of the sprocket.

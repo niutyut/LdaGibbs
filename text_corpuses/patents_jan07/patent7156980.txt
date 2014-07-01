@@ -1,0 +1,4 @@
+title: Catalytic composition for the upgrading of hydrocarbon mixtures
+
+abstract: 
+The present invention relates to a catalytic composition which comprises a beta zeolite, a metal of group VIII, a metal of group VI B and optionally one or more oxides as carrier. The catalytic system of the present invention can be used for the hydrotreating of hydrocarbon mixtures and more specifically in the upgrading of hydrocarbon mixtures having boiling ranges within the range of 35? to 250? C., containing sulfur impurities, i.e. in hydrodesulfuration with contemporaneous skeleton isomerization and a reduced hydrogenation degree of olefins contained in said hydrocarbon mixtures, the whole process being carried out in a single step.

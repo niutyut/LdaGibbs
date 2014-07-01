@@ -1,0 +1,4 @@
+title: Programmable asynchronous pipeline arrays
+
+abstract: 
+High-performance, highly pipelined asynchronous FPGAs employ a very fine-grain pipelined logic block and routing interconnect architecture. These FPGAs, which do not use a clock to sequence computations, automatically ?self-pipeline? their logic without the designer needing to be explicitly aware of all pipelining details. The FPGAs include arrays of logic blocks or cells that include function units, conditional units and other elements, each of which is constructed using basic asynchronous pipeline stages, such as a weak condition half buffer and a precharge half buffer.

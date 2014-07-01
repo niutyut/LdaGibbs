@@ -1,0 +1,4 @@
+title: Shaft-hub connection
+
+abstract: 
+The present invention relates to a shaft-hub connection having an attachment flange and a clamping element, particularly a clamping ring, attachable thereto, by means of which the shaft end assigned to the attachment flange may be friction-locked to the attachment flange, with an interposed bushing which receives a slip torque. The present invention is based on the object of refining a device of the type initially cited in such a way that the lifetime of the attached components in the drivetrain is increased. This object is achieved according to the present invention in that the bushing is designed in multiple parts in the axial direction.

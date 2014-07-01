@@ -1,0 +1,4 @@
+title: Analog to digital converter using sawtooth voltage signals with differential comparator
+
+abstract: 
+An analog to digital converter includes a resistor-divider network including a plurality of resistors, an arbel channel circuit configured to generate a voltage sawtooth signal as an output, a dc-offset disposed to couple a node of the resistor-divider network and the arbel-channel circuit. The converter further includes a voltage reference circuit configured to generate a reference voltage, and a differential comparator configured to compare the voltage sawtooth signal with the reference voltage to produce a digital output signal corresponding to the voltage sawtooth signal. Method of converting an analog signal to a digital signal is also described.

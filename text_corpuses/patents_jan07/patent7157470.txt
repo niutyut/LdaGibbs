@@ -1,0 +1,7 @@
+title: Sulfonylaminovalerolactams and derivatives thereof as factor Xa inhibitors
+
+abstract: 
+The present application describes sulfonylaminovalerolactams and derivatives thereof of Formula I:
+
+
+or pharmaceutically acceptable salt forms thereof, wherein ring G is a mono- or bicyclic carbocycle or heterocycle. Compounds of the present invention are useful as inhibitors of trypsin-like serine proteases, specifically factor Xa.

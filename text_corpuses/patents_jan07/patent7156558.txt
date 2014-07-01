@@ -1,0 +1,4 @@
+title: Linear motion drive system
+
+abstract: 
+The linear motion drive system is capable of automatically remove a clearance between a moving body and a linear shaft when the moving body and/or the linear shaft is abraded. The linear motion drive system comprises: the moving body linearly and reciprocally moved along the linear shaft; a contact body contacting the linear shaft; and a pressure unit provided to the moving body, the pressure unit pressing the contact body so as to apply pressure to the linear shaft. The pressure unit includes: a press section contacting and pressing the contact body; a biasing member biasing the press section toward the linear shaft; and a locking mechanism holding the press section.

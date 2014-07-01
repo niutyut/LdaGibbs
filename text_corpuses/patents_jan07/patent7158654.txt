@@ -1,0 +1,4 @@
+title: Image processor and image processing method
+
+abstract: 
+A pattern signal is steganographically encoded in a content object to aid in identifying distortion (e.g., image rotation) to which the object may be subjected. The signal may include a feature that can be used to unambiguously identify correct orientation.

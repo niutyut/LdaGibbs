@@ -1,0 +1,4 @@
+title: Device for unwinding a wire providing data transmission of any type between two mobile elements operating in a fluid
+
+abstract: 
+A device for unwinding a wire providing data transmission of any type (instructions or accounts) between two mobile elements () and () operating in a fluid, includes one or two reels housed in a winder (). The winder (), capable of being dissociated from the two mobile elements () and () includes stabilizing elements for moving away the reeling point from the launching mobile element (). The invention is applicable to wire-transmission between a submarine and a self-propelled torpedo.

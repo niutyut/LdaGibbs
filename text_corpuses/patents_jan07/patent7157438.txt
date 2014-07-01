@@ -1,0 +1,4 @@
+title: Rhob as a suppressor of cancer cell growth and cell transformation
+
+abstract: 
+The protein RhoB and its variants as a supressor of cancer cell growth, inhibitor of malignant cell transformation, and modulator of oncogenic signaling, wherein introducing RhoB directly, or indirectly via a nucleic acid, into a malignantly transformed cell or a cancerous cell decreases phosphorylation of Erk and Akt proteins inhibiting the PI3-kinase/Akt cell survival pathway and promoting apoptotic cell death. Methods and compositions are disclosed for administering to cancer patients, a prophylactic treatment to minimize the risk of malignant transformation, and advantageous combination of RhoB therapy with existing cancer treatments. The protein RhoB and the variants of the present invention are prenylated with either geranylgeranyl or farnesyl, and provision is made for selection of the prenylating moiety.

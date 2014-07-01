@@ -1,0 +1,4 @@
+title: Method for performance and fault management in a telecommunication network
+
+abstract: 
+A mobile subscriber () initiates a request for packet data services (). As the request is processed from network node () to network node (), the transmission is checked for errors (). For successive failures, exceeding a threshold (), an alarm condition along with a cause code corresponding to the particular network node is sent to a network system manager ().

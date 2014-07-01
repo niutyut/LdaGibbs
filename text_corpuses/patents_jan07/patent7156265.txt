@@ -1,0 +1,4 @@
+title: Container
+
+abstract: 
+A paint container includes a top, a bottom, and at least one side wall. A handle is pivotally attached to the body proximate the top. A recess is disposed in the handle proximate the top of the container when the handle is in a rest position. The handle includes an indentation to receive a hook for supporting the container. The handle also includes a pair of tabs that are received in recesses in the bottom for positive location and secure stacking.

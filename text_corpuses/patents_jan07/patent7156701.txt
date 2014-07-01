@@ -1,0 +1,4 @@
+title: High-reliability DIMM connector
+
+abstract: 
+A socket connector for connecting a card edge module to a circuit board includes a base extending along a longitudinal axis between opposed ends. The base includes a mounting face configured to be received on the circuit board. Support towers are integrally formed with the base and located at the opposed ends of the base. The support towers extend upward from the base away from the mounting face. Each of the base and the towers includes open sided mating surfaces that collectively define a mating plane. The open sided mating surfaces are configured to receive the card edge module from a lateral direction with respect to the mating plane when the card edge module is loaded into the connector. Electrical contacts are held in the base. The contacts have mating ends extending laterally from the open-sided mating surface of the base. The contacts have mounting ends that extend from the mounting face.

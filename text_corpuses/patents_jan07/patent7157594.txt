@@ -1,0 +1,7 @@
+title: 6-Fluorobicyclo[3.1.0]hexane derivatives
+
+abstract: 
+An antidepressant comprising, as an active ingredient, a compound having an antagonistic effect on group II metabotropic glutamate receptors, as well as a 2-amino-3-alkoxy-6-fluoro-bicyclo[3.1.0]hexane-2,6-dicarboxylic acid derivative of Formula [I]:
+
+
+[wherein Rand R, which may be the same or different, each represent a hydroxyl group, a Calkoxy group, etc.; Rrepresents a Cacyl group, a Calkoxy-Cacyl group, etc.; and Rand R, which may be the same or different, each represent a hydrogen atom, a Calkyl group, etc.] or a pharmaceutically acceptable salt or hydrate thereof.

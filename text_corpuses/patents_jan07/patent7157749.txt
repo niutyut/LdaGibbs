@@ -1,0 +1,4 @@
+title: Bipolar transistor with a GaAs substrate and a SiGe base or collector
+
+abstract: 
+A bipolar transistor is provided which includes a GaAs substrate, an n-type collector region formed on the GaAs substrate, a p-type base region formed on the n-type collector region and having a p-type base layer of SiGe having a composition lattice-matched with the GaAs substrate, and an n-type emitter region formed on the p-type base region. A bipolar transistor may include a GaAs substrate, a collector region of a first conductivity type formed on the GaAs substrate and including a collector contact layer of the first conductivity type SiGe, which has a composition lattice-matched with the GaAs substrate, a base region of a second conductivity type formed on the collector region of the first conductivity type, and an emitter region of the first conductivity type formed on the base region of the second conductivity type.

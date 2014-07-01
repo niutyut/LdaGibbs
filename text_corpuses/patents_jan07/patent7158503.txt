@@ -1,0 +1,4 @@
+title: Placement of idle periods
+
+abstract: 
+A telecommunications system comprising: a plurality of transmitters capable of transmitting data in superframes, each superframe comprising a plurality of frames, and each frame comprising a plurality of slots; the transmitters being arranged in groups, each group comprising a number of base stations, each group of base stations being assigned one or more slot numbers which are different from those of other groups and each of the transmitters of each group being assigned a different frame number, each transmitter being arranged to operate at reduced transmission power for a period commencing in the allocated slot or slots assigned to its group in the frame assigned to it.

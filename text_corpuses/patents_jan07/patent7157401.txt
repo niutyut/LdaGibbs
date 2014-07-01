@@ -1,0 +1,4 @@
+title: Catalyst for the treatment of organic compounds
+
+abstract: 
+A catalyst for the hydroprocessing of organic compounds, composed of an interstitial metal hydride having a reaction surface at which monatomic hydrogen is available. The activity of the catalyst is maximized by avoiding surface oxide formation. Transition metals and lanthanide metals compose the compound from which the interstitial metal hydride is formed. The catalyst's capabilities can be further enhanced using radio frequency (RF) or microwave energy.

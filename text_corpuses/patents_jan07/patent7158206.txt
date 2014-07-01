@@ -1,0 +1,4 @@
+title: Sputter for deposition of metal layer and fabricating method of liquid crystal display device using the same
+
+abstract: 
+A fabricating method of a liquid crystal display device includes forming a gate line on a first substrate, forming a data line crossing the gate line, forming a switching element connected to the gate line and the data line, forming a pixel electrode connected to the switching element, forming a black matrix on a second substrate using a sputter, wherein the sputter includes a shield mask having an open portion larger than or equal to the second substrate, forming a color filter layer on the black matrix, forming a common electrode on the color filter layer, attaching the first and second substrates such that the pixel electrode faces the common electrode, and forming a liquid crystal layer between the pixel electrode and the common electrode.

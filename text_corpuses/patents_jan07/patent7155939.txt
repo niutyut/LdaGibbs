@@ -1,0 +1,4 @@
+title: Apparatus for bending glass panels
+
+abstract: 
+The invention relates to an apparatus for bending glass panels. The upper tier of successive mould carriers defines a number of heating sections, the last one of which is an actual bending section. The lower tier of successive mould carriers defines a number of cooling sections, which are located below the heating sections. The mould carriers are provided with an open-structured or otherwise highly heat transmissive bottom. Underneath bending sections, effecting gravitational bending on an upper mould carrier track, lie cooling sections, each of which is individually provided with controlled cooling air circulation by means of cooling air exhaust fans. Following the sections performing the controlled cooling or annealing, the mould carriers are adapted to be conveyed along a lower mould carrier track nonstop under a plurality of preheating sections by a single passage.

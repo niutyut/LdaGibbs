@@ -1,0 +1,4 @@
+title: Bale processor with fork lift
+
+abstract: 
+An apparatus for disintegrating bales of agricultural materials such as hay. The apparatus includes a processing tub and is provided with a novel adjustable fork-lift adapted to raise bales of different size and configuration into the processing tub.

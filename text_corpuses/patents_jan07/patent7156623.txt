@@ -1,0 +1,4 @@
+title: Electric oil pump apparatus
+
+abstract: 
+An electric oil pump apparatus includes a pump housing a drive side communicating portion, a motor housing having a pump side communicating portion communicating with the drive side communicating portion, a bearing portion arranged at one of the drive side communicating portion and the pump side communicating portion, and a shaft rotatably supported by the bearing portion. A one end of the shaft extends in the pump housing and is provided with a drive rotor capable of feeding the oil in response to rotation of the shaft. The other end of the shaft extends in the motor housing and is provided with a permanent magnet.

@@ -1,0 +1,4 @@
+title: Entropy coding scheme for video coding
+
+abstract: 
+A method of variable length coding classifies each received symbol into one of a plurality of classifications having a corresponding variable length code table selected based upon a probability distribution of received symbols within the classification. The variable length codeword output corresponds to the received symbol according to the variable length code table corresponding to the classification of that received symbol. The plurality of classifications and the corresponding variable length code tables may be predetermined and fixed. Alternatively, the variable length code table may be dynamically determined with data transmitted from encoder to decoder specifying the variable length code tables and their configurations. Universal variable length code (UVLC) is used to code the symbols. Universal variable length code can instantiate to different variable length code tables with different parameters.

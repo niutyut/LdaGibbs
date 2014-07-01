@@ -1,0 +1,4 @@
+title: Method for prevention of recursive loops between network elements
+
+abstract: 
+The occurrence of recursive loops between network elements are detected and prevented. One or more queries are generated that are sent between the network elements. One or more of the network elements detect the imminent occurrence of a recursive loop between the network elements, and prevent the recursive loop by generating an intensional answer in response to the query. The intensional answer contains rules.

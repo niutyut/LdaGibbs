@@ -1,0 +1,4 @@
+title: Light emission display arrangements
+
+abstract: 
+The present invention provides arrangements for electroluminescent displays  comprising a packaged semiconductor light emitting element  that has a light emitting display side . A heat sink  is disposed in the region of a rear side of the light-emitting element  opposite to the display side. Electrical connections  from the light emitting element  pass through said heat sink . Drive circuitry  for the light emitting element  is connected thereto by the electrical connections  and spaced apart from the heat sink  in such a manner that at least one cooling channel  is defined between the heat sink  and the drive circuitry  for the passage in use of a cooling fluid.

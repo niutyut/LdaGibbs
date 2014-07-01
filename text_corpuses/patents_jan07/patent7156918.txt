@@ -1,0 +1,4 @@
+title: Weighing devices
+
+abstract: 
+A weighing device () for providing a indication of the weight of a piece of luggage (), the device comprising load bearing means () adapted to be placed on or form part of the carry means of the piece of luggage (H) and indicator means () associated with the load bearing means whereby when the luggage is lifted by the carry means (H), the load bearing means is subjected to the mass of the piece of luggage and the indicator means provides an indication of the weight of the piece of luggage.

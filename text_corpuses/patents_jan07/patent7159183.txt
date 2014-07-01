@@ -1,0 +1,4 @@
+title: System and method for programmatically creating a graphical program
+
+abstract: 
+A computer-implemented system and method for programmatically/dynamically creating or editing a graphical program. The ability to programmatically create/edit graphical programs enables applications and tools to automatically create or modify a graphical program or a portion of a graphical program. In the preferred embodiment, any operation which a user may perform while interactively editing a graphical program (e.g., connect two objects, change the position of an object, change the color of an object, etc.) may be performed programmatically.

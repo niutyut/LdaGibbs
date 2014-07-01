@@ -1,0 +1,4 @@
+title: Real time immersion medium control using scatterometry
+
+abstract: 
+Systems and/or methods are disclosed for measuring and/or controlling an amount of impurity that is dissolved within an immersion medium employed with immersion lithography. The impurity can be photoresist from a photoresist layer coated upon a substrate surface. A known grating structure is built upon the substrate. A real time immersion medium monitoring component facilitates measuring and/or controlling the amount of impurities dissolved within the immersion medium by utilizing light scattered from the known grating structure.

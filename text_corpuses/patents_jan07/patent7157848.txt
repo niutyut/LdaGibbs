@@ -1,0 +1,4 @@
+title: Field emission backlight for liquid crystal television
+
+abstract: 
+A field emission device for use as a backlight of a liquid crystal display comprises a conductive anode having a light-emitting layer and a cathode separated from the anode by a spacer. The cathode comprises nanofiber electron emitters. For example, the nanofiber electron emitters comprise a substrate, a conductive film adhered to the substrate and a plurality of isolated, hemispheroidal nanofiber clusters that are capable of emitting electrons at high current density and low field strength.

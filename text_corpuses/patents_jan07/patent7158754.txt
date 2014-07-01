@@ -1,0 +1,4 @@
+title: Electromagnetic tracking system and method using a single-coil transmitter
+
+abstract: 
+Certain embodiments of the present invention provide a system and method for electromagnetic tracking using a single-coil transmitter. The system includes a single coil transmitter emitting a signal, a receiver receiving a signal from the single coil transmitter, and electronics for processing the signal received by the receiver. The electronics determine a position of the single coil transmitter. The transmitter may be a wireless or wired transmitter. The receiver may be a printed circuit board. In an embodiment, the receiver may be a twelve receiver circuit printed circuit board including single coils and/or pairs of coils. The electronics may determine position, orientation, and/or gain of the transmitter.

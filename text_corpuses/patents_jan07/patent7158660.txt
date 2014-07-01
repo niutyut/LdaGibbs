@@ -1,0 +1,4 @@
+title: Method and apparatus for detecting structures of interest
+
+abstract: 
+A method to detect a structure of interest includes shading a target from ambient light. A first plurality of images is acquired from the target. Background in the first plurality of images is reduced to minimize or eliminate brightness variation in the images and to generate a first plurality background-reduced images. A second plurality of images is acquired from the target. Background in the second plurality of images is reduced to generate a second plurality of background-reduced images. Noise in the second plurality of background-reduced images is reduced to generate a noise-reduced image, which is then multiplied to generate an amplified image. A structure of interest is detected in the amplified image. An imaging device that can be used to carry out the method is also included and includes an illuminator that shades the target from ambient light and scatters light.

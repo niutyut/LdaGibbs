@@ -1,0 +1,4 @@
+title: Apparatus and method for authenticating products
+
+abstract: 
+A computer readable medium including executable instructions to analyze radio frequency (RF) tag information includes executable instruction to access cross-enterprise RF tag information, identify a product transition based upon the cross-enterprise RF tag information, and define a new product path based upon the product transition, where the new product path defines product pedigree information. Additional executable instructions authenticate a user, secure product information, supply product pedigree information corresponding to the product information, and verify the pedigree of the product based upon the product pedigree information.

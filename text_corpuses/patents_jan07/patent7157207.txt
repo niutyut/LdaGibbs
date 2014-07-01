@@ -1,0 +1,5 @@
+title: Polymer, resist material and patterning processing
+
+abstract: 
+Provided is a polymer useful as a base resin of a resist material featuring a high resolution, patterns with less sidewall roughness, practically acceptable etching resistance, and a substantial margin allowed for heat treatment temperature after exposure. The polymer has a weight-average molecular weight of from 1,000 to 50,000 and comprises at least one repeating unit of formula (1) below, at least one repeating unit of formula (2) below and at least one repeating unit of formula (3) below. A resist material comprising the polymer is also provided. In addition, provided is a pattern formation process comprising steps of applying the resist material onto a substrate, heating the film, exposing the heated film through a photomask to high energy radiation or electron beam, heating the exposed film and then developing with a developer
+

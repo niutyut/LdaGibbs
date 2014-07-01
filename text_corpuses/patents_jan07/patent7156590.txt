@@ -1,0 +1,4 @@
+title: Quill lock assembly
+
+abstract: 
+A quill lock assembly for locking a quill of a device such as a drill press is described. The quill lock assembly includes a cam assembly and a handle connected to the cam assembly. The cam assembly is connected to the device, such as with a mounting bracket or the like, and is capable of rotating for alternately engaging and disengaging the quill. The cam assembly is self releasing, allowing a user to translate the quill toward a work piece and release the cam assembly from engagement with the quill in one motion.

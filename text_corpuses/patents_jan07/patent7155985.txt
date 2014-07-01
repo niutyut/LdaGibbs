@@ -1,0 +1,4 @@
+title: Torque sensor for vehicle steering system
+
+abstract: 
+A torque sensor for a vehicle steering system includes a voltage boosting circuit that boosts a voltage supplied from a power source, an oscillator, a current amplifier, an inverting current amplifier, first and second coils, first and second resistors, a differential amplifier, a sampling pulse generator that generates a sampling pulse, a synchronous wave detector that detects the AC voltage output from the first differential amplifier, a first sample-and-hold circuit section that samples and holds the voltage output from the first synchronous wave detector, and a voltage-current converter that converts the voltage output from the first sample-and-hold circuit section into current and outputs the current as a torque signal Ts, thereby stably supplying power to the torque sensor for a steering system.

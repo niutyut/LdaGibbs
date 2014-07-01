@@ -1,0 +1,4 @@
+title: Silicon nitride film forming method, silicon nitride film forming system and silicon nitride film forming system precleaning method
+
+abstract: 
+A thermal processing system () includes a reaction vessel () capable of forming a silicon nitride film on semiconductor wafers () through interaction between hexachlorodisilane and ammonia, and an exhaust pipe () connected to the reaction vessel (). The reaction vessel  is heated at a temperature in the range of 500 to 900? C. and the exhaust pipe () is heated at 100? C. before disassembling and cleaning the exhaust pipe . Ammonia is supplied through a process gas supply pipe () into the reaction vessel (), and the ammonia is discharged from the reaction vessel () into the exhaust pipe ().

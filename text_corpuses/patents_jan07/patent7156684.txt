@@ -1,0 +1,4 @@
+title: Connector locking construction
+
+abstract: 
+A lock () is provided at the leading end of a resiliently deformable lock arm () on a female housing () and engages an engaging portion () on a male housing (). An unlocking arm () is provided separate from the lock arm () and is resiliently inclinable like a seesaw. Projecting pieces () are formed on opposite surfaces of the lock () and unlocking pieces () on the unlocking arm () face the backsides of the projecting pieces (). An operable portion () of the unlocking arm () is pressed to incline the unlocking arm () so that the unlocking pieces () lift the lock () of the lock arm (), thereby canceling a locked state.

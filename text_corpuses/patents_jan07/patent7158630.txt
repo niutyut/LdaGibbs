@@ -1,0 +1,4 @@
+title: Do-not-call compliance management for predictive dialer call centers
+
+abstract: 
+A mechanism and method for updating local call information databases for calls to be placed by predictive dialers deployed at different geographic locations within a communications network.

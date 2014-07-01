@@ -1,0 +1,4 @@
+title: Magnetic resonance imaging apparatus and method
+
+abstract: 
+A magnetic resonance imaging apparatus includes an RF coil system with M RF coils () for detecting RF signals from a region of interest, M being an integer larger than 2, and N receiver channels (C?C) for receiving and processing the detected RF signals, N being an integer larger than 1 and smaller than M. At least two RF coils () are combined for reception of RF signals of said RF coils with a single receiver channel. The at least two RF coils are selected so as to provide maximum spatially varying coil sensitivities along the principal axis for coil sensitivity encoding. The proposed MRI apparatus provides an optimal solution enabling it to be used with the SENSE method. The individuality is maximized along the preferred or actual sense reduction direction as is spatial distinctness along the axes of primary clinical interest.

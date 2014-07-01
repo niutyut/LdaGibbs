@@ -1,0 +1,4 @@
+title: Method of making a semiconductor device having a strained semiconductor layer
+
+abstract: 
+An implant is performed in the P channel regions, while masking the N channel regions, to deeply amorphize a layer at the surface of a semiconductor layer. After this amphorization step, germanium is implanted into the amorphized layer. The germanium is implanted to a depth that is less than the amorphization depth. This germanium-doped layer that is amorphous is heated so that it is recrystallized. The recrystallization results in a semiconductor layer that is silicon germanium (SiGe) and compressive. P channel transistors are then formed in this recrystallized semiconductor layer. This process can also be applied to the N channel side while masking the P channel side. In such case the implant would preferably be carbon instead of germanium.

@@ -1,0 +1,4 @@
+title: Device for treating osteoporosis, hip and spine fractures and fusions with electric fields
+
+abstract: 
+A technique and device for preventing and/or treating osteoporosis, hip and spine fractures, and/or spine fusions by incorporating at least one conductive coil () into a garment () adapted to be worn adjacent to the patient's skin over a treatment area and applying an electrical signal to the coil effective to produce a magnetic flux the penetrates the treatment area so as to produce an electric field in the bones and the treatment area.

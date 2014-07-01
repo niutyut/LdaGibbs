@@ -1,0 +1,4 @@
+title: Switched capacitor sampler circuit and method therefor
+
+abstract: 
+A switched capacitor sampler circuit () includes an input terminal () for receiving an input voltage, an output terminal (), a capacitor () having first and second terminals, and a switching circuit (). The switching circuit () is coupled to the input terminal (), the output terminal (), and the first and second terminals of the capacitor (). The switching circuit () stores a charge on the capacitor () proportional to the input voltage during a sample period, and transfers the charge from the capacitor () to the output terminal () during a transfer period subsequent to the sample period. The switching circuit () transfers the charge in a plurality of charge portions corresponding to a like plurality of phases of the transfer period.

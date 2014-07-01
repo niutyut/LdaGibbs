@@ -1,0 +1,4 @@
+title: System and method for determining a pivot center and radius based on a least squares approach
+
+abstract: 
+A system and method for determining the center and radius based on a least squares approach is disclosed. In one embodiment, a farmer drives through a given arc of a circular field in question and periodically takes position measurements. In another embodiment, a Least-Squares Algorithm is used to estimate the best-fitting center and radius given the set of position measurements input by the farmer.

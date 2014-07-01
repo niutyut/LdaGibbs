@@ -1,0 +1,4 @@
+title: Method for controlling fax data transmission according to an outputting way of a receiving part
+
+abstract: 
+Disclosed is a method for controlling transmission of fax data according to a data outputting way of a receiving part, the method comprising the steps of: scanning and storing a document to be transmitted from a facsimile of a transmitting part to a facsimile of the receiving part; when the document is completely scanned, dialing a pre-inputted telephone number of the receiving part; after the receiving part telephone number is dialed, requiring and receiving the data outputting way from the receiving part facsimile, in the case that a call for transmitting data of the document is connected between the transmitting part facsimile and the receiving part facsimile; and transmitting the stored document data according to the received data outputting way.

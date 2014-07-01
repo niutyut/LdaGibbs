@@ -1,0 +1,4 @@
+title: Modular overhead stowage bin systems and associated methods
+
+abstract: 
+A modular overhead stowage bin system has an outboard bin support and a center bin support coupleable to the fuselage. First and second stowage bin modules having different storage capacities are connectable to the outboard and center bin supports in first and second configurations. In a first configuration, the first and second stowage bin modules are coupled to the fuselage and have a first overhead aisle therebetween with first opposing edge portions. The first and second stowage bin modules in the second configuration are coupled to the fuselage and have a second overhead aisle therebetween. The second overhead aisle has second opposing edge portions each shifted laterally relative to the position of the first opposing edge portions of the first overhead aisle when the first and second stowage bin modules are in the first configuration.

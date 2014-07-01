@@ -1,0 +1,4 @@
+title: Method for making multi-layer ceramic acoustic transducer
+
+abstract: 
+Methods for preparing a multi-layer acoustic transducer with reduced total electrical impedance. The methods are based on the stacking of individual piezoelectric layers with metallized surfaces to form a plate in which the metal layers are electrically connected to form interdigitated electrodes. The total electrical impedance of a multi-layer stack comprised of piezoelectric layers connected in this manner is inversely related to the square of the number of layers in the stack. This provides for better matching of the acoustic stack impedance to that of the electrical cable and improved acoustic element sensitivity.

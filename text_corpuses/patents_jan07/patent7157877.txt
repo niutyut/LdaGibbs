@@ -1,0 +1,4 @@
+title: Brushless motor driving device
+
+abstract: 
+A brushless motor driving device having a current detecting unit for detecting a phase-current of a brushless motor, a voltage detecting unit for detecting a phase voltage of the brushless motor, and a signal input portion to which the detection value of the phase-current and the detection value of the phase-voltage are input and which has plural input terminals arranged sequentially. The detection values of phase currents or detection values of phase voltages which are different in characteristic are input to adjacent input terminals.

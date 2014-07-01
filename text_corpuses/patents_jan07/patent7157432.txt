@@ -1,0 +1,11 @@
+title: Tetraphenylbacteriochlorin derivatives and compositions containing the same
+
+abstract: 
+Provided is a tetraphenylbacteriochlorin derivative represented by the formula (I):
+
+
+[wherein R, R, Rand R, independently from each other, are a residue of a monosaccharide represented by the formulae:
+
+
+
+(wherein, R is a hydrogen or a protecting group)], or its salt. The tetraphenylbacteriochlorin derivative or its salt has a large molar extinction coefficient at long wavelengths which are expected to have a high tissue-penetrating property, and exhibits high selectivity to tumor cells and hydrophilicity.

@@ -1,0 +1,4 @@
+title: Linearly adjustable apparatus for locating a workpiece
+
+abstract: 
+A linearly adjustable apparatus having a stroke adjustment for locating geometric references on a workpiece. The present invention provides a housing having a linear actuator for actuating a locating member between an extended position, wherein the locating member engages the workpiece, and a retracted position, wherein the locating member disengages the workpiece. A bearing assembly is connected to the housing and slidably supports the locating member. The bearing assembly has an external threaded portion that threadably engages an internal threaded portion of the housing to provide linear adjustment of the stroke length of the locating member along a longitudinal axis of the housing. A jam nut threadably engages the bearing assembly to secure the relative position of the bearing assembly relative to the housing.

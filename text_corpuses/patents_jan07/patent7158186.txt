@@ -1,0 +1,4 @@
+title: Method and system for changing the frame rate to be optimal for the material being displayed while maintaining a stable image throughout
+
+abstract: 
+A video display system is disclosed. The video display system comprises a display generator for providing a display timing signal and a frame rate converter for receiving input video data, input video timing, and for providing output video data. The system includes a control logic for receiving a frame rate indication signal, the video input timing and the display timing signal. The control logic changes the display frame rate of the display generator in accordance with the native frame rate of the program, and in such a way as to maintain a stable image throughout.

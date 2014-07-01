@@ -1,0 +1,4 @@
+title: Audio system and its contents reproduction method, audio apparatus for a vehicle and its contents reproduction method, computer program product and computer-readable storage medium
+
+abstract: 
+An audio apparatus (audio system) made up of the car-mounted audio apparatus  and portable audio apparatuses and transmits/receives contents data such as music via radio communication. As the communication system in this in-car radio communication, a short-distance data communication system is used, which allows respective apparatuses to recognize and authenticate with one another and perform data communication between those apparatuses.

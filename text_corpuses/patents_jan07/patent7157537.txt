@@ -1,0 +1,4 @@
+title: ?-Halogenated acid esters with polyvalent alcohols as atom transfer radical polymerization initiators
+
+abstract: 
+The invention relates to ?-halocarboxylic acid esters of polyhydric, at least trihydric, alcohols, which can be used as initiators for ATRP. Using those initiators it is possible to prepare block copolymers having branched structures.

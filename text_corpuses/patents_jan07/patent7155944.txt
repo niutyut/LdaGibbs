@@ -1,0 +1,4 @@
+title: Combination lock and padlock combination with mechanism for visually indicating key opening permission
+
+abstract: 
+A combination lock and padlock combination for visually indicating a key opening permission being allowed or not by forming two opposite marks on a wheel is disclosed. In response to turning the wheel to conceal the marks, a co-owner is aware that a key opening mechanism is disabled. Also, forcedly inserting a key into the key opening mechanism for opening the combination will be futile since a downward movement path of a protrusion on a spring biased shuttle assembly for disengaging with an indentation of the wheel is blocked by either recessed portion of the wheel even if an engagement member of the key opening mechanism is aligned with mated bottom legs of the shuttle assembly.

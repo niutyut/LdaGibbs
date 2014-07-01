@@ -1,0 +1,4 @@
+title: Automatic generation of baysian diagnostics from fault trees
+
+abstract: 
+Fault trees are automatically converted to Bayesian networks for assisting in system reliability, failure analysis and diagnostics by using information from the fault tree structure to create the Bayesian network structure, creating parameters of the Bayesian network using information from the fault tree, obtaining information about observation nodes for the Bayesian network from a list of observations that augments information contained in the fault tree, and inserting the observation nodes into the Bayesian network. The fault tree is pre-processed into an intermediate format prior to conversion that may include adding reliability values from a separate text document when the fault tree is in such format that requires it.

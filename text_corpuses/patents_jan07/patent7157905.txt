@@ -1,0 +1,4 @@
+title: Long magnetic sensor
+
+abstract: 
+A plurality of magnetosensitive portions of a plurality of magnetic resistance elements and a plurality of magnets are aligned substantially linearly to be perpendicular to a moving direction of a detection object, and directions of magnetic poles of the magnets are alternately inversed, such that directions of magnetic fluxes, which are perpendicular to a surface on which the magnetosensitive portions of the magnetic resistance elements are arranged, of the continuously disposed magnets, are alternately inverse.

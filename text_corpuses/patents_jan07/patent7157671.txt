@@ -1,0 +1,4 @@
+title: Flat capacitor for an implantable medical device
+
+abstract: 
+One aspect provides a capacitor having a first stack of capacitive elements a second stack of capacitive elements, wherein the first and second stacks are enclosed in separate compartments of a capacitor case that electrically isolate the electrolytes of each stack from one another.

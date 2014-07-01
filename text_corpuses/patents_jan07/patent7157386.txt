@@ -1,0 +1,4 @@
+title: Photoresist application over hydrophobic surfaces
+
+abstract: 
+A method of forming a layer of photoresist  over a surface  of a semiconductor wafer  by forming a layer of pre-wet solvent  over the surface  and forming the layer of photoresist  over the layer of pre-wet solvent . Also, a layer of photoresist  formed by this method.

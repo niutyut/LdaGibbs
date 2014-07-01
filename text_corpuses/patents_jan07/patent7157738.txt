@@ -1,0 +1,4 @@
+title: Capacitor element and its manufacturing method
+
+abstract: 
+The present invention relates to a capacitor element and its manufacturing method. The invention presents a capacitor element comprising a lower electrode, a dielectric film, and an upper electrode, and its manufacturing method, in which the surface of at least one layer of the lower electrode in a single layer structure or laminated structure, for example, the surface of the lower electrode contacting with the dielectric film, is flattened by processing the material itself which composes this surface. For example, it is flattened by filling the recesses at the crystal grain boundary of the surface with the material itself shaved from the surface. As a result, undulations of the surface of the lower electrode of the capacitor element are lessened, and the film thickness of the dielectric film is made uniform, and capacity drop and increase of leak current can be prevented.

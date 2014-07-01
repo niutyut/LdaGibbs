@@ -1,0 +1,4 @@
+title: Performance monitoring of multiple channels in an automatic protection switched network
+
+abstract: 
+A performance management unit manages a primary interface and a standby or secondary interface to two channels of an optical communications network having APS capabilities. Each performance parameter is associated with three counters. First and second counters are linked to registers of the primary and the secondary ports, and the third counter is linked to the registers of the currently active port. When a protection switch occurs, the first and second counters are immediately read and reset. The third counter continues accumulating data, but becomes associated with the new active port. At the end of a read interval, the third counter correctly reflects the number of data received, regardless of switchovers between the primary and secondary channels.

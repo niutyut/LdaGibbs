@@ -1,0 +1,4 @@
+title: Torch assembly with wick cap and funnel
+
+abstract: 
+A torch assembly is provided, the assembly comprising: a container comprising an internal chamber for holding liquid fuel and an opening leading to the chamber; a wick having opposing ends, the first end is inserted through the opening and situated within the chamber, the second end projecting outwardly from the opening; a wick cap attached to the second end of the wick; a wick rod attached to the first end of the wick, the rod designed to be situated within the chamber of the container; and a snuffer cap designed to be attachable and detachable from the wick cap.

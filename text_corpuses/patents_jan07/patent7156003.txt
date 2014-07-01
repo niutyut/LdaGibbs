@@ -1,0 +1,4 @@
+title: Radial indexing head tool with floating splined pin
+
+abstract: 
+The present invention relates to an indexing mechanism which provides a releasing function to permit the rotation of tool and handle members relative to each other. The indexing mechanism is positioned through two extensions positioned on either the tool or the handle and a third member positioned between the two extensions. Each of the two extensions and the central member includes a splined orifice. A splined pin is positioned in the splined orifices and is moveable to permit release or engagement of the handle and the tool so that the handle and the tool can be released for rotation relative to each other and re-engaged to form a rigid connection between the tool and the handle. The indexing mechanism of the present invention minimizes sticking of the splined pin during release and re-engagement.

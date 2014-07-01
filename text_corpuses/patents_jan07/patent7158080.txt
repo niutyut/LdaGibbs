@@ -1,0 +1,4 @@
+title: Method and apparatus for using long term satellite tracking data in a remote receiver
+
+abstract: 
+Method and apparatus for using long term satellite tracking data in a remote receiver is described. In one example, long term satellite tracking data is received at a remote receiver from a server. The long term satellite tracking data is used to compute acquisition assistance data in the remote receiver. The remote receiver then uses the acquisition assistance data to acquire satellite signals. The acquired satellite signals may be used to locate position of the remote receiver.

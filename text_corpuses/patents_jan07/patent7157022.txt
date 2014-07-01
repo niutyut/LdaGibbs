@@ -1,0 +1,4 @@
+title: Multivalent metal ion extraction using diglycolamide-coated particles
+
+abstract: 
+A separation medium, a method for using that separation medium and an apparatus for selectively extracting multivalent cations such as pseudo-lanthanide, prelanthanide, lanthanide, preactinide or actinide cations from an aqueous acidic sample solution is described. The separation medium is preferably free-flowing and comprises particles having a diglycolamide (DGA) extractant dispersed onto an inert, porous support.

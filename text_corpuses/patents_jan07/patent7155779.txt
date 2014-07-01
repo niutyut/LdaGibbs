@@ -1,0 +1,4 @@
+title: Automatic lift and turn hinge and gate
+
+abstract: 
+An automatic hinge having an upper or left hand section with an arcuate interior or lower edge, a central section with an arcuate left hand or upper edge and an arcuate right hand or lower edge, and a lower or right hand section with an upper or interior edge. The sections are preferably cylindrical and the edges generally elliptical. A drive moves the central section linearly between the upper and lower sections. As the central and upper sections engage, the central section will rotate in one direction. As the central section engages the lower section, the central section will rotate in the opposite direction. A gate is preferably attached to the central section. By linearly moving the central section, the gate is lifted and turned. The preferred configuration allows the hinge to open a gate inward or outward in both a left hand mount and a right hand mount.

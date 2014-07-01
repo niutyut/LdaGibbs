@@ -1,0 +1,4 @@
+title: Equipment and system for reading out X-ray information stored in a stimulatable phosphor layer
+
+abstract: 
+Apparatus for reading out X-ray information stored in a stimulatable phosphor layer, includes: a plurality of light sources used to emit stimulation light which can stimulate the phosphor layer to emit emission light; a detector used to collect emission light emitted from the phosphor layer; and a control unit for controlling an intensity of the light sources by using a control parameter determined from a reference light source in a regulation unit. The highest possible level of homogeneity and constancy of the light sources will be achieved.

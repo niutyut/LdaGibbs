@@ -1,0 +1,4 @@
+title: Heat-shrinkable banding apparatus and method
+
+abstract: 
+An apparatus and method is provided for forming a sleeve from a flat tube and applying the sleeve to a container. A length of flat tube is advanced from a supply to a position between a pair of movable grippers. The grippers are extended to contact and hold the tube, and a cutter severs the length of flat tube from the supply. A vacuum is applied to the grippers, and the grippers are retracted to open the cut flat tube into a round configuration. A second length of flat tube is advanced, pushing the open cut length tube onto a container that is being moved therebeneath on a conveyor.

@@ -1,0 +1,4 @@
+title: Analog-to-digital converter capable of performing self-test
+
+abstract: 
+While transforming an analog input voltage into a digital signal including several bits, an analog-to-digital converter including a built-in self test (BIST) circuit is used for performing the transformation and compensating an offset error of the analog input voltage. The operations of the digital-to-analog converter include a self test mode and a normal mode. And each of the self test mode and the normal mode includes a sampling phase and a bit cycling phase.

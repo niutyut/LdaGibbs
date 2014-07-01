@@ -1,0 +1,4 @@
+title: Switching filter module for dynamic multi-channel selection
+
+abstract: 
+A switching filter module for dynamic selection of N channels is provided. In the switching filter module, each of N double-channel selection filters passes the frequency bandwidths of two of successive first to Nth channels having predetermined frequency bandwidths, and one or more 2-way and 3-way switches connect the double-channel selection filters to one another. Each of the N double-channel selection filters is serially connected to at least one of the other double-channel selection filters and at least one 3-way switch.

@@ -1,0 +1,4 @@
+title: Multifunction probe with variable flexure
+
+abstract: 
+The invention relates to a multifunction probe for aircraft. The probe has a mobile vane intended to align with the axis of an air flow around the probe. The mobile vane comprises first pressure pickup means for measuring the total pressure of the flow and second pressure pickup means for measuring the static pressure of the flow. The mobile vane furthermore has a profile whose flexure is variable.

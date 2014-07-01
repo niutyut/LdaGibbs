@@ -1,0 +1,4 @@
+title: Injection molded resin gear, injection molded resin rotating body, and injection molded article
+
+abstract: 
+An injection molded resin gear  has a rim  having teeth  on its outer periphery, a hub  for receiving therein a shaft, and a web  connecting the rim  to the hub . The thickness (t) of the bottom  of the rim  is smaller than the thickness (t) of the web . On the side faces  and  of the web , annular circumferential ribs  and  protruding concentrically with the rim  and hub  are formed. The relationship between the thickness (t) of the bottom  of the rim , the thickness (t) of the web  and the thickness (t) of the circumferential rib  is t?t<t

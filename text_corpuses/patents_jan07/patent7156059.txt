@@ -1,0 +1,4 @@
+title: Variable valve train apparatus for an internal combustion engine
+
+abstract: 
+A variable valve train apparatus operable in a low-speed mode in which a low-speed rocker arm is rocked by a low-speed cam through a roller or a slipper to thereby open or close an intake valve, and in a high-speed mode in which a high-speed rocker arm is rocked by a high-speed cam through a roller or a slipper and a changeover mechanism part on the side of the low-speed rocker arm is pressed by a changeover mechanism part on the side of the high speed rocker arm together with which the low-speed rocker arm is rocked to open or close the intake valve. The axis of the changeover mechanism part is positioned at the middle of the width of the roller or slipper in the axial direction of the rocker shaft to prevent inclination of the high-speed rocker arm.

@@ -1,0 +1,4 @@
+title: Method for preparing 4-aminodiphenylamine
+
+abstract: 
+4-aminodiphenylamine is prepared by reacting carbanilide and nitrobenzene in an adequate solvent, which may be nitrobenzene, in the presence of an appropriate organic base, which may be tetramethylammonium hydroxide, alone or in mixture with an inorganic base and subsequently reducing the reaction product in the presence of an appropriate catalyst and hydrogen gas. The subsequent reduction may be carried out on the reaction mixture before the reaction mixture is subjected to separation.

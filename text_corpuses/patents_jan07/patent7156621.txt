@@ -1,0 +1,4 @@
+title: Blade fixing relief mismatch
+
+abstract: 
+A blade fixing and blade mounting slot arrangement for a gas turbine engine has a mismatch fit along a portion of the length of the blade fixing and slot where contact stress would otherwise be maximal.

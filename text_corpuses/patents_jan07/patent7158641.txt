@@ -1,0 +1,4 @@
+title: Recorder
+
+abstract: 
+A memory card () decodes data delivered to a data bus (BS) and extracts a session key (Ks) sent from a server from the data. Based on the session key (Ks), an encrypting section () encrypts a public encryption key (KPm ()) of the memory card () and delivers it to a server through the data bus (BS). The memory card () receives data including a license key (Kc) and a license (ID) encrypted with the public encryption key (KPm ()) different with memory card to memory card, decrypts the data, encrypted it again with uniquely given secret key (K()), and stores it in a memory ().

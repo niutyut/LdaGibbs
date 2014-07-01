@@ -1,0 +1,4 @@
+title: Radiation dosimeter device
+
+abstract: 
+An improved radiation dosimeter device in an improved radiation dosimeter system provides a DC analog output voltage that is proportional to the total ionizing dose accumulated as a function of time at the location of the dosimeter in a host spacecraft, so as to operate in a system bus voltage range common to spacecraft systems with the output being compatible with conventional spacecraft analog inputs, while the total dose is measured precisely by continually monitoring the energy deposited in a silicon test mass accumulating charge including charge contribution prior to radiation threshold detection for improved measurement of the total accumulated charge with the dosimeters being daisy-chained and distributed about the spacecraft for providing a spacecraft dose profile about the spacecraft using the improved radiation dosimeter system.

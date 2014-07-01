@@ -1,0 +1,4 @@
+title: Method of personalizing and identifying communications
+
+abstract: 
+What is disclosed is a method of creating and distributing works of art that takes advantage of the possibilities of duplication and distribution offered by modern computing and telecommunication, while preserving the rights of the authors. Unique versions of a work of art are generated from a source variable work of art such that each unique version is perceptibly different from all other unique versions of the work of art. Unique versions can then be distributed to specific users so that specific unique versions are associated with specific unique versions. In the event a unique version is improperly shared, the user associated with the improperly shared unique version can be identified.

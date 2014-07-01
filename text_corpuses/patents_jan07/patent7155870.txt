@@ -1,0 +1,4 @@
+title: Shingle assembly with support bracket
+
+abstract: 
+A shingle system, mountable to a support surface, includes overlapping shingle assemblies. Each shingle assembly comprises a support bracket, having upper and lower ends, secured to a shingle body. The upper end has an upper support portion, extending away from the shingle body, and an upper support-surface-engaging part, engageable with a support surface so that the upper edge of the shingle body is positionable at a first distance from the support surface to create a first gap therebetween. The lower end has a lower support portion extending away from the lower surface. The support brackets create: (1) a second gap between shingle bodies of the first and second shingle assemblies, and (2) an open region beneath the first shingle assembly fluidly coupling the first and second gaps.

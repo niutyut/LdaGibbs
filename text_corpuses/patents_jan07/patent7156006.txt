@@ -1,0 +1,4 @@
+title: Method and assembly for rotating a cutting insert during a turning operation and inserts used therein
+
+abstract: 
+A cutting insert rotated about its axis may be utilized during a metalworking operation and applied against the rotating workpiece to enhance tool performance. A method, including an assembly with a rotatable insert mounted to a toolholder may be utilized to achieve this result.

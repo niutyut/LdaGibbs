@@ -1,0 +1,4 @@
+title: Method and apparatus for filling a fuel container
+
+abstract: 
+A filling device for use to manually or automatically refill a fuel cartridge using a separate fuel container or a second fuel cartridge is disclosed. The filling device provides for the sharing or fuel among numerous fuel containers and fuel cartridges in various consumer electronic devices. Fuel cartridges can be filled in-situ using an adapter for connecting the fuel container to the fuel cartridge. The adapter includes an input connector and an output connector arranged to adapt various fuel containers and fuel cartridges together. The adapter can be arranged as a passive device or as an active device and can include pumps, valves, power sources and control units as desired.

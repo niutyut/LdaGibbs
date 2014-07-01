@@ -1,0 +1,4 @@
+title: Differential signal detector methods and apparatus
+
+abstract: 
+Circuitry and methods allow signal detection based entirely on differential voltage pairs. An incoming differential data signal is processed by separate full-wave rectifiers to extract high and low peak voltage envelopes. The rectifiers utilize negative feedback to ensure accurate envelope detection, and can detect peaks regardless of incoming signal polarity. The extracted envelopes are compared to a differential pair of threshold voltages. If the envelope signals have a smaller voltage difference than that of the threshold signals, the final output of the detector indicates that a loss-of-signal condition has occurred. Fully differential operation makes the detector independent of common-mode voltage, and thus more robust.

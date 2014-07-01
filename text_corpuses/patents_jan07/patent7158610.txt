@@ -1,0 +1,4 @@
+title: Systems and methods for processing x-ray images
+
+abstract: 
+A method for processing x-ray images includes collecting a first x-ray image and a second x-ray image, determining a composite image based on the first and second x-ray images, collecting a third x-ray image, and adjusting the third x-ray image based on the composite image. Another method of processing x-ray images includes obtaining a first x-ray image, obtaining a second x-ray image, and determining a composite image based on at least a portion of the first and second x-ray images.

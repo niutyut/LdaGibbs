@@ -1,0 +1,4 @@
+title: Optical multiplexer and demultiplexer apparatus utilizing multiple polarization beam splitters and reflection interferometers
+
+abstract: 
+An optical apparatus functioning either as a multiplexer or a demultiplexer, including: a first polarization beam splitter (PBS); a second PBS optically coupled to the first PBS along an axis of the apparatus; a half-wave plate optically coupled between the first and second PBS; a common optical port optically coupled to the first PBS at a face intersecting the axis; a first non-common optical port optically coupled to the first PBS at a face not intersecting the axis; a second non-common optical port optically coupled to the second PBS; and a reflection interferometer optically coupled to the second PBS. The apparatus provides the benefits of using the reflection interferometer, but does not require paired reflection interferometers or Faraday rotators.

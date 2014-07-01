@@ -1,0 +1,4 @@
+title: Interference suppressing OFDM system for wireless communications
+
+abstract: 
+An IS-OFDM system for point-to-point wireless communications that suppresses narrow-band interference comprises an IS-OFDM transmitter and an IS-OFDM receiver, wherein a transmitted signal comprises a plurality of subcarriers, and further wherein each subcarrier contains more than one and potentially all symbols transmitted in a given frame. The IS-OFDM transmited signal is at a data rate that is equal to the data rate of the input data stream via the use of P/S converters.

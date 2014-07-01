@@ -1,0 +1,4 @@
+title: Methods, systems and computer program products for restartable multiplexed file transfers
+
+abstract: 
+Methods, systems and computer program products are provided for concurrently transferring a plurality of files between a first data processing system and a second data processing system by multiplexing chunks of the plurality of files onto a connection between the first data processing system and the second data processing system and dynamically determining a chunk size for each multiplexed chunk. A ?chunk? is an amount of data from a file to be transferred wherein the amount of data in the chunk is dynamically defined such that differing amounts of data are transferred in each chunk. Furthermore, the transfer of each multiplexed file is tracked so as to allow restarting of an interrupted file transfer from a point of interruption of the transfer.

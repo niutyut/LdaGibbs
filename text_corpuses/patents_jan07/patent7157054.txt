@@ -1,0 +1,4 @@
+title: Membrane type gas sensor and method for manufacturing membrane type gas sensor
+
+abstract: 
+A gas sensor includes a semiconductor substrate and a sensing membrane. The sensing membrane is located at the bottom of a recess, which is formed by etching the substrate, and includes a heater, heater extension electrodes, a gas sensitive film, and gas-sensitive-film extension electrodes. A first end of each heater extension electrode is in contact with the heater, and a second end of each heater extension electrode extends outward from the sensing membrane. A first end of each gas-sensitive-film extension electrode is in contact with the gas sensitive film, and a second end of each gas-sensitive-film extension electrode extends outward from the sensing membrane. All of the heater, the heater extension electrodes, and the gas-sensitive-film extension electrodes are made of polycrystalline silicon.

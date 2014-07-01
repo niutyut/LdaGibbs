@@ -1,0 +1,4 @@
+title: Recursive resampling digital filter structure for demodulating 3G wireless signals
+
+abstract: 
+A filter and processing sequence is described that efficiently combines and performs two or more tasks required to demodulate a composite 3G (third generation) wireless signal formed by a combination of wideband 3.84 MHz (Universal Mobile Telecommunications System, identiied a acronym ?UMTS?, or Universal Mobile Telecommunications System Terrestrial Radio Access, identified as acronym ?UTRA?) carriers and narrowband 1.2288 MHz CDMA-2000 carriers. The three tasks, applied to each spectral component of the 3G wireless signal and described in the order of a traditional filtering structure are: Spectral translation, Bandwidth Reduction, and Sample Rate Selection. These tasks are traditionally implemented in three distinct pieces of hardware or software modules.

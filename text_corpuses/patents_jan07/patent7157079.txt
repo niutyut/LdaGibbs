@@ -1,0 +1,4 @@
+title: Combined tumor suppressor gene therapy and chemotherapy in the treatment of neoplasms
+
+abstract: 
+In one embodiment, this invention provides methods of treating mammalian cancer or hyperproliferative cells, said method comprising contacting said cells with a tumor suppressor protein or tumor suppressor nucleic acid and also contacting said cell with at least one adjunctive anti-cancer agent. The invention also provides for a pharmacological composition comprising a tumor suppressor protein or a tumor suppressor nucleic acid and at least one adjunctive anti-cancer agent, and a kit for the treatment of mammalian cancer or hyperproliferative cells.

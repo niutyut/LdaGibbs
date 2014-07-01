@@ -1,0 +1,4 @@
+title: Electro-optical device, manufacturing method of the same, and electronic apparatus
+
+abstract: 
+To provide an electro-optical device in which the fluidity of a material for forming the underlying layer of a gas barrier layer is controlled, and the volume-change of the underlying layer is suppressed, so that stress-concentration on the gas barrier layer is relaxed, and to provide a method of producing the same and an electronic apparatus. In an electro-optical device  having, on a substrate , a plurality of first electrodes , a bank structure  having a plurality of openings positioned correspondingly to the formed first electrodes , electro-optical layers  arranged in the respective openings, and a second electrode  covering the bank structure  and the electro-optical layers , the device  includes a buffer layer  formed so as to cover the second electrode  and have a substantially flat upper surface, and a gas barrier layer  covering the buffer layer 

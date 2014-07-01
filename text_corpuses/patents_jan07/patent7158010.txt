@@ -1,0 +1,4 @@
+title: Circuit arrangement and method for phase modulation in a backscattering transponder
+
+abstract: 
+A circuit arrangement for phase modulation in an input circuit of a backscattering transponder includes a varactor and at least one capacitor connected in series between two antenna terminals, and at least two voltage sources selectively connected through at least two switches to at least one terminal of the varactor. A control unit selectively opens and closes the switches in response to the data to be phase-modulated onto the backscattered signal. By selectively connecting the different voltage values of the respective voltage sources to the varactor terminal(s) through the switches, the capacitance of the varactor and correspondingly the input impedance of the input circuit are thereby varied, so as to provide respective different phase positions of the phase modulation.

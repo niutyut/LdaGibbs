@@ -1,0 +1,4 @@
+title: Table game
+
+abstract: 
+A table game has a center piece and a plurality of end pieces that removably attach to the center piece. Each player has chips and takes turns depositing the chips in the end pieces around the board. When the last deposit made by a player makes a special color combination with previous deposits in an end piece, the player may continue his or her turn in the opposite direction. This is a round trip. If the player deposits a single chip in his or her end piece at the end of a turn, the player may capture that chip. This is a trap.

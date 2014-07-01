@@ -1,0 +1,4 @@
+title: Supply interface unit for direct current power pooling
+
+abstract: 
+The present invention provides for a supply interface unit for use in a DC power pooling system, the DC power pooling system comprising a plurality of DC electrical power consuming and providing entities, each of the DC electrical power consuming and providing entities having at least a first operative mode in which it may provide more electrical power than it consumes and a second operative mode in which it may consume more electrical power than it provides, and at least one pooling controller, the supply interface unit comprising: a first port and a second port; a controller; at least one controllable switch, operable by said controller to enable current flow from one of said first port to said second port and said second port to said first port; and at least one current limiter, operable by said controller to limit said current flow.

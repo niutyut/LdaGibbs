@@ -1,0 +1,4 @@
+title: Kernel memory defragmentation method and apparatus
+
+abstract: 
+Provided is a method and an apparatus for allocating contiguous chunks of physical address space. Specifically, the contiguous chunks are homogenized by allocating kernel pages from kernel page free lists and user pages from a user page free list. The kernel page free lists are a nonrelocatable kernel page free list and relocatable kernel page free list. The user page free list has free pages that populate the relocatable kernel page free list. Each page that populates the relocatable kernel page free list includes an identifier such that the identifier permits the addition of the page to the relocatable kernel page free list. By providing three types of page free lists, satisfied requests for free pages from the page free lists create contiguous chunks of physical address space.

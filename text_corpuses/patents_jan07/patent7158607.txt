@@ -1,0 +1,4 @@
+title: Methods for assisting recovery of damaged brain and spinal cord using arrays of X-ray microplanar beams
+
+abstract: 
+A method of assisting recovery of an injury site of brain or spinal cord injury includes providing a therapeutic dose of X-ray radiation to the injury site through an array of parallel microplanar beams. The dose at least temporarily removes regeneration inhibitors from the irradiated regions. Substantially unirradiated cells surviving between the microplanar beams migrate to the in-beam irradiated portion and assist in recovery. The dose may be administered in dose fractions over several sessions, separated in time, using angle-variable intersecting microbeam arrays (AVIMA). Additional doses may be administered by varying the orientation of the microplanar beams. The method may be enhanced by injecting stem cells into the injury site.

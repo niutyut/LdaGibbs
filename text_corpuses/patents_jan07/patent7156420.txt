@@ -1,0 +1,4 @@
+title: Steering mechanism including controllable impact energy absorbing means
+
+abstract: 
+An energy absorbing mechanism for collapsible vehicle steering column includes a deformable wire connected between the fixed and movable column members. The wire includes a straight portion connected at one end with the movable column member, and a second portion that is deformed around a cylinder that is secured to the fixed column member. A force generator is operable upon impact to apply laterally to the wire a controlled frictional force that is a function of various physical properties of the driver, the vehicle, or the environment, thereby to afford infinitely variable and modulatable energy absorption.

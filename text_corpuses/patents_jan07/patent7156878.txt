@@ -1,0 +1,4 @@
+title: Set of humeral components for total shoulder prosthesis
+
+abstract: 
+A set of humeral components for a total shoulder prosthesis, wherein each component is formed by an anchoring stem and a metaphyseal part which defines a concave surface of articulation in the form of a portion of a sphere. The offset between an axis of symmetry of this surface and a central axis of the metaphyseal part varies between the different components of the set. This makes it possible to limit or to avoid, by a reasoned choice of the humeral component used, an interference with the pillar of the scapula during a movement of adduction.

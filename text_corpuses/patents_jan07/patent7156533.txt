@@ -1,0 +1,12 @@
+title: Rearview mirror for motor vehicles
+
+abstract: 
+A rearview mirror for motor vehicles having a layer substrate and a coating applied onto the back thereof, includes a reflective mirror coating and an intermediate layer, which may be made of a semiconductor material, arranged between the reflective mirror coating and the layer substrate. The value of the coloring parameter C=?{square root over (a+b)} is greater than 5 and the color change ?E resulting from a tilting of the rearview mirror by 45? from the perpendicular viewing angle as a function of the magnitude of the color value aaccording to CIE is not greater than
+
+????(||?8) wherein ??20,
+
+?E?6 wherein ?20??0, and
+
+?E???(+12), especially ???(?3), preferably ???(?3), advantageously ???(?3), wherein ?0.
+
+The intermediate layer may be made of semiconductor material.

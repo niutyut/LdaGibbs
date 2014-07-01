@@ -1,0 +1,4 @@
+title: Viewing and display apparatus position determination algorithms
+
+abstract: 
+Celestial object location devices with sensor arrays of having less that one sensor for each of three orthogonal components of gravity and magnetic field vectors. The accuracy of position sensing is enhanced by estimating ?missing? sensor input based on input from two orthogonal sensors provided, or determined with limitations from the two gravitational sensors provided.

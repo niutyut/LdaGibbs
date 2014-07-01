@@ -1,0 +1,4 @@
+title: Method and apparatus for optimizing stroke volume during DDD resynchronization therapy using adjustable atrio-ventricular delays
+
+abstract: 
+A pacing system for providing optimal hemodynamic cardiac function for parameters such as ventricular synchorny or contractility (peak left ventricle pressure change during systole or LV+dp/dt), or stroke volume (aortic pulse pressure) using system for calculating atrio-ventricular delays for optimal timing of a ventricular pacing pulse. The system providing an option for near optimal pacing of multiple hemodynamic parameters. The system deriving the proper timing using electrical or mechanical events having a predictable relationship with an optimal ventricular pacing timing signal.

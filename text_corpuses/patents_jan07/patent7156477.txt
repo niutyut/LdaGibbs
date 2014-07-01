@@ -1,0 +1,4 @@
+title: Release-control stop member of a sliding rail assembly for drawer
+
+abstract: 
+A release control stop member injection-molded from plastics and affixed to a first sliding rail being inserted into a second sliding rail having a locating block for stopping the first sliding rail from falling out of the second sliding rail is disclosed to have a flat rear engagement block affixed to the first sliding rail, a locating notch at a front side of the flat rear engagement block for engagement with the locating block of the second sliding rail to stop the first sliding rail from falling out of the second sliding rail, an arched neck, and a front operating handle connected to the flat rear engagement block through the arched neck for pulling axially forwards with the hand to deform the arched neck and to further disengage the locating notch from the locating block for enabling the first sliding rail to be disconnected from the second sliding rail.

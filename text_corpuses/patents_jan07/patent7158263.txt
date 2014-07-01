@@ -1,0 +1,4 @@
+title: Dynamic generation of linearized halftone matrix
+
+abstract: 
+There is disclosed a method of dynamic generation of a linearized halftone matrix from a high bit resolution halftone matrix, for use in a printer device, for example a domestic or office printer device or a commercial high resolution printer device. A high bit resolution halftone threshold matrix is converted into a vector format (). A tone correction function is applied by selecting a variable number of index values, each index value representing a threshold level. A tone corrected two-dimensional 8 bit threshold level matrix, is then applied to a corresponding print image plane comprising a plurality of pixels to obtain a two dimensional print data for each of a plurality of colors of an image. The print data is printed as a plurality of dots by a print head to form a printed image using a halftoning method.

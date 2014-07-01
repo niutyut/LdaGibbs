@@ -1,0 +1,4 @@
+title: Ti(C,N)-(Ti,Nb,W)(C,N)-Co alloy for finishing and semifinishing turning cutting tool applications
+
+abstract: 
+A titanium based carbonitride alloy contains Ti, Nb, W, C, N and Co. The alloy also contains, in addition to Ti, Co with only impurity levels of Ni and Fe, 4?7 at % Nb, 3?8 at % W and has a C/(C+N) ratio of 0.50?0.75. The Co content is 9?<12 at % for general finishing applications and 12?16% for semifinishing applications. The amount of undissolved Ti(C,N) cores must be kept between 26 and 37 vol % of the hard constituents, the balance being one or more complex carbonitrides containing Ti, Nb and W. The invented alloy is particularly useful for semifinishing of steel and cast iron.

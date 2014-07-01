@@ -1,0 +1,4 @@
+title: Handle on doors, hoods or the like, especially for vehicles
+
+abstract: 
+A handle on doors, hoods, or the like especially for vehicles, with a stationary handle part, which can be mounted in a recess in the outer skin of the door, with a gripping element, which acts as a movable handle part and is supported on the stationary handle part, with an electrode of an electrical field-generating capacitor, located in the area of the stationary handle part, and with an electronic circuit for generating and monitoring this electrical field. The electronic circuit responds to the approach of a human hand to the gripping element and, if the response is positive, initiates defined functions in the motor vehicle. The electrode of the capacitor is integrated into a supplemental housing, and the supplemental housing is selectively locatable on the surface of the stationary handle part by the connector.

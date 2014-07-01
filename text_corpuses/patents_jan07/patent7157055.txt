@@ -1,0 +1,4 @@
+title: Apparatus for sample handling for an injection system of a chromatograph
+
+abstract: 
+The invention relates to an apparatus for sample preparation and/or sample delivery for an injection system of a chromatograph, having a magazine (), which can be moved in steps, for juxtaposed sample tubes (), and having a lifting device () which can be moved between two end positions perpendicular to the transport direction of the magazine () via a motor () and bears a gripper () for a sample tube (), as well as having a transfer device for a sample tube (), the lifting device comprising at least one telescopic threaded cylinder () which bears the gripper () and has a plurality of nested threaded cylinders with an inner threaded cylinder () and an outer threaded cylinder () of which one is arranged non-rotatably relative to the magazine (), while the other can be rotated by the motor ().

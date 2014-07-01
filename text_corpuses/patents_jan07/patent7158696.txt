@@ -1,0 +1,4 @@
+title: Transparent optical switch
+
+abstract: 
+A transparent optical switch includes network management and performance monitoring using bit level information obtained by extracting selected information on a polling basis and analyzing the extracted information in the electrical domain. In one embodiment, a signal is injected into the switch fabric of the switch via a demultiplexing device. The injected signal is extracted at the output of the switching fabric via an N:1 switch and analyzed by a signal analyzer to verify input to output connections. In another embodiment, an optical switch includes first and second switch fabrics for 1:2 broadcast capability. In a further embodiment, an optical communication system includes a plurality of optical networks and a plurality of optical switches that cooperate to generate unequipped signals and to obtain autonomously switch-to-switch port connectivity information required for auto-topology discovery.

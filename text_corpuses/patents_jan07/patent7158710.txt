@@ -1,0 +1,4 @@
+title: Reconfigurable photonic band gap device
+
+abstract: 
+A reconfigurable photonic band gap device having a substrate and a crystal membrane with a lattice structure having its ends attached to a substrate so that a midportion of the lattice membrane is spaced upwardly from the substrate and forms a chamber therebetween. A bridge is disposed in the chamber between and separated from both the lattice membrane midportion and the substrate. At least one post is attached to the bridge and aligned with at least one hole in the lattice so that movement of the bridge relative to the lattice varies the degree of insertion of the post relative to its associated hole to vary the photonic band gap behavior of the device.

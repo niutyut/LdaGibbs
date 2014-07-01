@@ -1,0 +1,4 @@
+title: Chip card
+
+abstract: 
+A chip card having a contact-type interface having first loads associated therewith and capable of transmitting power and data, and a contactless interface having second loads associated therewith and capable of transmitting power and data. In a dual mode of operation data are transmitted via the contactless interface, the second loads are supplied with power via the contactless interface, third loads, which are in operation regardless of the interface used, are supplied with power via the contact-type interface, and the first loads are supplied or not supplied with power via the contact-type interface.

@@ -1,0 +1,4 @@
+title: System and method for prediction of panel performance under localized loading conditions
+
+abstract: 
+The present invention involves a method and apparatus to reliably determine dent resistance to localized loading, for example, denting of sheet panels of vehicle. The method and apparatus contain the following attributes: (i) an accurate Finite Element Model of the localized loading process; (ii) a statistically designed experimental approach incorporating the effects of panel geometry, thickness, mechanical behavior of the material, forming process and loading condition; and (iii) programmed regression models that outputs the performance under localized loading of the sheet metal panel with panel geometry, thickness of the sheet material, mechanical behavior of the material, behavior during the forming process and loading conditions as inputs.

@@ -1,0 +1,4 @@
+title: Resolution of chiral compounds using aminocyclopentadienyl ruthenium catalysts
+
+abstract: 
+A chiral compound, particularly a chiral secondary alcohol, can be efficiently resolved under a mild condition by acylation with an alkenyl acetate in the presence of a novel aminocyclopentadienyl ruthenium complex, an enzyme catalyst, and a base.

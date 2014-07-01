@@ -1,0 +1,4 @@
+title: Fast drying coatings
+
+abstract: 
+Novel, rapidly drying, low volatile organic compound (VOC), minimal dot gain coatings, (including lithographic ink and varnish systems) are herein described. These systems dry sufficiently rapidly, that their usage eliminates ink drying speed as the rate limiting factor in most lithographic printing applications. In addition to providing enhanced drying rates as compared with their conventional counterparts, the rapid drying, low/no VOC lithographic coating systems of the instant invention can provide the user with significant improvement in dried film rub resistance.

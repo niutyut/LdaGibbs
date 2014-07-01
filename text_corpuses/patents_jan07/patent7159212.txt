@@ -1,0 +1,4 @@
+title: Systems and methods for implementing shader-driven compilation of rendering assets
+
+abstract: 
+Art asset rendering systems and methods in which pre-processing is performed in a compilation process. Geometric data are processed in the compilation process with knowledge of associated shading programs. The data are converted into data structures targeted directly to a target hardware platform, and a code stream is assembled that describes the manipulations required to render these data structures. The compiler includes a front end configured to read the geometric data and attributes (an art asset) output from a 3D modeling package and shaders in a platform independent form and perform platform-independent optimizations, and a back end configured to perform platform-specific optimizations and generate platform-targeted data structures and code streams.

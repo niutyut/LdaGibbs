@@ -1,0 +1,4 @@
+title: Tag nucleic acids and probe arrays
+
+abstract: 
+The invention provides a unique set of nucleic acid sequences which is appropriate for use for a wide variety of applications requiring nucleic acid tags. As such, the sequence tags of the presently claimed invention may be used, for example, to label biological and nonbiological materials, in genotyping applications and in a variety of other analyses.

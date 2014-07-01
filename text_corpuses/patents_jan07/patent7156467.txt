@@ -1,0 +1,4 @@
+title: Device and method to control and/or regulate a pressure level
+
+abstract: 
+A device to control and/or regulate the pressure level of at least one volume variable recipient () of a pneumatic system, in particular a pneumatic system for a motor vehicle seat (). Means () make it possible to increase or reduce the pressure in the recipient () in a reversible manner. In addition, a method to control and/or regulate the pressure level of at least one volume variable recipient () of a pneumatic system, in particular a pneumatic system for a motor vehicle seat (). The method varies the pressure level in the recipient () by volume changes in a volume-adjusting element () allocated to the recipient.

@@ -1,0 +1,4 @@
+title: Oven including smoking assembly in combination with one or more additional food preparation assemblies
+
+abstract: 
+An oven is disclosed having a first food preparation apparatus in the form of a convection heat source and/or a steam production assembly and/or a radiating heat source, and a second food preparation apparatus in the form of a smoking assembly. The oven can operate at least one of the food preparation apparatus simultaneously with the smoking assembly or separately from the smoking assembly.

@@ -1,0 +1,4 @@
+title: Container, and related methods
+
+abstract: 
+A container is provided including a support base, side panels having guide tracks, front and rear panels, and a top cover. The front panel includes track followers releasably received in the front guide tracks. The front panel is pivotal outwardly away from the container compartment about the track followers, while the top cover is closed, from a substantially vertical orientation to an angled orientation in which the front panel upper edge is exposed from under the closed top cover. From this angled orientation, and while the cover remains closed, the track followers are slidable along and out of engagement with the respective front guide tracks to detach the front panel from the side panel, thereby providing front access to the container compartment.

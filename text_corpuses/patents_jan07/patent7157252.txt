@@ -1,0 +1,4 @@
+title: Glutaminase, its gene and a method of producing it
+
+abstract: 
+Glutaminase is purified from an , its partial amino acid sequence is determined, a partial sequence of glutaminase gene is obtained by PCR based on the obtained information, and DNA fragments containing glutaminase gene from genomic library and cDNA library, and genomic library by hybridization using the partial sequence as a probe.

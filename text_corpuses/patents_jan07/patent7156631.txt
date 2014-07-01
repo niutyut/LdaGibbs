@@ -1,0 +1,4 @@
+title: Apparatus for manufacturing a molded product, and molded product that can be manufactured with the apparatus
+
+abstract: 
+The present invention provides a rotary press that allows mass production of a molded product. The rotary press has upper and lower punches that may be split in to a plurality of split punches, a means for moving the split punches, and a means for manipulating the plurality of split punches. In addition, the rotary press also has a plurality of molding material supply-charging units for supplying and charging molding materials into the space formed by the tip portions of the split punches, a precompression molding unit and a main compression molding unit for compression-molding the molding materials supplied and charged the entire molded product, respectively. Optionally, a unit to remove residual molding material remaining on the lower punches and/or the temporary molded product may be provided.

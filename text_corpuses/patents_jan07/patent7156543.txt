@@ -1,0 +1,4 @@
+title: Vehicle lamp
+
+abstract: 
+A vehicle lamp  comprises a light source portion  and a plastic decorative member  in a lamp chamber  constituted by a body  and a lamp cover  for covering the front of the body. The decorative member has a skin layer  and a core layer  which are formed by sandwich molding; and the core layer is located in at least a portion that requires heat-resistance in the decorative member and formed of resin material greater in heat-resistance than resin material for the skin layer.

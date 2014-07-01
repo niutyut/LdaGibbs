@@ -1,0 +1,4 @@
+title: Structural connector for a drilling rig substructure
+
+abstract: 
+A method and apparatus for connecting sections of a drilling rig substructure is disclosed. The disclosed invention is a unique structural connector in which sections of a drilling rig substructure can be connected together without the use of pins or pin-type connectors. The structural connector of the present invention utilizes specially-shaped fixed members connected to, and extending through, support plates that are attached to sections of a drilling rig substructure that mate with specially-shaped mating lugs that are mounted on mating lug plates that are attached to separate sections of the drilling rig substructure. When the sections of the drilling rig substructure to be connected are positioned together, the specially-shaped mating lugs engage the specially-shaped fixed members and form a high strength structural connection between the sections of the drilling rig substructure.

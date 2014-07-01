@@ -1,0 +1,4 @@
+title: Bed base with corner connector, corner connector and kit
+
+abstract: 
+A bed base includes four side members oriented to stand upright on their lower edges. The side members are connected to form a rectangular support structure by corner connectors. Each corner connector comprises a top plate, a bottom plate, and a post. The plates overlap the upper and lower edges of the adjacent side members forming an individual corner. The post extends between the top plate and the bottom plate, pulling these plates towards each other to press the top and bottom plates firmly against the edges of the adjacent side members forming the corner.

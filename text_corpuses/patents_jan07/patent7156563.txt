@@ -1,0 +1,4 @@
+title: Optical module, method for producing same and holder for optical module
+
+abstract: 
+After a tolerance of width B during the mounting of a photoelectric transfer element  is previously set, a holder  is formed so that a dimensional error A on the end portion of the holder  on the side of the photoelectric transfer element  in directions parallel to an optical axis  satisfies a condition of A<B with respect to the tolerance of width B, and then, a substrate  on which the photoelectric transfer element  is mounted is caused to contact the end face of the holder  on the side of the photoelectric transfer element 8 to form an optical module 

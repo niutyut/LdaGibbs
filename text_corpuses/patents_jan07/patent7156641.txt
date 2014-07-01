@@ -1,0 +1,4 @@
+title: Mold for forming a contact lens and method of preventing formation of small strands of contact lens material during contact lens manufacture
+
+abstract: 
+This invention provides a mold for forming a contact lens comprising an overflow collector, which causes the overflow reactive mixture to be accumulated, and not to spread out as it would upon the typically flat surface of a prior art mold. This invention further provides a method of preventing the formation of contaminating pieces of overflow reactive mixture comprising the step of: preventing the overflow reactive mixture from spreading out on the mold.

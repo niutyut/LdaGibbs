@@ -1,0 +1,4 @@
+title: Variable antenna apparatus for a mobile terminal
+
+abstract: 
+A variable antenna apparatus for a mobile terminal. The variable antenna apparatus includes a radiation component that is rotatably coupled with the mobile terminal, a feeding component that is adjacent to a first end part of the radiation component and electrically connected to a radio frequency board of the mobile terminal. A grounding component is adjacent to the first end part of the radiation component and selectively connected to a ground of the radio frequency board as the radiation component is rotated. The antenna apparatus is accommodated in a terminal so that it is possible to conveniently carry the terminal, and the antenna is rotatably protruded from the terminal during a telephone call, such that appropriate antenna gain is achieved.

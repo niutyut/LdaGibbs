@@ -1,0 +1,4 @@
+title: Apparatus, and associated method, for effectuating power control of a communication device
+
+abstract: 
+Power control apparatus, and an associated method, for controlling communication signals generated during operation of a communication system, such as an IS-953G cellular communication system. Determinations are made as to whether a communication channel upon which communication signals are transmitted exhibits a deep fade condition. If a determination of a deep fade condition is made, power control is effectuated to reduce the power levels of communication signals subsequently transmitted on the communication channel.

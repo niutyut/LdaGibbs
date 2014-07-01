@@ -1,0 +1,4 @@
+title: Inductive sensor (speed sensor) with a conical coil base body
+
+abstract: 
+In summary, the present invention concerns an inductive sensor, in particular rpm sensor, having a housing () with a main housing body () and a coil base body (), whereby a coil is wound around the coil base body (). The sensor also comprises a magnet () that is situated in the housing and has a pole pin (). The coil base body () of the housing () is thereby designed entirely conical, in particular slightly conical, in shape.

@@ -1,0 +1,4 @@
+title: Floor box with voltage divider
+
+abstract: 
+An outlet box assembly for termination of electrical and communication wires which generally includes a box having a floor and a sidewall extending upwardly from the floor, a cover attached to the box and a divider attached to the cover between the box floor and the cover. The box defines an interior therein and the cover at least partially encloses the interior. The divider divides the box interior into first and second wiring compartments adapted to respectively contain electrical and communication wires therein.

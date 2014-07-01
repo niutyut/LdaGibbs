@@ -1,0 +1,4 @@
+title: Positive resist composition and pattern forming method using the same
+
+abstract: 
+A positive resist composition satisfying all of high sensitivity, high resolution, good pattern profile, good line edge roughness and good in-vacuum PED characteristics, is provided, the positive resist composition comprising: (A) a resin containing a repeating unit having a specific styrene skeleton, which is insoluble or hardly soluble in an alkali developer and becomes soluble in an alkali developer under the action of an acid; (B) a compound capable of generating an acid upon irradiation with actinic rays or radiation; and (C) an organic basic compound, and a pattern formation method using the positive resist composition.

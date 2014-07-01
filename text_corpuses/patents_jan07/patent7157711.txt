@@ -1,0 +1,4 @@
+title: Microspectrometer gas analyzer
+
+abstract: 
+A robust, compact spectrometer apparatus for determining respective concentrations or partial pressures of multiple gases in a gas sample with single as well as multiple and even overlapping, absorption or emission spectra that span a wide spectral range.

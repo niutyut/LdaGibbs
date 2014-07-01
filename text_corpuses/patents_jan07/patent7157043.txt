@@ -1,0 +1,4 @@
+title: Bonded particle filters
+
+abstract: 
+An apparatus for filtering molten metal held in a vessel before the metal enters the dosing tube. The filtering apparatus includes an attachment portion that mounts to the dosing tube, a filter body connected to the attachment portion and a planar surface attached to an end of the filter body opposite the attachment portion. The filter body can include a beveled end opposite the attachment portion where the planar surface is attached. The apparatus can be made from a bonded-particle material made from silicon carbide or aluminum oxide held together by an aluminum-resistant binder.

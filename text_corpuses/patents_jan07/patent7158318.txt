@@ -1,0 +1,4 @@
+title: Flare stoppper and taking lens unit
+
+abstract: 
+A ring-shaped flare stopper is made of a phosphor bronze plate having a thickness of 0.03 mm by sheet metal stamping. An inner periphery for defining a circular opening is formed in the flare stopper. The inner periphery has the form of the side face of a circular truncated cone. The flare stopper is so installed in a lens barrel that the inner periphery is inclined with respect to an optical axis of a taking lens unit. Since incident light is not reflected by the inner periphery of the flare stopper, the occurrence of ghost and flare is prevented. To prevent the deformation and misalignment of the flare stopper, the flare stopper installed in the lens barrel is attached to a spacer.

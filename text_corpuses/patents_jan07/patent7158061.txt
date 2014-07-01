@@ -1,0 +1,4 @@
+title: A/D converter for wideband digital communication
+
+abstract: 
+Circuitry for providing non-uniform analog-to-digital (?A/D?) signal conversion for wideband signals is provided. The circuitry of the invention is optimized for wideband signals because it does not sacrifice the small-scale resolution of high-probability signal amplitudes while preventing the clipping of low-probability signal amplitudes. The circuitry includes a nonlinear amplifier and an A/D converter that may be uniform or non-uniform. The digital output of the A/D converter may be further processed by circuitry that has an output function that is the inverse of that of the nonlinear amplifier, so as to maintain linear A/D conversion.

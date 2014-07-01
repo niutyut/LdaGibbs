@@ -1,0 +1,4 @@
+title: Configurable circuits, IC's, and systems
+
+abstract: 
+Some embodiments of the invention provide a first configurable integrated circuit (IC) that has a first configurable IC design. The first configurable IC implements a second IC design that is specified for a second IC that is to operate a particular design rate. The first configurable IC includes several configurable logic circuits. Each configurable logic circuit can configurably perform a set of functions. The IC also includes several configurable interconnect circuits that configurably couple the logic circuits. At least several configurable circuits can reconfigure faster than the particular design rate.

@@ -1,0 +1,4 @@
+title: Neuropeptide Y Y5 receptor antagonists
+
+abstract: 
+The present invention discloses compounds which, are receptor antagonists for NPY Y5 as well as methods for preparing such compounds. In another embodiment, the invention discloses pharmaceutical compositions comprising such NPY Y5 receptor antagonists as well as methods of using them to treat obesity, metabolic disorders, eating disorders such as hyperphagia, and diabetes.

@@ -1,0 +1,4 @@
+title: Detection lamp
+
+abstract: 
+A light source for testing sites using a fluorescent dye is described. The light source can include a low voltage lamp or a low heat generating lamp. An emission from the fluorescent dye can be detected through a filter lens, which can include a primary filter and a trim filter. The filter lens can transmit the emission from the fluorescent dye and substantially block an excitation wavelength. The emission from the fluorescence dye is detected through a filter lens including a primary filter and a trim filter, through which the emission wavelength is transmitted, but the excitation wavelength is substantially blocked.

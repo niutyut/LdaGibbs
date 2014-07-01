@@ -1,0 +1,4 @@
+title: Antenna for wireless systems
+
+abstract: 
+A base station for a wireless communication system has an antenna system that provides a downstream transmit pattern partitioned into azimuthal sectors and an upstream receive pattern partitioned into azimuthal sectors and elevation sectors. The base station has a transmitter connected to the antenna system to transmit a signal to a subscriber using the downstream transmit pattern, and a receiver connected to the antenna system for receiving a signal from the subscriber using the upstream receive pattern.

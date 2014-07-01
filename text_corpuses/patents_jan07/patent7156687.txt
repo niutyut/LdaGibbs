@@ -1,0 +1,4 @@
+title: Insulation displacement connection connector assembly with cable positioning recesses
+
+abstract: 
+An insulation displacement connection (IDC) connector assembly includes an IDC connector and external cables. The cables are inserted in the IDC connector through passageways disposed in a surface of the IDC-connector to be terminated to the IDC connector. A positioning recess is defined in the top surface of the IDC connector corresponding to each cable and each communicates with the corresponding passageway and is exposed to surfaces adjacent to the surface mentioned above.

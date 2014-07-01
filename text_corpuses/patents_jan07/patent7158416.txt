@@ -1,0 +1,4 @@
+title: Method for operating a flash memory device
+
+abstract: 
+An error correction code is applied and an erasing procedure is passed as accomplished, if a maximum number of single bit failures in compliance with a criterion of the error correction code is not exceeded.

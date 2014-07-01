@@ -1,0 +1,4 @@
+title: Cleanable keyboard
+
+abstract: 
+In an embodiment, a keyboard includes a barrier layer. The barrier layer may be mounted between an upper and lower housing portion of the keyboard so as to provide a substantially water impermeable pocket about a keyboard circuit. The barrier layer includes at least one key aperture that allows the barrier layer to attach to a key, the attachment providing a substantially water impermeable seal between the barrier layer and the key. Thus, the barrier layer acts to prevent liquids that are spilled on the keys from contacting and damage an electrical keyboard circuit provided below the barrier layer. In an embodiment the keyboard may be rinsed under running water without damaging the keyboard circuit.

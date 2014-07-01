@@ -1,0 +1,4 @@
+title: Prepatterned substrate for optical synthesis of DNA probes
+
+abstract: 
+An optical alignment system for a device for synthesizing DNA polymers provides for a patterned substrate for simple alignment of the system. The substrate may also be used for synthesis allowing precise alignment of the synthesis substrate during each synthesis operation. The patterning of the substrate may be used to promote separation of reaction sites.

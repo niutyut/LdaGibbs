@@ -1,0 +1,4 @@
+title: Ferrite core, deflection yoke, and color picture tube apparatus
+
+abstract: 
+A ferrite core constituting a deflection yoke has a plurality of ridge-shaped convex portions on an inner circumferential surface. In a cross-section orthogonal to a center axis, the cross-sectional shape of an outer circumferential surface of the ferrite core is substantially circular, and the cross-sectional shape of an inner circumferential surface of the ferrite core excluding the convex portions is substantially circular in the vicinity of an end on a large diameter side of the ferrite core and is substantially rectangular in a portion between the vicinity of an end on a small diameter side and the vicinity of the end on the large diameter side. This can provide a low-cost color picture tube apparatus with a reduced deflection power and satisfactory productivity.

@@ -1,0 +1,4 @@
+title: PDA with built-in voltage protection
+
+abstract: 
+A present invention provides a PDA with built-in voltage protection, comprising a main device, a socket, and a voltage protection module. The main device performs necessary data processing. The socket connects to an adapter. The voltage protection module is coupled between the main device and the socket, wherein the voltage protection module receives an input voltage from the adapter and allowing the input voltage to be applied to the main device when the input voltage is between a preset maximum voltage and a preset minimum voltage.

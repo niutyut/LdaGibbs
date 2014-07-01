@@ -1,0 +1,4 @@
+title: Semiconductor device and method for writing data into the semiconductor device
+
+abstract: 
+A semiconductor device is provided which includes a memory part that includes memory cells having different threshold values; a read circuit that reads data from a memory cell to be programmed with write data that is input; and a detection circuit that compares the write data with the data read from the memory cell to thus detect a pattern in which programming of data causes erasing. The pattern that causes erasing during the programming is processed as an inhibited operation. If the inhibited operation is identified, the process is forcedly terminated without initiating the programming by the write command. This makes it possible to avoid erasing resulting from the programming.

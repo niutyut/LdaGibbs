@@ -1,0 +1,4 @@
+title: Vibration wave linear motor and lens implement using vibration wave linear motor
+
+abstract: 
+A vibration wave linear motor comprises a vibrator unit having two driving contacting parts which are respectively formed on top and bottom surfaces of the vibrator unit, two guide members guiding the running of the vibrator unit by sandwiching the vibrator unit in parallel with the running direction. The upper guide member is fixed to the supporting member. The lower guide member is held in shaft bearing long holes, pressed upward by coil springs within hollow convex parts. The vibrator unit self-runs and moves forward and backward between the two guide members with an ultrasonic vibration. A linking pin fixed on the side surface of the vibrator unit engages with the member to be driven, so that moving force is transmitted.

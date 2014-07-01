@@ -1,0 +1,4 @@
+title: Bone crusher and method for bone crushing
+
+abstract: 
+An apparatus for bone milling includes a housing defining a first opening, a second opening, a third opening, and a linear passage from the first opening to the second opening. The bone mill further includes a rotatable grinding member, wherein the rotatable grinding member has a substantially cylindrical, rod-like shape, with at least a portion of the rotatable grinding member substantially filling or occluding a portion of the linear passage. An actuator element is coupled through the third opening to the rotatable grinding member, and a receptacle is removably coupled to the second opening for retaining the milled material.

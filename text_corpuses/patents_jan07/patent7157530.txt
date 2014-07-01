@@ -1,0 +1,4 @@
+title: Catalyst system for controlled polymerization
+
+abstract: 
+Disclosed is a process for the removal and recycle of a supported transition metal catalyst complex from a polymerization reaction medium comprising the steps separating the supported transition metal catalyst from the reaction medium and contacting the supported transition metal catalyst with a reducing agent. The reducing agent may be a transition metal and/or a source of radicals. Also disclosed is a process for the recovery of transition metal catalyst from a reaction medium, comprising changing the conditions of a medium comprising transition metal catalyst attached to a solid support, wherein changing the conditions causes desorption of the transition metal catalyst from solid support.

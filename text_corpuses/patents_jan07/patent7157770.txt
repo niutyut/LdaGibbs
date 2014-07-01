@@ -1,0 +1,4 @@
+title: MOS transistor with recessed gate and method of fabricating the same
+
+abstract: 
+A MOS transistor with a recessed gate and a method of fabricating the same: The MOS transistor comprises a semiconductor substrate, and a trench isolation layer located in a predetermined region of the semiconductor substrate for defining an active region. The trench isolation layer has a negative slope on at least a lower sidewall thereof. A recessed gate is located in a predetermined region of the active region, and a bottom surface of the recessed gate is placed adjacent the negatively slopped sidewall of the trench isolation layer.

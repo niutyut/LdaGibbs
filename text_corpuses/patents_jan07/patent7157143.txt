@@ -1,0 +1,4 @@
+title: Two-component epoxy adhesive formulation for high elongation with low modulus
+
+abstract: 
+Two-component epoxy adhesive compositions, and methods of using the same, are described. The compositions include an epoxy resin component, including at least one epoxy resin and at least one flexibilizer present in the range of about 12 to about 16 weight percent, based on the total weight of the epoxy resin component, and an epoxy curative component, including at least one curing agent and at least one flexibilizer present in the range of about 55 to about 65 weight percent, based on the total weight of the epoxy curative component.

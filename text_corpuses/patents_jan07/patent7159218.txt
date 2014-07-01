@@ -1,0 +1,4 @@
+title: System, method, and program for controlling execution sequencing of multiple jobs
+
+abstract: 
+A system, method, and program product for controlling execution timing of multiple jobs. The job execution scheduling system of the present invention includes job execution means for executing multiple jobs, including a first job which is executed at irregular intervals, and a second job which is executed at regular intervals. The system further includes means for determining a probability distribution of times at which the first job is executed by the job execution means. Execution timing means are utilized for scheduling execution of the second job by the job execution means in accordance with the determined probability distribution.

@@ -1,0 +1,4 @@
+title: Information collection apparatus and method
+
+abstract: 
+An apparatus collects information stored in a host computer through a network. A correspondence acquirement unit acquires a correspondence between an information identifier of requested information and host identifiers of a plurality of host computers each of which stores the requested information. A first decision unit decides at least one host computer to retrieve the requested information by referring to the correspondence. A second decision unit decides a retrieval method used for each host computer decided by the first decision unit from a plurality of retrieval methods. A retrieval unit indicates retrieval of the requested information based on the retrieval method decided by the second decision unit and each host computer decided by the first decision unit.

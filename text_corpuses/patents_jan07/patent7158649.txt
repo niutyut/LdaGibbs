@@ -1,0 +1,4 @@
+title: Hearing aid storage case with hearing aid activity detection
+
+abstract: 
+A storage case that detects and indicates presence of oscillating or quiescent activity of hearing aids is disclosed. Within the storage case, there is a transducer coupled to a logic circuit. The logic circuit is further coupled to one or more visual cues. The transducer picks up any sounds within the storage case and converts the sounds into electrical signals. The logic circuit receives the electrical signals and activates a visual cue that alerts the user if the logic circuit interprets at least one of the electrical signals to be from an oscillating or quiescent activity of the hearing aid.

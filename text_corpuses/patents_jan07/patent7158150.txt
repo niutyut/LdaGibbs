@@ -1,0 +1,4 @@
+title: Image wipe method and device
+
+abstract: 
+An image wipe method includes the steps of defining at least a first reference point to divide a screen area into several sub-areas according to the first reference points, selecting at least one sub-area, and performing a first image process on the selected sub-area. In addition, an image wipe device for executing the method is provided.

@@ -1,0 +1,4 @@
+title: Method for representing and image on a stepped surface and staircase
+
+abstract: 
+To represent an image on a stepped surface, an eyepoint on the axis of sight in front of partial surfaces of the stepped surface is selected. The image is divided into partial images that are assigned to the partial surfaces. Each partial image is projected from the eyepoint onto the partial surface to which it has been assigned. Alternatively, the image is divided into partial images that are assigned to the partial surfaces so that the first partial image, which is assigned to the first partial surface closest to the eyepoint, is modified by a specified factor. Each additional partial image is enlarged relative to the first partial image based on the distance from the eyepoint of the partial surface to which it is assigned and is then represented on its respective partial surface.

@@ -1,0 +1,4 @@
+title: System for selectively caching content data in a server based on gathered information and type of memory in the server
+
+abstract: 
+Methods and apparatuses are provided for use in servers or other like devices that output content data based on requests. Activity and/or other like information, e.g., in the form of Metadata, is gathered/maintained for each handled request and used to determine if the corresponding content data should be cached in memory to speed up subsequent similar requests for the content data, or conversely removed from the memory cache. The activity and/or other like information can be considered in light of one or more activity or other useful parameters that define the operation of the resulting content data cache(s).

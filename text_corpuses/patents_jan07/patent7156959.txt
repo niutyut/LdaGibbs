@@ -1,0 +1,4 @@
+title: Plasma based trace metal removal apparatus and method
+
+abstract: 
+A system and method for the removal of metals such as mercury from a gas stream. The method involves contacting a gas stream containing the target metals with reactive chemical species generated in a plasma device. The metal to be removed is chemically converted into forms enabling capture in either conventional particulate removal devices or in a wet scrubber for the capture of a soluble chemical species.

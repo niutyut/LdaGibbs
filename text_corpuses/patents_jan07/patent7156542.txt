@@ -1,0 +1,4 @@
+title: Vehicle headlight system having digital beam-forming optics
+
+abstract: 
+A vehicle headlight system including a light source, digital beam forming optics optically coupled to the light source, and a memory storing a plurality of light illumination patterns. The memory is electrically coupled to the digital beam forming optics. The digital beam forming optics is adapted to output light from the light source in the form of at least one of the light illumination patterns in response to at least one vehicle operating condition.

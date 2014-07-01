@@ -1,0 +1,4 @@
+title: Filtering apparatus of circulating flush toilet
+
+abstract: 
+A filtering apparatus of a circulating flush toilet recycling drain water having used for washing the inside a toilet bowl is disposed between a water-receiving tank and a water-pumping tank of the flush toilet so as to solve problems such as clogging of a pipe and a pump failure. The filtering apparatus includes a casing, a toothed gate formed in a part of the casing, close to the water-receiving tank, and a filtering unit which filters water overflown from the water-receiving tank and passing through the gate, in multiple stages, and which causes the filtered drain water to flow into the water-pumping tank.

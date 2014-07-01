@@ -1,0 +1,4 @@
+title: Semiconductor device and method for manufacturing the same
+
+abstract: 
+A semiconductor device includes a highly reliable multi-level interconnect structure having a low effective dielectric constant and which can be easily manufactured with a relatively inexpensive process, and a method for manufacturing the semiconductor device. The semiconductor device includes a lower-level interconnect and an upper-level interconnect, each surrounded by a barrier layer, and a via plug surrounded by a barrier layer and electrically connecting the lower-level interconnect and the upper-level interconnect.

@@ -1,0 +1,4 @@
+title: Remote customer management of virtual routers allocated to the customer
+
+abstract: 
+A computerized system for providing subscriber control of network parameters includes a service processing switch having a plurality of network resources; a service provider management server communicably coupled to the service processing switch and operable to configure the plurality of network resources. The configuration includes an allocation of a subset of the network resources to a subscribing enterprise. A subscriber management server is communicably coupled to the service provider management system and is operable to further configure the subset of the network resources. The system also includes a subscriber management client communicably coupled to the subscriber management server. The client is operable to issue configuration requests to the subscriber management server.

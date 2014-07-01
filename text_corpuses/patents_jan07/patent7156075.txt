@@ -1,0 +1,4 @@
+title: Ignition method with stop switch for internal-combustion engines
+
+abstract: 
+For stopping an internal combustion engine, a stop switch prevents the triggering of the ignition. A controller in the ignition circuit determines the state of the stop switch by evaluating signals on the state of the internal combustion engine, corresponding information data is generated, and a corresponding stop flag is set and/or enabled. Depending on this information, the activation of the ignition switch, that controls ignition spark, is either blocked or enabled by the controller.

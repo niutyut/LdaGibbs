@@ -1,0 +1,4 @@
+title: Apparatus and methods for testing acoustic probes and systems
+
+abstract: 
+Methods and apparatus are provided for testing an acoustic device that has multiple transducing elements adapted for conversion between acoustic and electrical signals. An electrical transmission signal is generated. The electrical transmission signal is transmitted to a selected transducing element. An electrical received signal is received from the acoustic device. A reference signal is generated. A capacitance associated with the selected transducing element is determined from the reference signal. Operational characteristics of the selected transducing element are diagnosed from the determined capacitance and the electrical received signal.

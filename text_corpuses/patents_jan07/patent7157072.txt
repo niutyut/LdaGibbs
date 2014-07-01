@@ -1,0 +1,4 @@
+title: Cathode composition for lithium batteries and method of preparing the same
+
+abstract: 
+Provided is a cathode composition for lithium secondary battery that includes a lithium-chromium-titanium-manganese oxide that has the formula Li[LiCrTiMn]Owhere 0?x?0.3, 0?y?0.3 and 0.1?x+y?0.3, and layered a-LiFeOstructure. A method of synthesizing the lithium-chromium-titanium manganese oxide includes preparing a first mixed solution by dispersing titanium dioxide (TiO) in a mixed solution of chrome acetate (Cr(OH)(CHCO)) and manganese acetate ((CHCO)Mn.4HO), adding a lithium hydroxide (LiOH) solution to the first mixed solution to obtain homogeneous precipitates, forming precursor powder that has the formula Li[LiCrTiMn]Owhere 0?x?0.3, 0?y?0.3 and 0.1?x+y?0.3 by heating the homogeneous precipitates, and heating the precursor powder to form oxide powder having a layered structure.

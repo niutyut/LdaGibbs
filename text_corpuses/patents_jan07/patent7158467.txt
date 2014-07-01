@@ -1,0 +1,4 @@
+title: Optical pick-up apparatus and objective lens for the optical pick-up apparatus
+
+abstract: 
+An optical pick-up apparatus has a first light source, a second light source, and an optical system including an objective lens. An optical functional surface of the objective lens is divided into at least first and second concentric optical functional regions. The second functional region is provided with a diffractive structure to correct a spherical aberration of a converged light spot on an information recording plane to be regulated in a range where reproduction and/or recording information for a first optical information recording medium can be conducted when the refractive index of the optical element and the wavelength of the first light source vary due to a change of the working temperature of the optical system.

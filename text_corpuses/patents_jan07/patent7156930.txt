@@ -1,0 +1,4 @@
+title: Aluminum alloy pipe having multistage formability
+
+abstract: 
+An aluminum alloy pipe, which is composed of an aluminum alloy containing 2.0% (% by mass, the same hereinafter) to 5.0% of Mg, 0.20% or less of Si, 0.30% or less of Fe, 0.8% or less (including 0%) of Mn, 0.35% or less (including 0%) of Cr, and 0.2% or less (including 0%) of Ti, with the balance being Al and inevitable impurities, wherein the aluminum alloy pipe has a 0.2% yield strength of 60 MPa or more and 160 MPa or less and an average crystal grain diameter of 150 ?m or less, and wherein the aluminum alloy pipe has multistage formability.

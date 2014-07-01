@@ -1,0 +1,4 @@
+title: XML output definition table for transferring internal data into XML document
+
+abstract: 
+An apparatus for and method of processing a service request via a legacy data base management system to produce a response. The response is converted from the internal format of the legacy data base management system into an XML document which is transferred via the Internet to a user.

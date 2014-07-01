@@ -1,0 +1,4 @@
+title: Optical device
+
+abstract: 
+The present invention relates to an optical device which includes a first laser diode, a beam splitter, a first objective lens, a photo-detector, a second laser diode, a wedged plate beam splitter, a second objective lens and a collimator. The present invention deploys two independent transmitting paths. The retrieving paths share the beam splitter and the photo-detector commonly at the returning route.

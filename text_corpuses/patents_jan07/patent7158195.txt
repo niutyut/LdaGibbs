@@ -1,0 +1,4 @@
+title: Thin film transistor substrate
+
+abstract: 
+A thin film transistor array panel comprises a plurality of gate lines formed on an insulating substrate; a repair line formed on the insulating substrate; a gate insulating layer formed on the gate lines and the repair line; a plurality of data lines formed on the gate insulating layer; an electricity dissipation line formed on the gate insulating layer crossing the gate lines and the repair line; and a first diode connecting the repair line and the electricity dissipation line. When static electricity is introduced through the repair lines, the static electricity is transferred to the electricity dissipation line and is dispersed or exhausted before it reaches to the data lines. As a result, the TFTs and wires in the display area are prevented from being destroyed by the static electricity.

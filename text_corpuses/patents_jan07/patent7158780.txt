@@ -1,0 +1,4 @@
+title: Information management and processing in a wireless network
+
+abstract: 
+Methods, systems and data structure for storing and managing information in a wireless network are described wherein fixed resources in the system are stored in a database in a hierarchical directory structure according to the location of each fixed resource. Each level of the directory structure represents a geographical area in which a fixed resource is located. A mobile user submits a query for the location of the nearest fixed resource having certain properties. The system determines the location of the mobile user and then searches the database for the requested fixed resource that is nearest to the mobile user. When the fixed resource is identified, data regarding its location is transmitted to the mobile user. In addition, specific directions as to how to get to the location of the fixed resource from the location of the mobile user may be provided.

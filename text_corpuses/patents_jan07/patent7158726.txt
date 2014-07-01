@@ -1,0 +1,4 @@
+title: Backbone interface, a terminal interface for communications in a space vehicle, and a communications network comprising such interfaces
+
+abstract: 
+The invention relates to a communications backbone interface between at least three members of a communications network for a space vehicle. In the invention, the interface combines various signals received at inlets, which signals may be analog, digital, and optical, coming from two members, and produces a multiplexed optical signal for delivery to a member of the vehicle, such as a piece of equipment. The invention also provides to a communications terminal interface, a communications network having such interfaces, and an optical fiber harness.

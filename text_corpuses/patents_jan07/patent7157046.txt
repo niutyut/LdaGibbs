@@ -1,0 +1,4 @@
+title: High capacity flash vapor generation systems
+
+abstract: 
+A flash vaporizer () provides a constant flow of vaporized hydrogen peroxide or other antimicrobial compounds for rapidly sterilizing large enclosures (), such as rooms or buildings. The vaporizer includes a heated block () which defines an interior bore or bores (). The flowpath created by the bore or bores increases in cross sectional area as the hydrogen peroxide passes through the block to accommodate the increase in volume during the conversion from liquid to gas. The vapor is injected into dry air in a duct that circulates it to the large enclosure.

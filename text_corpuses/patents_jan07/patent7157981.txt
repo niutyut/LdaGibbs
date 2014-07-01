@@ -1,0 +1,4 @@
+title: Surface-mounted oscillator
+
+abstract: 
+A surface-mounted oscillator configured by integrally accommodating an oscillation element, an IC chip, and a circuit element in a surface-mounted package is characterized in that the oscillation element, the IC chip, and the circuit element are arranged in positions in a direction vertical to a mounting surface of the surface-mounted oscillator. The oscillation element may be an oscillation element using bulk wave oscillation, or an oscillation element using surface wave oscillation.

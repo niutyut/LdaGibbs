@@ -1,0 +1,4 @@
+title: Lift tool
+
+abstract: 
+A lift tool and method useful for installing a repaired clutch assembly or flywheel in a vehicle bell housing. The tool includes (a) a mounting bracket which can be secured to existing threaded openings in the bell housing, (b) an elongated lift arm pivotably attached to the mounting bracket, (c) a rail supported by the elongated arm, (d) a hook carried by the rail and being moveable along the rail, (e) a hanger bracket which is connected to the hook and which is able to support the clutch assembly or flywheel, and (f) power source for selectively raising or lowering the elongated arm. With proper safety precautions, the lift tool can also be used in the removal of a clutch assembly or flywheel from a bell housing.

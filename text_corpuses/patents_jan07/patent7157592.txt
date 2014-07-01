@@ -1,0 +1,4 @@
+title: Method for producing organo-metallic compounds of cyclopentadiene
+
+abstract: 
+A method for producing ferrocene and other organometallic compounds of cyclopentadiene is disclosed. Dry iron chloride (or other selected metal salt) is added to a solution of cyclopentadiene, diethylamine, potassium and dibenzo-18-crown-6 ether in a cooled flask under a dry nitrogen atmosphere. The solution is mixed vigorously for a few hours and any excess diethylamine is evaporated. Ferrocene (or other organometallic compounds of cyclopentadiene) is extracted from the residue using petroleum ether, and any solvent is removed.

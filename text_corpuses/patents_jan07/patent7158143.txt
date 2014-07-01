@@ -1,0 +1,4 @@
+title: Fast algorithm for anisotropic texture sampling
+
+abstract: 
+A faster algorithm for computing the texture of a pixel is disclosed. A major and minor direction in texel space are determined. Steps in the major direction are set to unity and steps in the minor direction are set to the slope of the anistropy line of the footprint. The end points of the anistropy line in the major direction are then positioned to be on grid in the texture space. The texture is computed for each sample along the anistropy line by computing an interpolation cooefficient for the sample, linearly interpolating two texels based on the cooefficient, weighting the interpolated sample, and accumulating the weighted samples. The result is the texture value to be used for the pixel.

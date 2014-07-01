@@ -1,0 +1,4 @@
+title: Efficient package design for pourable items
+
+abstract: 
+A blank for forming a tube type dispensing box having a top and a bottom, has a main box portion having two major sides and a minor side, each having a rectangular configuration. A second minor side is connected to one of the major sides by a fold line, the second minor side having a first opening at the top thereof. A slide retention member is foldably coupled to the second minor side, and has a second opening substantially aligned with the first opening when the slide retention member is folded over the second minor side. The blank further includes a slide opener secured by at least one tie to the slide retention member and by another tie to the second minor side, the slide opener including a third opening comparable in size to the first and second openings, and having an attachment portion for securing to the top of the box along an area spaced back from the second minor side.

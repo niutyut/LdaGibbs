@@ -1,0 +1,4 @@
+title: Electronic circuit, method of driving electronic circuit, electro-optical device, method of driving electro-optical device, and electronic apparatus
+
+abstract: 
+The present invention provides an electronic circuit, a method of driving the electronic circuit, an electro-optical device, a method of driving the electro-optical device and an electronic apparatus, capable of reducing deviations in threshold voltages of transistors. A pixel circuit can be constructed with three transistors of a driving transistor, an adjusting transistor and a switching transistor, and two capacitors of a first capacitor and a second capacitor. Further, a source of the adjusting transistor can be connected to a voltage supply line for supplying a driving voltage through a control transistor in common with the sources of the adjusting transistors of other pixel circuits, the voltage supply line being provided at the right end side of an active matrix part.

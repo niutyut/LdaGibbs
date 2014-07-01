@@ -1,0 +1,4 @@
+title: Self mountable and extractable ultrasonic/sonic anchor
+
+abstract: 
+Self drilling anchors and related methods and apparatus. In one embodiment an apparatus comprises a drill bit, a hammer mechanism for hammering the drill bit in a first direction and in a second direction, and a selection mechanism for controlling whether, at a given point in time, the drill bit is hammered in the first or second direction.

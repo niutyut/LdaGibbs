@@ -1,0 +1,8 @@
+title: Antibacterial compound
+
+abstract: 
+The present invention relates to a compound of formula (I) (wherein Rand Rrepresent an aryl group, a heterocyclic group, an alkyl group, an alkenyl group and the like which are optionally substituted, Rrepresents a hydrogen atom or a hydroxyl group, and Xand Xrepresent an oxygen atom or a sulfur atom, or a nitrogen atom which may be substituted), a pharmaceutically acceptable derivative thereof or a salt thereof.
+The present invention also relates to a pharmaceutical composition comprising a compound described above as an active ingredient for the prevention or treatment of bacterial infections.
+The present invention includes the use of a compound described above in order to prepare a medicament effective in the prevention or treatment of bacterial infections.
+The present invention is concerned with a method for the prevention or treatment of bacterial infections in warm-blooded animals comprising administering a pharmacologically effective amount of a compound described above to them
+

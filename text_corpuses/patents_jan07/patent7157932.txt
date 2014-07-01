@@ -1,0 +1,4 @@
+title: Adjusting settings of an I/O circuit for process, voltage, and/or temperature variations
+
+abstract: 
+A control circuit and method for controlling the electrical characteristics of an input/output (I/O) circuit such as an output driver to account for variations in fabrication process, supply voltage, and/or temperature (PVT) conditions includes a PVT controller having appropriate control logic to permit PVT compensation to be observed, tested, and selectively adjusted. The PVT controller permits selection between PVT sensing circuit-provided control signals and control signals stored in a hardware register for controlling drive strength. The PVT controller further provides the capability to offset the selected drive strength by a fixed amount and select whether or not the offset is applied and permits full testability and observability of the selected control signal, an offset value applied thereto, and the resulting output signal.

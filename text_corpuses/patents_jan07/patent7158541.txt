@@ -1,0 +1,4 @@
+title: Signal synchronization method and receiver device for packet communication
+
+abstract: 
+A receiver device for a packet communication system receives a packet signal appended at its head with a known number (N) of repetition signals. A correlation value of a received signal is outputted from a normalizing correlator and compared with a threshold value in a comparator. The output of the comparator is inputted to a synchronization signal generating circuit, which includes M (?N?1) delay elements connected in series and an AND circuit for taking the logical product of the outputs of the delay elements. When the output of the comparator is high-level and the outputs of the M delay elements  are also all high-level, a synchronization signal at symbol timing is outputted from the AND circuit.

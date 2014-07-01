@@ -1,0 +1,4 @@
+title: Multi-point tension distribution system device and method of tissue approximation using that device to improve wound healing
+
+abstract: 
+A tissue approximation device and processes for using the device are provided. The device is an implantable, biodegradable construct (except for hernia repairs) that has attachment points emanating from a supportive backing. The device improves the mechanical phase of wound healing and evenly distributes tension over the contact area between the device and tissue. Processes for using the device include wound closure, vascular anastomoses, soft tissue attachment and soft tissue to bone attachment.

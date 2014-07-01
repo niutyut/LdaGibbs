@@ -1,0 +1,4 @@
+title: Electronic key system and method
+
+abstract: 
+The present invention provides an electronic key system including an electrical/electronic key-like device and an electrical/electronic key receptacle capable of receiving a contactless type, contact type, or both types of key-like devices. The present invention further provides an electronic key system including an electrical/electronic key-like device and an intelligent electrical/electronic key receptacle wherein the system is capable of performing a transaction between the key-like device and the key receptacle after the key-like device is inserted into the key receptacle and moved to a predetermined position.

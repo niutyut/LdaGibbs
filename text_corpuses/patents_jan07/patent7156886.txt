@@ -1,0 +1,4 @@
+title: Reforming apparatus
+
+abstract: 
+A reforming apparatus for producing a reformed gas from a fuel gas and steam, including a reformed gas-producing passage and a combustion gas passage, the reformed gas-producing passage having reforming catalyst, shift catalyst, and CO-selective oxidizing catalyst sections along a flowing direction of the reformed gas, the reformed gas-producing passage having a first passage adjacent to the combustion gas passage and including the reforming catalyst section and a second passage adjacent to the first passage, the second passage including a first heat-recovering section adjacent to the reforming catalyst section, and the first passage having a second heat-recovering section adjacent to one of the shift catalyst and CO-selective oxidizing catalyst sections, the first heat-recovering section located on an upstream side along the flow direction of the reformed gas relative to the reforming catalyst section.

@@ -1,0 +1,4 @@
+title: Systems and methods for creating exact copies of computer long-term storage devices
+
+abstract: 
+A Simple Device for creating exact copies of computer long-term memory devices such as hard drives and compact flash memory. Our current invention is a stand-alone device. A user connects a long-term memory device he desires to make a copy of (source) to our device. The user also connects a long-term memory device to receive this copy (destination). Our device contains logic and circuitry, which perform operations on both the source and destination device to make an exact copy of the Source Data to the Destination Device, while protecting the Source device from any changes. Our device has a very simple user interface. This simplified user interface makes it difficult and unlikely to use our device incorrectly.

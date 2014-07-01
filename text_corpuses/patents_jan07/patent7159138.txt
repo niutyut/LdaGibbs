@@ -1,0 +1,4 @@
+title: Method and apparatus for data transfer between at least two modules interconnected by a serial data bus
+
+abstract: 
+Method and apparatus for serial data transfer between at least two modules () connected to each other by way of a serial data bus () where the data transfer is governed by a clock signal (CLK). The modules () each comprise a receiver unit () for the reception of the data and a transmitter unit () for the transmission of data. The output of a data value by the transmitter unit () of one module () to another module () at the serial data bus (), and the import of the data value by the receiver unit () of the corresponding other module () are initiated by slopes of the clock signal (CLK). The clock signal that triggers the transmission of this data value in the one module () is delayed via a delay element () one pulse repetition period (?TP) of the clock signal (CLK).

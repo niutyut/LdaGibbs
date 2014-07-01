@@ -1,0 +1,4 @@
+title: Serine protease genes related to DPPIV
+
+abstract: 
+Novel proteins or polypeptides having significant sequence homology to DPPIV, nucleic acids coding therefor, cells which have been modified with such nucleic acid so as to express these proteins, antibodies to these proteins, screening methods for the discovery of new therapeutic agents which are inhibitors of the activity of these proteins or of related proteins, and therapeutic agents discovered by such screening methods, as well as new therapeutic treatments, are all provided.

@@ -1,0 +1,4 @@
+title: Method of manufacturing flash memory device
+
+abstract: 
+A method of manufacturing a flash memory device, including the steps of forming a floating gate electrode that is a doped polysilicon film on a semiconductor substrate, forming a polysilicon layer in the pattern of HSG on the doped polysilicon film, conducting a nitrifying process after forming the HSG polysilicon layer, forming an AlOfilm on the resultant structure treated by the nitrifying process, and forming a control gate electrode on the AlOfilm.

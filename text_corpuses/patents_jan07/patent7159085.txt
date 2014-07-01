@@ -1,0 +1,4 @@
+title: Method of allowing point-in-time view of data on a disk
+
+abstract: 
+A method allows point-in-time viewing of session data for multiple sessions being stored on a disk. Session bits are set for the session data in memory which points to the data at any particular point in time, and this can be done for multiple sessions. In order to make the session data persistent, separate session bits are stored in a portion of a disk reserved for such session bits. Thus, in the event of failure where session bits which are stored in volatile memory such as RAM, are lost, the duplicate copy set in the non-volatile memory can be used to recreate the session once the failure is corrected.

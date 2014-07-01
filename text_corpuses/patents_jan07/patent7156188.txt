@@ -1,0 +1,4 @@
+title: Pile driver with energy monitoring and control circuit
+
+abstract: 
+A pile driver comprises a hammer for impacting a pile, a velocity sensor for measuring the velocity at impact, and a control system for adjusting the hammer stroke in accordance with the readings from the velocity sensor so that the optimal impact energy is imparted to the head of the pile. Optionally, the system further comprises a pile driving analyzer (including at least one strain gauge and/or an accelerometer) mounted on the side of the pile itself to determine whether the impact loading on the pile is below the maximum allowable stress. If the pile driving analyzer senses an overload of stress on the pile, the control system will reduce the velocity of the subsequent hammer stroke so that it no longer exceeds the maximum allowable stress.

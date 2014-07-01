@@ -1,0 +1,4 @@
+title: Method for detecting and localizing leaks and suitable device for carrying out the method
+
+abstract: 
+The invention relates to a method and a device for detecting leaks in the wall of a test object, container or similar, by measuring and evaluating changes that occur in a partial gas pressure. The invention aims to simplify the detection of leaks. To this end, changes that occur in partial pressures of oxygen are detected and evaluated using an oxygen sensor ().

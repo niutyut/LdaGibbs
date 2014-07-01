@@ -1,0 +1,4 @@
+title: Connector
+
+abstract: 
+In a connector comprised of a plug and a receptacle, displacement of the plug against the receptacle is lessened so that the plug is prevented to contact with a non corresponding post among the posts of the receptacle, and aligning portions of the plug and the receptacle are prevented from damage even when a force is applied obliquely when the plug is pulled out from the receptacle. For the purpose, guiding portions and guided portions are formed on members made of a metal such as shells for shielding electric noise among members constituting the plug and the receptacle. The guiding portions are a pair of grooved notches formed substantially parallel to an inserting/removing direction of the plug, and the guided portions are protrusions of substantially rectangular formed in the inserting/removing direction of the plug.

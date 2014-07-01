@@ -1,0 +1,4 @@
+title: Adenosine receptor
+
+abstract: 
+The present invention provides an isolated mammalian adenosine receptor, isolated or recombinant nucleic acids and recombinant vectors encoding the same, host cells comprising the nucleic acids and vectors, and methods of making the receptor using the host cells. This invention further provides antibodies and antigen binding fragments thereof which specifically bind to the receptor and are useful for treating medical conditions caused or mediated by adenosine. Also provided are screening methods for identifying specific agonists and antagonists of the mammalian adenosine receptor.

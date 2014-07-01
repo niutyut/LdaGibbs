@@ -1,0 +1,4 @@
+title: System and method for digital protection and control device for a power distribution network
+
+abstract: 
+A digital protection and control (P & C) device for a power distribution network, which comprises a computerized control unit comprising a microprocessor. The P & C device, according to the present invention, further comprises an external computerized palmtop computerized device, including a human-machine interface (HMI), which comprises a software communication platform. This software communication platform is aimed at exchanging, by means of a predefined communication channel, data/information related to the software configuration of the HMI and data/information related to the operating status of the P & C device.

@@ -1,0 +1,4 @@
+title: Apparatus and methods for converting a cryogenic fluid into gas
+
+abstract: 
+Method and apparatus for vaporizing cryogenic fluids in which an intermediate heat transfer fluid is first heated across a heat transfer surface with ambient air, and then the heat transfer surface provides heat to vaporize the cryogenic fluid.

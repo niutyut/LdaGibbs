@@ -1,0 +1,4 @@
+title: Polarization modulator
+
+abstract: 
+Systems and techniques for changing a polarization profile of light to a desired polarization profile. In some implementations, a polarization modulator is in communication with a stress modulator. The polarization modulator alters the polarization profile of light in response to applied stress from the stress modulator.

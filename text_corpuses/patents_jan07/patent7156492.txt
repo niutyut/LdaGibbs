@@ -1,0 +1,4 @@
+title: Modular printhead assembly with a carrier of a metal alloy
+
+abstract: 
+A modular printhead includes an elongate carrier. An elongate fluid transporter can be received in the carrier and defines a plurality of channels that can each transport a respective type of fluid. A plurality of printing modules is configured is mounted to the elongate ink transporter so that each printing module engages in fluid communication with each channel. A flexible printed circuit board (PCB) is located between the carrier and the fluid transporter. The PCB includes data connections to be interfaced to the printing modules.

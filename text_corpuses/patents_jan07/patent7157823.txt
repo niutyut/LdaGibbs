@@ -1,0 +1,4 @@
+title: Brushless vibration motor
+
+abstract: 
+Disclosed is a brushless vibration motor having a driving circuit therein, which is capable of operating like a typical DC motor. The brushless vibration motor having an eccentric rotor R having an eccentric weight 5, a rotor case 5 and a magnet 6 which has a plurality of magnetic poles arranged in the rotor case; a shaft 2 for supporting the eccentric rotor, a housing H for supporting the shaft, a stator S which is disposed around the shaft on a stator base 1 constructing a part of the housing and which consists of armature coils to drive the rotor, and a driving circuit member lC which is mounted in a space K corresponding to an area of at least one armature coil.

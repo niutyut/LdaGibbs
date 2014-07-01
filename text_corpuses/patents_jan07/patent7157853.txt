@@ -1,0 +1,4 @@
+title: Planar light emitting diode with shielding and back light unit
+
+abstract: 
+A light emitting diode including an element substrate, a light emitting element mounted on said element substrate, a sealing body which transmits and emits light from the light emitting element and which seals the light emitting element, and a light shielding member to form light emitting parts for directing light from the sealing body in two dimensional directions which are formed from a combination of two axes of three dimensional axes X, Y and Z, has the light shielding member configured to cause one portion of the light emitting parts to emit light and the other of the light emitting parts to shield light.

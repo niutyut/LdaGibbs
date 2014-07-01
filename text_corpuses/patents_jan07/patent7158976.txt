@@ -1,0 +1,4 @@
+title: Spatial domain mechanism
+
+abstract: 
+Transferring data from at least one local data storage device to at least one remote data storage device includes subdividing the data into portions, assigning a sequence number to each of the portions, where writes to the at least one local storage device for a first set of portions having a first sequence number are begun before writes for a second set of portions having a second sequence number that is assigned after to the first sequence number, and updating the sequence number in response to a particular sequence number having been used before and there being data to send from the at least one local storage device to the at least one remote storage device. The at least one local storage device may include a plurality of storage entities that form a consistency group.

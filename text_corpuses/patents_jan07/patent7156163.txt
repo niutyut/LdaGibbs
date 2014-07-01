@@ -1,0 +1,4 @@
+title: Composite heat exchanger
+
+abstract: 
+A composite heat exchanger having functions of air cooling and spray cooling, includes two base plates, a fin group between the base plates, and a flow conduit. The fin group includes a plurality of fins. Each fin is defined with a plurality of receiving holes. The flow conduit parallelly extends through the receiving holes and surrounds an outside of the fins whereby the outside surface of the flow conduit surrounding the fins directly contacts atomized heat exchange media for heat transfer through phase change.

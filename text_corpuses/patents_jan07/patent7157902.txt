@@ -1,0 +1,4 @@
+title: Displacement sensor with inner and outer winding sections
+
+abstract: 
+A sensor coil for a non-contacting inductive displacement sensor, having two inner substantially identically formed winding sections (), with an unwound section () provided between the two inner winding sections. Also, the coil has two outer substantially identically formed winding sections (), which are respectively arranged at the ends of the two inner winding sections () facing away from the unwound section (). The two outer winding sections () have a larger number of windings than the two inner winding sections (), thereby producing a measuring signal which is substantially linear along the measuring range.

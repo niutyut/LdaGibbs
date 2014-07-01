@@ -1,0 +1,4 @@
+title: Zn-base semiconductor light-emitting device and method for manufacturing same
+
+abstract: 
+On the surface of a substrate , a precursory buffer layer ? composed of an In-base compound or a Zn-base compound, not contained in the substrate , is formed so as to be stacked thereon as a polycrystal layer or an amorphous layer. Before a light emitting region is formed, the precursory buffer layer ? is annealed for re-crystallization to thereby convert it into a buffer layer . This successfully provides a Zn-base semiconductor light emitting device which can readily be fabricated and capable of improving quality of the light emitting region, and a method of fabricating the same.

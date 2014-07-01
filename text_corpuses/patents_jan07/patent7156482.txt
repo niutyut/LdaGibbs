@@ -1,0 +1,4 @@
+title: Printhead-to-platen spacing variation along scan axis due to carriage guide, measured by simple sensor on carriage
+
+abstract: 
+PPS variation along a scan axis is found by shining a light beam from pen carriage to print-medium position and back to detector, and applying a pathlength/intensity correlation. Sensing is done while scanning, to find relative PPS profile along the track. With no medium in place this measures mechanical imperfections?and can be corrected by later deducting thickness of a medium. If medium is present, adjustment is omitted. For absolute values a plural-lamp sensor is calibrated for each lamp, at the PPS design point. Pagewide/webwide variants are included.

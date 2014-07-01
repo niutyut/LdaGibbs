@@ -1,0 +1,4 @@
+title: Rotary roller printing press
+
+abstract: 
+A rotary roller printing press has a printing unit for printing a web in six printed pages arranged axially next to each other. A superstructure is used to cut the web longitudinally into three partial webs. A folding installation is used to fold the partial webs and includes at least one roller for transporting the partial webs, and at least one folding apparatus. The printing unit, the at least one roller for transporting the partial webs of the folding installation, and the folding apparatus, which is arranged after in the direction of web travel, the other devices, are each separately mechanically driven by a separate drive motor.

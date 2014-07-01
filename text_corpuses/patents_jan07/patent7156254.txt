@@ -1,0 +1,4 @@
+title: Blow molded drum
+
+abstract: 
+Steel and plastic drums are utilized in many industries for transporting and storing various liquids which may be utilized as fuels, lubricants, ingredients, process fluids, or the like. Often the liquids transported and stored in such drums are highly caustic and/or hazardous and absolute containment during storage, transport, and handling are essential. For example in the semiconductor industry, caustic chemicals such as hydrofluoric acid are commonplace. Some liquids develop significant internal gas pressures when contained during storage. Such pressures must be periodically vented. Even when drums with such hazardous and caustic liquids are on site and ready for use, great care must be taken in accessing the liquids so as not to expose personnel or the environment to such chemicals.

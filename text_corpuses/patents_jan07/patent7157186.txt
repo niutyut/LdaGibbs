@@ -1,0 +1,4 @@
+title: Method of producing positive electrode active material for non-aqueous electrolyte secondary battery
+
+abstract: 
+A method of producing a positive electrode active material for a non-aqueous electrolyte secondary battery, comprising the steps of: (a) preparing a raw material mixture, comprising ?nx? mol of magnesium, ?ny? mol of an element M where the element M is at least one selected from the group consisting of Al, Ti, Sr, Mn, Ni and Ca, ?n(1?x?y)? mol of cobalt and ?nz? mol of lithium, such that the values n, x, y and z satisfy 0<n, 0.97?(1/z)?1, 0.005?x?0.1, and 0.001?y?0.03; and (b) baking the raw material mixture in an oxidization atmosphere at 1000 to 1100? C.

@@ -1,0 +1,4 @@
+title: System and method for compacting field upgradeable wireless communication device software code sections
+
+abstract: 
+A system and method are provided for reorganizing software instructions in a wireless communications device memory. Wireless device system software is stored in current code sections with the start of code sections at corresponding start addresses. Memory blocks are identified with corresponding code sections. A new code section is received via a wireless communications device air interface. A current code section is identified for updating. Code section sizes are calculated. In response to calculating the code section sizes, a compaction schedule is generated. Current code sections are resized. Code section start addresses are changed. The new codes section is arranged with the current codes sections.

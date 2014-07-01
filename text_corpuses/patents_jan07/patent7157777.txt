@@ -1,0 +1,11 @@
+title: Semiconductor device including silicided source and drain electrodes
+
+abstract: 
+A method for manufacturing a MOSFET equipped with a silicide layer over shallow source and drain junctions without leakage generation is provided. By restricting the temperature of manufacturing steps after the silicide formation below a critical temperature Tc, which is defined below as a function of a junction depth Dj from 20 nm to 60 nm, leakage generation is practically suppressed.
+
+
+
+
+
+
+Dj is a junction depth (nm) measured from the lower surface of the silicide layer, and Tc is a critical temperature (? C.) during a heat treatment.

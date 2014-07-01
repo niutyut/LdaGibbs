@@ -1,0 +1,4 @@
+title: Quad state memory with converter feedback, transmission, and clock circuitry
+
+abstract: 
+Quad-state logic elements and quad-state memory elements are used to reduce the wiring density of integrated circuits. The resulting reduction in wiring interconnects between memories and logic elements results in higher speed, higher density, and lower power integrated circuit designs.

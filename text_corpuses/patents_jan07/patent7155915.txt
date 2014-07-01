@@ -1,0 +1,4 @@
+title: Temperature controller for a semiconductor-fabricating tool
+
+abstract: 
+A temperature controller for a semiconductor-fabricating tool includes a Peltier element disposed on an outer wall of the semiconductor-fabricating tool, and a battery for providing a current to the Peltier element. The Peltier element a heat-emitting plate for emitting heat by the current provided thereto, and a heat-absorbing plate for absorbing a heat. A first temperature sensor senses a temperature of the Peltier element. A second temperature sensor senses an interior temperature of the semiconductor-fabricating tool. A controller controls an amount of the current provided to the Peltier element in accordance with a temperature of the Peltier element sensed by the first temperature sensor and an interior temperature of the semiconductor-fabricating tool sensed by the second temperature sensor.

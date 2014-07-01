@@ -1,0 +1,4 @@
+title: Method and system for providing a voice application bookmark
+
+abstract: 
+A method for providing a bookmark in a voice application includes presenting the voice application to a user, allowing the user to access the voice application and provide vocal input to the voice application, creating, upon a user request, a bookmark to a location in the voice application in accordance with vocal input provided to the voice application, and providing the user with access to the bookmark in the voice application in order to return to the bookmarked location.

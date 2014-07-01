@@ -1,0 +1,4 @@
+title: System and method for multiplexing illumination in combined finger recognition and finger navigation module
+
+abstract: 
+An apparatus for imaging a fingerprint operates in a selected mode to provide a finger recognition and/or a finger navigation application. At least one light source illuminates at least one partition of a finger interface upon which a user places a finger (or thumb). Light reflected from the finger is captured by at least one image sensing region aligned to receive reflected light emitted from the illuminating light source(s). The illuminating light sources are selected depending on the selected mode of operation to illuminate only those partitions of the finger interface necessary for operation of the selected mode.

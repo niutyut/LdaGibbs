@@ -1,0 +1,4 @@
+title: Automatic gain control feedback amplifier
+
+abstract: 
+There is provided a feedback amplifier capable of easily controlling its dynamic range without a separate gain control signal generation circuit. The feedback amplifier includes an input terminal detecting an input voltage from input current, a feedback amplification unit amplifying the input voltage to generate an output signal, and an output terminal outputting a signal amplified by the feedback amplification unit. The feedback amplification unit includes a feedback circuit unit including a feedback resistor located between the input terminal and the output terminal, and a feedback transistor connected in parallel to the feedback resistor; and a bias circuit unit supplying a predetermined bias voltage to the feedback transistor of the feedback circuit unit and merged in the feedback amplification unit.

@@ -1,0 +1,4 @@
+title: Detent connection piece and gas bag module
+
+abstract: 
+A detent connection piece () includes a clip hook () which can be pressed into a first bore () while being deformed until the detent connection piece snaps in and engages behind a bearing edge framing the first bore (). The detent connection piece () additionally includes an end section which is adapted to be inserted into a second bore (). Further proposed is a gas bag module including at least one such detent connection piece ().

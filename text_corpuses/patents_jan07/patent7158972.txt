@@ -1,0 +1,4 @@
+title: Methods and apparatus for managing multiple user systems
+
+abstract: 
+The techniques of the present invention relate to allocating resources and managing multiple services and multiple users in a multiprocessing computer system. A virtual machine executive is booted on a computer system typically with multiple processors and multiple memory blocks. The virtual machine executive creates multiple virtual machines associated with multiple operating systems. A virtual machine executive provides the illusion that each virtual machine has its own dedicated hardware. The virtual machine executive either behaves as a file server, or hosts an operating system instance that behaves as a file server. System administration of the collection of operating system instances can be achieved by administering the operating system instance that behaves as a file server, rather than by administering each operating system instance alone.

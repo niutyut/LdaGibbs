@@ -1,0 +1,4 @@
+title: Wideband amplifier compensating input capacitance, radio transceiver, semiconductor integrated circuit and wideband amplification method
+
+abstract: 
+A radio transceiver encompasses an antenna unit configured to convert the electric wave to the electric signal, a receiver configure to generate the compensation current supplied to load having an output capacity based on the electric signal and the second in-phase signal of an in-phase, a transmitter configured to transmit the signal, and a baseband circuit configured to transmit and to receive of the signal.

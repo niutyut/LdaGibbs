@@ -1,0 +1,4 @@
+title: Method and apparatus for one trip tubular expansion
+
+abstract: 
+A one trip system for expanding a tubular that is solid or perforated or a screen comprises a downhole assembly that features a hydraulic anchor that can be set, released and repositioned to repeat the process. The anchor is small enough to go through the tubular or screen after initial expansion. The anchor's maximum extension is designed to avoid overstressing the already expanded tubular or screen. An expansion tool is hydraulically driven with the initial portion of the stroke delivering an enhanced force. The expansion tool initially supports the tubular or liner but subsequently releases during the first stroke, after the tubular or screen is fully supported.

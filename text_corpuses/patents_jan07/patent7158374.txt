@@ -1,0 +1,4 @@
+title: Method and system for assembling keypad
+
+abstract: 
+A method and system for assembling a keypad or a keypad module to a processing portion of an electronic device is described. The keypad module is a sealed unit connectable to the pre assembled processing portion through a common interface. The keypad module includes a bezel substrate that has a locally thin region where an accessory can be placed. For example, a speaker may be included in the keypad module. The keypad module itself may be its own an electromechanical entity.

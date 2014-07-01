@@ -1,0 +1,4 @@
+title: Method and apparatus for health and disease management combining patient data monitoring with wireless internet connectivity
+
+abstract: 
+Embodiments of the invention provide a method and apparatus for a wireless health monitoring system for interactively monitoring a disease or health condition of a patient by connecting a mobile phone to or with a digital camera and/or a medical monitoring device. The health related data or visual information from the camera is transmitted to a server using standard internet protocols and may be integrated with various operating systems for handheld or wireless devices, especially those with enhanced capabilities for handing images and visual data.

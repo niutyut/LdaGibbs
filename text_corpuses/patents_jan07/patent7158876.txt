@@ -1,0 +1,4 @@
+title: Automated vehicle routing based on physical vehicle criteria
+
+abstract: 
+A system, method, and user interface are provided for determining a traversable route for a vehicle, which supports the ability to determine traversable routes based on physical vehicle criteria and vehicle criteria limits imposed by the routes. The user enters the vehicle criteria, and in response the system populates a set of origins based on the vehicle criteria. The user then selects an origin from this list, which causes the system to calculate a set of destinations based on the selected origin and vehicle criteria. The user then selects a destination from that list, which causes the system to select a set of routes connecting the user-selected origin to the user-selected destination. This list of routes may be sorted alphabetically by route and/or by route distance. The user then selects a route.

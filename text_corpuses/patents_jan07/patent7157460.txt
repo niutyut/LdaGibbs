@@ -1,0 +1,4 @@
+title: Use of 8-amino-aryl-substituted imidazopyrazines as kinase inhibitors
+
+abstract: 
+The present invention relates to 8-amino-aryl-substituted imidazopyrazines which modulate the activity of protein kinases (?PKs?). The compounds of this invention are therefore useful in treating disorders related to abnormal PK activity. Pharmaceutical compositions comprising these compounds, methods of treating diseases utilizing pharmaceutical compositions comprising these compounds and methods of preparing them are also disclosed.

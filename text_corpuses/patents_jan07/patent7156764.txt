@@ -1,0 +1,4 @@
+title: Extensible chainwheel for a bicycle powertrain assembly
+
+abstract: 
+A driving sprocket, or chainwheel, for a bicycle crankset having a toothed ring whose ring is divided into a plurality of segments, the segments being borne by a frame that is rotationally movable about a crankset axle, each sprocket segment being movable between a low position and a high position, a system for transferring each segment to transfer said segment from one position to another, and an indexing mechanism to control the system for shifting the segments. Each segment of the driving sprocket is floating mounted with respect to the frame and is guided in its transfer movement along a trajectory having a radial component and a tangent component.

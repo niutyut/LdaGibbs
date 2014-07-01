@@ -1,0 +1,4 @@
+title: Power system including lithium-metal-polymer batteries
+
+abstract: 
+The present invention is an energy generating system which uses Lithium Metal Polymer (LMP) batteries in conjunction with a microturbine, a fuel cell, and commercial electrical power. The LMPs provide uninterruptible power when one or more of the other power systems fail.

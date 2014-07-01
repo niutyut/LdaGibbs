@@ -1,0 +1,4 @@
+title: Fan shroud structure for reducing resonance, improving stiffness and manufacturability
+
+abstract: 
+A fan shroud structure  is constructed and arranged to carry a fan. The fan shroud structure includes a body  having a periphery, a main surface, and an annular rim  defining a generally central opening . The opening  is sized to accommodate blades of a fan. Fan mounting structure  is coupled with the body and is disposed generally adjacent to the central opening. The fan mounting structure is constructed and arranged to support a motor of a fan. The body includes a plurality of surfaces features  constructed and arranged to affect resonance of the shroud structure with each feature having a surface  that is discontinuous with respect to the main surface  of the body. Each feature  also extends from the annular rim to the periphery of the body.

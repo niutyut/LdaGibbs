@@ -1,0 +1,4 @@
+title: Method of regulating glucose metabolism, and reagents related thereto
+
+abstract: 
+The present invention provides methods and compositions for modification and regulation of glucose and lipid metabolism, generally to reduce insulin resistance, hyperglycemia, hyperinsulinemia, obesity, hyperlipidemia, hyperlipoproteinemia (such as chylomicrons, VLDL and LDL), and to regulate body fat and more generally lipid stores, and, more generally, for the improvement of metabolism disorders, especially those associated with diabetes, obesity and/or atherosclerosis. The compositions of the present invention include dipeptidylpeptidase inhibitors, which are able to inhibit the proteolysis of GLP-1 and accordingly increase the plasma half-life of that hormone. The subject inhibitors may be peptidyl, peptidomimetic (e.g. boronyl peptidomimetics), or non-peptidyl nitrogen containing heterocycles.

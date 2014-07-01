@@ -1,0 +1,4 @@
+title: Low profile cardiac leads
+
+abstract: 
+A permanent implantable lead having an elongated lead body with a proximal end and a distal end. A multifilar conductor having electrically active elements for providing electrical communication between connectors at the proximal end and electrical components between the proximal and distal ends of the lead body, wherein hulls facilitate resilient, low profile, efficient connection between the multifilar conductor and electrical components and seals secure the position of the electrical components. The hulls are located radially outward of the conductor and radially inward of the electrical components and the seals are located radially outward of the electrical components.

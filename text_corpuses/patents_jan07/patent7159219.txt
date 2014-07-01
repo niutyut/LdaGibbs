@@ -1,0 +1,4 @@
+title: Method and apparatus for providing multiple data class differentiation with priorities using a single scheduling structure
+
+abstract: 
+A scheduler for shared network resources implementing a plurality of user selectable data scheduling schemes within a single hardware device. The schemes include strict priority, priority for one class plus smooth deficit weighted round robin for the other classes, bandwidth limited strict priority and smooth deficit weighted round robin for all user classes. The network operator selects one of the four schemes by enabling or disabling certain bits in the hardware device.

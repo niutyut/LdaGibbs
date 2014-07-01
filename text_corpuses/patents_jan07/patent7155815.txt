@@ -1,0 +1,4 @@
+title: Electrical contacting method
+
+abstract: 
+A method for contacting printed conductors terminating at the edge of a circuit board with printed conductors of a MID component includes: on a panel which includes the circuit board, producing the printed conductors of the circuit board in a layout in which the printed conductors are extended past a partition line which defines the edge of the circuit board; providing the panel with through holes along the partition line in the region of the printed conductors; electroplating through the through holes; isolating the circuit board from the panel; and positioning the circuit board in relation to the MID component and soldering the printed conductors of the circuit board to the printed conductors of the MID component. Rear electrical contacting areas are provided on a back side of the panel near the partition line, and the printed conductors are connected to the rear electrical contacting areas via the through holes.

@@ -1,0 +1,4 @@
+title: Infrared sensor package
+
+abstract: 
+An infrared sensor package has a dielectric support which is molded from a plastic material to have a sensor mount for securing a pyroelectric element as well as an IC mount for securing an IC chip that processes a signal from the pyroelectric element. The support is molded over to be integral with metal parts. The metal parts include sensor conductors for interconnection of the pyroelectric element with the IC chip, and I/O conductors for interconnection of the IC chip with I/O pins. The sensor conductors as well as the I/O conductors are both molded into and integrally with the dielectric support.

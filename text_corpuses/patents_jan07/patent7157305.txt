@@ -1,0 +1,4 @@
+title: Forming multi-layer memory arrays
+
+abstract: 
+A method of forming a memory array includes forming a stack of two or more layers of memory material on a substrate, each layer of memory material having an array of memory cells, and forming one or more contacts that pass through each of the layers of memory material.

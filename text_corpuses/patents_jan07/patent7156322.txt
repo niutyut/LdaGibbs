@@ -1,0 +1,4 @@
+title: Irrigation sprinkler unit with cycling flow rate
+
+abstract: 
+An irrigation sprinkler unit includes a tubular housing enclosing a speed reducing drive which is driven by a water actuated turbine wheel and rotates a rotary nozzle head at a substantially slower speed. The drive also rotates a tubular valve member within an annular valve body within the housing, and the valve member and valve body have cooperating radial ports which automatically and continuously vary the flow rate of water through the housing for continuously varying the radial distance of a water stream discharged from the nozzle head.

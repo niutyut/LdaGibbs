@@ -1,0 +1,4 @@
+title: Bonus feature on starting hands
+
+abstract: 
+The method of present invention involves dealing the player a starting hand of cards, such as five cards, and the player then plays this hand with a first pay table. If the player's starting hand of cards has a poker hand ranking of any preselected combination of cards, such as a Three-of-a-Kind, the player is given the option of buying a second hand of cards identical to the first hand of cards which is accomplished by making another wager. The player then plays out both the first hand and the second hand by discarding and drawing replacement cards. The final first hand and the final second hand are then compared to the pay table to determine winning and losing combinations based on poker hand ranking. This method of play may also be played in a multiple hand format.

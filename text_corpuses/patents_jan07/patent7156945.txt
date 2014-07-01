@@ -1,0 +1,4 @@
+title: Process for forming a patterned thin film structure for in-mold decoration
+
+abstract: 
+A process for forming a patterned thin film structure on a substrate or in-mold decoration film is disclosed. A pattern is printed with a material, such as a masking coating or ink, on the substrate, the pattern being such that, in one embodiment, the desired structures will be formed in the areas where the printed material is not present, i.e., a negative image of thin film structure to be formed is printed. In another embodiment, the pattern is printed with a material that is difficult to strip from the substrate, and the desired thin film structures will be formed in the areas where the printed material is present, i.e., a positive image of the thin film structure is printed. The thin film material is deposited on the patterned substrate, and the undesired area is stripped, leaving behind the patterned thin film structure.

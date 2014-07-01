@@ -1,0 +1,4 @@
+title: Wireless station protocol method
+
+abstract: 
+The performance and ease of management of wireless communications environments is improved by a mechanism that enables access points (APs) to perform automatic channel selection. A wireless network can therefore include multiple APs, each of which will automatically choose a channel such that channel usage is optimized. Furthermore, APs can perform automatic power adjustment so that multiple APs can operate on the same channel while minimizing interference with each other. Wireless stations are load balanced across APs so that user bandwidth is optimized. A movement detection scheme provides seamless roaming of stations between APs.

@@ -1,0 +1,4 @@
+title: Current source control in RFID memory
+
+abstract: 
+These systems and techniques relating to RFID tags include current source control in RFID memory. According to an aspect, a radio frequency identification tag includes an antenna, a radio frequency interface coupled with the antenna, and a non-volatile memory including multiple memory cells, at least one of the memory cells including a floating gate, a control gate, and a dielectric there between. The non-volatile memory includes a controlled current source operable to modify the at least one memory cell. Additionally, the non-volatile memory can include a voltage supply line regulator that limits voltage supply based on a sensed operational current that results from the controlled current source in the non-volatile memory.

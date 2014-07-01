@@ -1,0 +1,4 @@
+title: Interchangeable furniture system
+
+abstract: 
+An interchangeable furniture system for providing an interchangeable furniture element having faces with different appearances. The desired face may be selected and the interchangeable furniture element selectively oriented to make that face visible.

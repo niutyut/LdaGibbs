@@ -1,0 +1,4 @@
+title: Tuning control parameters of vibration reduction and motion control systems for fabrication equipment and robotic systems
+
+abstract: 
+A method and apparatus is disclosed for acquiring and processing parameters used to adjust and tune a controller used, for example, to govern and compensate for motion, including vibrations and disturbances, in a physical system, such as a piece of manufacturing equipment. The method and apparatus may also be used to control, for example, a robot or other spatially dependent machine. The method and apparatus may comprise systems and methods for generating a controller, and for controlling motion in a physical system or apparatus.

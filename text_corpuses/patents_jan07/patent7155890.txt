@@ -1,0 +1,4 @@
+title: Production device for carbon fibers and production method therefor
+
+abstract: 
+A production device and production method for carbon fibers of the present invention is utilized to reliably obtain a connecting portion having a high process passing property with a simple mechanism so as to achieve a continuous operation and improve a firing process operability for achieving a low cost. A pair of yarn gripping devices for overlaying precursor fiber yarns to be connected one upon another and gripping the overlaid ends is provided, and a fluid processing unit for applying an entangling process by jetting a plurality of rows of fluid in along a yarn length direction is provided between the pair of yarn gripping devices. A plurality of discontinuous thread handling areas of the precursor fiber yarns in a fluid jet area of the fluid processing unit having fluid jet holes are disposed at predetermined intervals.

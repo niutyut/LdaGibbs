@@ -1,0 +1,4 @@
+title: Battery
+
+abstract: 
+In order to enable the safer use of an assembly of multiple cells comprising: a plurality of unit cells; an outer container for housing the unit cells; a terminal plate for sealing an upper opening of the outer container; and a positive output terminal and a negative output terminal formed on the same face of the terminal plate, at least the side face of the negative output terminal is covered by a protective tube having an electrical insulation property.

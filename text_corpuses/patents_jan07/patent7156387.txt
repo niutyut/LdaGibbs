@@ -1,0 +1,4 @@
+title: Sheet feeding apparatus, sheet conveying apparatus, and image reading appartus
+
+abstract: 
+A sheet feeding apparatus includes a sheet feeding device that picks up sheets from stacked sheets and feeds the sheets one by one, a drive device that drives the sheet feeding device, first and second detecting devices that detect the fed sheet, and a control device that feeds the sheet while setting a drive amount of the drive device. The control device calculates a first drive amount of the drive device during a first interval from when the first detecting device detects the sheet to when the second detecting device detects the sheet based on information detected by the first and second detecting devices, and the control device sets a second drive amount of the drive device during a second interval from when the second detecting device detects the sheet to when the drive device is stopped based on the calculated first drive amount.

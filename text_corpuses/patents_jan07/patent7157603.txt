@@ -1,0 +1,4 @@
+title: Method for the separation of oligomeric N-substituted (meth)acrylamide compounds and conjugates thereof which are reversibly thermally precipitating
+
+abstract: 
+The method of separating reversibly thermally precipitable oligomeric N-substituted (meth)acrylamides and conjugates thereof from aqueous solution includes thermally precipitating the oligomeric N-substituted (meth)acrylamides and the conjugates thereof from an aqueous solution in the presence of at least one salt and then filtering in the presence of at least one filter aid. The filter aid has a wet density of 0.2?0.3 g/cc and comprises?99% cellulose with fiber lengths<75 ?m (99%) and=?m (65%). The salt can be a potassium, sodium, ammonium, calcium and/or magnesium chloride, acetate and/or sulfate salt and can be present in the aqueous solution in a concentration between 0.01 M and 3 M.

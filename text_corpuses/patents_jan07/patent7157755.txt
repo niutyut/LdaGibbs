@@ -1,0 +1,4 @@
+title: Polymer sacrificial light absorbing structure and method
+
+abstract: 
+Method and structure for optimizing dual damascene patterning with polymeric dielectric materials are disclosed. Certain embodiments of the invention comprise polymeric sacrificial light absorbing materials (?polymer SLAM?) functionalized to have a controllable solubility switch wherein such polymeric materials have substantially the same etch rate as conventionally utilized polymeric dielectric materials, and subsequent to chemical modification of solubility-modifying protecting groups comprising the SLAM materials by thermal treatment or in-situ generation of an acid, such SLAM materials become soluble in weak bases, such as those conventionally utilized to remove materials in lithography treatments.

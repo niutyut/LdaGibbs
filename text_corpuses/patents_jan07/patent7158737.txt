@@ -1,0 +1,4 @@
+title: Carriage structure for image-reading device
+
+abstract: 
+A carriage structure is disclosed for an image-reading device that acquires image data from a document while an optical unit is moved along the document. The carriage structure is formed of molded plastic with reinforcing sheet metal members incorporated therein, and the optical unit, including a light source, photoelectric conversion device and optical elements, are positioned at predetermined positions on the carriage and are supported by, and incorporated within, the carriage structure. The reinforcing sheet metal members are bent into at least one of an L-shape, a V-shape, a crank shape, or a tilted V-shape in order to achieve a desired rigidity for the carriage structure.

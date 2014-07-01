@@ -1,0 +1,4 @@
+title: Air seal enclosure for an aerator
+
+abstract: 
+The design of an air seal enclosure of the system and method of the present invention includes a combination of use of a multisurface silicone sealant between the bottom endbell and the air seal enclosure to provide a watertight joint that prevents water from entering the air seal enclosure. The air seal enclosure is formed from a suitable flexible material and is attached to a bottom endbell with bolts through holes in a periphery thereof. When tank liquid rises during flooding, the air seal enclosure provides a pocket of trapped air like a diving bell that prevents the tank liquid from ever reaching the bottom of the aerator.

@@ -1,0 +1,4 @@
+title: Method of determining threshold array for generating gradation image
+
+abstract: 
+Halftone image data is generated according to a threshold array in which thresholds T up to a given gradation have been determined, and candidate pixels to be blackened are then determined. Then, a low-frequency component extractor extracts low-frequency component data from density image data which simulates the density of the halftone image data corresponding to an output image from an image output apparatus. A particular frequency component divider  divides the extracted low-frequency component data into particular frequency component data for intensifying the low-frequency components, and blackening candidate pixels for intensifying the particular frequency components are excluded, thus narrowing down candidate pixels. The positions of thus determined blackening candidate pixels are determined as the positions of thresholds for a next gradation.

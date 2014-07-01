@@ -1,0 +1,4 @@
+title: Fuel pump with filter-absent safety valve and universal inlet and outlet
+
+abstract: 
+Fuel pump  includes a filter  that rests on ledge , between the pump housing  and inlet cap . Filter detector  has a valve engager stem  for opening the check valve  and bearing feet  that engage the perimeter of the filter but the bearing feet are out of alignment with the ledge. When the filter is absent from the pump, the bearing feet  of the valve engager move beyond the ledge  and the valve engager stem  retracts from the check valve  and the valve closes to terminate flow of fuel to the pump, thus limiting the fuel that can escape from then pump when it is opened. At least one of the inlet and outlet caps  and  are rotatably mounted to the intermediate body of the pump to allow the fuel inlet and outlet to be oriented at angular intervals about the pump to facilitate the connection of fuel lines to the pump.

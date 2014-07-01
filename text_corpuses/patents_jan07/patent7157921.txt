@@ -1,0 +1,4 @@
+title: TFT array inspection apparatus
+
+abstract: 
+A TFT array inspection apparatus inspects a TFT array by irradiating an electron beam on a TFT substrate to obtain potential information. The TFT array inspection apparatus includes a scanning device for scanning the TFT substrate with an electron beam; a defect detecting device for detecting a defective site on the TFT substrate from a scanning signal of the TFT substrate; an irradiating device for irradiating the electron beam on the detected defective site; and a defect analyzing device. The defect analyzing device analyzes at least a type and/or an extent of the defect of the defective site based on a waveform change of a secondary electron signal detected through the electron beam irradiation and a driving state of the TFT.

@@ -1,0 +1,4 @@
+title: Method for the determination of soundness of a sheet-shaped medium, and method for the verification of data of a sheet-shaped medium
+
+abstract: 
+The present invention provides a service system using a certificate which is easily portable and difficult to counterfeit. The feature of the invention is to use a contactless IC chip as a portable certificate. An IC chip-attached seal is thin and small, and therefore is easily portable and distributable to a user. By integrating or attaching (or sticking) the IC chip into or on a certificate  the counterfeiting of the certificate  becomes difficult.

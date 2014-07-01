@@ -1,0 +1,4 @@
+title: Method of manufacturing a substrate with concave portions, a substrate with concave portions, a substrate with concave portions for microlenses, a microlens substrate, a transmission screen and a rear projector
+
+abstract: 
+A method of manufacturing a substrate  with a plurality of concave portions  according to the invention includes the steps of forming a mask  on the substrate , forming a plurality of initial holes  on the mask  by means of a physical method such as blast processing or irradiation with laser beams, and forming the plurality of concave portions in the substrate  by subjecting the mask  with the plurality of initial holes  to an etching process. In case of carrying out the blast processing, glass beads whose average diameter is in the range of 50 to 100 ?m are used as blast media.

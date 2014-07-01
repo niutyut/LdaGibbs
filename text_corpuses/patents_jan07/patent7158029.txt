@@ -1,0 +1,4 @@
+title: Electronic security system
+
+abstract: 
+An electronic security system that would alert a homeowner that someone is attempting to gain access to their home. The system includes a transmitter positionable within a dead bolt housing within a doorjamb of an existing door assembly. The transmitter is engaged when a dead bolt is positioned within the dead bolt housing in a locked orientation. The transmitter emits a signal once the dead bolt is removed from the dead bolt housing. A receiver is in communication with the transmitter. The receiver has an internal alarm enunciator. The receiver receives the signal from the transmitter thereby activating the internal alarm enunciator upon removal of the dead bolt from within the dead bolt housing.

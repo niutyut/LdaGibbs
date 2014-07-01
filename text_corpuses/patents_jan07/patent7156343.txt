@@ -1,0 +1,4 @@
+title: Mounting system inserted between an aircraft engine and a rigid structure of an attachment strut fixed under a wing of this aircraft
+
+abstract: 
+This invention relates to a mounting system () inserted between an aircraft engine and a rigid structure of a strut, comprising a thrust resistance device () comprising a spreader beam () provided with two lateral lower ends () placed such that a horizontal plane passes through them and through a longitudinal axis of the engine. Moreover, the device () is also fitted with two fittings () each comprising a forward end () through which the said horizontal plane also passes and fixed to a forward part of a central casing (), and an aft end () connected to one of the ends (). Furthermore, the spreader beam is connected to the forward mount and to the rigid structure through its upper end ().

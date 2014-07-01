@@ -1,0 +1,4 @@
+title: Positioning of mobile wireless terminal
+
+abstract: 
+An apparatus for determining a position of a mobile wireless station comprises means for determining the position of the mobile wireless station in accordance with a position of a first reference wireless station, a position of a second reference wireless station, a first relative angular direction between the mobile wireless station and the first reference wireless station, and a second relative angular direction between the mobile wireless station and the second reference wireless station.

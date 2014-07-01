@@ -1,0 +1,4 @@
+title: Dross compression apparatus including a cooling system for cooling the compression head and cooling method
+
+abstract: 
+A dross compression apparatus and method includes one or more air nozzles for directing cooling air across the top of a compression head for cooling the compression head. The air may be vented through air vents in a wall of the apparatus after passing across the top of the compression head. Also a plurality of ribs may extend across the top of the compression head in the direction of the air vents in the wall of the apparatus for directing the air across the top of the compression head and out the air vents.

@@ -1,0 +1,4 @@
+title: Power amplifier and method for power amplification
+
+abstract: 
+The invention provides a method for reducing power dissipation in a power amplifier used in wireless communication systems, said power amplifier having transistors showing a quiescent current, wherein the quiescent current of the power amplifier is adaptively changed according to the average output power of the power amplifier. A power amplifier for use in wireless communication systems is provided, said power amplifier having transistors showing a quiescent current, comprises adaptive biasing means changing the quiescent current of the power amplifier in accordance with the average output power of the power amplifier for reducing power dissipation in the power amplifier. A UMTS hand set comprises a power amplifier as specified above.

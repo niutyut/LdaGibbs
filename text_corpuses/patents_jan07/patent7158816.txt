@@ -1,0 +1,4 @@
+title: Foldable and portable mobile communication terminal
+
+abstract: 
+A foldable and portable mobile communication terminal is formed as a two-folded type in which a lower-side body unit and upper-side unit are coupled openably and closably by a two-shaft hinge mechanism. The two-shaft hinge mechanism includes a first hinge unit that allows the upper-side body unit to rotate with respect to the lower-side body unit up to the open state defining a predetermined talking position, and a second hinge unit that allows the first hinge unit to rotate in a direction different from the aforementioned rotational direction of the first hinge unit. The first and second hinge units are coupled so that the rotational center axes thereof orthogonally intersect each other.

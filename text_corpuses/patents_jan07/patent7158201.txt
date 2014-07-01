@@ -1,0 +1,4 @@
+title: Thin film transistor array panel for a liquid crystal display
+
+abstract: 
+A thin film transistor array panel is provided, which includes: a substrate; a plurality of first signal lines formed on the substrate; a plurality of second signal lines intersecting the first signal lines to define pixel areas; first and second pixel electrodes disposed substantially in a pixel area and having different areas; a plurality of thin film transistors connected to the first and the second signal lines and at least one of the first and the second pixel electrodes; a coupling electrode overlapping the second pixel electrode; and a tilt direction defining member for determining tilt directions of liquid crystal molecules formed on the substrate.

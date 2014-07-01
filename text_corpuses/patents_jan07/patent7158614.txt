@@ -1,0 +1,4 @@
+title: Metallic test access for xDSL connectors
+
+abstract: 
+A metal port block is used on an intermediate distributor or vertical terminal block in a connection architecture to obtain a metal contact of the combined voice and data signals, which can subsequently be monitored by a test rack, without needing to disconnect or reconnect any bridge or cable. The access to the intermediate distribution frame can be established by a connecting block with which a plurality of boards are associated. The boards are vertically arranged in an array and each incorporates its relays or associated electronics to extract and supply information to a test table. Each board has pins to couple with the cavities of the distribution frame.

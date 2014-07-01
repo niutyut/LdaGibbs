@@ -1,0 +1,4 @@
+title: Two-roll casting device
+
+abstract: 
+A two-roll casting installation with two casting rolls which rotate in opposite directions about horizontal axes and forming a casting gap for forming and discharging a thin cast metal strip. A sealed housing which has a base and surrounds a conveying path for the metal strip which leaves the casting gap and which strip is from a vertical casting direction into an approximately horizontal conveying direction. Diverter devices divert the metal strip within the housing. A displaceable scrap collection container removes scrap and scale produced from the two-roll casting installation. To minimize the penetration of external air into the housing, the base of the housing, at least in a subregion, forms a collection trough for the scrap, which is part of an emptying device, and a displaceable scrap collection container is arranged in a receiving position below the emptying device.

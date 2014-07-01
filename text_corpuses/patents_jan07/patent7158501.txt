@@ -1,0 +1,4 @@
+title: Wireless communication apparatus
+
+abstract: 
+The wireless communication apparatus includes transmitter modules and receiver modules for carrying out transmission/reception via a plurality of antenna beams formed by an adaptive array antenna between stations. The apparatus is provided with an end time detecting section and a maximum reception end time is detected by detecting section based on reception signals on the receiver modules. A reception end signal is generated from a notifying section, when current time counted by a counter is reached to the maximum reception end time. The transmission enabling section causes the transmitter modules to transmit data in response to the reception end signal.

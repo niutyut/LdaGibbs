@@ -1,0 +1,4 @@
+title: System for and method of acoustic and through skin air data measurement
+
+abstract: 
+A system for determining physical characteristics of an incident flow stream over a surface of a vehicle includes a plurality of acoustic sensors mounted to the surface and configured to sense pressure fluctuations caused by the incident flow stream. The plurality of acoustic sensors provide output signals indicative of the sensed pressure fluctuations. Processing circuitry coupled to the plurality of acoustic sensors, measures flow velocity in a first direction as a function of the output signals of at least two of the plurality of acoustic sensors, and measures flow velocity in a second direction as a function of the output signals of at least two of the plurality of acoustic sensors. The processing circuitry is configured to calculate an angular direction of flow as a function of the first and second measured flow velocities.

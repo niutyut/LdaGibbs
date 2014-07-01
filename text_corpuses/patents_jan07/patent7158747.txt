@@ -1,0 +1,5 @@
+title: Belt-type fixing device
+
+abstract: 
+A belt-type fixing device is provided by which driving torque for a fixing belt can be reduced.
+The belt-type fixing device has the fixing belt wound around a heating roller and around a nip forming member, and has a pressurizing roller that is in pressure contact with the nip forming member with the fixing belt interposed between. A surface of the nip forming member that is opposite to the pressurizing roller is configured as a curved surface extending along an outer circumferential surface of the pressurizing roller so that a pressure distribution in a fixing nip is made generally flat with respect to a paper feeding direction. By rotational drive of the pressurizing roller, the fixing belt is rotated while being slid on the nip forming member. Contact area between the fixing belt and the nip forming member outside the fixing nip is smaller on nip entrance side than on nip exit side.

@@ -1,0 +1,4 @@
+title: Method of driving display device
+
+abstract: 
+An active matrix type EL display device is provided, which is capable of suppressing the unevenness of luminance display due to the unevenness of the characteristics of TFTs which constitute pixels, or due to variations in the environmental temperature at which the display device is used. The active matrix type EL display is driven by a time gray scale method, and is capable of keeping the drain current of each of its EL driving TFTs constant by operating each of the EL driving TFTs in a saturation region in an ON state. Accordingly, constant current can be made to flow in each of the EL elements, whereby it is possible to provide an active matrix type EL display device with accurate gray scale display and high image quality.

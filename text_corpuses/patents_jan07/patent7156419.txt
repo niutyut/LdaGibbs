@@ -1,0 +1,4 @@
+title: Hybrid gas generator
+
+abstract: 
+A hybrid gas generator for use in an occupant restraint system for vehicles comprises a pressure chamber (), a combustion chamber () delimited by a combustion chamber wall () and containing a pyrotechnic charge (), and a passage element () arranged between the pyrotechnic charge and the pressure chamber. For a form-fitting securing of the passage element () on the combustion chamber wall (), the passage element () and the combustion chamber wall () have at least in part a conical shape. On the side facing the pyrotechnic charge (), the passage element () has a collar () which acts as a spacer between the passage element () and the pyrotechnic charge ().

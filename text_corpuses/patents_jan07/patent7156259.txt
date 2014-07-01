@@ -1,0 +1,4 @@
+title: Beverage forming and dispensing system
+
+abstract: 
+A beverage dispensing system includes separate valves for controlling the flow rate of a diluent and a concentrate. Various concentrates of different viscosities can be used and the selected concentrate is identified. The flow rate of the concentrate is determined based on temperature and pressure and on information related to the identified concentrate. The valves are controlled so that the concentrate and diluent reach target flow rates. The target flow rates satisfy a target ratio of diluent to concentrate. If the actual flow rates cannot reach the target flow rates, then the target flow rates are modified to satisfy the target ratio. The structure of the concentrate valve is designed to accommodate proportional metering of any one of the various concentrates.

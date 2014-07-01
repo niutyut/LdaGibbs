@@ -1,0 +1,4 @@
+title: Coupling link
+
+abstract: 
+A coupling link for connecting chain includes a generally C-shaped link member, a lock member, and a securing member. The C-shaped link member defines an interior opening and has first and second opposing ends that are spaced from each other by a gap. The lock member is shaped to couple the first and second ends together. The securing member is operable to secure the lock member to the link member and to urge the first and second ends of the link member closer together.

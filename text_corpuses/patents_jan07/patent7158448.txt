@@ -1,0 +1,4 @@
+title: Timepiece with date mechanism
+
+abstract: 
+This date mechanism comprises a calendar mobile (), a driving mobile () an instantaneous-jump cam (), a finger () kinematically connected to this cam () in order to drive the calendar mobile (). The driving finger () is borne by a release member () which is mounted pivotably about two axes (), one () of which is that of the driving mobile (), this release member () having an opening () configured to allow an angular displacement about the second of these two axes (), whereby the driving finger () can be released from the toothing () of the calendar ring while the calendar is corrected. A return spring () tends to rotate the driving finger () about the second pivot axis () in order to bring it to butt against an edge of the opening (), a position in which the driving finger is engaged with the toothing of the calendar ring ().

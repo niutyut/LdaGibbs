@@ -1,0 +1,4 @@
+title: Method and system for electronic detection of mechanical perturbations using BIMOS readouts
+
+abstract: 
+A sensor for detecting mechanical perturbations represented by a change in an electrical signal includes a structure such as a cantilever, membrane, etc. and a field effect transistor such as a MOSFET embedded in the structure. The drain current of the embedded transistor changes with mechanical perturbations in the structure caused, for example, by a bio-chemical interaction being sensed. A scanning probe microscope utilizes the embedded MOSFET with a BiMOS actuator.

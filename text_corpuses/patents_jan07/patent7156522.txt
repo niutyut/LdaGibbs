@@ -1,0 +1,4 @@
+title: Projection-type display devices with reduced weight and size
+
+abstract: 
+Described herein are display devices that provide projection-type video output and use diode lasers to generate light. For example, one set of diode lasers may produce red light, while a second set produces blue light. Optics are employed to expand laser light from its small generated or transmitted flux area to a size suitable for transmission onto the optical modulation device. Another aspect of the invention relates to a redundant laser set to generate light. A redundant laser set includes more lasers than that needed to produce the desired amount of light.

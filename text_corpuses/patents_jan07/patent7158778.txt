@@ -1,0 +1,4 @@
+title: Method for virtual network connectivity for powered off stations in wireless LAN networks
+
+abstract: 
+An access point in a wireless network is connected to wireless devices. When any of the devices becomes inaccessible, the device sends a notification to the access point to indicate the inaccessibility. The access point then receives and stores incoming messages that are destined for the device. The access point forwards the messages to the device when the device is ready to receive the message.

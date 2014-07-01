@@ -1,0 +1,4 @@
+title: Calibration of force based touch panel systems
+
+abstract: 
+A method and system are provided to correct inaccuracies in touch location determination associated with mechanical distortion of the touch screen. Calibration parameters are provided for a touch screen characterizing an error in an expected touch signal associated with mechanical distortion of the touch screen. A force responsive touch signal having the error is detected and the touch location determined using the calibration parameters to correct the error in the touch signal. The calibration parameters are determined by applying mechanical distortion to the touch screen and characterizing the touch signal error associated with the mechanical distortion. The calibration parameters are produced using the characterization of the touch signal error

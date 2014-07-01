@@ -1,0 +1,4 @@
+title: Cooling system for electric motor of vehicle
+
+abstract: 
+A cooling system for an electric motor of a vehicle comprises an electric motor which drives the vehicle, a reduction gear which adjusts a driving force of an output shaft of the electric motor and transmits the driving force to a drive shaft, and an in-shaft refrigerant passage provided in a shaft of the reduction gear and the output shaft of the electric motor. In the cooling system, a refrigerant which has passed through the in-shaft refrigerant passage is collected outside a motor case housing the electric motor, and is circulated.

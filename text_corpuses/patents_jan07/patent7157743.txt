@@ -1,0 +1,4 @@
+title: Surface-emitting light-emitting device and method of manufacturing the same, optical module, and light-transmission device
+
+abstract: 
+A surface-emitting light-emitting device, which can control optical characteristics of emitting light and the manufacturing method thereof, an optical module which includes the surface-emitting light-emitting device, and a light-transmission device are provided. A surface-emitting light-emitting device includes an emitting surface for light emission and a bank that is formed so as to surround the emitting surface. An upper edged portion of the bank is located at a position higher than the emitting surface.

@@ -1,0 +1,4 @@
+title: Ink jet recording apparatus
+
+abstract: 
+An ink jet recording apparatus, which performs printing by ink ejection, includes a pressure chamber in which ink liquid is filled; a nozzle hole () which is formed so as to communicate with the pressure chamber; a piezoelectric element () which is formed on the pressure chamber, and deforms the pressure chamber by mechanical expansion and contraction, whereby pressure is generated in the pressure chamber and ink is ejected from the nozzle hole (); and a dew point control unit () which maintains a dew point in an atmosphere of the piezoelectric element () and the vicinity of the piezoelectric element at a lower value than a dew point in an environment where the ink jet recording apparatus is set. The dew point control unit () includes a compressor (), and an air drier () which dries compression gas from the compressor () and feeds it to the piezoelectric element.

@@ -1,0 +1,7 @@
+title: Adenine derivatives
+
+abstract: 
+This invention relates to an adenine derivative, a tautomer thereof, or a pharmaceutically acceptable salt thereof represented by general formula (I):
+
+
+wherein X represents NR(wherein Rrepresents a hydrogen atom or Calkyl) or the like; Rrepresents substituted or unsubstituted alkyl or the like; Rrepresents hydroxyl or the like; and Y represents a substituted or unsubstituted aromatic hetero ring or the like. Also, the present invention relates to pharmaceuticals such as an interferon inducer, antiviral agent, anticancer agent, type 2 helper T cell selective immune response inhibitor, antiallergic agent, and immune response modulator comprising the above derivative as an active ingredient.

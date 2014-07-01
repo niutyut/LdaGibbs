@@ -1,0 +1,4 @@
+title: Inkjet nozzle that incorporates volume-reduction actuation
+
+abstract: 
+An inkjet nozzle includes a substrate defining an ink chamber. A cover is mounted to the substrate and covers the ink chamber. The cover includes a rim through which ink can be ejected. A plurality of fixed support arms supports the rim. A plurality of movable actuator arms are each located between an adjacent pair of fixed support arms. The actuator arms can move into the chamber to eject ink from the rim. The actuator arms extend radially outwardly from the rim and collectively have rotational symmetry.

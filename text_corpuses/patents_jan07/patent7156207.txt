@@ -1,0 +1,4 @@
+title: Food presentation method and system
+
+abstract: 
+A method and system for serving food. A plurality of sets of compatible food items are selected and a unique identifier is assigned to each set. The food items are placed in individual display containers. Each display container is marked with the one or more unique identifier(s) of sets which include the food item in the display container. A meal is prepared by selecting one of the unique identifiers and collecting a portion of each food item which is marked with the selected unique identifier. The collected portions are placed into a collection container, then cooked together and placed into a serving container and served as a meal.

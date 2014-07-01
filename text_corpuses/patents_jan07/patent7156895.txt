@@ -1,0 +1,4 @@
+title: Air cleaning system
+
+abstract: 
+A system for cleaning air wherein the air to be cleaned is bubbled up through an aqueous phase and an organic phase. The air is bubbled upwardly through the liquid to take advantage of the weight of the liquid to compress the gas, thereby increasing the solubility of the gas in the liquid. Because of specific gravity, the aqueous phase is generally at the bottom of at least one cylinder or container, and the organic phase is generally on top of the aqueous phase. Gases are removed either continuously or periodically to ensure that there are adequate reagents in the aqueous and organic phases, so that the reagents therein can be replaced as needed. There is no limit to the number of cylinders that can be used, depending upon the impurity and thus the amount of reagents to be used in treating the air.

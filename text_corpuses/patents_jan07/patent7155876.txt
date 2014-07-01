@@ -1,0 +1,4 @@
+title: Heat tunnel for film shrinking
+
+abstract: 
+A heat tunnel for applying heated air to articles enclosed in shrink-wrap film includes at least one air supply unit; a conveyor; and a heat shroud spaced from the conveyor. Tha air supply unit includes a source of heated air, a fan, a heated air plenum, air ducts, and a return air plenum. Multiple air supply units can be provided along the conveyor to create a heat tunnel of desired length.

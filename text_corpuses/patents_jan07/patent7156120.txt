@@ -1,0 +1,4 @@
+title: Inline liquid flow control valve
+
+abstract: 
+An inline liquid flow control valve includes an intake fitting member with a bottom portion having a bottom portion threaded section and a liquid flow section having apertures. The valve further includes an outlet fitting member with a top portion having a liquid outlet section with apertures. A top portion threaded section of the outlet fitting member engages a bottom portion threaded section of the intake fitting member with a compression member disposed therebetween. The compression member engaging a piston disposed internally within the intake fitting member. The apertures in the intake fitting member, apertures in the piston, an annular sleeve and the plurality of apertures in the outlet fitting member define a liquid flow chamber. A flow rate of liquid through the liquid flow chamber is inlinely adjustable and maintainable using an internally disposed compression member.

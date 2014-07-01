@@ -1,0 +1,4 @@
+title: Blood sugar level measuring method and apparatus
+
+abstract: 
+Blood sugar levels are measured in a non-invasive way based on temperature measurement. Different regression functions are used for an able-bodied person and a diabetic patient when stabilizing measurement data by correcting a non-invasively measured blood sugar level, i.e. a value obtained by temperature measurement, with blood oxygen saturation and blood flow volume.

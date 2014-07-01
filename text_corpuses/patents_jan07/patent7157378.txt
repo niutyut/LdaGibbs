@@ -1,0 +1,4 @@
+title: Method for making a semiconductor device having a high-k gate dielectric layer and a metal gate electrode
+
+abstract: 
+A method for making a semiconductor device is described. That method comprises forming a dielectric layer on a substrate, forming a trench within the dielectric layer, and forming a high-k gate dielectric layer within the trench. After forming a first metal layer on the high-k gate dielectric layer, a second metal layer is formed on the first metal layer. At least part of the second metal layer is removed from above the dielectric layer using a polishing step, and additional material is removed from above the dielectric layer using an etch step.

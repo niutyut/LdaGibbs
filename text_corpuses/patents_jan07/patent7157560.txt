@@ -1,0 +1,4 @@
+title: Immunoassay for LSD and 2-oxo-3-hydroxy-LSD
+
+abstract: 
+The present invention provides hapten derivatives useful for the preparation of antigens, antibodies and reagents for use in immunoassays for the detection of LSD and 2-oxo-3-hydroxy LSD. In the present invention, the 2-oxy LSD nucleus is derivatized out of the indole nitrogen to form an aminoalkyl derivative. The resulting haptens can then be further modified at this functionalized position for linking to appropriate immunogenic or labeling groups to provide reagents for immunoassays having substantially equal specificity for both LSD and 2-oxo-3-hydroxy-LSD.

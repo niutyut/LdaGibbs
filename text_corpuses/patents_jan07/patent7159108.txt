@@ -1,0 +1,4 @@
+title: Anonymous peer-to-peer networking
+
+abstract: 
+An anonymous peer-to-peer network has a security protocol that allows hosts in the network to determine whether data received from the network is valid. The requesting host can explicitly determine the data transfer route in packet header information. Each host address on route is encrypted with a public key of a directly preceding host. Consequently, the requesting host can exclude from the data transfer route any host through which the requesting host does not wish to route data. Error detecting codes are used to validate the transmitted data.

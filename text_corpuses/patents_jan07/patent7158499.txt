@@ -1,0 +1,4 @@
+title: Voice-operated two-way asynchronous radio
+
+abstract: 
+A method and apparatus for communicating audio messages uses a two-way radio. An output audio message is asynchronously transmitted by generating a first acoustic signal in an input device of the radio. A determination is made whether the first acoustic signal is a command. If the acoustic signal is a command, then a response is generated in an output device, and the command is processed. Otherwise, the first acoustic signal is stored in an output buffer and then later sent as an output audio message only when a communications channel is available. An input audio message is asynchronously received in a receiver of the radio, and then stored in an input buffer. A second acoustic signal is generated which causes the stored input audio message to be sent to the output device only if the second acoustic signal is a play command.

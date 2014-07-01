@@ -1,0 +1,4 @@
+title: Temperature measurement using an OLED device
+
+abstract: 
+An OLED device comprising: a) a substrate; b) one or more OLED element(s) formed on the substrate and having a common electrical connection for passing current through the OLED element(s); c) one or more transistor circuit(s) for controlling current passing through the OLED element(s); and d) a controller for measuring a current passing through the common electrical connection when the OLED element(s) and/or transistor circuit(s) are at an unknown temperature, for controlling the transistor circuit(s), and for comparing the current measured to an established current response determined under known OLED element(s) and/or transistor circuit(s) temperature conditions to determine the temperature of the OLED element(s) and/or transistor circuit(s).

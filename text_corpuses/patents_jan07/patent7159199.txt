@@ -1,0 +1,4 @@
+title: Method for verifying adequate synchronization of signals that cross clock environments and system
+
+abstract: 
+The present invention is directed to methods for verifying adequate synchronization of signals that cross clock environments. According to one exemplary method, a circuit under design includes a plurality of functional elements and a plurality of clock environments, and has one or more signals passing from one clock environment to another therein. The method includes the steps of (i) modelling at least one of the functional elements to have an unknown state as an output for a predetermined time after a timing event of a clock signal, (ii) simulating the circuit, and (iii) determining which functional element is a synchronizer to thereby identify if there is a synchronization problem for a signal passing from one clock environment to another.

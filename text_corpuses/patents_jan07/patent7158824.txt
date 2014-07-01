@@ -1,0 +1,4 @@
+title: Stress reduction pacing for arterial plaque stabilization
+
+abstract: 
+A method for stabilizing atherosclerotic plaque with the intra-myocardial portion of a coronary artery is presented. Pacing therapy is utilized to pre-excite ventricular myocardium near the site of a plaque and thereby mechanically unload the myocardial region. Such mechanical unloading results in less deforming stress being transmitted to the plaque during ventricular systole.

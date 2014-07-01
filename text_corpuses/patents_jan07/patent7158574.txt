@@ -1,0 +1,4 @@
+title: Digital interface in radio-frequency apparatus and associated methods
+
+abstract: 
+Radio-frequency (RF) apparatus includes receiver analog circuitry that receives an RF signal and provides at least one digital signal to receiver digital circuitry that functions in cooperation with the receiver analog circuitry. The interface between the receiver analog circuitry and the receiver digital circuitry includes configurable signal lines that function as a serial interface, or as a data and clock signal interface, depending on the state of a control signal.

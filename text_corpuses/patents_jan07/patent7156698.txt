@@ -1,0 +1,4 @@
+title: Waterlight connector
+
+abstract: 
+Resilient deformation of a rubber plug () can be absorbed by a housing-side groove (A) and a holder-side groove (B) formed to surround all wire insertion holes (), thereby preventing the displacements of the wire insertion holes (). Thus, a reduction in operability at the time of inserting female terminal fittings () and wires () through the rubber plug () can be avoided. Further, a housing-side pressing portion (A) and a holder-side pressing portion (B) are pressed into the housing-side groove (A) and the holder-side groove (B) over the entire periphery to press the rubber plug () into contact with the inner surface of an accommodation recess (), sealability between a housing () and the rubber plug () can be ensured.

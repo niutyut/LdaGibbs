@@ -1,0 +1,4 @@
+title: Method and apparatus for duct sealing using a clog-resistant insertable injector
+
+abstract: 
+A clog-resistant injector spray nozzle allows relatively unobtrusive insertion through a small access aperture into existing ductwork in occupied buildings for atomized particulate sealing of a ductwork. The spray nozzle comprises an easily cleaned and easily replaced straight liquid tube whose liquid contents are principally propelled by a heated propellant gas, such as heated air. Heat transfer is minimized from the heated propellant gas to the liquid tube until they both exit the injector, thereby greatly reducing the likelihood of nozzle clogging. A method of duct sealing using particles driven by heated propellant gas is described, whereby duct-sealing operations become both faster, and commercially practicable in inhabited commercial and residential buildings.

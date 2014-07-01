@@ -1,0 +1,4 @@
+title: Ratcheting mechanism
+
+abstract: 
+A ratcheting mechanism for a hand-held tool is provided. The mechanism includes a housing having a central opening and a pair of slots disposed on opposite sides of the opening. Each slot has an arcuate or circular end portion opposite the central opening which circumscribes an arc of greater than 180? in order to pivotally retain a generally circular stem of a pawl therein. Due to the presence of a pair of biasing members within the housing, each pawl is biased inwardly towards the central opening and into engagement with teeth located on the exterior of a gear rotatably disposed within the central opening. A cap rotatably connected to the housing over the pawls and the central opening is able to selectively disengage one of the pawls to allow the rotation of the gear within the central opening in a specified direction.

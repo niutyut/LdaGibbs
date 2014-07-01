@@ -1,0 +1,4 @@
+title: Secure mounting system for overhead mounted projector
+
+abstract: 
+An adjustable tamper-resistant overhead mounting system for a projector. The system includes brackets attachable to the projector and a suspension member attached to an overhead structure. At least one tamper resistant fastener is used at each connection of the brackets, the projector and the suspension member, to deter theft and tampering. The arrangement of the brackets may enable easy adjustable positioning of the projector about pitch, roll and yaw axes. The projector may also be enclosed in an enclosure system to protect against contact by foreign objects. The enclosure is adapted to be installable without removing the projector or otherwise disturbing the mounting system.

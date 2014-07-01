@@ -1,0 +1,4 @@
+title: Method for rapid prototyping by using linear light as sources
+
+abstract: 
+A method for rapid prototyping by using linear light as sources employs DLP (Radiation Hardening Formation) or LCD, together with the portable devices and linear light source to treat the raw material in two stages. The first stage is to spread the raw material to a selected zone by nozzles or rollers and illuminating the material to let the material being processed and have physical o mechanical changes. The second stage is to use more powerful linear light source with the cooperation of the portable DMD (Digital Micromirror Device) or LCD (Liquid Crystal Display) to illuminate the material to make it have a second times of physical o mechanical changes. By the piling up the layers of the material, a complete 3-D work piece is obtained.

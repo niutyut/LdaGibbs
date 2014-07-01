@@ -1,0 +1,4 @@
+title: Inversion bit line, charge trapping non-volatile memory and method of operating same
+
+abstract: 
+A charge trapping memory device in which a field induced inversion layer is used to replace the source and drain implants. The memory cell are adapted to store two bits, one on the left side and one on the right side of the charge trapping structure. A positive threshold voltage erase state is induced using negative gate voltage Fowler Nordheim FN tunneling which establishes a charge balance condition at a positive voltage. A low current, source side, hot electron injection programming method is used.

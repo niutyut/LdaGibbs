@@ -1,0 +1,4 @@
+title: Method and apparatus for dial stream analysis
+
+abstract: 
+Interests of a person may be analyzed based on the dial stream to/from the person. When a call is being made to/from a person, signaling information from the dial stream is routed to an analysis server. Information in the signaling information, such as called party identifier and caller-id data, is retrieved and archived by the analysis server. Based on the information in the dial stream, a person's interests may then be analyzed and provided to a recipient, such as a business. The person may be compensated in exchange for allowing their dial stream to be analyzed. In addition, businesses may also register with the analysis server.

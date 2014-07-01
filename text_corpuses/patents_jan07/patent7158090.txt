@@ -1,0 +1,4 @@
+title: Antenna for a wireless network
+
+abstract: 
+A data access system includes a plurality of access points and an antenna corresponding to one of the access points. The antenna includes a planar monopole, a vertical ground plane and a top horizontal ground plane. In one aspect, the top horizontal ground plane outwardly extends over the planar monopole for a distance that is generally between three-quarters to three-halves of the length of the planar monopole.

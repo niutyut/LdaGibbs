@@ -1,0 +1,4 @@
+title: Duplicate images files for improving image handling and transmission
+
+abstract: 
+An image capturing device includes an electronic image sensor, a processor, and a memory. The memory includes a full-size image storage storing one or more full-size digital images and a transfer image storage storing one or more corresponding transfer images. During an image capture, the image capturing device captures and stores a full-size image and also stores a transfer image that is a smaller version of the full-size image. The size of the transfer image is predetermined by the user.

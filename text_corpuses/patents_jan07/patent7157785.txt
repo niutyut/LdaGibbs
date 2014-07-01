@@ -1,0 +1,4 @@
+title: Semiconductor device, the method of manufacturing the same, and two-way switching device using the semiconductor devices
+
+abstract: 
+A semiconductor device is disclosed that reduces the reverse leakage current caused by reverse bias voltage application and reduces the on-voltage of the IGBT. A two-way switching device using the semiconductor devices is provided, and a method of manufacturing the semiconductor device is disclosed. The reverse blocking IGBT reduces the reverse leakage current and the on-voltage by bringing portions of an n-type drift region  that extend between p-type base regions and an emitter electrode into Schottky contact to form Schottky junctions.

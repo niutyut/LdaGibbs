@@ -1,0 +1,4 @@
+title: Integral locking system for rifle
+
+abstract: 
+A firearm integral locking system includes a cocking piece lock in a housing slot. The lock has a blade and a key aperture. The slot allows rotational movement. The cocking piece and lock each have an aperture. A plunger is slidably received in the cocking piece aperture. A spring urges the plunger towards the lock. The spring abuts the plunger and the cocking piece aperture. A key is insertable into the lock aperture and abuts the plunger to urge the plunger into the cocking piece. When the plunger is inserted, the lock is free to rotate. When the key is removed and the plunger is urged into the lock aperture, the lock is secured. The cocking piece has a groove to receive the blade of the lock and allows the blade and cocking piece to move rotationally. Longitudinal movement of the cocking piece is precluded when the lock is locked.

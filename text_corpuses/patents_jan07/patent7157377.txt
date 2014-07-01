@@ -1,0 +1,4 @@
+title: Method of making a semiconductor device using treated photoresist
+
+abstract: 
+A semiconductor device is made by patterning a conductive layer for forming gates of transistors. The process for forming the gates has a step of patterning photoresist that overlies the conductive layer. The patterned photoresist is trimmed so that its width is reduced. Fluorine, preferably F, is applied to the trimmed photoresist to increase its hardness and its selectivity to the conductive layer. Using the trimmed and fluorinated photoresist as a mask, the conductive layer is etched to form conductive features useful as gates. Transistors are formed in which the conductive pillars are gates. Other halogens, especially chlorine, may be substituted for the fluorine.

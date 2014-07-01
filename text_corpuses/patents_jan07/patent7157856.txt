@@ -1,0 +1,4 @@
+title: Apparatus and method for controlling headlight in vehicle and headlight lamp having multifunction structure
+
+abstract: 
+The present invention relates to a headlight lamp () having a multifunction structure in which a lighting angle of a headlight of a vehicle is automatically and manually controlled based on a running speed of a vehicle, a brightness of a headlight of an opponent vehicle and a surrounding brightness of a vehicle. The headlight lamp () includes a plurality of high angle headlight filaments (), capable of lighting for providing a high angle beam to a vehicle, a plurality of low angle headlight filaments () capable of lighting for providing a low angle beam to the vehicle, low angle headlight reflection covers () provided in the low angle headlight filaments () respectively, for thereby allowing the light from the low angle headlight filaments () to have a low beam pattern angle, and external connection terminals.

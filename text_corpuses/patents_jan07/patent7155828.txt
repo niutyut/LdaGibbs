@@ -1,0 +1,4 @@
+title: Razor having deformable shaving aid ejection system and method of ejecting shaving aid
+
+abstract: 
+A shaving aid delivery system for a shaving system includes a razor head having a resilient reservoir for holding a shaving aid and a piezoelectric ceramic disposed adjacent the resilient reservoir. The delivery system also includes a shaving strip disposed within the razor head, an actuator and an ejection port. The shaving strip is oriented to engage the skin of a user during a shaving stroke and the actuator electrically couples to the piezoelectric ceramic such that, upon activation, the actuator causes deformation of the piezoelectric ceramic which, in turn, deforms the resilient reservoir and forces the shaving aid from the reservoir through the ejection port. Alternatively, the actuator may include a shape memory alloy which, upon transformation between states, deforms the reservoir and forces the shaving aid from the reservoir through the ejection port.

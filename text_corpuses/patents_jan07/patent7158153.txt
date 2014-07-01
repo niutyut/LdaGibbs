@@ -1,0 +1,4 @@
+title: Method and circuit for adjusting background contrast in a display device
+
+abstract: 
+A method for adjusting the contrast of a background region in a display device is provided. A video signal for a background region is received in a background region mode. The gain of the video signal is adjusted responsive to a background region control signal thereby adjusting the contrast of the background region. The result is a high quality display device.

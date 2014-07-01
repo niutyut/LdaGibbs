@@ -1,0 +1,4 @@
+title: Xerographic printer having a semiresistive rotatable brush in the transfer zone
+
+abstract: 
+An electrostatographic printing apparatus comprises a charge receptor, and a brush forming a nip against a portion of the charge receptor. The nip is suitable for passing a sheet therethrough. The brush comprises fibers, each fiber being semi-resistive.

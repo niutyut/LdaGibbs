@@ -1,0 +1,4 @@
+title: Valve actuation system with valve seating control
+
+abstract: 
+A variable valve actuation system to actuate and control the seating velocity of an internal combustion engine valve is disclosed. The system comprises: a housing; a lost motion system disposed in the housing; a rocker arm having a first contact surface, a second contact surface, and a third contact surface, the first contact surface operatively contacting the engine valve, and the second contact surface operatively contacting the lost motion system; and a valve seating device disposed in the housing, operatively contacting the third contact surface.

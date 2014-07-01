@@ -1,0 +1,4 @@
+title: Monopole antenna
+
+abstract: 
+A monopole antenna is formed of a ground plane, a flat conductor faced to the ground plane and separated from it by a clearance ?H?, and a linear conductor that is connected to the flat conductor, extended on the ground plane side in an insulated state from the ground plane, and connected to a signal source. The flat conductor is formed of an inner conductor, and outer conductors disposed on the outer periphery of the inner conductor at a predetermined interval. Set regions of the outer edge of the inner conductor and the inner edges of the outer conductors are interconnected through one or more coupling conductors.

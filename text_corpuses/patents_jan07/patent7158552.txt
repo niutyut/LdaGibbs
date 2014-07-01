@@ -1,0 +1,4 @@
+title: Low relative intensity noise fiber grating type laser diode
+
+abstract: 
+The dependency of intensity noise is used to determine the wavelength difference between a laser diode gain peak and a reflection peak of a fiber grating in a fiber grating type laser diode. Monitoring and determining the relative noise intensity of such a laser enables the control of the laser diode or the fiber grating such that the intensity noise is as low as possible. Such an approach enables the use of a fiber grating type laser diode as Raman pumps in high-speed transmission systems where low intensity noise is a requirement, especially when the Raman pump power propagates in the same direction as the transmission signals (known as Raman co-pumps).

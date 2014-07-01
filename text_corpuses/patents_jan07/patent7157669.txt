@@ -1,0 +1,4 @@
+title: Electric domestic appliance
+
+abstract: 
+An electrical domestic appliance containing a main switch for turning the current power supply to the electrical domestic appliance on and off. The main switch having a predetermined turn-on time period during which the main switch must be actuated in order to move from the off-position to the on-position. The main switch predetermined turn-on period can be selected and adjusted by the customer through predetermined time limits.

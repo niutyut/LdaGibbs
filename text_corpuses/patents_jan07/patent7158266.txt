@@ -1,0 +1,4 @@
+title: Information processing system, information processing apparatus, image pickup system, information processing method, and program
+
+abstract: 
+In order that, even if a large amount of photographed images are present within an image pickup apparatus, processing of determining the degree of progress of transfer can be promptly performed with a slight burden, and a display of the degree of progress is not displayed, i.e., a display of progress of transfer can be promptly performed after an instruction to start transfer, a signal indicating the status of progress of transfer of data files is output based on the number of transmission directories acquired by a transmission-directory acquisition unit and the number of transmitted directories acquired by a transmitted-directory acquisition unit.

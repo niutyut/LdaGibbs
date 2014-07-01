@@ -1,0 +1,5 @@
+title: Crosslinked sulfonated polyimide films
+
+abstract: 
+The present invention relates to a new sulfonated polyimides, more specifically to new methods for preparing the polyimides, and cation exchange membranes containing the polyimides. The sulfonated polyimides of the presented invention have excellent proton conductivity and low preparation cost. In particular, the sulfonated polyimides can be used as polymer electrolyte membrane in hydrogen or direct methanol fuel cell for electric vehicles and portable power sources operated with electric energy
+

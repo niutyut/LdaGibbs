@@ -1,0 +1,4 @@
+title: Communication system for automation equipment based on the WSDL language
+
+abstract: 
+Communication system on an IP network between automation equipment capable of executing at least one program to provide automation functions and one or more remote items of equipment executing one or several computer applications. The communication system conforms with the WSDL (Web Services Description Language) language and provides monitoring, display, control, configuration or programming functions of the automation equipment to remote equipment. The communication system uses at least one service description document that conforms with the WSDL language accessible through a URL address and that describes capabilities of one or several WEB services capable of interacting with a program on the automation equipment.

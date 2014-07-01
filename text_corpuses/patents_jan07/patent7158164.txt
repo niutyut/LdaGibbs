@@ -1,0 +1,4 @@
+title: Thermal development method and apparatus
+
+abstract: 
+In a thermal development method for generating a image from a latent image recorded on an image formation layer of a photosensitive photothermographic recording material, by means of heating the photosensitive photothermographic recording material, a first surface, which is one surface of the photosensitive photothermographic recording material A, and a second surface, which is the remaining surface of the same, are heated; and a total amount of heat applied to the second surface is controlled so as to fall within a range of 100?30 when a total amount of heat applied to the first surface is taken as 100 in connection with the respective total amounts of heat which are applied to the image formation layer from the first and second surfaces and equal to and higher than the development reaction temperature.

@@ -1,0 +1,4 @@
+title: Thermal bend actuator with corrugate profile
+
+abstract: 
+A thermal bend actuator () is provided with a group of upper arms () and a group of lower arms () which are non planar, so increasing the stiffness of the arms. The arms () may be spaced transversely of each other and do not overly each other in plan view, so enabling all arms to be formed by depositing a single layer of arm forming material

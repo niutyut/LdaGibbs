@@ -1,0 +1,4 @@
+title: Vibration damper with amplitude-selective damping force
+
+abstract: 
+Vibration damper includes a cylinder filled with a damping medium in which a piston rod with a piston is guided in an axially movable manner, wherein the piston divides the cylinder into a work space on the piston rod side and a work space remote of the piston rod. A bypass connects at least one of the two work spaces with a first work chamber in a housing in which an axially movable separating piston separates the first work chamber from a second work chamber, the bypass being controlled by a switchable valve.

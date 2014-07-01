@@ -1,0 +1,4 @@
+title: Pre-scan assembly for aligning a pre-scan lens in a laser scanning unit
+
+abstract: 
+A pre-scan assembly for a laser scanning unit including printhead housing having a polygonal mirror and collimation assembly including a laser light source emitting a light beam along a light beam axis. The pre-scan assembly is located between the collimation assembly and the polygonal mirror and includes a pre-scan lens assembly including a carrier and a pre-scan lens supported in the carrier. The pre-scan assembly additionally includes a pre-scan mount for supporting the pre-scan lens assembly and defining angular alignment surfaces. The carrier includes outer side surfaces for engaging the angular alignment surfaces where engagement of the carrier side surfaces with the angular alignment surfaces aligns the pre-scan lens optical axis with the light beam axis in the scan direction.

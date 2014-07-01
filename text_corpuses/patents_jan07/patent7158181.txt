@@ -1,0 +1,4 @@
+title: System and methods for increasing fill-factor on pixelated sensor arrays
+
+abstract: 
+A system and methodology that facilitates increasing the fill-factor of digital sensor arrays at a reduced cost. In general, fill-factor relates to the active area of the sensor array with respect to the inactive area or space between pixels on the array. By increasing the fill-factor, transmitting maximum amount of optical information to the array while mitigating information loss between pixels on the army is allowed. An image detector system is provided that includes a pixelated sensor array that is responsive to electromagnetic radiation. A coherent scattering medium diffuses the electromagnetic radiation with respect to the pixelated sensor array in order to increase the fill-factor of the array.

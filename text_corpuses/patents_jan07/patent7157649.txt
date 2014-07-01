@@ -1,0 +1,4 @@
+title: Contact sensitive device
+
+abstract: 
+Method and apparatus using bending wave vibration to calculate information relating to a contact on a contact sensitive device. The contact sensitive device has a member capable of supporting bending waves, and a device attached to the member measures bending wave propagation in the member to determine a measured bending wave signal. The measured bending wave signal is processed to calculate information relating to the contact. The contact sensitive device may comprise a transparent touch sensitive plate mounted in front of a display device. A stylus (e.g., pen) may be used for writing text or other matter on the touch-sensitive plate. The plate may also be an acoustic device. Three transducers are mounted on the plate. At least two of the transducers are sensing transducers and are thus sensitive to and monitor bending wave vibration in the plate.

@@ -1,0 +1,4 @@
+title: Charge pump phase locked loop
+
+abstract: 
+A phase lock loop circuit  has a phase frequency detector , a charge pump , an active filter  and a voltage-controlled oscillator . The phase detector generates UP and DN signals indicative of the relative frequency of F, a reference signal, and F, a signal controlled by the voltage-controlled oscillator. A charge pump using logic gates (buffer  and inverter ) to produce a voltage drop over resistors  and  to generate a voltage at a node coupled to the input of transmission gate  according to the values of the UP and DN signals. When the transmission gate  is closed (low impedance) the charge pump may sink or source current to the inverting input of the operational amplifier  of the active filter . When the transmission gate is open (high impedance state) the inverting input is electrically isolated from the node.

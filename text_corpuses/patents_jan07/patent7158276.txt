@@ -1,0 +1,4 @@
+title: Pressure sensitive electrochromic device and method of fabricating the same
+
+abstract: 
+A pressure sensitive electrochromic device at least comprises a first substrate and a second substrate disposed opposite; a pressure sensitive layer disposed on the first substrate; an electrochromic layer disposed on the pressure sensitive layer; and a third conductive layer disposed between the electrochromic layer and the second substrate. The pressure sensitive layer includes a first conductive layer disposed on the first substrate; an insulative layer in which numerous conductive grains are distributed; and a second conductive layer disposed on the insulative layer. Also, at least one of the first and second substrates is made of the flexible material. An external circuit is applied for connecting the first and third conductive layers.

@@ -1,0 +1,4 @@
+title: Method for selectively blocking remote purchase requests
+
+abstract: 
+A method for partially verifying the legitimacy of a remote purchase request based on a card number from a card issuing financial institution. The method includes receiving and storing a first purchase request information set including an origin and a card number. Further, the origin and the card number are sent to the card issuing financial institution to determine if the origin matches an origin on file for the card number at the card issuing financial institution.

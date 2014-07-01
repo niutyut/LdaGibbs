@@ -1,0 +1,4 @@
+title: Method and apparatus for using magnetic field
+
+abstract: 
+Provided a method and apparatus for using a magnetic field. The method includes: measuring and storing magnetic field data indicating magnitudes of a magnetic field in different directions at each time by rotating sensors over a space; and checking whether a disturbance of the magnetic field exists, using curve fitting parameters such as amplitude and offset of at least one of magnetic field trajectories formed by the stored magnetic field data.

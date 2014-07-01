@@ -1,0 +1,4 @@
+title: Mold for injection molding and a method of operating a mold
+
+abstract: 
+A fixed mold () has engaging pins () projecting towards a movable mold (). Each engaging pin () includes a shaft (A) and a large-diameter portion (C) formed at the leading end of the shaft (A). The large-diameter portions (C) of the engaging pins () interfere with the bottom surfaces of recesses () of an ejector plate () in the process of separating the movable mold (). Thus, the ejector plate () is moved forward relative to the movable mold () and leading ends of ejector pins () project from the movable mold ().

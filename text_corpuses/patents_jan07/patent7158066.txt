@@ -1,0 +1,4 @@
+title: Pipelined analog-to-digital converter having enhanced high frequency performance characteristics
+
+abstract: 
+A pipelined digital-to-analog converter includes a first sub analog-to-digital converter and a multiplying digital-to-analog converter. The first sub analog-to-digital converter, which is responsive to a first reference voltage, is configured to convert a first analog signal into a first digital signal. The multiplying digital-to-analog converter is responsive to the first analog signal, the first digital signal and a second reference voltage. The second reference voltage is generated independently of the first reference voltage in order to enhance the high frequency performance characteristics of the pipelined digital-to-analog converter.

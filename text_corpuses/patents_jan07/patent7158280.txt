@@ -1,0 +1,4 @@
+title: Methods and systems for improved boundary contrast
+
+abstract: 
+The present invention relates to methods and systems that define feature boundaries in a radiation sensitive medium on a workpiece using a diffraction-type micromirror array, extending to production of patterns and structures on a semiconductor substrate. Workpieces include lithographic masks, integrated circuits and other electronic and optical devices. Particular aspects of the present invention are described in the claims, specification and drawings.

@@ -1,0 +1,4 @@
+title: Generating method and machine for spiral bevel gears
+
+abstract: 
+In a method and apparatus for machining spiral bevel gears a rotationally symmetric tool is driven about its axis of rotation as it is moved, along with a workpiece, into a respective initial starting position. The workpiece is rotated about one tooth index, and a complete tooth space is processed via a generating method to a preset generating depth. The tool and workpiece each reach first end roll positions and are then moved into respective second starting positions near the previously reached end roll position. The workpiece is once again rotated about a tooth index and another complete tooth space is generated using a roll direction reversed relative to the initial tooth generating process. The tool and workpiece reach a second end roll position near the first start position and these steps are repeated until all the tooth spaces of the workpiece have been processed.

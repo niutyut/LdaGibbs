@@ -1,0 +1,4 @@
+title: Zone thermostat for zone heating and cooling
+
+abstract: 
+A zone thermostat for use in connection with an Electronically-Controlled Register vent (ECRV) that can be easily installed by a homeowner or general handyman is disclosed. The ECRV can be used to convert a non-zoned HVAC system into a zoned system. The ECRV can also be used in connection with a conventional zoned HVAC system to provide additional control and additional zones not provided by the conventional zoned HVAC system. In one embodiment, the ECRV is configured have a size and form-factor that conforms to a standard manually-controlled register vent. In one embodiment, the zone thermostat is configured to provide thermostat information to the ECRV. In one embodiment, the zone thermostat communicates with a central monitoring system that coordinates operation of the heating and cooling zones.

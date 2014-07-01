@@ -1,0 +1,4 @@
+title: Low temperature methods of bonding components and related structures
+
+abstract: 
+Methods of bonding two components may include positioning the components relative to one another to obtain a desired orientation. Once the desired orientation is obtained, the components can be bonded in the desired orientation with metal wherein a temperature of both components is maintained below a melting temperature of the metal while bonding. Related structures are also discussed.

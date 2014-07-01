@@ -1,0 +1,4 @@
+title: Scheduler for a packet routing and switching system
+
+abstract: 
+In one embodiment, queues associated with a first traffic class (FTC) are selected for service. Each FTC queue having at least one enqueued cell is identified as an occupied FTC queue, Where at least one FTC queue is provisioned for burst scheduling of multiple cells when serviced. An occupied FTC queue provisioned for burst scheduling is identified as a super-occupied FTC queue when the number of cells enqueued is greater than a specified number. Each occupied FTC queue is set as eligible for service based on a FTC scheduling algorithm. An eligible FTC queue is selected for service based on a corresponding sub-priority of each eligible FTC queue. Each FTC queue is assigned a sub-priority based on a service level of a connection associated with enqueued cells. When the super-occupied queue is serviced, the number of cells dequeued is based on a burst size.

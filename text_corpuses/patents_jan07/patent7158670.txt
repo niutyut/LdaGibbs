@@ -1,0 +1,4 @@
+title: Visually error-free color image representation
+
+abstract: 
+The present invention provides a method, apparatus and computer-readable medium for providing high quality substantially visually error-free conversion of color images. The method maps the color values to an expanded colorspace to represent substantially all colors without perceptible visual error and labels an image determined by the mapped color values as an expanded colorspace image. Thus, the present invention may be utilized to provide a linear color management system. In a 16 bit color data value system, transparency/opaqueness information may be stored, and premultiplied or premultiplied and normalized values may be used for blending.

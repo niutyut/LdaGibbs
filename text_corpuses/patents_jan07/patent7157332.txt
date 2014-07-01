@@ -1,0 +1,4 @@
+title: Method for manufacturing flash memory cell
+
+abstract: 
+Disclosed is a method for manufacturing a flash memory cell. A structure in which a floating gate, an ONO dielectric film and a control gate are stacked is formed by means of a gate mask process and an etch process. After a rapid thermal nitrification process is performed, a re-oxidization process is performed. Therefore, Si-dangling bonding broken during the gate etch process becomes a Si?N bonding structure by means of a rapid thermal nitrification process. As such, as abnormal oxidization occurring at the side of an ONO dielectric film during a re-oxidization process is prohibited, a smiling phenomenon of the ONO dielectric film is prevented.

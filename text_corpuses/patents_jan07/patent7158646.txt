@@ -1,0 +1,4 @@
+title: Signal derived bias supply for electrostatic loudspeakers
+
+abstract: 
+An electrostatic loudspeaker requires a high voltage DC bias power supply to bias the stators and diaphragms of electrostatic speakers. A self biased power supply eliminates the need for an external power supply by deriving a high voltage bias from the stator AC signal voltages which have been rectified and run from a high voltage tap and/or through a voltage multiplier which has a voltage limiting means.

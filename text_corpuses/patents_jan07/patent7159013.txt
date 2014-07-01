@@ -1,0 +1,4 @@
+title: Downloading and uploading data in information networks
+
+abstract: 
+A method of downloading or uploading data via a client-server communications network, which network comprises a plurality of clients (A, B, ) each having a local cache storing data downloaded via the network. The method comprises responding to a data request made to the network by a first client (A, ) by uploading data from the cache of a second client (B, ) and transmitting that data across the network to the first client (A, ). Also disclosed are client-server networks operating in accordance with the method and to the related servers (), client terminals (A, B, ), browsers loaded on client terminals, and plug-ins for such terminals and browsers.

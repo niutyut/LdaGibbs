@@ -1,0 +1,4 @@
+title: Method and device for consistent bidirectional analysis of engine characteristics map data
+
+abstract: 
+A method and a device () for consistent bidirectional analysis of engine characteristics map data in an engine characteristics map are described. The engine characteristics map data represents interlinked technical variables. In this method, first a characteristic curve representing the interdependence of two of the technical variables is determined. This characteristic curve forms the basis for additional conversions in bidirectional analysis of the particular engine characteristics map.

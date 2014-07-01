@@ -1,0 +1,4 @@
+title: Directional acoustic telemetry receiver
+
+abstract: 
+Acoustic telemetry devices and methods that provide directional detection. In one embodiment, a disclosed acoustic telemetry device comprises at least two acoustic sensors and an electronics module. A first of the acoustic sensors detects a communication signal that propagates along a tubing string in a first direction. A second of the acoustic sensors is configured to detect the communication signal before the first acoustic sensor. The electronics module combines the detection signals from the acoustic sensors to obtain a combined signal that substantially excludes signals propagating in a direction opposite to the communication signal. Such signal suppression may significantly enhance the communication signal's signal-to-noise ratio, thereby increasing channel capacity. The acoustic telemetry device may be configured to support logging while drilling and/or full-duplex communication.

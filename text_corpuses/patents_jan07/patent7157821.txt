@@ -1,0 +1,4 @@
+title: Electromagnetic actuator
+
+abstract: 
+An electromagnetic actuator includes a fixed core supported by a bottom wall of a housing, a movable core arranged opposite to the fixed core via an air gap to drive the movable member, and coil assembly supported by the housing to surround both the cores, wherein the movable member and the movable core are connected by connecting means for adjusting the air gap between the fixed core and the movable core, and wherein an adjustment operating hole through which the connecting means is adjusted is provided on the fixed core so as to be opened outside the bottom wall of the housing. Thus, it is possible to freely adjust the air gap between the fixed core and the movable core without preparing several types of connecting members.

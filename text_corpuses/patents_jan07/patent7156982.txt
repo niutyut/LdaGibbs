@@ -1,0 +1,4 @@
+title: Apparatus for determining weight and biomass composition of a trickling filter
+
+abstract: 
+In one embodiment, a filter media tower assembly is provided comprising a first portion and a second portion, wherein the first portion is suspended within the second portion. The first portion is a removable media tower or cage for holding filter media, whereas the second portion is a media tower guide support structure that is mounted to a surface of a tank. In a second embodiment, a load cell or a weighing assembly is disposed above the removable media tower. The deployment of this weighing mechanism above the removable media tower provides constant monitoring of biomass build-up on the filter media.

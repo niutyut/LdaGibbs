@@ -1,0 +1,4 @@
+title: Method and apparatus for sorting particles
+
+abstract: 
+A method and apparatus for sorting particles moving through a closed channel system of capillary size comprises a bubble valve for selectively generating a pressure pulse to separate a particle having a predetermined characteristic from a stream of particles. The particle sorting system may further include a buffer for absorbing the pressure pulse. The particle sorting system may include a plurality of closely coupled sorting modules which are combined to further increase the sorting rate. The particle sorting system may comprise a multi-stage sorting device for serially sorting streams of particles, in order to decrease the error rate.

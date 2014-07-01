@@ -1,0 +1,4 @@
+title: Combustor drain valve
+
+abstract: 
+A system for draining fuel from the combustion chamber of a gas turbine engine in the event of a false start includes associated passageways and a straight through flow pilot air actuated poppet valve. The valve is normally open and actuated by the pilot air to close off the combustion chamber from the drain. A return spring biases the valve to open upon release of pilot air pressure acting on the valve. The valve housing has a piston section with a pilot air chamber and a section defining the passageways for the drain. The drain passageway extends along a straight path at an oblique angle to a piston axis along which a piston actuator moves in response to the return spring and/or the pilot air pressure. The valve also includes a position feedback system for detecting the state of the valve.

@@ -1,0 +1,4 @@
+title: Process for producing polycarbonate oligomer and process for producing polycarbonate resin using the same
+
+abstract: 
+A process for producing an aromatic polycarbonate oligomer according to an interfacial polymerization method comprising reacting an aqueous solution of a bisphenol compound and phosgene in the presence of an organic solvent in a reactor, removing reaction heat by cooling, utilizing vaporization latent heat of the organic solvent to be used, cooling vaporized organic solvent through a condenser and returning an exhaust gas from the condenser to the reactor and a process for producing an aromatic polycarbonate resin used the same.

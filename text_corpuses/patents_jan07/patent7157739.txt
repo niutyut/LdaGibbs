@@ -1,0 +1,4 @@
+title: Active matrix type electro-optical device with patterns of contact hole formation-positions and electronic apparatus
+
+abstract: 
+The invention provides an active matrix type electro-optical device and an electronic apparatus using the same capable of preventing interference of light due to contact holes and interference of reflecting light from light-reflecting film. In a thin film transistor (TFT) array substrate of a reflective active matrix type electro-optical device, a light-reflecting film can be formed in a contact hole, but positions of the contact holes for electrically connecting a pixel electrode to a drain electrode, and irregular pattern for scattering light formed on the surface of the reflection film by a lower side irregularity-formation film are different in each of pixels formed in a matrix.

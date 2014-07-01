@@ -1,0 +1,4 @@
+title: Mutation associated with epilepsy
+
+abstract: 
+An isolated mammalian DNA molecule encoding a mutant ?-aminobutyric acid (GABA) receptor subunit, wherein a mutation event selected from the group consisting of point mutations, deletions, insertions and rearrangements has occurred and said mutation event disrupts the functioning of an assembled GABA receptor, or an otherwise functional fragment or homologue thereof.

@@ -1,0 +1,4 @@
+title: Vacuum distillation automatic sampler
+
+abstract: 
+A plurality of samples can be analyzed sequentially in any desired order by intruding the samples into an automatic sampler, the automatic sampler including a plurality of sample ports connected to a holder, a connector, a valve, and a seal. The connector if each sample holder is attached to the valve by a transfer line, and each sample port is connected to a common manifold. A vacuum pump is activated to volatilize the samples sequentially through the common manifold to a vacuum distiller. The order of the samples volatilized is controlled by a microprocessor. Once the sample has been volatilized, the vapors are condensed and sent to an analytical device.

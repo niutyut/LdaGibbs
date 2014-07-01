@@ -1,0 +1,4 @@
+title: Method and apparatus for locating position of a GPS device
+
+abstract: 
+A method and apparatus for locating position of a GPS device is described. In one example, a wireless carrier is provided in communication with the GPS device. The wireless carrier is configured to provide an approximate position of the GPS device. A server is provided for generating an initialization packet having a satellite orbit model configured for the approximate position. The GPS device is configured to compute pseudo-noise code phase information using the satellite orbit model of the initialization packet. The server is configured to compute position of the GPS device using the pseudo-noise code phase information. A web portal is provided to facilitate communication among the GPS device, the wireless carrier, and the server. In one example, a position request is generated at the web portal. In another example, the position request is generated at the GPS device.

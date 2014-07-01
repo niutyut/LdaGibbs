@@ -1,0 +1,4 @@
+title: High power ultrasonic reactor for sonochemical applications
+
+abstract: 
+Ultrasound device having a reaction chamber, which includes a magnetostrictive transducer and a horn transmitting ultrasound radiation substantially uniformly throughout the reaction chamber. The horn is hollow and is constituted by a cylinder having an empty inner chamber at its core defining a resonance chamber, which may be cylindrical and may comprise a plurality of sections of cylindrical shape or a central section of larger diameter and two terminal sections of smaller diameter.

@@ -1,0 +1,4 @@
+title: Slot cycle assignment within a communication system
+
+abstract: 
+To address the need for a dispatch mobile () to more quickly make a call, in the preferred embodiment of the present invention those remote units operating in a dispatch mode () will receive a first slot cycle, while those remote units not operating in a dispatch mode () will receive a second slot cycle. The second slot cycle is greater than the first slot cycle, so that those remote units operating in dispatch mode () will ?wake up? during the slot cycle normally utilized for interconnect calls. Because shorter slot cycles are utilized for remote units operating in dispatch mode (), the time it takes to make a dispatch call is greatly reduced. Additionally the minimum slot cycle duration typically used for standard calls remains unchanged, greatly conserving battery life.

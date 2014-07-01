@@ -1,0 +1,4 @@
+title: Methods and apparatus for supporting micro-mobility within a radio access network
+
+abstract: 
+The invention provides a novel protocol suite for supporting micro-mobility within a radio access network (RAN). The protocol suite and comprises three separate protocols, namely a Mobile Registration Protocol, a Handoff Affected Router Discovery Protocol (HARDP) and a Mobile Location Update Protocol. The Mobile Registration Protocol is used to register mobile terminals within a RAN while the Mobile Location Update Protocol is used to update mobile terminal reachability during a handoff. The HARDP protocol is used at network boot-up time to identify a subset of routers that needs to be updated when a mobile terminal handoff occurs between two neighboring radio access nodes.

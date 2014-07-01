@@ -1,0 +1,4 @@
+title: Method and apparatus for compensating deviation variances in a 2-level FSK FM transmitter
+
+abstract: 
+A dual-port voltage control oscillator for use in a frequency synthesizer has first and second input ports and an output. The first port is coupled in a phase-locked-loop configuration for receiving input data and a reference frequency. The phase-locked-loop tunes the oscillator in response to a channel selection and trim parameter. The second port of the oscillator has a variable gain characteristic. A multiplier is coupled to the second port for multiplying the input data by a transfer function to alter the input data thereby compensating for the second port variable gain characteristic.

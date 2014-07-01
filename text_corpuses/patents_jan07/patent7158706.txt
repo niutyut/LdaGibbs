@@ -1,0 +1,4 @@
+title: Optical fiber
+
+abstract: 
+An optical fiber is produced so as to have ring-shape refractive index profile such that chromatic dispersion is between +6 ps/nm/km or larger and smaller than +15 ps/nm/km in 1550 nm wavelength, the transmission loss is smaller than 0.210 dB/km, effective cross sectional area Ais larger than 90 ?m, dispersion slope is in a range of 0.05 ps/nm/km and 0.08 ps/nm/km. By doing this, an optical fiber having ring-shaped refractive index profile, enlarged effective cross sectional area, restricted dispersion slope, and low loss characteristics can be provided.

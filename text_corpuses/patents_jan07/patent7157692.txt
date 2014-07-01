@@ -1,0 +1,4 @@
+title: Fiber optic tester
+
+abstract: 
+A fiber optic tester () broadly comprises a testing unit () to take measurements across two test points (), a processing unit () to locate faults by analyzing the measurements, a switching unit () that can connect termination points () of a electrical circuit () to the test points () in a sequence controlled by the processing unit (), and a fiber unit () to test a optical circuit (). The tester () may also include an electrical harness () or an optical harness to connect the electrical circuit () to the switching unit () or the optical circuit () to the fiber unit (). The processing unit () is preferably programed with interconnection information of the circuits () and internal characteristics of the tester (). Using the interconnection information and the internal characteristics, the processing unit () may accurately detect faults within the circuits ().

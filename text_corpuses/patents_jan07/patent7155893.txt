@@ -1,0 +1,4 @@
+title: Method of producing heat-resistant crimped yarn
+
+abstract: 
+The present invention relates to a method for producing a heat-resistant crimped yarn comprising: twisting yarn of a heat-resistant high functional fiber; twist-setting this twisted yarn by heat treatment; and untwisting this twist-set yarn, wherein a snarl value of the twist-set yarn is not more than 6.5.

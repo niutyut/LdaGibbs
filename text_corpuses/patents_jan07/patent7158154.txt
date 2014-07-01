@@ -1,0 +1,4 @@
+title: Method for controlling display mode in portable computer
+
+abstract: 
+Disclosed are embodiments of a method and an apparatus for controlling a display mode in a portable computer. When a display mode of a liquid crystal display (LCD) is changed such as in response to a user's request, information of the changed display mode is stored being associated with a system mode. When a system is rebooted or the system mode is changed in a state in which the display mode information is stored, display mode information stored being associated with a current system mode is read, and the LCD display mode is set to an arbitrary display mode corresponding to the read display mode information. And, when a change of the LCD display mode is requested by the user, a wallpaper image for the requested display mode can be retrieved from among wallpaper images for display modes stored separately and displayed on the LCD.

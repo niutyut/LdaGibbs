@@ -1,0 +1,4 @@
+title: Analyzing system error messages
+
+abstract: 
+The present invention provides a method and apparatus for analyzing system error messages. The method includes accessing a report generated in response to an error. The method further includes accessing at least one predetermined error group and determining a probability that the error is associated with the predetermined error group.

@@ -1,0 +1,4 @@
+title: Process for the utilization of vanadium from chromium ore as vanadium (V) oxide
+
+abstract: 
+Process wherein the vanadium present in the chromium ore chromite is recovered as vanadium pentoxide during the course of the fusion of the chromium ore with alkali and its work-up to produce sodium chromate solution and sodium dichromate.

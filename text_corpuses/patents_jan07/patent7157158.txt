@@ -1,0 +1,4 @@
+title: Encapsulated ceramic armor
+
+abstract: 
+An impact resistant clad composite armor which includes a ceramic core, and a layer of bulk amorphous alloy surrounding the ceramic core and preferably bonded chemically to the ceramic core and a method of manufacturing such armor is provided.

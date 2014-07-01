@@ -1,0 +1,4 @@
+title: Routing mechanism for static load balancing in a partitioned computer system with a fully connected network
+
+abstract: 
+A mechanism for balancing message traffic in a multi-chassis fully interconnected computer system partitioned into multiple domains allows the system to identify I/O transactions, to route I/O transactions over inter-domain cables, and to route non-I/O transactions over intra-domain cables. This beneficially reduces message traffic congestion on intra-domain cables.

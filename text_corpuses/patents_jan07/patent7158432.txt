@@ -1,0 +1,4 @@
+title: Memory with robust data sensing and method for sensing data
+
+abstract: 
+A memory () includes first () and second () sense amplifiers, a first logic gate (), a first three-state driver (), and a latch (). The first sense amplifier () is coupled to a first local data line and has an output terminal for providing a signal indicative of a state of a selected memory cell on the first local data line. The second sense amplifier () is coupled to a second local data line and has an output terminal for providing a signal indicative of a state of a selected memory cell on the second local data line. The first three-state driver () has a data input terminal coupled to the output terminal of the first logic gate (), a control input terminal for receiving a first select signal, and an output terminal coupled to a global data line. The latch () has an input/output terminal coupled to the global data line ().

@@ -1,0 +1,4 @@
+title: Method and system for efficiently retrieving secured data by securely pre-processing provided access information
+
+abstract: 
+A method and system for efficiently retrieving secured data by securely pre-processing provided access information, provides data store security based on only a single piece of access information, which is generally public, such as the proper name of a business or individual that is used to retrieve mailing address information. The access information is hashed for access to a secured data store and efficient access and low data storage for permutations of input access information are provided by verifying the presence of an entry for the hashed access information in a look-up table. If an entry is found, the data store is accessed using the hashed access information, but if an entry is not found, another look-up table corresponding to another information type may be tried or the input access information permuted and retried.

@@ -1,0 +1,4 @@
+title: Process for the recovery of surfactants
+
+abstract: 
+The present invention relates to a method for recovering a surfactant from a water-carbon dioxide system comprising at least one type of surfactant, water and carbon dioxide, the method comprising the step of bringing the water-carbon dioxide system into contact with a dehydrating agent to remove water. Furthermore, the present invention relates to a method comprising the steps of installing a device for selectively removing a removal target in a circulation line in which circulated is a mixed system comprising carbon dioxide, a carbon dioxide-compatible surfactant and/or a cosolvent, and a removal target; circulating the mixed system; and selectively removing the removal target that has been incorporated into the surfactant and/or cosolvent.

@@ -1,0 +1,4 @@
+title: Low-power processor hint, such as from a pause instruction
+
+abstract: 
+A system and corresponding method use a PAUSE instruction as a low power hint in a single threaded or multithreaded environment using ?processor slow mode.? One embodiment actually lowers the frequency of the processor clock. Another embodiment virtually lowers the frequency of the processor clock by gating M clock cycles out of every N clock cycles. When all threads have issued a PAUSE instruction, the processor enters slow mode and remains there for a while. After this while, the processor returns to normal mode. Alternatively, an event, such as an interrupt or an exception, can cause the processor to return to normal mode from slow mode.

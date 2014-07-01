@@ -1,0 +1,4 @@
+title: Electrochemical element having a wound electrode set
+
+abstract: 
+An electrochemical element having a winding electrode set comprises a strip positive electrode, a strip negative electrode and a strip separator which is located between them, which are wound up in a spiral to form an electrode winding. The electrochemical element has a cylindrical housing for holding the electrode winding, and a sealed cell pole which is isolated from the housing. The physical distance between the edge of at least one winding electrode and one pole is bridged by a current collector with spring elements. The current collector provides the connection between the electrode and one pole. The spring elements can be conductively connected to collector disks, to the cover and to the bottom of a cup of the electrochemical element.

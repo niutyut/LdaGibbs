@@ -1,0 +1,4 @@
+title: Organic electroluminescent display device using low resistance cathode
+
+abstract: 
+A front emitting or a dual-side emitting organic electroluminescent display device which has uniform luminance. The organic electroluminescent display device includes a substrate on which a first electrode for defining at least a portion of a pixel region is formed. An organic film layer including an emitting layer is formed on the substrate, and a second electrode including a first semi-transmissive type metal layer is formed on the organic film layer. A first transmissive type conductive oxide layer is formed on the first semi-transmissive type metal layer. A second semi-transmissive type metal layer is formed on the first transmissive type conductive oxide layer, and the second transmissive type conductive oxide layer is formed on the second semi-transmissive type metal layer.

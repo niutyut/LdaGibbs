@@ -1,0 +1,4 @@
+title: Systems and methods for simplex and duplex image on paper registration
+
+abstract: 
+Systems and methods of registering a sheet in an image reproduction, e.g., a xerographic, device use sheet parameters regardless of the tray or bin with which the sheets are associated, separate tallies of sheet registration correction factors for both sides of a sheet, and use registration errors detected on a first side of a sheet to generate correction factors concerning proper registration of the second side of that sheet. In embodiments, the systems and methods average registration errors for one particular side of a plurality of sheets to obtain a damped error signal that is taken into account for registration of subsequent sheets on each respective sheet side. In embodiments, the systems and methods determine variations between actual and target system performance to affect subsequent sheet flow and registration.

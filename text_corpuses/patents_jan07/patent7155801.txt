@@ -1,0 +1,4 @@
+title: Method for releasably connecting a column plate to a supporting ring in a column via a clamp
+
+abstract: 
+A method for using a clamp for detachable connection of a column tray to a support ring in a column including using a clamp which includes a bolt lower clamp part connected to the bolt. The lower clamp part has at least one orifice through which a liquid present in the column can flow away.

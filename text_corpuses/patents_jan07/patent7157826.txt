@@ -1,0 +1,4 @@
+title: Axial gap electrical machine
+
+abstract: 
+An axial gap electrical machine employs unique architecture to (1) overcome critical limits in the air gap at high speeds, while maintaining high torque performance at low speeds, while synergistically providing a geometry that withstands meets critical force concentration within these machines, (2) provides arrangements for cooling said machines using either a Pelletier effect or air fins, (3) ?windings? that are produced as ribbon or stampings or laminates, that may be in some cases be arranged to optimize conductor and magnetic core density within the machine. Arrangements are also proposed for mounting the machines as wheels of a vehicle, to provide ease of removing and installing said motor.

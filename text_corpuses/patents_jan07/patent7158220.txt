@@ -1,0 +1,4 @@
+title: Three-dimensional memory system-on-a-chip
+
+abstract: 
+The present invention provides a three-dimensional memory (3D-M) system-on-a-chip (SoC). It takes full advantage of the difference in the number of interconnect levels between the embedded processor (eP) and embedded memory (eM) in an SoC chip. The un-used interconnect space on top of the eM block is converted into 3D-M. This conversion incurs minimum additional cost, but with significant benefits: 3D-M can add a large storage capacity to the SoC chip and therefore the chip becomes more powerful.

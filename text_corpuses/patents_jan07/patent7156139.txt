@@ -1,0 +1,4 @@
+title: Treatment system and method for a head gimbal assembly static altitude control
+
+abstract: 
+A system and method to control the head suspension assembly static attitude during the manufacturing process are disclosed. A loading fixture loads and supports a head suspension while a slider is attached. A pitch static attitude and roll static attitude (PSA/RSA) monitor takes a first measurement of the pitch static attitude and roll static attitude of the head suspension. A rotatable positioning tool holds the slider in a position relative to the head suspension for attachment and to adjust the position of the slider in response to the first measurement.

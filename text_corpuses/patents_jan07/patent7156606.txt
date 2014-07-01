@@ -1,0 +1,4 @@
+title: Article aligning apparatus
+
+abstract: 
+An article aligning apparatus for aligning a plurality article tiers to be loaded into a carton. Each article tier comprises an article array delivered from an in-feed stream at an in-feed end of a packaging machine. The apparatus comprises an article conveyor for conveying a lower article tier, a first article conveying means including one or more lugs mounted on an endless track for selecting an upper article tear and for conveying the upper article tier to a point of vertical alignment with the lower article tier, thereafter to be stacked and conveyed to the out feed end of the apparatus.

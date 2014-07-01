@@ -1,0 +1,4 @@
+title: Breathing apparatus and pressure vessels therefor
+
+abstract: 
+There is described a wearable garment capable of supplying air to a user comprising a plurality of compartments disposed about the garment, a plurality of air storage vessels for fitting into respective ones of the compartments, an air regulator, a connector for connecting the plurality of air storage vessels to the regulator, and a breathing member connected to the regulator in fluid communication therewith, wherein the breathing member allows a user to receive air from the plurality of air storage vessels.

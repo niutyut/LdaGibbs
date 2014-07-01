@@ -1,0 +1,4 @@
+title: Inkjet printhead chip with volume-reduction actuation
+
+abstract: 
+An inkjet printhead chip includes a wafer substrate. A drive circuitry layer is positioned on the wafer substrate. A plurality of nozzle chambers is defined in the wafer substrate. A plurality of ink inlet openings is defined in the wafer substrate, in fluid communication with respective nozzle chambers. A plurality of nozzle chamber walls is opposite respective ink inlet openings and each defines an ink ejection port. A plurality of ink ejection actuators is connected to the drive circuitry layer. At least one actuator is positioned in each wall and is displaceable into the respective nozzle chamber to reduce a volume of the nozzle chamber and thus to eject ink from the nozzle chamber.

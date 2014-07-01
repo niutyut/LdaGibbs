@@ -1,0 +1,4 @@
+title: Programmable thermostat incorporating a liquid crystal display selectively presenting adaptable system menus including changeable interactive virtual buttons
+
+abstract: 
+A programmable thermostat, with a touch screen liquid crystal display having the capability to add to or remove virtual buttons to the display depending on the items of space conditioning equipment connected with and controlled by the thermostat.

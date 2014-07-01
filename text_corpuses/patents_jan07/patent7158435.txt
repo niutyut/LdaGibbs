@@ -1,0 +1,4 @@
+title: Fuse circuit and semiconductor integrated circuit device
+
+abstract: 
+A fuse circuit has an actual fuse circuit block and a fuse monitor circuit. The actual fuse circuit block stores fuse information; on the other hand, the fuse monitor circuit monitors whether a supply voltage has reached an information capturable voltage at which the fuse information from the actual fuse circuit block can be correctly captured.

@@ -1,0 +1,4 @@
+title: Fine zirconium oxide powder and method for producing same
+
+abstract: 
+There are provided a method for producing a fine zirconium oxide powder which has a narrower particle size distribution than that of conventional zirconium oxide powders and which is capable of lowering the starting temperature in the sintering reaction of a reactant to which the fine zirconium oxide powder is added. When a hydrated zirconium is calcined to be dispersed in a solvent with a dispersing agent, an alcohol (e.g., IPA or t-butanol) having a branched chain structure, not a straight chain structure, is used as the solvent, and a dicarboxylic acid (e.g., maleic acid or oxalic acid) having two carboxyl groups in its molecule is used as the dispersing agent. Thus, a fine zirconium oxide powder having a narrow particle size distribution and a small particle size at 90 vol % is obtained.

@@ -1,0 +1,4 @@
+title: Method and apparatus for providing help content corresponding to the occurrence of an event within a computer
+
+abstract: 
+A method and apparatus are provided for displaying help content corresponding to the occurrence of an event occurring within a computer. An alert help data file is periodically downloaded at a client computer. When a program alert occurs within a client computer, the alert help data file is searched to identify help content corresponding to the particular occurrence of the alert. An alert identifier may be uniquely assigned to each alert to assist in locating the corresponding help content. Moreover, an assert tag and a function result value may also be utilized to define and locate particular help content. Once located, the help content may be displayed to a user.

@@ -1,0 +1,4 @@
+title: Layered structure, sensor and method of producing and use of the same
+
+abstract: 
+The invention concerns a layered structure comprising at least two material layers. The layered structure is formed of a conductive polymer on a substrate material layer to allow a reaction in the conductive polymer material when the layered structure is exposed to the surrounding conditions. The invention also concerns a method for producing layered structure. In the method the conductive polymer material is applied on the substrate material by printing or spraying or stamping or casting or spin coating or by using photolithographic or laser ablation method or a combination of these. The invention further concerns a sensor comprising an electric device short circuited by the conductive polymer of the layered structure. In the sensor a change in the conductive polymer initiates a change in the function of the electric device.

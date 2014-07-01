@@ -1,0 +1,4 @@
+title: Two-dimensional depiction of components of a film extrusion system on an output device
+
+abstract: 
+An operating panel for a film extrusion plant displays the spatial relationship of operating elements of the plant relative both to each other and to an operator viewing the display. The panel has a terminal for inputting functional parameters of the operating elements, such as an extruder, a film bubble, a nozzle, a blowing head, a winding section, or a resin hopper or dosimetry unit associated with the extruder. The panel has an indicator that displays both the parameters and an at least two-dimensional view of the spatial relationship of the operating elements.

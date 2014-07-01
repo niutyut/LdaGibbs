@@ -1,0 +1,4 @@
+title: System for testing flat panel display devices
+
+abstract: 
+A system for testing a flat panel display device includes a support plate and an electrical connector set. The support plate includes a plate body having a through hole, and is adapted to support the display device thereon such that a screen of the display device faces an upper surface of the plate body. The electrical connector set is mounted on the support plate, and is adapted to connect electrically with the display device on the support plate so as to enable activation of the display device to radiate light from the screen of the display device through the through hole. One of a light-directing component and an image-capturing unit is disposed under and is spaced apart from the support plate, to receive the light from the display device that passes through the through hole.

@@ -1,0 +1,4 @@
+title: Capacitance touch slider
+
+abstract: 
+A device for detecting the position of a human finger or other object on a touch-sensitive scrolling pad. Dual independent oscillators may be used to generate two pulse trains at frequencies dependent upon the capacitance of two conductors resulting from the position of the finger on the conductors. The pulses from each oscillator may be counted over a time interval. A ratio-metric measurement may be taken by calculating the ratio of the two counts, and a sum may also be calculated. The ratio of the two counts relates to finger position on the device, and their sum relates to finger pressure upon the device.

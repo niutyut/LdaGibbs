@@ -1,0 +1,4 @@
+title: Method of holding a key in a keyway
+
+abstract: 
+An improved method of holding a key () in a keyway () includes the steps of: forming an elongated keyway in the member, the member having at least one sharp corner () facing into the keyway adjacent either end thereof; forming a key () to fit in the keyway, the key being so dimensioned, proportioned and configured that the part of the key immediately adjacent each sharp corner will be recessed with respect to the surface of the member at the corner; placing the key in the keyway; and plastically deforming portions () of the member at the sharp corners into the keyway so as to permanently hold the key in the keyway.

@@ -1,0 +1,4 @@
+title: Process for producing a paper wiping product
+
+abstract: 
+A process for producing wiping products and wiping products made by the process are disclosed. According to the present invention, a paper web is treated on both sides with a bonding material. After the bonding material is applied, the web is then subjected to a dry rush transfer process during which the web is conveyed from a first moving conveyor to a second moving conveyor. The second moving conveyor generally has a speed slower than the first moving conveyor causing a shearing force to be exerted on the web. The shearing force decreases the stiffness of the web. In one embodiment, an uncreped throughdried base web is used.

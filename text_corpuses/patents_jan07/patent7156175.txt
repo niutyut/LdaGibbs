@@ -1,0 +1,4 @@
+title: Methods of generating gas in well fluids
+
+abstract: 
+The present invention relates to methods of chemically generating gas in aqueous fluids utilized in the drilling and completion of wells such as drilling fluids, spacer fluids, and aqueous acid solutions. In one embodiment, the invention provides a method of preventing the formation of fractures in a subterranean formation during a drilling operation. In other embodiments, the present invention provides methods of separating a first fluid and a second fluid in a subterranean formation; methods of forming lightweight well treatment fluids; methods of enhancing the permeability of a subterranean zone; lightweight drilling fluids; lightweight spacer fluids; foamed aqueous acidic well treatment fluids; and methods of making foamed aqueous and aqueous acidic well treatment fluids.

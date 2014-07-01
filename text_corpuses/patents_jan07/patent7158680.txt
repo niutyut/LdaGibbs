@@ -1,0 +1,4 @@
+title: Apparatus and method for processing video data
+
+abstract: 
+An apparatus and methods for processing video data are described. The invention provides a representation of video data that can be used to assess agreement between the data and a fitting model for a particular parameterization of the data. This allows the comparison of different parameterization techniques and the selection of the optimum one for continued video processing of the particular data. The representation can be utilized in intermediate form as part of a larger process or as a feedback mechanism for processing video data. When utilized in its intermediate form, the invention can be used in processes for storage, enhancement, refinement, feature extraction, compression, coding, and transmission of video data. The invention serves to extract salient information in a robust and efficient manner while addressing the problems typically associated with video data sources

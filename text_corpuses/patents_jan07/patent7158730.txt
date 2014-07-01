@@ -1,0 +1,4 @@
+title: Image forming apparatus, process cartridge, developing unit, and image forming method
+
+abstract: 
+A carrier and a dummy toner are stored in a developing unit of a process cartridge in a brand new status. A plurality of process cartridges corresponding to a plurality of color toners is used in common. The color toners are respectively supplied to the developing unit from toner supply units after the process cartridges in the brand new status are installed in installation sections in a main unit of an image forming apparatus.

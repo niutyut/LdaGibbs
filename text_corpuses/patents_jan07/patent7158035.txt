@@ -1,0 +1,4 @@
+title: Server apparatus and information providing method
+
+abstract: 
+When an information providing server  according to the present invention acquires attribute information items of RFID tags  to  detected in a shopping cart and in the vicinity thereof, it transmits these attribute information items to a rule server  When the received attribute information items satisfy a predetermined combination, the rule server  returns presentation information corresponding to the combination to the information providing server  When the information providing server  receives this presentation information, it sends the presentation information to a mail address of mobile equipment  acquired from the attribute information items. This permits the user to readily figure out a dish that can be made from cooking ingredients put in the cart.

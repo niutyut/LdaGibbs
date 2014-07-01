@@ -1,0 +1,4 @@
+title: Reference sensing circuit
+
+abstract: 
+A reference voltage generator circuit for nonvolatile memory devices is disclosed. The circuit has at least one sense amplifier bias reference voltage generator (SABRVG) for generating a reference voltage at a predetermined reference point that is coupled to a start-up bias reference voltage generator (SBRVG). It also includes a monitor reference voltage generator (MRVG) for generating a monitor reference voltage, and a comparison module for comparing the monitor reference voltage with the reference voltage to produce a start-up control signal, wherein the SBRVG enhances a changing speed of the reference voltage during a reading cycle of the nonvolatile memory and when the monitor reference and the reference voltages are matched, the start-up control signal stops the SBRVG from operating, thereby having the SABRVG maintain the reference voltage.

@@ -1,0 +1,4 @@
+title: Method and apparatus for proprietary data interface in a distributed telecommunications system
+
+abstract: 
+The invention comprises a data bottleneck prevention method and system for preventing date bottlenecks from occurring in the Inter-Connect Controller (ICC) of a distributed telecommunications system which includes an Ethernet and a plurality of Media Control Platforms (MCPs) on one side of the ICC and a Network Services Processor (NSP) on the other side of the ICC. The data on the NSP side of the ICC is broken up into convenient 8 bit packages while the data on the Ethernet side of the ICC runs at the standard bit rate.

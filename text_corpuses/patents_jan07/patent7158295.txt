@@ -1,0 +1,4 @@
+title: Apparatus and method for determining directional transport processes
+
+abstract: 
+An apparatus for determining directional transport processes with a scanning microscope () is disclosed. A deflection means () for coupling in an illuminating light beam (), and a scanning module () for graphical display of a specimen () on a peripheral device () and for positioning the illuminating light beam () for a specific time period on a location of the specimen (), are provided. Provided between the deflection means () and the scanning module () is a device () that generates, from the illuminating light beam (), at least two illuminating light beams () that merge at a rotation point () of the scanning module (). Each of the several illuminating light beams () generates a respective focus () in the specimen (), all the foci () being arranged in one plane ().

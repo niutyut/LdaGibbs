@@ -1,0 +1,4 @@
+title: Collapsible tub-shaped container
+
+abstract: 
+A collapsible, tub-shaped container for placing on a support, comprising a base of flexible flat material with a frame construction and side walls of flexible flat material. There are connecting walls of flexible flat material arranged between the two adjacent side walls, which have a frame construction.

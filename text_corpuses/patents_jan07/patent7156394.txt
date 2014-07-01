@@ -1,0 +1,4 @@
+title: Method and device for playing modified games of chess
+
+abstract: 
+A method for playing a modified game of chess includes the steps of providing a game board having a plurality of rows and columns to define a grid-like pattern and providing each player a set of game cubes, each of which defines six faces. Five of said faces include depictions, the other is blank. Each depiction is assigned a range of movement. In turn, each player must place a game cube on any unoccupied space, blank face disposed opposite the game board. Once all game cubes are so placed, each player is allowed, in turn, to rotate one game cube, move a game cube according to the depiction of the face disposed opposite the game board to capture game cubes of opponents, or return any captured game cube to the game board. Points are awarded for capturing opponent's game cubes until a player achieves a predetermined number of points.

@@ -1,0 +1,4 @@
+title: PCB retention mechanism
+
+abstract: 
+A circuit board () is installed and locked in place in a connector housing () which has a board-receiving slot () defined by side guides () that closely engage upper and lower surfaces of the board during its forward insertion into the slot. The front portion of the board has a through aperture (), and the housing has a ramp () that can fit into the aperture. As the forwardly-sliding board approaches a fully installed position, the ramp bends the front portion of the board as it rides up the ramp, until the aperture walls snap around the ramp and the board front portion unbends. The board can be slid backward out of the slot, only by bending up the board front portion and sliding it rearward.

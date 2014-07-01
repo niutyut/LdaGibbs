@@ -1,0 +1,4 @@
+title: Image formation apparatus having electrically conductive spacer and external frame
+
+abstract: 
+An image formation apparatus is disclosed which includes, within an enclosure configured by a pair of substrates placed face to face and an external frame placed between the substrates, an electron source placed on one of the pair of substrates, an image formation material placed on the other substrate, and spacers placed between the substrates, characterized in that the spacers and the external frame is conductive and device is provided for electrically connecting the spacers and the external frame so that the equipotential surfaces between the spacers and the external frame are quasi-parallel when driven.

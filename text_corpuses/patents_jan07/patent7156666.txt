@@ -1,0 +1,4 @@
+title: Connecting device for a multilayer flat element equipped with electrical functional elements and flat element
+
+abstract: 
+A connector for a flat multilayer element that includes a first rigid glazing pane provided with one or more electrical functional elements and a second rigid glazing pane joined flat to that side of the first rigid glazing pane that is provided with the functional elements. The second pane has at least one cutout for making an electrical connection to the functional elements. A liner is fastened in the cutout by a projection, the edge of which lies in the plane between the two rigid panes and/or catches, via the rear, on an undercut of the cutout. The liner serves as a counterbearing surface for fastening at least one connection piece electrically connected to the functional elements.

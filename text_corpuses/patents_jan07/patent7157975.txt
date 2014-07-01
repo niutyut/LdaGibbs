@@ -1,0 +1,4 @@
+title: Cross-differential amplifier
+
+abstract: 
+A cross-differential amplifier is provided. The cross-differential amplifier includes an inductor connected to a direct current power source at a first terminal. A first and second switch, such as transistors, are connected to the inductor at a second terminal. A first and second amplifier are connected at their supply terminals to the first and second switch. The first and second switches are operated to commutate the inductor between the amplifiers so as to provide an amplified signal while limiting the ripple voltage on the inductor and thus limiting the maximum voltage imposed across the amplifiers and switches.

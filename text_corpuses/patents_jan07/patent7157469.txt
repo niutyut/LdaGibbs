@@ -1,0 +1,7 @@
+title: Inhibitors of macrophage migration inhibitory factor and methods for identifying the same
+
+abstract: 
+Inhibitors of MIF are provided which have utility in the treatment of a variety of disorders, including the treatment of pathological conditions associated with MIF activity. The inhibitors of MIF have the following structures:
+
+
+including stereoisomers, prodrugs and pharmaceutically acceptable salts thereof, wherein n, R, R, R, R, X, Y and Z are as defined herein. Compositions containing an inhibitor of MIF in combination with a pharmaceutically acceptable carrier are also provided, as well as methods for use of the same.

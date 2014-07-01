@@ -1,0 +1,4 @@
+title: Machine for removing articles deposited on the ground
+
+abstract: 
+A machine for removing articles such as debris and the like deposited on a tract of ground, comprising a wheel unit; a support frame mounted on said wheel unit, having means for advancing said machine along said tract of ground; a endless conveyor mounted on said support frame, having a plurality of tines projecting from an outer side thereof and a flight extending from a front end adjacent ground level, upwardly and inwardly to an elevated rear end; a receptacle mounted on said support frame, positioned to receive articles removed by said tines and carried upwardly and rearwardly on said conveyor and discharged into said receptacle, and having a set of tines cooperable with said conveyor tines to dislodge articles carried by said conveyor tines; and means mounted on said support frame for driving said conveyor.

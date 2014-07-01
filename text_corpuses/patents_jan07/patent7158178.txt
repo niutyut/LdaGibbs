@@ -1,0 +1,4 @@
+title: Method of converting a sub-sampled color image
+
+abstract: 
+A method of converting from a sub-sampled color image in a first color space format to a full color image in a second color space format includes the following. A sub-sampled color image in a first color space format is transformed to a second color space format. At least one color plane of the transformed image is upscaled, the one color plane corresponding to one of the color space dimensions of the second color space format, to provide the full color image in the second color space format. Of course, many other embodiments other than the preceding embodiment are also within the scope of the present invention.

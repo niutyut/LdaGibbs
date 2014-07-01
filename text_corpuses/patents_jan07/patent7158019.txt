@@ -1,0 +1,4 @@
+title: Integrated LED warning and vehicle lamp
+
+abstract: 
+An integrated LED warning and vehicle lamp according to aspects of the present invention has a base configured to directly replace an existing vehicle lamp by reception into the lamp's reflector shell. The integrated warning and vehicle lamp includes a first radial array of LEDs dedicated to producing the vehicle warning and/or illumination formerly produced by the vehicle lamp and a second radial array of LEDs dedicated to producing an emergency warning light signal. The second radial array may be electrically connected to an axial LED. The LEDs are supported by a lamp support at a location near the focus of the reflector shell. An interface electrical circuit modifies the electrical energy formerly fed to the vehicle lamp to a form appropriate for the LEDs in the first array. A warning signal electrical circuit energizes the second array of LEDs to produce the emergency warning light signal.

@@ -1,0 +1,4 @@
+title: Semiconductor memory device and array internal power voltage generating method thereof
+
+abstract: 
+Method and apparatus for use with internal array voltage generators in semiconductor memory devices are disclosed. In one described embodiment, an overdriving level control circuit is used to generate an overdriving control signal for an internal array voltage generator driver, just prior to a sensing operation. The overdriving level control circuit uses a cell modeling circuit to estimate, just prior to the sensing operation, a current requirement for the sensing operation, and an amplifier to generate the overdriving control signal in response to the estimated current requirement. Such a design allows the amount of overdrive signal to track process, voltage, and temperature changes, for example, to provide an accurate overdrive that allows the internal array voltage to remain stable. Other embodiments are described and claimed.

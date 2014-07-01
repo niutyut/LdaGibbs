@@ -1,0 +1,4 @@
+title: High throughput assays for the proteolytic activities of clostridial neurotoxins
+
+abstract: 
+In this application is described substrates for high-throughput assays of clostridial neurotoxin proteolytic activities. Two types of substrates are described for use in assays for the proteolytic activities of clostridial neurotoxins: (1) modified peptides or proteins that can serve as FRET substrates and (2) modified peptides or proteins that can serve as immobilized substrates. In both types a fluorescent molecules is present in the substrate, eliminating the requirement for the addition of a fluorigenic reagent. The assays described can be readily adapted for use in automated or robotic systems.

@@ -1,0 +1,4 @@
+title: Temperature independent reference voltage generator
+
+abstract: 
+There is provided a reference voltage generator that generates a constant reference voltage regardless of a change in temperature. The reference voltage generator includes a temperature-compensated current generating part for reducing a supply current provided to an output terminal in response to an increase of temperature, and a diode for receiving the supply current through the output terminal.

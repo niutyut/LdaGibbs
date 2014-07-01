@@ -1,0 +1,4 @@
+title: Fabrication of thin film germanium infrared sensor by bonding to silicon wafer
+
+abstract: 
+A method of fabricating a thin film germanium photodetector includes preparing a silicon substrate; fabricating a CMOS device on the silicon substrate; preparing a germanium substrate; preparing surfaces of each substrate for bonding; bonding the germanium substrate to the CMOS-bearing silicon substrate to form a bonded structure; removing a portion of the germanium substrate from the bonded structure; forming a PIN diode in the germanium substrate; removing a portion of the germanium layer by etching; and completing the germanium photo detector.

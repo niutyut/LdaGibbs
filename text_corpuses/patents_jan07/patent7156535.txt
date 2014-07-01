@@ -1,0 +1,4 @@
+title: Motion activated decorative light
+
+abstract: 
+Described is an apparatus for a motion activated decorative light connectable to a predetermined article. A housing connects the light to the article. A power source is positioned within the housing for energizing a light source. A switch is connected to the power source and to the light source so as to energize the light source responsive to motion. The housing comprises a material which allows light from the light source to shine through so that it may be seen by a person observing the moving vehicle, and preferably includes a fluorescent material excited by an LED which emits ultraviolet light. The light may comprise an ornamental shape for forming a visually perceptible light image when the light source is energized.

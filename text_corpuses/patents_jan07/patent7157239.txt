@@ -1,0 +1,4 @@
+title: Method and kit for identifying and/or quantifying radiolabeled aminoglycoside binding molecules
+
+abstract: 
+The present invention describes novel methods, assays and kits for identifying and/or quantifying Aminoglycoside Binding Molecules (ABMs), enzymes modifying such molecules, and compounds modulating the interaction between ABMs and either enzymes or aminoglycosides, by exploiting the scintillation proximity effect. The invention, which makes use of aminoglycoside-coated scintillating supports, can be adapted to high throughput screening formats.

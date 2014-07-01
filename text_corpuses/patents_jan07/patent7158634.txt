@@ -1,0 +1,4 @@
+title: Portable electronic devices
+
+abstract: 
+A portable electronic device () has a cover part () carrying a display () connected to a base part () carrying a keyboard () by means of a hinge arrangement (). The cover part can move relatively to the base part from a closed configuration to an open configuration. The hinge arrangement comprises a plurality of elongate connecting elements () connected at one end to the cover part and at another end to the base part. Each connecting element is relatively moveable about a first axis of rotation () with respect to the cover part and relatively moveable about a second axis of rotation () with respect to the base part. In moving from the closed configuration to the open configuration, the cover part is able to rotate about the first axis of rotation and move about the second axis of rotation.

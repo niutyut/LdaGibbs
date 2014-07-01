@@ -1,0 +1,4 @@
+title: Media separating apparatus and method
+
+abstract: 
+An apparatus for separating a stock of semi-compliant material into discrete portions or tags includes a housing having a drive mechanism disposed therein for bending a portion of the semi-compliant material in a first direction thus forming a line of weakening along the material. The drive mechanism subsequently bends the portion of the material in a second direction, which causes the tag to separate from the remaining material along the line of weakening. The present disclosure also includes a method of separating a semi-compliant material into discrete portions or tags which includes the steps of: a) feeding the material into a drive mechanism; b) bending a portion of the material in a first direction thus forming a line of weakening along the material; and c) bending a portion of the material in a second direction thus separating the portion from the remaining material along the line of weakening

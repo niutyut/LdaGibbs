@@ -1,0 +1,4 @@
+title: Constructs for gene expression analysis
+
+abstract: 
+The present invention relates generally to constructs and their use in gene expression or gene regulation assays. More particularly, the present invention provides expression vectors and/or reporter vectors providing kinetics of protein expression with improved temporal correlation to promoter activity. Even more particularly, the invention provides expression vectors comprising a transcribable polynucleotide which comprises a sequence of nucleotides encoding a RNA element that modulates the stability of a transcript corresponding to the transcribable polynucleotide. The present invention provides, inter alia, novel vectors, useful for identifying and analysing cis- and trans-acting regulatory sequences/factors as well as vectors and genetically modified cell lines or organisms that are particularly useful for drug screening and drug discovery.

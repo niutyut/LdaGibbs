@@ -1,0 +1,4 @@
+title: Television tuner in which influence from analog signals is suppressed when receiving digital signals
+
+abstract: 
+A high frequency amplifier for amplifying inputted television signals; a mixer for subjecting the television signals which have been amplified to frequency conversion into intermediate frequency signals; a SAW filter for selecting, out of the intermediate frequency signals, intra-range intermediate frequency signals emerging in a range within a prescribed intermediate frequency band; and an intermediate frequency amplifier for amplifying the intra-range intermediate frequency signals are provided, and wide band detecting means for detecting the intermediate frequency signals inputted to the SAW filter and generating a first AGC voltage is provided to control a gain of the high frequency amplifier with the first AGC voltage.

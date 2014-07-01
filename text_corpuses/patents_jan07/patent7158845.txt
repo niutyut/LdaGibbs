@@ -1,0 +1,4 @@
+title: Man-machine interface for monitoring and controlling a process
+
+abstract: 
+A process monitoring system () for monitoring a plasma processing system. The process monitoring system () includes a plurality of processing subsystems (), and a control system () coupled to the processing subsystems (). The control system () is configured to receive monitor data from the processing subsystems () and send control data to the processing subsystems (). The process monitoring system () also includes an external interface () coupled to the control system (), where the external interface () includes a paging system. The process monitoring system further includes a man-machine interface (MMI) coupled to the control system (). The MMI is configured to display the monitor data, display the control data, and access the paging system.

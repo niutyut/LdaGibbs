@@ -1,0 +1,4 @@
+title: Implantable cardioverter defibrillator with leakage detection and prevention system
+
+abstract: 
+A leakage detection system for use in an implantable cardiac stimulation device, such as an implantable cardioverter defibrillator. The leakage detection system employs one or more switches capable of disconnecting leaky electronic components from the power cell of the stimulation device, and of measuring electric currents to various components of this device. The leakage detection system includes a plurality of switches that are connected between selected components of the ICD, such as high-voltage capacitors, and the power cell. The switches can be selectively activated to disconnect the leaky or faulty components from the power cell, thereby preventing leakages from these components.

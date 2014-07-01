@@ -1,0 +1,4 @@
+title: Device for warhead charges for cargo ammunition units
+
+abstract: 
+A warhead charge device () arranged to carry liquid explosive (), and which device is for use in an ammunition cargo unit such as a missile. The device incorporates at least two confined spaces () equipped with or, while the function of the device is in operation, capable of receiving liquid explosive () or components thereof via a device such as a pump device arranged to transfer completely or partially the explosive or components thereof from at least the first confined space to the other confined space, or vice versa.

@@ -1,0 +1,4 @@
+title: Enhancement of membrane characteristics in semiconductor device with membrane
+
+abstract: 
+A semiconductor device having a membrane includes a semiconductor substrate, which has an active surface, and a membrane. A cavity is located between the active surface and the membrane and hermetically sealed. The membrane includes a first film, which has a through hole that extends through the first film, and a second film, which has been formed by reflowing a reflow layer made of a material that becomes viscous and reflows when heated. The through hole has been plugged by the second film.

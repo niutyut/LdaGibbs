@@ -1,0 +1,4 @@
+title: Silicon optoelectronic device and optical signal input and/or output apparatus using the same
+
+abstract: 
+A silicon optoelectronic device and an optical transceiver, wherein the silicon optoelectronic device includes an n- or p-type silicon-based substrate and a doped region formed in a first surface of the substrate and doped to an opposite type from that of the substrate. The doped region provides photoelectrical conversion. The silicon optoelectronic device includes a light-emitting device section and a light-receiving device section. These sections use the doped region in common and are formed in the first surface of the substrate. The silicon optoelectronic device has an internal amplifying circuit, can selectively perform emission and detection of light, and can control the duration of emission and detection of light.

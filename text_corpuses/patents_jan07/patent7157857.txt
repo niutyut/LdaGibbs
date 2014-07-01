@@ -1,0 +1,4 @@
+title: Stabilizing plasma and generator interactions
+
+abstract: 
+An approach for stabilizing the interactions between a plasma and the generator powering the plasma is provided. Reactive elements disposed between the power generator and plasma operate to modify the apparent impedance characteristics of the plasma such that the trajectory of the plasma load impedance as a function of power is substantially aligned locally with the contours of constant power output in impedance space. In this way, instabilities in the generator and plasma system are avoided because reinforcement or amplification of fluctuations in plasma impedance due to interactions between the generator and the plasma are reduced or eliminated. The reactive elements may be variable in order to align plasma trajectories and generator power contours under a range of process conditions.

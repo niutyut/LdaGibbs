@@ -1,0 +1,4 @@
+title: Clock data recovery method and circuit for network communication
+
+abstract: 
+Embodiments of the present invention relate to a method for recovering the clock and data signals in a transmitted data signal In a computer network. The method comprises accessing a transmitted a data signal at a receiver in the network, locking the receiver on a data signal transmission frequency, then locking the receiver on a data signal transition phase in the transmitted data signal and adjusting the signal transition phase locking by reference to the transition density of the transmitted data signal. Embodiments adjust the transition phase locking by adjusting the tail current of a Gm cell in a phase locked loop in the receiver, based on the received data signal transition density.

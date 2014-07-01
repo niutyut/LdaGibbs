@@ -1,0 +1,4 @@
+title: Device structure having enhanced surface adhesion and failure mode analysis
+
+abstract: 
+A substrate is provided having semiconductor device structures formed in and on the substrate. The semiconductor device structures comprise conductor layers embedded in openings in dielectric layers having a dielectric constant of less than 4.5. The dielectric layer has a roughness between the dielectric and the conductor wherein the roughness of the dielectric layer divided by the thickness of a barrier layer underlying the conductor layer is 0 to 1. The integrated circuit structure is prepared for failure analysis by removing the low dielectric constant dielectric layers and exposing the conductor layers for further failure analysis by optical examination or scanning electron microscope (SEM).

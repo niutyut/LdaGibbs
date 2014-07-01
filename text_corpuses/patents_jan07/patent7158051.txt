@@ -1,0 +1,4 @@
+title: Lane changing assist system for an automotive vehicle
+
+abstract: 
+A host vehicle system includes a lane change system providing an indication to the host vehicle a target vehicle entering a destination lane. The system includes arrays of magneto-resistive sensors on both sides of the vehicle receiving proximity information as a function of magnetic field variations, a vehicle bus receiving various vehicle control signals, a smart algorithm controller analyzing bus signals and sensor signals, and various vehicle collision systems such as passive restraints, optical light guides, and audible warnings operating in response to a threat from a target vehicle.

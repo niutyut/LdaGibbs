@@ -1,0 +1,4 @@
+title: System and methods for a high-speed dynamic data bus
+
+abstract: 
+A method for driving a data signal across a data bus consists of charging the data bus to a first voltage level prior to driving the signal, maintaining the data bus at the first voltage level when a first type of data signal is to be driven, and pulling the data bus to a second voltage level when a second type of data signal is to be driven. A system for driving a data signal consists of a data bus, a charging circuit coupled to the data bus configured to charge the data bus to a first voltage level, a keeper circuit coupled to the data bus configured to maintain the data bus at the first voltage level after the charging circuit has charged the data bus, and a pull-down circuit coupled to the data bus configured to pull the data bus to a second voltage level.

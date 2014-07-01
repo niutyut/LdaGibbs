@@ -1,0 +1,4 @@
+title: Spoke permanent magnet rotor
+
+abstract: 
+A spoke permanent magnet rotor that includes a shaft defining a rotor axis. A first non-magnetic end portion is coupled to the shaft and a ferromagnetic pole piece defines an aperture therethrough. A second non-magnetic end portion is positioned to dispose the pole piece between the first end portion and the second end portion. A portion of one of the first end portion and the second end portion extends through the aperture and bonds with the other of the first end portion and the second end portion.

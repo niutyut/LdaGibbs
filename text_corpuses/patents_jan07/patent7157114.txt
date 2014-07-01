@@ -1,0 +1,4 @@
+title: Platinum coating process
+
+abstract: 
+A process for depositing pure platinum on a substrate is disclosed. In accordance with one embodiment, the process comprises applying a solution consisting of Pt(acetylacetonate)and ethanol or acetone onto a substrate and wrapping at least a portion of the substrate with aluminum foil. The process further comprises heating the substrate wrapped with the aluminum foil to about 300? C. at a rate of about 10?25? C. per minute and then holding at about 300? C. for about 1 hour, wherein the Pt(acetylacetonate)decomposes to deposit pure platinum on the substrate.

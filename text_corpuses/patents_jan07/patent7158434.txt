@@ -1,0 +1,4 @@
+title: Self-refresh circuit with optimized power consumption
+
+abstract: 
+A random access memory device has a memory array, and a refresh rate generator circuit. The memory array has a plurality of memory cells that are configured to hold a charge. The memory array has an active mode and a standby mode. The refresh rate generator circuit is coupled to the memory array and is configured to generate a refresh signal having a rate. The refresh signal is used to periodically refresh the memory cells. The memory device detects when the memory array changes from its standby mode to its active mode and then increases the rate of the refresh signal when the memory array changes from its standby mode to its active mode.

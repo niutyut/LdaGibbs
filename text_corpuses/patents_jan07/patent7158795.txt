@@ -1,0 +1,4 @@
+title: Dummy PCH block detection for power saving in GSM handset
+
+abstract: 
+One of the common channels of the GSM system is the paging channel (PCH) for alerting the mobile station of an incoming call. The PCH message is scattered among four bursts as a result of coding, interleaving, and mapping processes before transmission. It is a waste of power for a handset to turn on and analyze all four bursts if the PCH message is a dummy one. Ideally, a handset needs to be able to make a determination whether a PCH message is a dummy one in as short of a time as possible and, if it is, turn off the power. Embodiments of this invention include methods and apparatus for enabling a handset to make this determination by merely analyzing the first received burst. Since most of the PCH messages are dummy ones, the proposed methods will cause noticeable savings in the power consumption of the GSM handsets.

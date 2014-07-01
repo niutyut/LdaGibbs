@@ -1,0 +1,4 @@
+title: Cultured cells from pancreatic islets
+
+abstract: 
+A cell composition of endocrine progenitor cells derived from mammalian pancreatic islet cells that can be trans-planted into a diabetic patient such that the cells of the cell composition differentiates into functioning insulin-producing beta cells.

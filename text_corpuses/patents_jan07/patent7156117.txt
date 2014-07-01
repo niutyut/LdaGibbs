@@ -1,0 +1,4 @@
+title: Method of controlling the movement of fluid through a microfluidic circuit using an array of triggerable passive valves
+
+abstract: 
+The present invention is directed to methods of controlling the flow of fluids through a microfluidic circuit and, more particularly, to methods of controlling the movement of fluid through a microfluidic circuit using one or more triggerable passive valves. In one embodiment of a method of controlling the flow of fluids through a microfluidic circuit according to the present invention, the microfluidic circuit includes a triggerable valve in series with a passive valve. In a further embodiment of a method of controlling the flow of fluids through a microfluidic circuit according to the present invention, the microfluidic circuit includes first and second triggerable valves in parallel.

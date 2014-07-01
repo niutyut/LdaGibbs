@@ -1,0 +1,4 @@
+title: Offset diecut stack
+
+abstract: 
+A stack of alternating sheets includes repeating diecuts offset among the sheets. The sheets may be made from a continuous web using a die to cut the repeating diecuts along the running axis of the web. Individual sheets are cut from the web and stacked with the diecuts offset from each other in turn. The stack of sheets may be loaded into a printer and fed individually therethrough, with the offset diecuts preventing interlocking therebetween.

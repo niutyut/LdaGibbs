@@ -1,0 +1,4 @@
+title: Portable information processing system
+
+abstract: 
+To provide a portable information processing system with which downsizing and increase in display capacity may be realized. The portable information processing system according to the present invention displays, on an HMD (head mount display) worn by a user on his or her head, an image displayed on a display portion of a portable information terminal. The system employs wireless information transmitting/receiving means such as infrarer-ray data communication or data communication by radio wave to transmit and receive information between the portable information terminal and the HMD.

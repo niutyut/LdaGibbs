@@ -1,0 +1,4 @@
+title: Electric heating device
+
+abstract: 
+An electric heating device especially for fluids, such as liquid fuel, includes a heat element with an electrical resistance. The heat element can be connected to an electrical power source and also includes a carrier element to which en electrically conductive heat layer of a PTC material with positive temperature resistance co-efficient is applied. The heat layer can, at least in two interspaced positions, be connected to the electrical power source.

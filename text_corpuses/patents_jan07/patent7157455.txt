@@ -1,0 +1,4 @@
+title: 4-Aminopyrimidine-5-one derivatives
+
+abstract: 
+Novel 4-aminopyrimidine-5-one derivatives are disclosed. These compounds inhibit cyclin-dependent kinases, in particular cyclin-dependent kinase 4 (Cdk4). These compounds and their pharmaceutically acceptable salts and esters have antiproliferative activity and are useful in the treatment or control of cancer, in particular solid tumors. This invention is also directed to pharmaceutical compositions containing such compounds and to methods of treating or controlling cancer, most particularly the treatment or control of breast, lung, colon and prostate tumors. Also disclosed are intermediates useful in the preparation of these novel 4-aminopyrimidine-5-one derivatives.

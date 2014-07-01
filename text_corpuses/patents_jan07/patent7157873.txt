@@ -1,0 +1,4 @@
+title: Systems and methods for reducing torque disturbance in devices having an endless belt
+
+abstract: 
+A system for reducing torque disturbance includes a motor mechanically coupled to an endless belt. The motor is operable to drive the belt, and the belt has a seam that causes a torque disturbance to the system. The system includes a data structure having a set of values that indicates an amount of compensation for reducing the torque disturbance and a controller electrically coupled with the motor. The controller is configured to control the motor and reduce the torque disturbance based on the set of values in the data structure.

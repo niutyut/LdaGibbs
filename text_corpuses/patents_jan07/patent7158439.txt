@@ -1,0 +1,4 @@
+title: Memory and driving method of the same
+
+abstract: 
+A memory having a bit line, a word line crossing the bit line, a memory cell electrically connected to the bit line and to the word line, a column decoder and a selector including a clocked inverter having a plurality of transistors electrically connected in series between a first power source and a second power source is provided. An input node of the clocked inverter is connected to the bit line, an output node of the clocked inverter is electrically connected to a data line, the plurality of transistors comprise a P-type transistor and a N-type transistor, a gate electrode of the P-type transistor and a gate electrode of the N-type transistor are electrically connected to the column decoder, and a sense amplifier is not interposed between the bit line and the input node of the clocked inverter.

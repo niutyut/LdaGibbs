@@ -1,0 +1,13 @@
+title: Vla-4 inhibitors
+
+abstract: 
+The present invention relates to a compound represented by the following formula (I):
+
+
+(wherein, W represents W-A-W- (in which, Wis substituted or unsubstituted aryl, etc., Ais ?NR?, single bond, ?C(O)?, etc., and Wis substituted or unsubstituted arylene, etc.), R is single bond, ?NH?, ?OCH?, alkenylene, etc., X is ?C(O)?, ?CH?, etc., and M is, for example, the following formula:
+
+
+
+(in which, R, Rand Reach independently represents hydrogen, hydroxyl, amino, halogen, etc., Ris hydrogen or lower alkyl, Y represents ?CH?O?, etc., Z is substituted or unsubstituted arylene, etc., Ais single bond, etc, and Ris hydroxyl or lower alkoxy)), or salt thereof; and a medicament containing the same.
+
+This compound or salt thereof selectively inhibits binding of cell adhesion molecules to VLA-4 and exhibits high bioavailability so that it is useful as a preventive and/or remedy for inflammatory diseases, autoimmune diseases, metastasis, bronchial asthma, rhinostenosis, diabetes, and the like.

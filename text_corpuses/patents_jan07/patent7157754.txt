@@ -1,0 +1,4 @@
+title: Solid-state imaging device and interline transfer CCD image sensor
+
+abstract: 
+A high-performance solid-state imaging device is provided. The solid-state imaging device includes: a plurality of pixel cells; and a driving unit. Each of the plurality of pixel cells includes: a photodiode that converts incident light into a signal charge and stores the signal charge; a MOS transistor that is provided for reading out the signal charge stored in the photodiode; an element isolation portion that is formed of a STI that is a grooved portion of the semiconductor substrate so that the photodiode and the MOS transistor are isolated from each other; and a deep-portion isolation implantation layer that is formed under the element isolation portion for preventing a flow of a charge from the photodiode to the MOS transistor.

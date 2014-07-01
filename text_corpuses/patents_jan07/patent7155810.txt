@@ -1,0 +1,4 @@
+title: Method for fabricating a magnetic head
+
+abstract: 
+A GMR read head for a magnetic head, in which the hard bias layers are fabricated immediately next to the side edges of the free magnetic layer, and such that the midplane of the hard bias layer and the midplane of the free magnetic layer are approximately coplanar. The positioning of the hard bias layer is achieved by depositing a thick hard bias seed layer, followed by an ion milling step is to remove seed layer sidewall deposits. Thereafter, the hard bias layer is deposited on top of the thick seed layer. Alternatively, a first portion of the hard bias seed layer is deposited, followed by an ion milling step to remove sidewall deposits. A thin second portion of the seed layer is next deposited, and the hard bias layer is then deposited.

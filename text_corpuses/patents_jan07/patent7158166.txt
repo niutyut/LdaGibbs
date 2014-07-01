@@ -1,0 +1,4 @@
+title: Optical printer head having liquid crystal shutter
+
+abstract: 
+A leaf spring () and adjusting screws () are arranged in opposite positions on the inner wall surface of a liquid crystal shutter housing recess () that is formed in a frame body () of an optical printer head (). The position and posture of the liquid crystal shutter () in the liquid crystal shutter housing recess () is adjusted with respect to an opening () of the frame body () by turning the adjusting screws ().

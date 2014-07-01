@@ -1,0 +1,4 @@
+title: Flash memory having a high-permittivity tunnel dielectric
+
+abstract: 
+A high permittivity tunneling dielectric is used in a flash memory cell to provide greater tunneling current into the floating gate with smaller gate voltages. The flash memory cell has a substrate with source/drain regions. The high-k tunneling dielectric is formed above the substrate. The high-k tunneling dielectric can be deposited using evaporation techniques or atomic layer deposition techniques. The floating gate is formed on top of the high-k dielectric layer with an oxide gate insulator on top of that. A polysilicon control gate is formed on the top gate insulator.

@@ -1,0 +1,4 @@
+title: Method and apparatus for playing a combination football/basketball game
+
+abstract: 
+A combined football/basketball game is provided. In the game, initially an offensive team attempts to score a touchdown against a defensive team pursuant to an American rules football style of game play. When the offensive team scores a touchdown, the mode of game play shifts to a basketball-mode in which the offensive team attempts to make a basketball shot to score additional points against the defensive team. When the ball is controlled by the defensive team during basketball mode, i.e., after a missed shot or a made shot by the offensive team, the defensive team becomes the offensive team and attempts to score a touchdown in football mode. The game continues in this manner until the end of the time allotted for playing the game.

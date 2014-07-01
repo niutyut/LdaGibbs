@@ -1,0 +1,4 @@
+title: Method and apparatus for content distribution via non-homogeneous access networks
+
+abstract: 
+A method and apparatus for streaming content to an access network in an interactive information distribution system. The method encapsulates the content in accordance to an Internet Protocol (IP). The content is then transcoded into a format supported by the access network, and streamed over a distribution network to a remote server or to a subscriber terminal that is coupled to the access network. The apparatus is embodied as stream caching server for streaming the content encapsulated within the IP packet to access networks via a stream distribution network in response to a request for content. A packet processor is coupled to the stream server for processing the encapsulated content within the IP packets into a format native to the access network.

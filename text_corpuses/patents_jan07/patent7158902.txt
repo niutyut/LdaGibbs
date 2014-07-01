@@ -1,0 +1,4 @@
+title: Process parameter based I/O timing programmability using electrical fuse elements
+
+abstract: 
+Electrical fuses (eFuses) are applied to the task of achieving very tightly controlled Input-Output (I/O) timing specifications. The I/O timing is made programmable and subject to adjustment as part of wafer probe testing. The techniques of parametric adjustment presented are based upon what is commonly referred to as clock skewing or clock tuning. The invention describes methods to select the clock skewing on a die-to-die basis based on functional testing with the actual parametric limits imposed on parameters of interest. The results associated with each die form the basis for hard-programming the selected clock skew value into the die via electrical fuses.

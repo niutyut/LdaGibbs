@@ -1,0 +1,4 @@
+title: Remote monitoring system
+
+abstract: 
+A remote monitoring system including a sub-system, local to a nuclear power plant and a remote sub-system at an operations base. Process data is collected manually by a hand-held computer and automatically by instrumentation on the power plant. The data collected is stored on a storage device before being transmitted via a communication link to a remote computer. The remote computer runs data analysis and diagnostic simulations on the process data from the power plant to predict future events.

@@ -1,0 +1,4 @@
+title: Optical disc, a recorder, a player, a recording method, and a reproducing method that are all used for the optical disc
+
+abstract: 
+A video object is recorded on an optical disc. The video object comprises at least one video object unit, and each video object unit contains control information and video data and has a presentation time of one second or shorter. The control information relates to display control and copying control for the video object unit.

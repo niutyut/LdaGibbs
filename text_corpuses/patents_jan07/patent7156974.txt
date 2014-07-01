@@ -1,0 +1,4 @@
+title: Method of manufacturing titanium and titanium alloy products
+
+abstract: 
+A method of manufacturing titanium or titanium alloy semi-finished or ready-to-use products is disclosed. The method includes forming shaped bodies of titanium oxide particles and positioning the shaped bodies is an electrolytic cell which includes: an anode, a cathode, and a molten electrolyte. The shaped bodies are positioned to form at least a part of the cathode. The electrolyte includes cations of a metal that is capable of chemically reducing titanium oxide. The method further includes reducing the titanium oxide to titanium in a solid state in the electrolytic cell so that the shaped bodies become shaped bodies of titanium sponge. Finally, the method includes processing the shaped bodies of titanium sponge to reduce the volume or at least one of the dimensions of the bodies thereby to form the semi-finished or ready-to-use products.

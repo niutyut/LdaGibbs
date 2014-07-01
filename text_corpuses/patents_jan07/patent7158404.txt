@@ -1,0 +1,4 @@
+title: Power management circuit and memory cell
+
+abstract: 
+A circuit for power management of a memory cell. A first power switch is coupled between a power voltage, the power control signal and the memory cell. The first power switch is turned off to disconnect the power voltage and the memory cell when the power control signal is at a predetermined level, such that the memory cell operates in standby mode. A latch circuit is coupled between the power voltage, the first terminal and the second terminal to preserve the voltage levels respectively of the first terminal and the second terminal when the memory cell operates in the standby mode.

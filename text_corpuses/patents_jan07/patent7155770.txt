@@ -1,0 +1,4 @@
+title: Cleaning implement having a scraper and a pivoting squeegee with broom
+
+abstract: 
+A tool for removing ice, snow and other debris from a vehicle or other surface has an extension handle with telescoping ends. On one end of the handle there is an oblong head carrying a broom on one surface and a squeegee on the opposite surface. The head is rotatably mounted on the handle to provide both a linear cleaning motion and an arcuate motion. On the other end of the handle is a bifurcated extension carrying a scraper and a toothed cutter.

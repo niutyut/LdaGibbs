@@ -1,0 +1,4 @@
+title: Multilayer optical recording medium, method for recording data, and recorder
+
+abstract: 
+A write-once or rewritable multilayer optical recording medium according to the present invention includes an L recording layer and an L recording layer, in which data recording areas for recording data are respectively formed, laminated on one surface of a base, wherein a read-in area for recording the data management information of all the data recorded in the respective data recording areas of the L recording layer and the Lrecording layer is formed only in the L recording layer. This means that the data management information of all the data can be read out quickly by simply accessing the L recording layer and the recording and reading of the data can be executed quickly and easily.

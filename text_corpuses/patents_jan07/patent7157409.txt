@@ -1,0 +1,4 @@
+title: Surfactant-polymer compositions for enhancing the stability of viscoelastic-surfactant based fluid
+
+abstract: 
+Compositions for increasing the thermal and pressure stability of well fluids viscosified using viscoelastic surfactants, the compositions including an effective amount of an oligomeric or polymeric compound that has a thermally stable backbone structure and at least one pendent viscoelastic surfactant functional group. Preferred compositions for increasing the stability of well fluids viscosified using monomeric viscoelastic surfactants include an effective amount of an oligomeric or polymeric compound that has a thermally stable backbone structure and a multiplicity of pendent viscoelastic surfactant functional groups attached to said backbone structure through relatively long hydrocarbon chains, 1 to 18 carbons in length.

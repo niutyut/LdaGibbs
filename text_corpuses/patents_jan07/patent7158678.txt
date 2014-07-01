@@ -1,0 +1,4 @@
+title: Text input method for personal digital assistants and the like
+
+abstract: 
+A handheld device  with a graphical user interface for entering handwritten text . The handheld device includes word and character input areas  within a designated input area . Icons  and  are disposed at the right side of the handwriting user interface . A scroll bar  may be disposed at the right side of the interface display . An entry that begins in the word input area  is treated as a handwritten word. A handwritten entry that begins in the character input area  is treated as a single character and may be one character in character string. Handwritten character entries are each matched against all potential characters.

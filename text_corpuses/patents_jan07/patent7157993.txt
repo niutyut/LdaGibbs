@@ -1,0 +1,4 @@
+title: 1:N MEM switch module
+
+abstract: 
+A 1:N MEM switch module comprises N MEM switches fabricated on a common substrate, each of which has input and output contacts and a movable contact which bridges the input and output contacts when the switch is actuated. The input contacts are connected to a common input node, and the output contacts are connected to respective output lines. Each output line has an associated inductance and effective capacitance, and is arranged such that its inductance is matched to its effective capacitance. The switches are preferably arranged symmetrically about the terminus point of the signal input line. A phase shifter employs at least two switch modules connected together with N transmission lines having different lengths, operated such that an input signal is routed via one of the transmission lines to effect a desired phase-shift.

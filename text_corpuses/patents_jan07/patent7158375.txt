@@ -1,0 +1,4 @@
+title: Portable computer system
+
+abstract: 
+Due to the limited capacity of secondary batteries, the operating period of notebooks is short. A fuel cell () in connection with a hydride storage unit allows for significantly longer periods of operation. The arrangement of the fuel cell () within a display unit () allows for the flexible use of the traditionally two module installation bays () of the main unit () of a portable computer system. Even if one of the module installation bays is occupied by one of the insertable hydride storage tanks in the form of a module, another module installation bay () is available to the user for insertion of drives, such as CD-ROM. The flat arrangement of the fuel cell () in the display unit () folded open into a vertical position ensures a high efficiency of the fuel cell ().

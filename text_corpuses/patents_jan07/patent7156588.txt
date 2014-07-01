@@ -1,0 +1,4 @@
+title: Cutting head for rotary cutting tool
+
+abstract: 
+A cutting head for a rotating cutting tool for metal cutting operations. The cutting head has an axially adjustable cartridge which is an integral single piece. A slit divides the cartridge into a clamping portion and a main body portion, the clamping portion being resiliently connected to the main body portion. An insert pocket for retaining a cutting insert is formed by a widening of the slit so that the cutting insert is securely retained in the insert pocket between the main body portion and the clamping portion.

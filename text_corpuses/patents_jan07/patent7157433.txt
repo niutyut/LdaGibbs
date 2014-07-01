@@ -1,0 +1,7 @@
+title: Compounds, compositions as carriers for steroid/nonsteroid anti-inflammatory; antienoplastic and antiviral active molecules
+
+abstract: 
+The present invention relates (a) to new compounds represented by Formula I:
+
+
+wherein M represents a macrolide subunit (macrolide moiety) derived from macrolide possessing the property of accumulation in inflammatory cells, V represents an anti-inflammatory steroid or nonsteroid subunit, or an antineoplastic or antiviral subunit and L represents a linking group covalently linking M and V; (b) to their pharmacologically acceptable salts, prodrugs and solvates, (c) to processes and intermediates for their preparation, and (d) to their use in the treatment of inflammatory/neoplastic/viral diseases and conditions in humans and animals.

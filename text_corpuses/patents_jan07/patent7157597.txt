@@ -1,0 +1,4 @@
+title: Heterogeneously catalyzed partial gas phase oxidation of acrolein to acrylic acid
+
+abstract: 
+In a process for heterogeneously catalyzed partial gas phase oxidation of acrolein to acrylic acid, the starting reaction gas mixture is oxidized over a fixed catalyst bed 1 which consists of at least two fixed catalyst bed zones and is accommodated in two successive temperature zones A, B, and the transition from temperature zone A to temperature zone B does not coincide with a transition from one fixed catalyst bed zone to another fixed catalyst bed zone.

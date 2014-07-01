@@ -1,0 +1,4 @@
+title: Consumer network diagnostic agent
+
+abstract: 
+A software tool and method are provided which allow an unsophisticated user to easily determine or identify problems in a networked computer system. The software tool comprises a diagnostic component adapted to determine at least one attribute associated with the computer system, and a user interface component adapted to launch the diagnostic component and to render the attribute to a user. The diagnostic component may obtain first information related to a local host computer, and selectively perform one or more tests associated with the local host computer according to the first information. The diagnostic component then determines the attribute according to the first information and/or the test results. A self-healing networked computer system is also disclosed, comprising the diagnostic component and a remedial object adapted to perform one or more remedial actions according to the attribute.

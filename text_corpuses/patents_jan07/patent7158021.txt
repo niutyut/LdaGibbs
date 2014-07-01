@@ -1,0 +1,4 @@
+title: Stigmergic sensor security system
+
+abstract: 
+A system and method for providing security utilizing stigmergic behavior. A plurality of sensors is adapted to communicate with one another. Each sensor may be elevated from a stable state corresponding with a secure environment into an elevated state corresponding with a first detection event. Each sensor after detecting a first detection event communicates with another sensor in order to elevate the other sensor into the elevated state. An alarm signal is generated in response to one or more second detection events subsequently occurring within the security system.

@@ -1,0 +1,4 @@
+title: Apparatus for fabricating semiconductor device using plasma
+
+abstract: 
+Provided is an apparatus for fabricating a semiconductor device using plasma, whereby a semiconductor device fabricating process using plasma provides significantly greater uniformity. The apparatus includes a process chamber, a first electrode through which a radio frequency (RF) power is supplied into the process chamber, a second electrode having a semiconductor substrate placed thereon, wherein the second electrode is disposed in the process chamber to face the first electrode and generates plasma used in fabricating a semiconductor device on the semiconductor substrate using the RF power, and a confinement ring assembly disposed between the first electrode and the second electrode, including a first confinement ring that moves in the vertical direction and a second confinement ring that surrounds the first confinement ring and moves in the vertical direction.

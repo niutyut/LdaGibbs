@@ -1,0 +1,4 @@
+title: Method of reducing charging damage to integrated circuits during semiconductor manufacturing
+
+abstract: 
+An integrated circuit die includes thereon a first device region, a second device region and a non-active region. A first implant mask, which covers the second device region and the non-active region, while exposing the first device region, is formed over the semiconductor substrate. Dopant species are implanted into the exposed semiconductor substrate within the first device region to form first doping regions therein. A second implant mask is formed over the semiconductor substrate. The second implant mask covers the first device region, while exposing the second device region and a portion of the non-active region. Dopant species are implanted into the exposed semiconductor substrate within the second device region to form second doping regions therein.

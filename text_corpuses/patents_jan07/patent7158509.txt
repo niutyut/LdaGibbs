@@ -1,0 +1,4 @@
+title: Apparatus and method for providing a secondary messaging system for a ToL communication system
+
+abstract: 
+An external or secondary messaging system is coupled to a ToL system for providing a temporary storage cache where messages may be left when elements of ToL system cannot be reached do to outage events. The secondary messaging system is located outside the area of the ToL system that may be subject to the outage event and hides the outage event from the caller (i.e., the caller leaves a message on a messaging system he or she believes the normal messaging system of the party called).

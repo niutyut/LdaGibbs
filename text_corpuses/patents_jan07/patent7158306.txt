@@ -1,0 +1,4 @@
+title: Light separator
+
+abstract: 
+A light separator splits polychromatic light into longer and shorter wavelength spectral bands. The light separator is defined between opposing side surfaces that are reflective to incident light and further has an input side for accepting the polychromatic light and an output side for providing the separated spectral bands. A first light guiding channel narrows as it extends from the input to the output side and lies between a first dichroic surface for reflecting longer wavelengths and transmitting shorter wavelengths and a first outer surface reflective to incident light. A second light guiding channel narrows as it extends from the input to the output side and lies between a second dichroic surface for reflecting shorter wavelengths and transmitting longer wavelengths and a second outer surface reflective to incident light. A portion of the light separator is common to both first and second light guiding channels.

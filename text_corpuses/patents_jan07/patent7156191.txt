@@ -1,0 +1,4 @@
+title: Motor and gearbox combination
+
+abstract: 
+The motor and gearbox combination is for use in a portable power tool having a motor section and a gearbox section. The motor section comprises a motor housing having a first end and an open second end, a first bearing supported at the first end of the motor housing, a stator fixed to the motor housing, a cap closing the open second end of the motor housing and supporting a second bearing and a motor shaft journalled at one end in the bearing and at the other end in the bearing, and a rotor mounted on the motor shaft in confrontation with the stator. The gearbox section comprises a gearbox housing accommodating a gear train and an output shaft. The cap is connected to the gearbox housing at or adjacent to the first end of the motor housing and encloses or substantially encloses the motor housing.

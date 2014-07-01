@@ -1,0 +1,4 @@
+title: Lithographic apparatus and device manufacturing method
+
+abstract: 
+A lithographic apparatus and method in which an illumination system supplies a projection beam, a patterning system imparts to the beam a pattern in its cross section, and a projection system projects the patterned beam onto a target portion of a substrate. The projection system comprises an array of lenses spaced from the substrate such that each lens in the array focuses part of the patterned beam onto the substrate. A displacement system causes displacement between the lens array and the substrate. A particle detector detects particles on the substrate which are approaching the lens array. A free working distance control system increases the spacing between the lens array and the substrate in response to detection of a particle. The lens array is moved away from the substrate as the detected particle passes the lens array. Thus damage to the lens array can be avoided.

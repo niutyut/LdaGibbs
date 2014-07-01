@@ -1,0 +1,4 @@
+title: Network method system and apparatus for recording and maintaining records
+
+abstract: 
+A computerized record keeping system and method using a network to keep records that cannot be erased by a user thereby guaranteeing the accuracy of records kept with the system. A client computer system contacts, through a computer network, a server system which stores a client database accessible by a password. The client system can review, search, and add records to the database. The client database on the server system is automatically backed-up to avoid inadvertent loss of records or data. Once a record is entered into the server system through the client system, it is permanently stored in the server system as a part of the client database. While a client system may enter a modified record, the original record is always maintained and displayed with the now modified record.

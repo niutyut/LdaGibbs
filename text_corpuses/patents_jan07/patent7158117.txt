@@ -1,0 +1,4 @@
+title: Coordinate input apparatus and control method thereof, coordinate input pointing tool, and program
+
+abstract: 
+The position coordinates of a coordinate input pen are calculated. The position coordinates are changed on the basis of, of the calculated position coordinates, predetermined coordinates related to the distance between the coordinate input surface and the coordinate input pen. The changed position coordinates are output.

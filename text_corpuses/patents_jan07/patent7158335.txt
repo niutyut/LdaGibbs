@@ -1,0 +1,4 @@
+title: Method for resonance identification in hard disk drives
+
+abstract: 
+A hard disk drive that redefines a notch filter of the drive. The update process may include initially disabling all notch filters and inducing a seek operation of the disk drive heads. A position error signal is read during a settling time of the seek operation and processed to determine the frequency of the signal. The frequency is selected as a resonant frequency if the error signal magnitude exceeds a threshold value. The notch filter is then redefined in accordance with the selected resonant frequency. The controller may also perform a routine to determine whether the resonant frequency is above or below a Nyquist frequency. Unlike prior art techniques, the method disclosed can obtain the resonant frequency without sweeping the excitation signal of the disk drive voice coil motor.

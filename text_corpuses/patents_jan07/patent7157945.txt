@@ -1,0 +1,4 @@
+title: Window comparator and method of providing a window comparator function
+
+abstract: 
+A window comparator comprising a single comparator circuit that has a positive input, a differential negative input, and an output, wherein limits of a window are defined by a reference voltage and a window condition is defined for a differential voltage between a positive input voltage and a negative input voltage so that the differential voltage is within the limits of the window; including a common mode voltage, a first set of two switched capacitors connected to the positive comparator input, a second set of two switched capacitors connected to the negative comparator input, a switching array capable of assuming a plurality of different switching conditions, and detecting the output of the comparator in relation to the switching conditions of the switching array.

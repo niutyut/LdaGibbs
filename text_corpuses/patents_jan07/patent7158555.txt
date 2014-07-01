@@ -1,0 +1,4 @@
+title: Solid-state laser device using two resonators on the same axis and dual monitors
+
+abstract: 
+A solid-state laser device, which comprises a first resonator for projecting a first laser beam and a second resonator for projecting a second laser beam, wherein the first resonator and the second resonator commonly share a part of an optical axis and an output mirror, and which comprises a first light emitting unit for the first resonator, a second light emitting unit for the second resonator, a monitoring means for splitting and monitoring a part of the first laser beam and for splitting and monitoring a part of the second laser beam among the laser beams projected from the output mirror, and a control unit for controlling at least one of the first light emitting unit and the second light emitting unit based on a detection result from the monitoring means.

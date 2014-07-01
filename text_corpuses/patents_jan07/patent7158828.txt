@@ -1,0 +1,4 @@
+title: System and method for timing synchronized pacing
+
+abstract: 
+A device and method for cardiac rhythm management in which a heart chamber is paced in accordance with sense signals from the opposite chamber or other distant cardiac site. The method is particularly useful in delivering cardiac resynchronization therapy.

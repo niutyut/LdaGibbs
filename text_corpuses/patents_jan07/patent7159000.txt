@@ -1,0 +1,4 @@
+title: Methods and systems for repairing playlists
+
+abstract: 
+Various systems and methods described above permit a user's content experience (e.g. music playing experience) to be monitored and for metadata describing this experience to be collected. This metadata can be dynamically updated as a user experiences media content and then used to impart to the user a personalized experience that is tailored to that specific user. A user's metadata can, in some instances, provided across a wide variety of computing devices on which the user may experience the media content, thus standardizing the user's personalized media experience. In addition, intelligent or ?smart? playlists can be provided which, in some instances, can be dynamically and automatically updated to reflect current user experiences, thus providing a highly personalized and enjoyable content experience.

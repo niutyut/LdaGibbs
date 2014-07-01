@@ -1,0 +1,4 @@
+title: Method and system for enabling circuit testing services on a multi-service provisioning platform
+
+abstract: 
+A telecommunication multi-service transport platform system is disclosed. It has at least one service card providing a predetermined telecommunication service, and at least one protection card for replacing the service card when the service card fails. The protection card further comprising one or more test ports connectable to an external testing tool, one or more protection circuits, and at least one relay module associated with the test ports for allowing the testing tool to be connected to the protection circuits through at least one test port for testing the service card when the protection card is in a standby mode and for disconnecting the testing tool from the protection circuits when the service card fails.

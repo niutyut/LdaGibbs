@@ -1,0 +1,4 @@
+title: Method of optical network bandwidth representation for optical label switching networks
+
+abstract: 
+This present invention provides generic and flexible methods to represent optical bandwidth and service interfaces for optical label switching networks. Most importantly, bandwidth may be represented simply at various granularity levels and in various combinations. This simplicity will greatly help in design and implementation of protocols for use in optical label switching networks.

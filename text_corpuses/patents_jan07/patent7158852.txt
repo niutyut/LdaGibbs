@@ -1,0 +1,4 @@
+title: Methods for controlling dimensional variations in workpieces subjected to machining operations
+
+abstract: 
+The present invention comprises methods of machining a workpiece. In one embodiment, a method includes positioning a workpiece in a first position in a process station of a machine system, and forming at least one check feature on the workpiece. A position of the check feature is then sensed while the workpiece is positioned in the first position, and one or more machined features are formed on the workpiece relative to the check feature while the workpiece is positioned in the first position. The workpiece is then moved from the first position to a second position within the process station, and a position of the check feature is again sensed while the workpiece is positioned in the second position. One or more machined features are then formed on the workpiece relative to the check feature while the workpiece is positioned in the second position.

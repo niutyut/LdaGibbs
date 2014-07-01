@@ -1,0 +1,4 @@
+title: Heat development apparatus and method
+
+abstract: 
+A heat development apparatus for heat developing a heat-developable recording material from one surface side by a heating unit, while transporting the heat-developable recording material by a transportation unit, the apparatus comprising: a transportation path from a beginning end to a terminal end of a heating region in which the heat developing is made by the heating unit, the transportation path being formed in an annular path having a substantially equal length with a transportation length of the heat-developable recording material, so that the beginning end and the terminal end of the heating region are arranged in proximity with each other.

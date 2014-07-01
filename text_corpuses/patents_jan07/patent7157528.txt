@@ -1,0 +1,4 @@
+title: Permselective structurally robust membrane material
+
+abstract: 
+A biocompatible multipolymer, having a backbone comprising about 10 to 45 wt % of at least one hard segment and about 55 to 90 wt % of soft segments. The soft segments are divided into three groups, 5 to 25 wt %, of total soft segment weight, of an oxygen permeable soft segment; 5 to 25 wt %, of total soft segment weight, of a hydrophilic soft segment; and 50 to 90 wt %, of total soft segment weight, of a biostable, relatively hydrophobic soft segment.

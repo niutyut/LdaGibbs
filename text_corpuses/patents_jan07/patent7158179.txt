@@ -1,0 +1,4 @@
+title: Optical device, optical device driving unit, and camera system
+
+abstract: 
+Disclosed is an optical device including an optical member, a memory unit for storing preset driving information about driving of the optical member, a driving unit for driving the optical member, an operation unit having an operation member, and a control unit for performing drive control of the driving unit. The control unit changes the preset driving information in accordance with the operation of the operation unit.

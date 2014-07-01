@@ -1,0 +1,4 @@
+title: Portable data terminal
+
+abstract: 
+A short distance wireless communication function () such as Bluetooth is provided as a communication function part, which is subordinate to a main communication function having a communication function like that of a usual portable telephone set for making communication via a network. Among other units present in the neighborhood, those conforming to preset search conditions are set as limited opposite side units () for direct data transmission to these opposite side units () with a close distance wireless communication function ().

@@ -1,0 +1,4 @@
+title: Multi-mode communications transmitter
+
+abstract: 
+The present invention, generally speaking, provides for true multi-mode operation enabling mode switching to be done on-the-fly, in real time. Ramping techniques are provided to fully ramp a communications signal down and then back up inside a guard period while switching from one mode to another so that signal glitches occur only while the signal is ramped down and so can be made negligible. In another aspect of the invention, an advantageous multi-mode communications platform having a polar modulation architecture is provided. Preferably, the platform is based on a multi-mode, predominantly digital, single-chip communications signal processor. A digital, phase-stable, frequency lock loop enables versatile, low-power operation.

@@ -1,0 +1,4 @@
+title: Process for preparing a conducting polymer electrode useful for electrocatalytic oxidation of alcohols
+
+abstract: 
+This invention relates to increasing the electrocatalytic activity of conducting polymers so that the same may be useful for electro-oxidation of methanol which is important for fuel-cell technology. Conventional catalysts used for this process are based on Pt, Ru or Pd complexes which are incorporated in carbon/graphite based electrodes. However, these are not only expensive but difficult to fabricate in different shapes. Conducting polymer based electrodes have advantage of ease of fabrication but their activity has been found in the past to be not very high. The present invention provides a process for preparation of conducting polymer based electrodes which have very high catalytic activity (8 to 10 times higher) for electro-oxidation of methanol.

@@ -1,0 +1,4 @@
+title: Sealing device and sliding member
+
+abstract: 
+A sealing device comprises a sealing member brought into contact with a contact surface so as to be slidable in a predetermined sliding direction. The sealing member comprises a sliding contact portion containing a high polymer material to be brought into sliding contact with the contact surface. A plurality of recessed or protruding streaks, which are independent of one another, are provided side by side so as to constitute a column on a surface of the sliding contact portion.

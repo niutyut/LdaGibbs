@@ -1,0 +1,4 @@
+title: Agricultural machine with a guidance system
+
+abstract: 
+A self-propelled agricultural machine having a position-finding system including a position-finding device for detecting positions of guide variables relative to the machine and at least one adjusting device for adjusting the orientation of the region of coverage of the position-finding device relative to the machine. The position of the crop edge detected by the position-finding device is used for adjustment of the orientation of the region of coverage of the position-finding device relative to the machine. The position-finding system provides reliable control of the machine along the path of the crop edge. At least one adjusting device orientates the positioning-finding device relative to the machine for tracking the machine along the detected crop edge. In addition, the signals of a further position-finding device in a feed region of a cutterbar is taken into consideration.

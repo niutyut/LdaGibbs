@@ -1,0 +1,4 @@
+title: Methods and compositions for the detection of cervical disease
+
+abstract: 
+Methods and compositions for identifying high-grade cervical disease in a patient sample are provided. The methods of the invention comprise detecting overexpression of at least one biomarker in a body sample, wherein the biomarker is selectively overexpressed in high-grade cervical disease. In particular claims, the body sample is a cervical smear or monolayer of cervical cells. The biomarkers of the invention include genes and proteins that are involved in cell cycle regulation, signal transduction, and DNA replication and transcription. In particular claims, the biomarker is an S-phase gene. In some aspects of the invention, overexpression of a biomarker of interest is detected at the protein level using biomarker-specific antibodies or at the nucleic acid level using nucleic acid hybridization techniques. Kits for practicing the methods of the invention are further provided.

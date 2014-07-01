@@ -1,0 +1,4 @@
+title: Reduced moisture compositions comprising an acid gas and a matrix gas, articles of manufacture comprising said compositions, and processes for manufacturing same
+
+abstract: 
+Compositions comprising a reactive gas and a matrix gas are disclosed, as well as articles of manufacture and methods of making the articles. The methods of manufacturing preferably employ zeolites to remove moisture from the reactive gas and from the matrix gas, and then combine the moisture reduced gases either in a container, or prior to filling a container, which has been previously vacuum-baked and passivated. The invention produces stable standard gas compositions having improved shelf-life.

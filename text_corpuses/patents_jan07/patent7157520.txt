@@ -1,0 +1,4 @@
+title: Process for producing powdery linear polymer having improved powder properties
+
+abstract: 
+A powdery linear polymer having a narrow particle size distribution with little dusting and excellent in anti-blocking property is recovered from a latex of a linear polymer containing a large proportion (35?75 wt. %) of soft polymer (S) component through a two-step coagulation process including a first (moderate coagulation) step causing 70?98 wt. % of the coagulation. The linear polymer in the latex has a multilayer structure comprising a linear polymer (S) having a glass transition temperature below 40? C. and a linear polymer (H) having a higher glass transition temperature disposed in totally at least two layers and containing 35?75 wt. %, as a whole, of the linear polymer (S) with the proviso that the linear polymer (S) cannot be contained in excess of 30 wt. % in an outermost layer of the multilayer structure.

@@ -1,0 +1,4 @@
+title: Structured integrated circuit device
+
+abstract: 
+A configurable logic array may include: a multiplicity of logic cells, containing look-up tables; customizable metal and via connection layers overlying the multiplicity of logic cells; a multiplicity of device customizable I/O cells; a multiplicity of configuration customizable RAM blocks; a ROM block with customizable contents; and a microprocessor with customizable I/O for configuring and testing the array, where the customizations are all done on a single via layer.

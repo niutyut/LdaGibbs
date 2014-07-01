@@ -1,0 +1,4 @@
+title: Display device
+
+abstract: 
+A self-luminescence display device, in which dispersion in display among a plurality of pixels, caused by dispersion in characteristics among drive thin-film transistors, is decreased and uniform display free of unevenness can be obtained. The device includes a plurality of pixels having current drive type luminescent elements, and parallel-connected n (n?2) thin-film transistors to feed a drive current to the respective current drive type luminescent elements. The transistors are arranged in different pixels, respectively, for example, in a first region of pixels adjacent to one another along a first direction. A second region of dummy pixels can be provided on at least one side of said first region along said first direction.

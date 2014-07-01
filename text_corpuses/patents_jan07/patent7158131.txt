@@ -1,0 +1,4 @@
+title: Implicit function rendering method of nonmanifold, direct drawing method of implicit function curved surface and programs thereof
+
+abstract: 
+An implicit function field of a nonmanifold is held in a form of volume data; a value of an implicit function at a point between lattice points is decided by interpolation; and if a difference in code distances between two adjacent voxels to be interpolated is larger than a fixed width, no surface is formed between the voxels. Furthermore, an entered curved surface is broken down into curved surface patches which enable determination of a front and a back; numbers are given to the front and the back, respectively, to be distinguished from each other; and a space is classified into a plurality of regions by using the number of a surface of a nearest point.

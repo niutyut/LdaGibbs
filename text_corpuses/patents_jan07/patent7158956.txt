@@ -1,0 +1,4 @@
+title: Electronic real estate bartering system
+
+abstract: 
+A real estate bartering system implements barters between a plurality of parties each having one or more classes of items available for barter. Preferably, barter orders are created by designating a selected quantity of a first class of items to be bartered, designating a date range for transferring title of the first class items to be bartered, designating a barter value of the first class of items to be bartered, and designating a second class of items to be acquired. Barter orders are posted via the Internet to a barter database and may be displayed via the Internet. Posted barter orders whose first class of items match the second class of items of a barterer's order are preferably displayed. Posted barter orders from the display are selected to effectuate a barter transaction which combines a barterer's barter order with the selected posted order(s).

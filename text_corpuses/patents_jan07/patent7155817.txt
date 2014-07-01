@@ -1,0 +1,4 @@
+title: Apparatus and method for mounting components on substrate
+
+abstract: 
+An apparatus has a holder that receives a component from a component supply and then places the component on a substrate. In operation, it is determined whether the holder would make an interference with another component already mounted on the substrate. If this judgement is affirmative, mounting of the component held by the holder is prohibited. If, on the other hand, this judgement is negative, the component held by the holder is mounted onto the substrate.

@@ -1,0 +1,4 @@
+title: Multi-level error diffusion apparatus and method of using same
+
+abstract: 
+A multi-level error diffusion system includes a processor that creates an m by n super pixel cell as an output pixel value for individual ones of a plurality of single input pixel values that are indicative of an image. The processor assigns to individual ones of the m by n super pixel cells available printer output color values, where the average of the assigned output values are selected to be as close as possible to corresponding individual one of the single input pixel values. A multi-level printer receives the individual ones of the m by n super pixel cells having assigned output values and converts them into printer data to form a printed image.

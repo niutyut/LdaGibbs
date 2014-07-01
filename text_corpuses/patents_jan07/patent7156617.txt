@@ -1,0 +1,4 @@
+title: Dual outlet port pump
+
+abstract: 
+A pump for a watercraft comprises a housing including a chamber having an inlet, a first outlet, a second outlet, and a first and a second portion, wherein the first outlet is disposed in the first portion of the chamber and the second outlet is disposed in the second portion of the chamber. The inlet is adapted to receive a fluid therethrough, and the first and the second outlets are adapted to simultaneously emit a fluid therethrough. An impeller is disposed in the chamber of the housing and is adapted to induce a flow to a fluid from the inlet to the first and second outlets. The impeller is entirely disposed within the first portion of the chamber, wherein a fluid that is emitted through the second outlet must pass through the first portion of the chamber.

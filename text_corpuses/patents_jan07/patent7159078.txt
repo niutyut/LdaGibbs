@@ -1,0 +1,4 @@
+title: Computer system embedding sequential buffers therein for performing a digital signal processing data access operation and a method thereof
+
+abstract: 
+A computer system embedding buffers therein for performing a digital signal processing (DSP) data access operation includes a DSP core,a data cache, first and second buffer modules, an external memory and a central processing unit (CPU) core. The CPU core executes instructions and the DSP core processes data in accordance with the instructions. The data cache stores temporary data associated with the DSP core. The first buffer module stores input data received by the DSP core while the second buffer module stores output data provided from the DSP core. The external memory stores the temporary data, the input data, and the output data, wherein the input and output data are received by and provided from the DSP core in series through the first and second buffer modules without going through the data cache.

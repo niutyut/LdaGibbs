@@ -1,0 +1,4 @@
+title: Automated web-based targeted advertising with quotas
+
+abstract: 
+The invention provides systems and methods that can be used for targeted advertising. The system determines where to present impressions, such as advertisements, to maximize an expected utility subject to one or more constraints, which can include quotas and minimum utilities for groups of one or more impression. The traditional measure of utility in web-based advertising is click-though rates, but the present invention provides a broader definition of utility, including measures of sales, profits, or brand awareness, for example. This broader definition permits advertisements to be allocated more in accordance with the actual interests of advertisers.

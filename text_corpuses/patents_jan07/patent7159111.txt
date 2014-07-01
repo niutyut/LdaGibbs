@@ -1,0 +1,4 @@
+title: Isolation of communication contexts to facilitate communication of data
+
+abstract: 
+A system and method facilitate communication of data depending on whether communicating elements are properly associated with each other. An endpoint communication context is associated with a queue component, which queue component may communicate directly with a process. Each of the queue component and the endpoint communication context is associated with a domain in a privileged operation (e.g., by the operating system). The queue component may communicate with the endpoint communication context provided that the queue component and communication context have a valid association, such that their respective domains match.

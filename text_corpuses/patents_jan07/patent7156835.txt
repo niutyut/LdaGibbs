@@ -1,0 +1,4 @@
+title: Method of applying composition to a surface
+
+abstract: 
+A process and apparatus for one-step preparation of fibrinogen adhesive by polyethylene glycol-mediated precipitation from plasma are disclosed. The methods and apparatus of the invention permit preparation of autologous fibrinogen adhesive composition from the patient during surgery, and can be applied generally to provide such compositions. Also disclosed are an apparatus and method for application of sealant comprising this fibrinogen adhesive composition.

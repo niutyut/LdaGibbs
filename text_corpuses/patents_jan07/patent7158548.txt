@@ -1,0 +1,4 @@
+title: Laser cavity
+
+abstract: 
+A laser cavity comprising a gain medium and first and second end mirrors, wherein the laser cavity further comprises a birefringent material and a mirror arranged to fold light propagating within the laser cavity through a predetermined angle, wherein the predetermined angle is selected such that the reflectivity of the fold mirror is polarisation dependent, and the birefringence of the birefringent material co-operates with the polarisation dependent reflectivity of the fold mirror to form a Lyott filter which suppresses oscillation of unwanted laser modes. The invention allows the construction of a low loss, high finesse laser cavity with longitudinal mode control. The need for introduction of an extra polarisation selection element to form a Lyott filter is removed.

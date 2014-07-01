@@ -1,0 +1,4 @@
+title: Refrigerator having cross flow fan
+
+abstract: 
+A refrigerator includes: a refrigerator body having a cooling chamber for storing food items and a mechanic chamber provided at one side thereof; a heat exchanger disposed in the mechanic chamber and performing heat exchanging while a refrigerant passes therethrough; a cross flow fan disposed facing the heat exchanger and blowing air for heat exchange; and a compressor mounted inside the mechanic chamber and compressing a refrigerant. A space for the mechanic chamber can be reduced, and thus, a cooling chamber for keeping food items can be enlarged.

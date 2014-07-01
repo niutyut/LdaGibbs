@@ -1,0 +1,4 @@
+title: Magnetic recording medium
+
+abstract: 
+A magnetic recording medium having a non-magnetic support, at least one primer layer on one surface of the support, a magnetic layer on the primer layer and a back coat layer on the other surface of the non-magnetic support, in which the support has a thickness of 2 to 5 ?m, the surface roughness (Ra) of the support on its surface carrying the primer layer and the magnetic layer is from 2.5 nm to 20 nm, the thickness of the primer layer is 1.5 ?m or less, and the primer layer contains 2 to 30% by weight, based on the weight of all inorganic powder in the primer layer, of alumina powder having a particle size of 0.01 ?m to 0.1 ?m.

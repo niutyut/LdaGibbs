@@ -1,0 +1,4 @@
+title: Clock converter and electronic apparatus with the same
+
+abstract: 
+A voltage controlled oscillating means in a clock converter outputs a positive feedback signal for a positive feedback loop from one output terminal of buffer means forming a portion of a positive feedback loop using voltage controlled phase shifting means and outputs a PLL feedback signal from the other output terminal of the buffer means. The PLL feedback signal is fed back to phase detector means through a signal transmitting circuit. As a result, it is possible to form a PLL feedback loop, which is not affected by the load to thus output a stable clock signal of high frequency. Furthermore, it is possible to realize a small clock converter by narrowing the line width of a wiring pattern in the signal transmitting circuit.

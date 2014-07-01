@@ -1,0 +1,4 @@
+title: Electronic shelf unit with management function performed by a common shelf card with the assistance of an auxiliary interface board
+
+abstract: 
+An electronic shelf includes a plurality of system circuit boards including a first system circuit board containing a first central processing unit (CPU) providing decision-making intelligence for end-user services supported by the first system circuit board. An auxiliary circuit board is connected to the first circuit board and provides input and output communications between the CPU and devices external to both the first system circuit board and auxiliary circuit board. The CPU is solely responsible for decision-making intelligence for management control for at least a predetermined number of system circuit boards while also being responsible for the decision-making intelligence for end-user services supported by the first system circuit board.

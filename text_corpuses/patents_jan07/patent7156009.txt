@@ -1,0 +1,4 @@
+title: Die device
+
+abstract: 
+When a retainer collar  is rotated with respect to a punch guide  in a turnable manner, an upper punch driver  which pierces the retainer collar  so as to be movable up and down is rotated with respect to the punch guide . As a result, since the upper punch driver  is screwed into a lower punch driver  and is rotated with respect to the lower punch driver  provided on the punch guide  movablly up and down, an up-down positional relationship between the upper punch driver  and the lower punch driver  can be adjusted.

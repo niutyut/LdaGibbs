@@ -1,0 +1,4 @@
+title: Method for treating IgE-mediated disorders
+
+abstract: 
+The present invention relates to a method for adjusting the affinity of a polypeptide to a target molecule by a combination of steps, including: (1) the identification of aspartyl residues which are prone to isomerization; (2) the substitution of alternative residues and screening the resulting mutants for affinity against the target molecule. In a preferred embodiment, the method of subtituting residues is affinity maturation with phage display (AMPD). In a further preferred embodiment the polypeptide is an antibody and the target molecule is an antigen. In a further preferred embodiment, the antibody is anti-IgE and the target molecule is IgE. In another embodiment, the invention relates to an anti-IgE antibody having improved affinity to IgE.

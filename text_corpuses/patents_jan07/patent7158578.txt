@@ -1,0 +1,5 @@
+title: Quadrature modulator with pulse-shaping
+
+abstract: 
+An IQ modulator and method for modulating a signal in accordance with I and Q symbols using derivative FIR's operating at the symbol rate and programmable multi-accumulators for waveform generator.
+This provides advantages that reduced complexity is produced compared with traditional FIR's by a factor equal to the quotient of oversampling ratio and derivative order; programmability to Digital Very Low IF mode transmission is possible; the same circuit may perform interpolation for narrow band MA's; and reduced sets of coefficients enable implementation of two sets of coefficients for MA's, allowing fast handover between MA's such as EDGE and IS136.

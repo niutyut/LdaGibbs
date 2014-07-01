@@ -1,0 +1,4 @@
+title: RFID device with combined reactive coupler
+
+abstract: 
+An RFID device, such as an RFID tag or label, includes a combined reactive coupler electrically coupling a transponder chip to an antenna. The combined reactive coupler includes a magnetic coupler and a capacitive coupler. The magnetic coupler and the reactive coupler may have respective coupling elements on both the interposer and on an antenna substrate.

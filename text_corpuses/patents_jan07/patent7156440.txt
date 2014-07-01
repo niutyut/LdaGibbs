@@ -1,0 +1,4 @@
+title: Glove compartment
+
+abstract: 
+A glove compartment is provided in an instrument panel of a vehicle. A lid selectively opens and closes an opening formed in the instrument panel. A gap is defined between side edges of the lid and side edges of the opening when the lid closes the opening. Gap adjusters hold the side edges of the lid with respect to the side edges of the opening when the lid closes the opening, thereby adjusting the gaps. A locking mechanism locks the lid in a state closing the opening. An unlocking mechanism cancels the locked state of the lid. The unlocking mechanism includes an extrusion pin that is configured to push the lid to the outside of the opening when canceling the locked state of the lid.

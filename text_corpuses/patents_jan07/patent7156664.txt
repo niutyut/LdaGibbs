@@ -1,0 +1,4 @@
+title: Dummy medical instrument for use in a simulator
+
+abstract: 
+A dummy medical instrument for connection to a force feedback mechanism. The dummy medical instrument having a number of cables  extending around control knobs . In a real instrument corresponding to the dummy instrument, the cables would extend to the tip of the instrument to allow controlled flexing of the tip of the instrument. In the dummy medical instrument, the same cables are routed down the umbilical of the instrument for connection to force feedback motors simulating the forces felt on the tip of the instrument.

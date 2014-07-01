@@ -1,0 +1,4 @@
+title: Ground interconnects
+
+abstract: 
+Apparatus and method for grounding a flexure of a head suspension assembly to a moving support such as an actuator arm or an E block close to a preamplifier, write driver or other wiring such as a flexible circuit located on the moving support in a disk drive assembly, including connecting a metal substrate layer of the flexure to a ground on the moving support closely adjacent the preamplifier or flexible circuit to minimize ground loop interference with signals on the traces. The invention includes a variety of arrangements to secure the metal substrate layer to the moving support.

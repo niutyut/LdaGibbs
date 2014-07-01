@@ -1,0 +1,4 @@
+title: Parallel games on a gaming device
+
+abstract: 
+A gaming machine displays multiple game outcome presentations to one or more players playing the gaming machine. A player may initiate a new game on the gaming machine while the outcome of a previous game is being presented to the player. For a number of different games, two or more game outcomes may be presented simultaneously to the player on the gaming machine. The game outcome presentations for two or more of the games may appear to interact. However, the game outcomes determined by the gaming machine are independent of one another and do not depend on the game outcome presentation. Many different combinations of games may be played simultaneously on the gaming machine.

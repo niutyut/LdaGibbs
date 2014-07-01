@@ -1,0 +1,4 @@
+title: Active compound supply system and spraying device for spraying liquids
+
+abstract: 
+An active compound supply system for a spraying device for spraying liquids, in particular for agricultural purposes, includes a carrier liquid tank, a carrier liquid pump, a plurality of spray nozzles and a carrier liquid line for connecting the carrier liquid tank, the carrier liquid pump and the spray nozzles. The system provides at least one active compound preliminary container, at least one metering pump for feeding active compound into the carrier liquid and an active compound forward-flow line from the active compound preliminary container to the metering pump.

@@ -1,0 +1,4 @@
+title: Electrically operated actuation tool for subsea completion system components
+
+abstract: 
+An electrically operated actuation tool for a subsea completion system component having at least one hydraulically actuatable mechanism comprises an electric motor, a hydraulic pump which is driven by the motor and at least one hydraulic line which communicates between the hydraulic pump and a corresponding hydraulic conduit that is fluidly connected to the mechanism. In this manner, the motor drives the hydraulic pump to generate hydraulic pressure which is used to actuate the mechanism.

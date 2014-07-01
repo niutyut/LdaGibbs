@@ -1,0 +1,4 @@
+title: Devices and methods for treating defects in the tissue of a living being
+
+abstract: 
+An implantable material for deployment in select locations or select tissue for tissue regeneration is disclosed. The implant comprises collagen, ceramics, and or other bio-resorbable materials or additives, where the implant may also be used for therapy delivery. Additionally, the implant may be ?matched? to provide the implant with similar physical and/or chemical properties as the host tissue.

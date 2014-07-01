@@ -1,0 +1,4 @@
+title: Method and apparatus for expanding dictionaries during parsing
+
+abstract: 
+A method is provided for parsing text in a corpus. The method includes hypothesizing a possible new entry for a dictionary based on a first segment of text. A successful parse is then formed for the first segment of text using the possible new entry. Based on the successful parse, the dictionary is changed to include the new entry. The new entry in the dictionary is then used to parse a second segment of text.

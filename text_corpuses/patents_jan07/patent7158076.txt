@@ -1,0 +1,4 @@
+title: Method and apparatus for correcting velocity-induced range estimate phase errors in a two-tone monopulse CW radar
+
+abstract: 
+A method and apparatus is provided for correcting the phase difference estimate derived from a two-tone CW radar to correct velocity-induced range estimate phase errors by offsetting the phase difference estimate with a phase correction equal to either of the Doppler frequencies associated with returns from an object multiplied by the time interval between the samplings of the returned waveforms. The correction effectively eliminates the velocity-induced slippage between the phases of the retuned waveforms so that a comparison between the phases of the waveforms can be made to reduce or substantially eliminate range estimate bias.

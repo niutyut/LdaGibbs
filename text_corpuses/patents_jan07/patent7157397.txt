@@ -1,0 +1,4 @@
+title: Process for the production of mesitylene
+
+abstract: 
+A process is described for the synthesis of mesitylene, characterized in that mesitylene is obtained starting exclusively from pseudocumene, without the use of any other chemical compound, operating in continuous, at a temperature ranging from 225 to 400? C., at a pressure ranging from 1 to 50 bar, at a weight space velocity ranging from 0.1 to 10 hours, and in the presence of a catalyst containing a zeolite selected from ZSM-5 zeolite having a crystal lattice based on silicon oxide and aluminum oxide, and ZSM-5 zeolite modified by the partial or total substitution of Si with a tetravalent element such as Ti or Ge and/or the partial or total substitution of Al with other trivalent elements, such as Fe, Ga or B.

@@ -1,0 +1,4 @@
+title: Embossed reflective laminates
+
+abstract: 
+This invention provides an embossed decorative composite laminate interlayer for use in reducing UV and IR energy transmittance through a glass laminate. One interlayer of the present invention comprises an embossed decorative composite disposed between a first and second adhesive layer, such as PVB. The embossed decorative composite of the present invention comprises a first polymeric support film, such as PET, having a metal coating disposed thereon, thereby forming a metallized film. The metallized film is then bonded through the use of an adhesive to a second polymer support film, forming a decorative composite structure. The decorative composite is then purposefully embossed such that they have protrusions at different angles to the flat plane of the bonded polymeric support films, so as to form the desired embossed decorative composite.

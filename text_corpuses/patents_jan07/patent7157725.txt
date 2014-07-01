@@ -1,0 +1,4 @@
+title: Discrimination device for types or configurations of discrimination subjects
+
+abstract: 
+A discrimination device which is disposed on a conveyance path of conveyed items, such as planographic printing plates, slip sheets and the like. The discrimination device is structured with a first sensor, which detects presence or absence of the conveyed items, and second and third sensors, which identify types of the conveyed items. The first sensor can judge presence or absence of a conveyed item from whether or not irradiated light is reflected by a conveyed item. The second and third sensors discriminate between the types?the planographic printing plates and the slip sheets?by the intensity of reflected light, on the basis of a difference in surface reflectivities of the conveyed items. With these three optical sensors, it is possible to reliably identify four conveyance configurations of the conveyed items.

@@ -1,0 +1,4 @@
+title: Motor vehicle differential
+
+abstract: 
+The invention concerns a motor vehicle differential comprising a case including perforations; differential pinion shafts, each differential pinion shaft having an end accommodated by a perforation; and a cap; wherein the differential pinion shafts are locked in translation relative to the differential case by the cap, the cap being mounted on at least the part of the differential case traversed by the shafts so as to cover at least partially the perforations.

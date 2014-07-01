@@ -1,0 +1,4 @@
+title: Flow maintaining stent delivery system
+
+abstract: 
+The present invention is directed to a Flow Maintaining Stent Delivery System, FMSDS, which can be used in many cardiovascular and surgical procedures, especially for placing stents into patients having stenosed and occluded arteries and other vascular lumens. It can also be used as an examination tool for the vascular surgical operations and to examine small orifice internal or external to the body. Most important, the advantage of the present stent delivery system is that it allows antegrade downstream blood flow to be maximally maintained during stenting procedures, angioplasty procedures or in any other vascular surgical operations that can use this system. The present invention also allows for uniform placement of the stent onto the artery.

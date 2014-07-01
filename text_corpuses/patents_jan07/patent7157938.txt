@@ -1,0 +1,4 @@
+title: Tileable field-programmable gate array architecture
+
+abstract: 
+An apparatus includes an FPGA, which includes a first FPGA tile including a plurality of FGs, a first, second, and third set of routing conductors, and a plurality of IGs. The FGs are arranged in rows and columns with each FG being configured to receive tertiary and regular input signals, perform a logic operation, and generate regular output signals. The third set of routing conductors is coupled to the first set of output ports of the FGs and configured to receive signals, route signals within the FPGA tile, and provide input signals to the third set of input ports of the FGs. The IGs surround the FGs such that one IG is positioned at each end of each row and column. Each IG is coupled to the third set of routing conductors and configured to transfer signals from the third set of routing conductors to outside the first FPGA tile.

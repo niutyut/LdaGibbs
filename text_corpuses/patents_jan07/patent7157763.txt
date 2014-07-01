@@ -1,0 +1,4 @@
+title: SRAM cell structure and manufacturing method thereof
+
+abstract: 
+A static random access memory (SRAM) cell structure at least comprising a substrate, a transistor, an upper electrode and a capacitor dielectric layer. A device isolation structure is set up in the substrate to define an active region. The active region has an opening. The transistor is set up over the active region of the substrate. The source region of the transistor is next to the opening. The upper electrode is set up over the opening such that the opening is completely filled. The capacitor dielectric layer is set up between the upper electrode and the substrate.

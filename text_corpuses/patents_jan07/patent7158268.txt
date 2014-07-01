@@ -1,0 +1,4 @@
+title: Digital image scanner with a variable aperture lens and multiple scanning speeds
+
+abstract: 
+A scanner is provided with a variable aperture lens system. High resolution scans use a relatively small aperture size, and scanning speed is relatively slow. Low resolution scans use a relatively large aperture size, and scanning speed is increased. Fast scans are limited to lower sampling rates, which in turn permit more optical blurring relative to high sampling rates. Accordingly, the incremental cost of the larger aperture is minimized by permitting the lens aberrations specifications to be relaxed at larger apertures. Preferably, an electronic variable aperture is provided, for example, by use of electronically controlled polarization plates or by use of electrochromic substances.

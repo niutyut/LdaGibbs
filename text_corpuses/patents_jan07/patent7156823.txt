@@ -1,0 +1,4 @@
+title: High workload needle-free injection system
+
+abstract: 
+A needle-free injection device is described. The injection device typically includes a system for providing directed and pre-selected pressure and a nozzle with an orifice for defining a stream of fluid that is directed toward the skin of a patient against which a front end of the nozzle is positioned. The device also normally includes an engagement system that can selectively engage the nozzle with the pressurizing system so that the nozzle can be mounted to the pressurizing system to receive pressure for injection and so that after injection the nozzle can be removed and replaced for each new use of the device.

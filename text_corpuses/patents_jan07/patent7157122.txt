@@ -1,0 +1,4 @@
+title: Method for wetting a running filament bundle by controlling the shielding of a fluid spray
+
+abstract: 
+A method and an apparatus for wetting an advancing filament bundle. A fluid is applied by means of a nozzle in the form of a fluid spray jet to the filament bundle advancing in spaced relationship with the nozzle. A portion of the spray jet is shielded before impacting upon the filament bundle, so that the application of fluid to the filament bundle is determined by the degree of shielding of the spray jet. With that, the invention is adapted for finely adjusting the fluid application to the filament bundle.

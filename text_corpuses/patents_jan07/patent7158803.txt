@@ -1,0 +1,4 @@
+title: Emergency services for wireless data access networks
+
+abstract: 
+A system [] for facilitating wireless data communication may include an operations center [] configured to implement access control rules [] within an emergency zone [] and an access device [] configured to provide data access to a network [] for user devices [] and emergency devices []. The access device [] may include a memory [] configured to store the access control rules [] that provide preferential access to the network for the emergency devices [] within the emergency zone [

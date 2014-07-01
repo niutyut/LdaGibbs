@@ -1,0 +1,4 @@
+title: Metal oxide particle and process for producing same
+
+abstract: 
+The present invention relates to a metal oxide particle comprising tin atom, zinc atom, antimony atom and oxygen atom, having a molar ratio SnO:ZnO:SbOof 0.01?1.00:0.80?1.20:1.00 and having a primary particle diameter of 5 to 500 nm; and a process for producing the metal oxide particle comprising the steps of: mixing a tin compound, a zinc compound and an antimony compound in a molar ratio SnO:ZnO:SbOof 0.01?1.00:0.80?1.20:1.00; and calcining the mixture at a temperature of 300 to 900? C. The metal oxide particle is used for several purposes such as antistatic agents, UV light absorbers, heat radiation absorbers or sensors for plastics or glass, etc.

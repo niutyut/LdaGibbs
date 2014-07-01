@@ -1,0 +1,4 @@
+title: Method and apparatus for tracking aircraft and securing against unauthorized access
+
+abstract: 
+A system for monitoring an aircraft receives navigation signals and deriving a position vector therefrom and also asserts an alert signal in the event that the altitude of the aircraft above ground level is less than a predetermined value. The system samples the position vector at a selected sample rate and outputs a succession of samples of the position vector, the sample rate depending on whether the alert signal has been asserted. Data packets that contain respective samples of the position vector are transmitted to a ground-based receiving station. The ground-based receiving station may calculate secondary data.

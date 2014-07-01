@@ -1,0 +1,4 @@
+title: Process for an addition reaction of organic silicon compounds having SiH groups with compounds having olefinic double bonds
+
+abstract: 
+The invention relates to a process for the preparation of polyorganosiloxanes and polyorganosilanes of high purity by an addition reaction of siloxanes and/or silanes which contain at least one H?Si group with compounds having olefinic double bonds in the presence of a platinum catalyst and optionally further additional components, wherein the reaction is carried out in the presence of a platinumcomplex catalyst which was dissolved in a solvent before addition to the reaction medium and to whose solution an effective amount of at least one unsaturated hydrocarbon having 2 to 6 carbon atoms was added.

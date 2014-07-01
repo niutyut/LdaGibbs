@@ -1,0 +1,4 @@
+title: Power control apparatus in a data communication network, and method therefor
+
+abstract: 
+An apparatus and method controls power supplied from a powered HUB to a user terminal includes based on a vibration signal transmitted from the terminal. Initially, a connection between the HUB and terminal is determined to exist if at least one vibration signal is received from the terminal. Then, a determination is made as to when the signal is received. If received during a first check period, power is supplied from the HUB to the terminal. If received during a second check period, power continues to be supplied to the terminal. Power is cut-off when a number of vibration signals or vibration-signal events does not equal a predetermined number and the second check period transitions into the first check period. By taking these steps, the need to use specialized modules and communications protocols is eliminated, thereby reducing costs and system complexity.

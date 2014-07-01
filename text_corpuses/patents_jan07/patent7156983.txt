@@ -1,0 +1,4 @@
+title: Swimming pool backwash assembly
+
+abstract: 
+A swimming pool backwash control arrangement includes a timing device incorporated with a valve for controlling normal re-circulating flow and backwash flow through a swimming pool filter. The timer is constructed to be in series with the electric power circuit to the pool pump and is activated when the valve is moved to the backwash flow position. The timer functions to maintain electric power to the pump for a user-specified or a pre-set period. At the end of the period the timer will cause the circuit to open thereby disabling the pump. Power can be restored to the pump by returning the valve to its normal re-circulating flow position.

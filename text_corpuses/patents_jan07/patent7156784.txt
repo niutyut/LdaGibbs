@@ -1,0 +1,4 @@
+title: Device for obtaining a predefined linear force
+
+abstract: 
+The present invention relates to a device for obtaining a predetermined linear force, including a first elastic force means (Ee ) and a force output means () in the form of a non-elastic, flexible elongated member. The invention is characterised by a force transformation means () arranged between said first elastic force means and the force output means, such that a pulling of the force output means creates a tension in said first elastic force means, and wherein the force transformation means is arranged and designed such that the pulling force required on the force output means decreases with the distance (X) the force output means is pulled.

@@ -1,0 +1,4 @@
+title: Non-destructive monitoring of material integrity
+
+abstract: 
+A component which is known to have particular degradation characteristics is instrumented to provide an electrical potential across a section in which a degradation is likely to occur. The potential drop across the component is then monitored to determine when, and the degree to which, the degradation occurs. Predetermined limits are established such that when the degradation level reaches a limit, the component is repaired or replaced.

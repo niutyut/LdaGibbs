@@ -1,0 +1,4 @@
+title: Door-opening/closing apparatus
+
+abstract: 
+The door-opening/closing apparatus includes a door, a driving unit that drives the door to close the door, a door movement detection unit that detects a movement of the door, an electrostatic switch that is mounted on the door for detecting a human's touching the door, and a judgment unit that judges whether the door is attempted to be closed. When the door movement detection unit detects a movement of the door, and when the electrostatic switch senses a human's touching the door, the judgment unit judges that the door is attempted to be closed, and then the driving unit drives to close the door.

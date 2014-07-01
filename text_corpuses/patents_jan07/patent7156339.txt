@@ -1,0 +1,4 @@
+title: Apparatus and method for winding of webs
+
+abstract: 
+The apparatus for winding at lest one web (), on a winding roll (), comprises at least a first roll (), a second roll () and a third roll () parallel to one another and to said winding roll (), said apparatus having a nominal winding position in which: a driving torque is applied to at least one of rolls (, () and () as to rotate in the direction of said web () in order to compensate for the rolling resistance of said apparatus.

@@ -1,0 +1,4 @@
+title: Chromatic diffractive optical element corrector, optical system including the same and associated methods
+
+abstract: 
+A diffractive optical element (DOE) corrector for use with three different wavelengths includes a first diffractive element on a first surface of a first material, the first diffractive element diffracting a first wavelength of the three wavelengths, while directing a majority of light of second and third wavelengths of the three wavelengths into a zero-th order, and a second diffractive element on a second surface of a second material, the second material being different from the first material, the second surface being different from and in an optical path of the first surface, the second diffractive element diffracting the second wavelength, while directing a majority of light of the first and third wavelengths into a zero-th order.

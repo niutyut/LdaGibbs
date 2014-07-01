@@ -1,0 +1,4 @@
+title: Reproduced signal evaluation method, information recording medium, information reproducing apparatus, information reproducing method, and information recording method
+
+abstract: 
+This invention relates to a reproduced signal evaluation method of evaluating a reproduced signal reproduced from an information recording medium in which information composed of a plurality of codes differing in length is recorded and evaluates the reproduced signal on the basis of the reproduced signal of the next shortest code after the shortest code reproduced from the information recording medium.

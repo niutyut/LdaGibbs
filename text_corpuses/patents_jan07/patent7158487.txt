@@ -1,0 +1,4 @@
+title: Multimedia terminal for telephony allowing multipoint connections
+
+abstract: 
+A multimedia terminal for telephony based on the ITU-T Standard H.323 sets up multipoint connections to a plurality of other terminals. The multimedia terminal has a controller for processing signaling information for point-to-multipoint connections and has a mixer for mixing datastreams originating at the terminals involved in the multipoint connection and for providing datastream mixtures to these terminals.

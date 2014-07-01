@@ -1,0 +1,4 @@
+title: Radiographic image processing method, radiographic image processing apparatus, radiographic image processing system, program, computer-readable storage medium, image diagnosis assisting method, and image diagnosis assisting system
+
+abstract: 
+This invention provides a radiographic image processing method of processing a group of radiographs including a moving-state radiographic image consisting of a plurality of radiographs representing a moving state of an object. The method includes specifying a region of interest for a plurality of radiographs included in the group of radiographs, and outputting diagnosis assisting information for assisting in diagnosis based on the group of radiographs, in accordance with the specified region of interest.

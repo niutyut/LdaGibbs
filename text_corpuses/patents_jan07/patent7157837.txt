@@ -1,0 +1,4 @@
+title: Piezoelectric actuator
+
+abstract: 
+A piezoelectric actuator including two or more piezoelectric layers each of which is formed of a piezoelectric material and which are stacked on each other; three or more electrode layers which are stacked alternately with the piezoelectric layers; and one or more active portions each of which includes respective portions of the piezoelectric layers that are sandwiched by the electrode layers in a direction of stacking of the piezoelectric layers. Each active portion is expanded and contracted when an electric voltage is applied to the electrode layers. The piezoelectric layers include one or more first piezoelectric layers each having a first thickness, and one or more second piezoelectric layers each having a second thickness greater than the first thickness.

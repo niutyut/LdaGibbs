@@ -1,0 +1,4 @@
+title: Golf club head having improved grooves
+
+abstract: 
+A golf club head striking face is provided, including a plurality of grooves, wherein at least one groove has a first and second side. Each side includes a bottom, a lower section, and an upper section. The lower section is substantially planar and disposed between the bottom and the striking face. The upper section is substantially planar and disposed between the lower section and the striking face. A first draft angle is measured between the upper sections of the first and second sides, and a second draft angle is measured between the lower sections and the first and second sides, wherein the first draft angle is greater than the second draft angle. In addition, the distance between the first and second sides continuously increases from the bottom to the striking face.

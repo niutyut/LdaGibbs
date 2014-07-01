@@ -1,0 +1,4 @@
+title: Method and device for bending a glass sheet
+
+abstract: 
+A method for bending a sheet of glass involving heating the sheet of glass to a softening temperature, transporting the sheet of glass in an essentially horizontal path as far as a station for bending the sheet of glass between two forms, shaping the sheet of glass by pressing between the two forms, and cooling the sheet of glass in an appropriate station. Shaped rollers receive the sheet of glass after it has been bent and the rollers are oriented parallel to the direction defined on the sheet of glass by the direction in which it is conveyed into the bending station.

@@ -1,0 +1,4 @@
+title: Active DC output control and method for controlling targeted applications
+
+abstract: 
+A feedback control-loop system that employs an active DC output control circuit is disclosed which compares an input parameter measurement against a target specification associated with the input parameter measurement. In one embodiment, the active DC output control circuit receives an input signal for laser bias adjustment. In another embodiment, the active DC output control circuit receives a motor speed input from a source, such as a tachometer, for motor speed adjustment. In another embodiment, the active DC output control circuit receives an input power amplifier measurement for wireless applications.

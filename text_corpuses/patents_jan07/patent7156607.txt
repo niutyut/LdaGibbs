@@ -1,0 +1,4 @@
+title: Carton stacking apparatus and method
+
+abstract: 
+An apparatus for stacking incoming items includes a receiving mechanism for receiving incoming items, a stacking mechanism for receiving items from the receiving mechanism and stacking the items in a stacking area, a buffering mechanism for receiving incoming items when the stacking mechanism is full, and a stack unloading mechanism. Methods of operation include receiving an item in an item receiving mechanism, moving the item receiving mechanism to track the motion of a stacking mechanism, transferring the item from the receiving mechanism to the stacking mechanism, stacking the item in a stacking area, and unloading the stacking area when the stacking area is full of items.

@@ -1,0 +1,5 @@
+title: Handheld mobile communications device with a detachable printing mechanism and a slot for print media
+
+abstract: 
+A handheld mobile communications device comprising:
+

@@ -1,0 +1,4 @@
+title: Surface acoustic wave device having reflectors with both open and shorted electrodes
+
+abstract: 
+A surface acoustic wave device for implementing an attenuation characteristic outside of the pass band and the narrow band characteristics, preferably for use as a filter. The surface acoustic wave device includes a piezoelectric substrate, interdigital transducers formed on the piezoelectric substrate, and first and second reflectors disposed on the sides of the interdigital transducers. Each of the first and second reflectors includes an open electrode block with a plurality of electrically independent electrode fingers, and a short electrode block with a plurality of electrode fingers of which both ends are electrically shorted.

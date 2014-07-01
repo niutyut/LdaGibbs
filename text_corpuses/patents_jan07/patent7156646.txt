@@ -1,0 +1,4 @@
+title: Apparatus and method for handling lens carriers
+
+abstract: 
+Novel methods and apparatus are disclosed for handling carriers for soft contact lenses in a lens manufacturing system. In accordance with a first aspect of the invention, article handling devices are located beneath a pre-cure station and a curing station of the system to move lens carriers within those stations. Pursuant to a second aspect of the invention, in a preferred embodiment multiple sets of assemblies are provided for moving a multitude of lens carriers into, through, and out from the pre-cure station and the curing station. In accordance with a third aspect of the invention, the curing station is provided with an intelligent buffer.

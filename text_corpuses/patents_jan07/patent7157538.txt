@@ -1,0 +1,4 @@
+title: Covalently-bound, hydrophilic coating compositions for surgical implants
+
+abstract: 
+Covalently-bound, hydrophilic copolymer coatings for implants are disclosed. The copolymer coatings comprise a hydrophobic aryl acrylic monomer, a hydrophilic monomer selected from the group consisting of hydroxyalkyl (meth)acrylates, n-vinyl pyrrolidone and acrylamides, and a (meth)acrylamide reactive plasticizer.

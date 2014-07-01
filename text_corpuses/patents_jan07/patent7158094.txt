@@ -1,0 +1,4 @@
+title: Method and apparatus for supporting multiple displays
+
+abstract: 
+A method and apparatus for supporting multiple displays per a drawing surface begins by receiving capability parameters regarding a first display of the multiple displays. The capability parameters include resolution, pixel depth, and/or refresh rate. Typically, the first display will be the primary display associated with a video graphics card. The processing continues by substituting selected display capabilities for the capability parameters of the first display. The selected display parameters are such that it exceeds the display capability parameters of each display, or monitor, coupled to the video graphics card. The processing continues by providing the selected display capabilities to an operating system. The operating system then stores the selected display capabilities in the display register associated with a particular video graphics card.

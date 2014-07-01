@@ -1,0 +1,4 @@
+title: Method of fabricating pixel electrode in liquid crystal display
+
+abstract: 
+A method of fabricating a pixel electrode of a liquid crystal display uses an etchant that has low damage to metals to thereby enhance yields. In the method, a protective film covers a switching device, and a contact hole is defined at the protective film in such a manner to expose one electrode of the switching device. The pixel electrode, connected via the contact hole to the one electrode of the switching device, is formed on the protective film by using a low-temperature process in which a Hydrogen-containing gas is injected within a vacuum chamber. Accordingly, the etching process time can be shortened and damage to the metal can be virtually eliminated.

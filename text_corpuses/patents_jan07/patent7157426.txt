@@ -1,0 +1,4 @@
+title: Compositions and methods for enhanced mucosal delivery of Y2 receptor-binding peptides and methods for treating and preventing obesity
+
+abstract: 
+Pharmaceutical compositions and methods are described comprising at least one Y2 receptor-binding peptide, such as peptide YY(PYY), Neuropeptide Y (NPY) or Pancreatic Peptide (PP) and one or more mucosal delivery-enhancing agents for enhanced nasal mucosal delivery of the peptide YY, for treating a variety of diseases and conditions in mammalian subjects, including obesity.

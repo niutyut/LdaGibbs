@@ -1,0 +1,4 @@
+title: Intermission content
+
+abstract: 
+Method and apparatus to provide alternative content during an intermission in a main content experience. The method includes receiving a pause signal and starting a pause interval. When the pause interval exceeds a predetermined length, alternative content is provided to the user. A network termination unit receives the pause signal and includes a controller that ceases distribution of the main content and starts a timer to time the pause interval. The network termination unit has a content source that may include a local store of main content, alternative content, or both. It may also include a port operable to pull content from a content server.

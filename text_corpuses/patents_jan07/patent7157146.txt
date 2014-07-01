@@ -1,0 +1,4 @@
+title: Primer composition, coating method, and coated article
+
+abstract: 
+A primer composition comprises (A) a vinyl copolymer obtained through copolymerization of (a-1) a UV-absorbing vinyl monomer, (a-2) an alkoxysilyl group-containing vinyl monomer, and (a-3) another copolymerizable monomer, (B) a curing agent, and (C) a thermoplastic vinyl resin having a Tg of at least 80? C. Polycarbonate resin articles, when covered with an undercoat of the primer composition and an overcoat of an organopolysiloxane composition, exhibit improved transparency, mar resistance, weather resistance, and chemical resistance and find outdoor use as vehicle and building windows and windshields.

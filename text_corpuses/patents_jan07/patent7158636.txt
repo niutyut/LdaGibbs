@@ -1,0 +1,5 @@
+title: Multivariable cryptosystem
+
+abstract: 
+The invention relates to two cryptographic processes based on composition of multivariable maps: 1) low degree maps for asymmetric cryptographic communication process; 2) high degree maps for symmetric cryptographic communication process.
+The cryptographic process establishes a correspondence through either a low degree (asymmetric) or a high degree polynomial map (symmetric) between a first vector (X) represented by (x, x. . . , x) of a finite field (K) and a second vector (Y)=(y, y. . . , y) of the same field, n and m being integers not too small. The said polynomial map y=f(x, x. . . , x) is derived from composition of various nonlinear and linear maps. The novel elements for the asymmetric invention include the use of inseparable small variable maps with hidden equations, generalized de Jonquiere maps, and the combination of these maps with other maps. The novel elements of the symmetric invention include the efficient construction of high degree maps and the combination of various kinds of maps.

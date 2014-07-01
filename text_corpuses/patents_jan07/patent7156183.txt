@@ -1,0 +1,4 @@
+title: Electric hydraulic power unit and method of using same
+
+abstract: 
+An apparatus includes a housing defining a chamber therein and defining an inlet port and an outlet port and a movable pressure barrier, disposed in the chamber, separating the chamber into first and second portions, the inlet port and the outlet port being in fluid communication with the first portion of the chamber. The apparatus further includes a drive spring disposed in the second portion of the chamber for urging the movable pressure barrier in a pumping direction when in a compressed state, electric means for compressing the drive spring, and a return spring disposed in the first portion of the chamber for urging the movable pressure barrier in a recharging direction when the drive spring is in an uncompressed state.

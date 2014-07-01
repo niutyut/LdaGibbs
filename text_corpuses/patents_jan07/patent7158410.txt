@@ -1,0 +1,4 @@
+title: Integrated DRAM-NVRAM multi-level memory
+
+abstract: 
+An integrated DRAM-NVRAM, multi-level memory cell is comprised of a vertical DRAM device with a shared vertical gate floating plate device. The floating plate device provides enhanced charge storage for the DRAM part of the cell through the shared floating body in a pillar between the two functions. The memory cell is formed in a substrate with trenches that form pillars. A vertical wordline/gate on one side of a pillar is used to control the DRAM part of the cell. A vertical trapping layer on the other side of the pillar stores one or more charges as part of the floating plate device and to enhance the DRAM function through the floating body between the DRAM and floating plate device. A vertical NVRAM wordline/control gate is formed alongside the trapping layer and is shared with an adjacent floating plate device.

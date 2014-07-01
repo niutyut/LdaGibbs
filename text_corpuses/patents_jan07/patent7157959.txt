@@ -1,0 +1,4 @@
+title: Method of forming a self-gated transistor and structure therefor
+
+abstract: 
+In one embodiment, a self-gated transistor includes a sensing portion that generates a sense signal that is used to drive the self-gated transistor.

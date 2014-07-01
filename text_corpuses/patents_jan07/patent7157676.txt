@@ -1,0 +1,4 @@
+title: Device with a cooling unit for thermally clamping and releasing tools in shrink-fit chucks
+
+abstract: 
+A device () for thermally clamping and releasing tools () in shrink-fit chucks (), having a socket () for a shrink-fit chuck (), a heating unit () that can be moved toward and away from the mounted shrink-fit chuck (), and a cooling unit () for cooling the heated shrink-fit chuck (). The cooling unit () has at least one coolant distributor () that is capable of moving in relation to the socket () with the mountable shrink-fit chuck (), conveys a preferably fluid coolant, e.g. cooling water, and has outlets () for the coolant, which are oriented toward the socket () with the mountable shrink-fit chuck () and out of which the coolant travels under pressure to act on the outside of the socket () with the mountable shrink-fit chuck () for cooling purposes ().

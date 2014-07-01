@@ -1,0 +1,4 @@
+title: Composite fluid separator
+
+abstract: 
+A composite fluid separator for isolting a first liquid from a second liquid having a different specific gravity. A housing () encloses a separation chamber (). An inlet port () delivers the composite fluid into the sump () of the chamber. A plurality of stacked baffles () is positioned between the inlet and outlet ports, composed of individual inclined separation flow plates (). The baffles create a flow path in which the fluid flows over each of the plates as it travels upward in the separation chamber toward the outlet port ().

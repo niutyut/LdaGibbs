@@ -1,0 +1,4 @@
+title: Magnetic thin film and method of manufacturing the same
+
+abstract: 
+The magnetic thin film has high saturation magnetic flux density and superior soft magnetic characteristics. The magnetic thin film of the present invention comprises: a base layer being made of FeCo/NiFe; and a plated layer being formed on the base layer, the plated layer being made of FeCo.

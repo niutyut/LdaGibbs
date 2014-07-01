@@ -1,0 +1,4 @@
+title: Methods for machine detection of at least one aspect of an object, methods for machine identification of a person, and methods of forming electronic systems
+
+abstract: 
+Electronic systems including Si/Ge substrates. The electronic systems can include data storage devices and/or logic devices having active regions extending into a crystalline Si/Ge material. An entirety of the portion of an active region within the crystalline Si/Ge material can be within a single crystal of the material. The assemblies can be utilized for detecting properties of objects, and in particular aspects can be incorporated into assemblies utilized for identifying persons. The assemblies can be fabricated over a range of versatile substrates, including, for example, glass, alumina or metal.

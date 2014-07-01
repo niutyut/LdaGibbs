@@ -1,0 +1,4 @@
+title: Efficient echo cancellation techniques
+
+abstract: 
+Techniques to cancel echo utilizing reduced die space and reduced usage of a time shared processor.

@@ -1,0 +1,4 @@
+title: Copolymer having reactive silicon-containing group and organic-inorganic hybrid polymeric material
+
+abstract: 
+Disclosed is a copolymer comprising a polyethylene segment which is a main chain; a reactive silicon-containing group which is a side group of the polyethylene segment; and a polycondensation segment bonded to the polyethylene segment, which is a part of the main chain together with the polyethylene segment or a side chain with respect to the polyethylene segment. There are provided a condensation polymer having many reactive silicon-containing groups with respect to one molecule and an organic-inorganic hybrid polymeric material having superior properties such as strength, heat resistance, weather resistance and chemical resistance by using the polymer.

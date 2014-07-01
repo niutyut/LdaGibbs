@@ -1,0 +1,4 @@
+title: Apparatus for connecting to an electrical source
+
+abstract: 
+An apparatus is disclosed for connecting a power supply to an electronic device. The apparatus comprises a first case having an insertion opening and a plurality of terminal-receiving grooves extending outwardly from an inner circumference of the insertion opening. A second case is coupled to the first case to form a receiving space. A rotary member is rotatably inserted in the insertion opening and having slots formed on at least one surface to align with the terminal-receiving grooves of the first case when the rotary member is turned in a first direction in a predetermined angle. A plug terminal assembly installed in the rotary member. In a first state, the plug terminal assembly is positioned approximately vertically upward. In a second state, the plug terminal assembly collapses to an approximately horizontal position.

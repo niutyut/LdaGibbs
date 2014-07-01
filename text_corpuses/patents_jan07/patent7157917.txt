@@ -1,0 +1,4 @@
+title: Sensor cable having easily changeable entire length and allowing accurate and high speed signal transmission even when entire length is made longer, and amplifier-separated type sensor with the cable
+
+abstract: 
+A cable includes a first connector half holding a conductor terminal, a second connector half holding a conductor terminal, an electric cord electrically connecting the conductor terminal of the first connector half to the conductor terminal of the second connector half, and a waveform shaping circuit performing waveform shaping of a signal passing through the electric cord, and the first and second connector halves are structured to allow attachment to and detachment from each other.

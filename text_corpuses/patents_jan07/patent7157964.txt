@@ -1,0 +1,4 @@
+title: Multi-output switching amplifier
+
+abstract: 
+Apparatus and methods for driving multiple output stages with a single switching amplification modulator reduce system cost and complexity. The technique also addresses applications wherein one or more of several output stages of potentially differing output powers are desired at one time. That is, the switching drivers and loads can be the same or different.

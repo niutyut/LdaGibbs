@@ -1,0 +1,4 @@
+title: Valve lifter
+
+abstract: 
+A valve lifter, in which an amorphous hard carbon film is coated at least on the surface that slides against a cam, is characterized in that the surface of a base material (substrate) has an arithmetic mean roughness of Ra 0.01 to 0.03 micrometers, and the maximum length of the scratch on the base surface is made to be equal to or shorter than 250 micrometers.

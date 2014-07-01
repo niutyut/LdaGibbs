@@ -1,0 +1,4 @@
+title: C-axis driving device of a computer numerical controlled lathing and milling machine
+
+abstract: 
+A C-axis driving device of a computer numerical controlled (CNC) lathing and milling machine includes a spindle, an encoder, a spindle motor, and a servo motor. The spindle has a clamping device and a transmission portion. This encoder connects with the transmission portion via an auxiliary timing belt. The spindle motor and the servo motor connect with the transmission portion via at least one driving timing belt. Only at most one of the spindle motor and the servo motor is to drive this transmission portion at any time during operation. So, it has a simple structure to achieve the clutching change function. It can save more space. And, it can significantly reduce the manufacturing cost.

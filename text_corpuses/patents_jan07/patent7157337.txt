@@ -1,0 +1,4 @@
+title: Method of manufacturing a semiconductor device and semiconductor device obtained by means of such a method
+
+abstract: 
+Consistent with an example embodiment according to the invention, a material for the intermediate layer is chosen which can be selectively etched with respect to the dielectric layer. Before the deposition of the first conductor layer, the intermediate layer is removed at the location of the first channel region, and after the deposition of the first conductor layer and the removal thereof outside the first channel region and before the deposition of the second conductor layer, the intermediate layer is removed at the location of the second channel region. Thus, field effect transistors (FETs) are obtained in a simple manner and without damage to their gate dielectric. Preferably, a further intermediate layer is deposited on the intermediate layer which can be selectively etched with respect thereto.

@@ -1,0 +1,4 @@
+title: Pseudo I/O system and method
+
+abstract: 
+A pseudo I/O system and method, which can be configured at low cost and simulates an actual I/O device by making a connection to a device to be tested, is configured by a setting unit defining error contents of a simulation target and setting the contents in a setting file; a receiving unit receiving a command from a device to be tested; a pseudo I/O unit processing the command received by the receiving unit if contents corresponding to the command are set when referencing the setting file, and performing a normal reply process if the contents corresponding to the command are not set; and a transmitting unit returning data after being processed to the device to be tested at a request source.

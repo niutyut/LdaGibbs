@@ -1,0 +1,4 @@
+title: Clutch unit
+
+abstract: 
+In a clutch unit, an engagement of a dog clutch can be restricted until a revolution of an input shaft and the revolution of an output shaft correspond to each other so as to be suitable for the engagement. The engagement can be effected when the revolution of the input shaft and the revolution of the output shaft have corresponded so as to be suitable for the engagement. Accordingly, the revolution of the input shaft and the revolution of the output shaft are speedily synchronized, and engagement shocks of the dog clutch can be accurately suppressed. Hence, it is possible to reliably transmit the torque to be transmitted from the driving source to the wheel side through the reduction mechanism.

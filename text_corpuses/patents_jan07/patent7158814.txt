@@ -1,0 +1,4 @@
+title: Method and system for utilizing smart antennas establishing a backhaul network
+
+abstract: 
+A method and system for utilizing smart antenna in transmission of messages between nodes are disclosed. A wireless communication system includes a plurality of nodes, and each node is capable of being connected to each other node. At least a portion of the nodes are provided with a smart antenna configured to generate a plurality of directional beams. Each node maintains a list of other nodes and beam configuration information to be used in transmission of messages to other nodes. When a source node is required to transmit to a target node, the source node retrieves the beam configuration information and transmits with a directional beam directed to the target node.

@@ -1,0 +1,4 @@
+title: Rotary transmission leadthrough for fluid systems
+
+abstract: 
+A rotary transmission leadthrough for fluid systems is proposed, by means of which the mobility of a fluid system is increased and new fields of application can therefore be opened up. This is achieved according to the invention in that, in addition to a first rotor rotatable about a first rotation axis, a second rotor rotatable about a second rotation axis different from the first rotation axis of the first rotor is provided.

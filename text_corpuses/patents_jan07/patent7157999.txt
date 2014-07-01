@@ -1,0 +1,4 @@
+title: Low drift superconducting high field magnet system
+
+abstract: 
+The invention concerns a superconducting high-field magnet system () for a high-resolution magnetic resonance spectrometer, comprising a magnet coil () which is superconductingly short-circuited during operation, and generates a homogeneous temporally stable magnetic field during operation that meets the requirements for taking a high-resolution magnetic resonance spectrum. The magnet coil () comprises an LTS partial coil () and an HTS partial coil (). The LTS partial coil () can be separately short-circuited in a pure LTS circuit () via an LTS switch (), and the HTS partial coil () can be separately short-circuited in a pure HTS circuit () via an HTS switch () and both partial coils () are connected via an LTS-HTS joint () and are charged by the same power supply.

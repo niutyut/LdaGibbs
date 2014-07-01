@@ -1,0 +1,4 @@
+title: Interpenetrating polymer networks using blocked polyurethane/polyurea prepolymers for golf ball layers
+
+abstract: 
+The present invention is directed to a method of forming a golf ball that contains an interpenetrating polymer network, or IPN, which includes at least two polymeric systems, in one or more of the layers. The first polymeric system may include a polyurethane-based or polyurea-based system having blocked isocyanate groups and the second polymeric system may include an epoxy-based or acrylic-based system, wherein the two systems are polymerized or cured simultaneously or sequentially to form an IPN.

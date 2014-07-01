@@ -1,0 +1,4 @@
+title: Combustion process for synthesis of carbon nanomaterials from liquid hydrocarbon
+
+abstract: 
+The present invention provides a combustion apparatus for the production of carbon nanomaterials including fullerenes and fullerenic soot. Most generally the combustion apparatus comprises one or more inlets for introducing an oxygen-containing gas and a hydrocarbon fuel gas in the combustion system such that a flame can be established from the mixed gases, a droplet delivery apparatus for introducing droplets of a liquid hydrocarbon feedstock into the flame, and a collector apparatus for collecting condensable products containing carbon nanomaterials that are generated in the combustion system. The combustion system optionally has a reaction zone downstream of the flame. If this reaction zone is present the hydrocarbon feedstock can be introduced into the flame, the reaction zone or both.

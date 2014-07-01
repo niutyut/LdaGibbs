@@ -1,0 +1,4 @@
+title: Device for separating the epithelium layer from the surface of the cornea of an eye
+
+abstract: 
+An automated mechanical device separates the epithelial layer of a cornea from the cornea. The device includes a separator such as a plate, wire or dull blade. The device can preserve a separated epithelial layer as a disk without rupturing the disk and without substantial epithelial cell loss. The epithelial layer is separated from the cornea without cutting the cornea.

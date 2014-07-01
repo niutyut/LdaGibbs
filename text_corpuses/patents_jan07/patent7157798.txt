@@ -1,0 +1,4 @@
+title: Selective refractory metal and nitride capping
+
+abstract: 
+A method for creating a refractory metal and refractory metal nitride cap effective for reducing copper electromigration and copper diffusion is described. The method includes depositing a refractory metal nucleation layer and nitriding at least the upper portion of the refractory metal layer to form a refractory metal nitride. Methods to reduce and clean the copper lines before refractory metal deposition are also described. Methods to form a thicker refractory metal layer using bulk deposition are also described.

@@ -1,0 +1,4 @@
+title: Use of non-lithographic shrink techniques for fabrication/making of imprints masks
+
+abstract: 
+The present invention relates generally to photolithographic systems and methods, and more particularly to systems and methodologies that facilitate improved critical dimension (CD) control and the reduction of line-edge roughness (LER) during pattern line formation in an imprint mask. One aspect of the invention provides for forming features having CDs that are larger than ultimately desired in a mask resist. Upon application of a non-lithographic shrink technique, LER is mitigated and CD is reduced to within a desired target tolerance.

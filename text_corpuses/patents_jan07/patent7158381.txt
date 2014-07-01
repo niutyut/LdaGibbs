@@ -1,0 +1,4 @@
+title: Heat sink assembly and method of attaching a heat sink to an electronic device on a motherboard
+
+abstract: 
+A heat sink assembly is coupled to a motherboard and an electronic device on the motherboard. The heat sink assembly includes a heat sink with an opening extending through the heat sink, and a pin that extends through the motherboard and the opening in the heat sink to couple the heat sink to the electronic device and the motherboard. A member within the opening in the heat sink is positioned between the heat sink and the pin. A method of securing a heat sink to a motherboard and an electronic device on the motherboard includes thermally coupling a heat sink to an electronic device, securing the heat sink to a motherboard using a pin that extends through an opening in the heat sink, and positioning a member between the pin and the heat sink within the opening in the heat sink.

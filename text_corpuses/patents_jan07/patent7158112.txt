@@ -1,0 +1,4 @@
+title: Interactions between simulated objects with force feedback
+
+abstract: 
+A method and apparatus for providing force feedback to a user operating a human/computer interface device and interacting with a computer-generated simulation. In one aspect, a computer-implemented method simulates the interaction of simulated objects displayed to a user who controls one of the simulated objects manipulating a physical object of an interface device. The position of the simulated object, as provided within the simulation and as displayed, is mapped to the physical position of the user object. This mapping can be broken under conditions that are effective to provide force feedback to the user which imparts a physical sensation corresponding to the interaction of the simulated objects.

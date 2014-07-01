@@ -1,0 +1,4 @@
+title: Emergency interrupt system
+
+abstract: 
+An emergency interrupt system, for supplying emergency information to a person while using an electronic device, and monitoring the electronic device with a monitor device. The emergency interrupt system is connected between the electronic device and monitor device, and obtains an audible visual signal from the electronic device. The emergency interrupt system receives an emergency radio signal, decodes audio and visual emergency information therefrom, and composites said information with the audible visual signal. The user then monitors the composited information with the monitor device.

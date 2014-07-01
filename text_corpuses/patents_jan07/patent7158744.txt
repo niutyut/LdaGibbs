@@ -1,0 +1,4 @@
+title: Developing device, image forming apparatus, and image forming system
+
+abstract: 
+A developing device is provided with a developer bearing body for bearing developer that includes a release agent, and a charging member for charging the developer borne by the developer bearing body by abutting against the developer bearing body. The charging member is electrically conductive. The developer, which has been charged by the charging member, is used for developing a latent image borne by an image bearing body.

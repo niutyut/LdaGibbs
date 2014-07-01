@@ -1,0 +1,4 @@
+title: Memory device and method for forming a passivation layer thereon
+
+abstract: 
+A memory device with an improved passivation structure. The memory device includes a semiconductor substrate with memory units thereon, an interconnect structure over the surface of the semiconductor substrate to connect with the memory units, and a passivation structure over the surface of the interconnect structure. The passivation structure comprises a dielectric layer over the surface of the interconnect structure and a silicon-oxy-nitride (SiOxNy) layer over the surface of the dielectric layer.

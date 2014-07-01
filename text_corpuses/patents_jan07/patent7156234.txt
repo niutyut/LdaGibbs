@@ -1,0 +1,4 @@
+title: Sorting technique for recycle of device units
+
+abstract: 
+The sorting apparatus receives the electromagnetic wave from a storage element of a collected toner cartridge, and specifies the recyclability of the toner cartridge based on information extracted from the received electromagnetic wave. The sorting system then sorts out the toner cartridge, in order to send the toner cartridge to a selected one of the sorting areas, based on the results of the specification of recyclability of the toner cartridge, the feed roller, and the development roller. Subsequently, the sorting system controls one of sorting units to guide the toner cartridge to the selected sorting area and registers the results of sorting into a sorting database.

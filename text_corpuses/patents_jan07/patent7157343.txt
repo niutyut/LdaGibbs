@@ -1,0 +1,4 @@
+title: Method for fabricating semiconductor device
+
+abstract: 
+A method for fabricating a semiconductor device is provided. The method comprises: providing a substrate; forming a gate structure on the substrate, the gate structure including a gate dielectric layer on the substrate and a gate conductive layer on the gate dielectric layer; forming an oxide layer conformally covering the substrate and the gate structure; forming a dielectric layer covering the oxide layer; removing a portion of the dielectric layer to form a spacer on a sidewall of the gate structure, the oxide layer between the spacer and the gate structure as an oxide spacer; performing an oxygen plasma treatment process to form an silicon oxide layer in the substrate below the oxide layer, the silicon oxide layer and the oxide layer being an offset oxide layer; and forming a source/drain region in the substrate at two sides of the gate structure.

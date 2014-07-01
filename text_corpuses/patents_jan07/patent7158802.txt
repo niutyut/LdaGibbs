@@ -1,0 +1,4 @@
+title: Method and apparatus for providing a highly reliable ACK/NACK for time division duplex (TDD) and frequency division duplex (FDD)
+
+abstract: 
+An ACK/NACK method and system for use in time division duplex (TDD) and frequency division duplex (FDD) systems. In high speed downlink packet access (HSDPA), based on the assignment of timeslots for the high speed shared information channel (HS-SICH), each user equipment (UE) can be assigned two (2) different channelization codes. It is then possible to adopt the signaling convention that one code represents acknowledge error-free (Ack) and the other code shall represent acknowledge error condition (Nack). The Node B is able to distinguish the presence of the transmitted channelization code as opposed to the channelization code which is not transmitted. The probability of error, using this invention is an order of a magnitude smaller than if the Ack/Nack were signaled using typical modulation techniques.

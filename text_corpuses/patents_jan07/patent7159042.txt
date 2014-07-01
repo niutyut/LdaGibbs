@@ -1,0 +1,5 @@
+title: Method and device for communicating a message on a network and systems using them
+
+abstract: 
+The communication method concerns communication stations adapted to communicate with each other when a base station supplies a synchronisation signal to mobile stations synchronising on this signal.
+This method includes a request operation during which a first base station transmits, to a mobile station, a request for the storage in memory and transmission, by the mobile station, of a message, to a message destination communication station which is not synchronised with the first base station.

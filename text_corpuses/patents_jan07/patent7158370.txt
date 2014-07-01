@@ -1,0 +1,4 @@
+title: Integrated battery fusing device
+
+abstract: 
+An integrated battery fusing device for a battery system of the type used as a backup for powering telecommunications equipment. The fusing device includes a fusing assembly and a terminal plate arrangement that integrally mounts the fusing assembly to the battery system. The terminal plate arrangement includes a first connector for electrically coupling the fusing assembly to the battery system and a second connector for electrically coupling a battery cable to the fusing assembly.

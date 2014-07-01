@@ -1,0 +1,4 @@
+title: Electric power generating apparatus and related method
+
+abstract: 
+An electric power generating apparatus is provided with a fuel gas supply, an air supply source, an external reformer having a reformer section supplied with the fuel gas, a fuel cell stack, a heat exchanger section disposed to the external reformer, and an exhaust gas combusting section. The fuel cell stack has an electric power generating cell section, which is supplied with the fuel gas that results from the reformer section. The heat exchanger section achieves heat exchange between the air and the reformer section. The exhaust gas combusting section permits unburned fuel gas, which is supplied from the electric power generating cell section, and the air to be mixed and combusted to achieve heat exchange with respect to the fuel cell stack.

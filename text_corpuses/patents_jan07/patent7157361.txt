@@ -1,0 +1,4 @@
+title: Methods for processing integrated circuit packages formed using electroplating and apparatus made therefrom
+
+abstract: 
+An integrated circuit package is processed by electroplating the integrated circuit package. The electroplating is performed without forming plating traces on a conductive surface of a pad side of the integrated circuit package. Pad areas of the integrated circuit package are thus plated with one or more materials. An integrated circuit may be electrically coupled to pad areas on the integrated circuit package. The integrated circuit package can be electroplated by using the one or more current sources coupled to a back plane of the integrated circuit package. The back plane is patterned, wherein the patterning of the back plane occurs after the step of electroplating.

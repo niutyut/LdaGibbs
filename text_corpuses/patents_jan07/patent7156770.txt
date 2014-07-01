@@ -1,0 +1,4 @@
+title: Continuously variable transmission
+
+abstract: 
+A continuously variable transmission is disclosed for use in rotationally or linearly powered machines and vehicles. The single axle transmission provides a simple manual shifting method for the user. An additional embodiment is disclosed which shifts automatically dependent upon the rotational speed of the wheel. Further, the practical commercialization of traction roller transmissions requires improvements in the reliability, ease of shifting, function and simplicity of the transmission. The disclosed transmission may be used in vehicles such as automobiles, motorcycles, and bicycles. The transmission may, for example, be driven by a power transfer mechanism such as a sprocket, gear, pulley or lever, optionally driving a one way clutch attached at one end of the main shaft.

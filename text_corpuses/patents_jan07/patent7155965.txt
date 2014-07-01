@@ -1,0 +1,4 @@
+title: Method and system for determining combustion misfire of an internal combustion engine
+
+abstract: 
+A method and system for determining a combustion misfire in an internal combustion engine by calculating a segment time; normalizing the calculated segment time; modifying the normalized segment time using low pass filters for each cylinder; calculating a misfire determination reference value by adding a minimum value among the modified normalized segment times to a predetermined offset value; and determining whether a combustion misfire occurs based on a comparison of the modified normalized segment time and the misfire determination reference value.

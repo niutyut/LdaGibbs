@@ -1,0 +1,4 @@
+title: Peptides for enhanced cell attachment and growth
+
+abstract: 
+The present invention relates to cell adhesion promoting (?CAP?) peptide combinations that promote cell attachment or cell adhesion to culture surfaces that are otherwise cell adhesion resistant ?CAR?. The invention provides combination of peptides that, when covalently coupled to a CAR layer such as hyaluronic acid that has been created on a polystyrene surface, promote cell attachment, growth differentiation, and execution of other desired cellular functions in culture.

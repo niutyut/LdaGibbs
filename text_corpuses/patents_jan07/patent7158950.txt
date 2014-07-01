@@ -1,0 +1,4 @@
+title: Process for creating a financial plan for funding of college education
+
+abstract: 
+A computer-implemented process creates a financial plan for parental funding of a student's college education. The plan includes a variable life insurance policy, a schedule of estimated college loans to be applied for by the parent for each of the years of attendance by the student, consolidation loan recommendations for consolidation of the annual college loans, including monthly debt servicing amounts for the consolidation loan, and debt servicing recommendations for making withdrawals or loans against the accumulated value of the life insurance policy to pay at least some of the monthly debt servicing amounts of the consolidation loan.

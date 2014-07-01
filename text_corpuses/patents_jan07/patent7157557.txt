@@ -1,0 +1,4 @@
+title: Increased recovery of active proteins
+
+abstract: 
+The invention provides methods of increasing yields of desired conformation of proteins. In particular embodiments, the invention includes contacting preparations of a recombinant protein with a reduction/oxidation coupling reagent for a time sufficient to increase the relative proportion of a desired configurational isomer.

@@ -1,0 +1,4 @@
+title: Non-contact type engine start switch device
+
+abstract: 
+A switch device that improves reliability in starting an engine is provided. The switch device includes a push button, a magnetic sensor, and a power supply ECU. The push button is pressed by a driver to start the engine. The magnetic sensor detects that the push button has been pressed, in a non-contact manner. The power supply ECU is connected to the magnetic sensor and supplies power to the magnetic sensor to enable the magnetic sensor to detect that the push button has been pressed.

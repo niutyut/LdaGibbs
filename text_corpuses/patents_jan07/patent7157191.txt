@@ -1,0 +1,4 @@
+title: Single trench repair method with etched quartz for attenuated phase shifting mask
+
+abstract: 
+In accordance with the objectives of the invention a new method is provided for the repair of an attenuated phase shifting mask having a contact pattern. The invention etches a single trench in the quartz substrate of the phase shifter mask and removes the impact of a void in the phase shifter material. Alternatively, the invention provides for first conventionally restoring the original dimensions of a contact hole in which a pinhole is present and then etching a single or a double trench in the exposed substrate of the restored contact opening.

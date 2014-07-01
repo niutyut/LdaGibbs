@@ -1,0 +1,9 @@
+title: Process for preparing hydrogen peroxide
+
+abstract: 
+The present invention discloses a process for the production of hydrogen peroxide from hydrazine hydrate or hydrazine salt, represented by a general formula:
+
+NH.nX,
+
+wherein, X is HO, HSO, HNO, HCl, HBr, HI or CHCOOH; n is 0.5, 1 or 2; N is nitrogen; H is hydrogen; S is sulfur; Cl is chlorine; Br is bromine; and I is iodine, by its liquid phase oxidation with oxygen, using a solid catalyst comprising palladium but with or without halogen promoter, in an aqueous reaction medium with or without comprising a mineral acid and/or halide anions, which comprises:
+

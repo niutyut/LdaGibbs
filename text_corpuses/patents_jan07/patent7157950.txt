@@ -1,0 +1,4 @@
+title: Method and apparatus to construct a fifty percent (50%) duty cycle clock signal across power domains
+
+abstract: 
+Some microprocessors are designed such that the microprocessor core clock has a duty cycle of approximately fifty percent. When a clock signal propagates across power domains the clock signal pulse shape will change. The rising edges and falling edges of the clock signal will become asymmetrical (e.g., the duty cycle is no longer fifty percent). According to embodiments of the present invention, a parallel divide function is applied to a clock signal having a frequency f and its complement. The resulting four signals (i.e., f/2, its complement, f/2 at ninety degrees out of phase from f/2 and its complement) are applied to an XOR gate that combines them to generate a clock signal that has a duty cycle of approximately fifty percent and a frequency f, which is the same as the input clock signal.

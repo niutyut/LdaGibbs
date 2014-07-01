@@ -1,0 +1,4 @@
+title: Apparatus for injection molding articles
+
+abstract: 
+An improved injection molding apparatus having a valve-gated injection nozzle for regulating a flow of molten material through a connecting passageway to a mold cavity. An end portion of the valve stem is configured to cooperate with a complementary sealing portion of the connecting passageway, when the valve stem is configured in a closed position. The mold cavity further includes a vestige forming portion that is located adjacent the sealing portion that is partially defined by a bottom portion of the valve stem when it is configured in the closed position. The apparatus is characterized in that the vestige forming portion extends radially outwardly from the sealing portion such that a first cross-sectional area of the sealing portion is smaller than a second cross-sectional area of the vestige forming portion. Accordingly, tearing along the vestige of the part is substantially avoided.

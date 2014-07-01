@@ -1,0 +1,4 @@
+title: Multi-channel serdes receiver for chip-to-chip and backplane interconnects and method of operation thereof
+
+abstract: 
+A multi-channel serializing/deserializing (?serdes?) receiver, a method of operating the receiver and an integrated circuit configured as a serdes receiver. In one embodiment, the receiver includes: (1) a PLL-based central frequency synthesizer and (2) a plurality of channel-specific receivers coupled to the central frequency synthesizer, each of the plurality including a clock recovery system having a phase detector and a phase interpolator, the clock recovery system coupling the phase detector and the central frequency synthesizer.

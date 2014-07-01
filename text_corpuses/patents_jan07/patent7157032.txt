@@ -1,0 +1,4 @@
+title: Method and apparatus for making crystalline PET pellets
+
+abstract: 
+A method and apparatus for underwater pelletizing and subsequent drying of polyethylene terephthalate (PET) polymers and other high temperature crystallizing polymeric materials to crystallize the polymer pellets without subsequent heating. High velocity air or other inert gas is injected into the water and pellet slurry line to the dryer near the pelletizer exit. The slurry line has a substantially straight component, and air is preferably injected at the end of the straight component nearest the pelletizer exit and in a direction substantially coincident with the axis of the straight component. The air injection significantly increases the speed of the pellets into and out of the dryer such that the PET polymer pellets leave the dryer above at least 135? C., and preferably above 145? C., to self-initiate crystallization.

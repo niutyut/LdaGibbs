@@ -1,0 +1,4 @@
+title: Impact protection system for a door of a motor vehicle
+
+abstract: 
+An impact protection system is provided for a door of a motor vehicle and extends between upright door frames of a door body. On one side the impact protection system is connected with a hinge column by way of hinges and, on the other side, adjacent to a lock of the door, is connected with an additional column. The hinge column and additional column are integrated in a body structure of a body of the motor vehicle. In order to optimize this impact protection system, the lock is mounted on the latter and, in the closed condition of the door, an engaging device of the door interacts with a receiving device of a deformation device which is fastened to the additional column of the vehicle body structure.

@@ -1,0 +1,4 @@
+title: Ventricular rate stabilization
+
+abstract: 
+Techniques for stabilizing the rate of a ventricle, during conducted atrial fibrillation for example, adjust the escape interval of an implantable medical device to increase or decrease the pacing rate. In some embodiments, the escape interval is adjusted to achieve and maintain a percentage of pacing. In other embodiments, the stability of the ventricular rate is quantified as a function of measured R-R intervals, and the escape interval is adjusted to achieve and maintain a level of stability. In still other embodiments, a mean compensatory pause length is determined, and the escape interval is adjusted as a function of the mean compensatory pause length, to maintain the escape interval at or near the mean compensatory pause length.

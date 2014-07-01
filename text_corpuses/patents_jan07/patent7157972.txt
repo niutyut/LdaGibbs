@@ -1,0 +1,4 @@
+title: Common gate with resistive feed-through low noise amplifier
+
+abstract: 
+A radio-frequency amplifier is provided. The radio-frequency amplifier includes a transistor having an input terminal, an output terminal, a control terminal, and a transconductance g. A series-connected feed-through resistance Rand feed-through capacitance Cis connected in parallel with the input terminal and the output terminal of the transistor. A load resistance Ris connected to the output terminal. The control terminal of the transistor is biased at a fixed voltage. Part of the transistor noise follows the looped path through the feed-through resistor instead of passing on to the load, which reduces the noise figure of the amplifier. The value of g, Rand Rare chosen in a way to keep the input impedance of the amplifier matched to a well-defined signal source impedance.

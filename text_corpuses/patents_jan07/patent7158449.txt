@@ -1,0 +1,4 @@
+title: Electronic timepiece and electronic apparatus
+
+abstract: 
+An electronic timepiece includes a radio wave receiving antenna () for receiving radio waves, electromagnetic motors () for driving a time display part, a battery (), and a body case for receiving the antenna (), electromagnetic motors (), and the battery (). The antenna (), electromagnetic motors (), and the battery () do not overlap as viewed in the viewing direction of a time display part, that is, they do not overlap two-dimensionally. By such a structure, the electronic timepiece can be thin and flat.

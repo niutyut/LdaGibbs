@@ -1,0 +1,4 @@
+title: System and method for delivering thermally sensitive and reverse-thermal gelation materials
+
+abstract: 
+A catheter for injecting a thermally sensitive gelation material to remote sites within a patient's body by maintaining the thermally sensitive gelation material in a liquid state until it is delivered to a target area within the body.

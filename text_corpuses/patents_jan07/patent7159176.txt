@@ -1,0 +1,4 @@
+title: System and method for focused navigation within a user interface
+
+abstract: 
+A sequence of cards is stored that graphically represents available options within an information system. In response to a single user action, the sequence of cards is successively displayed within a focus area of the user interface. In response to a subsequent user action, the successive display is discontinued to display a particular card representing a selected option.

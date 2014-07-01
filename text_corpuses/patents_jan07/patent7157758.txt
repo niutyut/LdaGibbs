@@ -1,0 +1,4 @@
+title: Solid-state image sensing device and method of fabricating a solid-state image sensing device
+
+abstract: 
+A solid-state image sensing device is provided. In the device, a first floating p-type well and a second floating p-type well are disposed so as to overlap each other and are respectively provided in a light-receiving area and the area of a field effect transistor for light signal detection. A circular gate electrode is disposed so as to cover the overlapping section of the first floating p-type well with the second floating p-type well and is formed on an n-type channel doped layer.

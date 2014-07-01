@@ -1,0 +1,4 @@
+title: Implement with blade and sponge for cleaning glass sheet
+
+abstract: 
+An implement with blade () and sponge () for cleaning glass sheet, in which the sponge () is coupled to the implement by the undercut engagement (A) of a part of it in a seat () of the implement.

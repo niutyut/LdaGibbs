@@ -1,0 +1,4 @@
+title: Printing apparatus and method with a quiet mode
+
+abstract: 
+A printing apparatus drive control method is provided which allows the user to select a drive mode in which a printing apparatus can be operated with reduced operation noise whatever print mode is set, such as a fine print mode or a fast print mode, thus eliminating a problem of emitting noisy operation sound to surroundings late at night when a level of noise is comparatively low. One or more of a plurality of motors, which cause a plurality of driven portions in the printing apparatus, such as paper supply unit, main scan unit and paper feed unit, to perform predetermined operations, can be driven in a normal drive mode or a silent drive mode selectively.

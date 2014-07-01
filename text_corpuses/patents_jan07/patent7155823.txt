@@ -1,0 +1,4 @@
+title: Manufacturing inkjet printheads with large numbers of nozzles
+
+abstract: 
+A method of construction of an inkjet printhead having a large array of inkjet nozzle arrangements by defining a single inkjet nozzle arrangement for the ejection of ink from a single nozzle and utilizing a series of translations and rotations of the single inkjet nozzle arrangement to define all the inkjet nozzles of the inkjet print head. The utilizing step can comprise: initially forming those nozzles in a pod; forming a group of pods corresponding to each color utilized in the print head; forming a firing group of pods; forming a segment of the printhead; forming each segment of the print head. The inkjet nozzle arrangements can include a series of layers deposited and etch utilizing a mask.

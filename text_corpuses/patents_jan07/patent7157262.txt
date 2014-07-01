@@ -1,0 +1,4 @@
+title: Lipolytic enzymes
+
+abstract: 
+The present invention relates to a modified enzyme with lipolytic activity, a lipolytic enzyme capable of removing a substantial amount of fatty matter during a one cycle wash, a DNA sequence encoding said enzymes, a vector comprising said DNA sequence, a host cell harbouring said DNA sequence or said vector, and a process for producing said enzymes with lipolytic activity.

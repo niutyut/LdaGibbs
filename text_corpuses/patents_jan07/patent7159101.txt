@@ -1,0 +1,4 @@
+title: System and method to trace high performance multi-issue processors
+
+abstract: 
+A system and method for program counter and data tracing in a multi-issue processor is disclosed. Instructions are traced in program sequence order. In one embodiment instructions are traced in graduation order from a reorder buffer. The tracing mechanism of the present invention enables increased visibility into the hardware and software state of the processor core.

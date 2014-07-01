@@ -1,0 +1,4 @@
+title: Emergency alert system
+
+abstract: 
+A system for inputting conventional emergency alert messages into a digital subscriber television system. The method allows existing emergency alert equipment to interface with the digital system equipment in the headend of a digital subscriber television system. A unique identifier and the format of the digital emergency alert message allow the input of an emergency alert message and allow for a wide variety of optional data formats, system control options, and data storage options.

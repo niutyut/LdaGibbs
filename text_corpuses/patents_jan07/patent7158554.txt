@@ -1,0 +1,4 @@
+title: Methods and apparatus for regenerating fuels in a solid generator chemical oxygen iodine laser
+
+abstract: 
+A solid generator laser provides device simplicity and fuel regeneration without relying upon highly-corrosive or unstable fuels. The laser system includes a fuel supply system that provides a solid fuel to a laser. The laser processes the fuel products to produce at least a solid waste product and a gaseous waste product. A fuels regeneration system receives the solid and gaseous wastes at a reagent production system to replenish the fuel products in the fuel supply system. Rather than relying upon corrosive fuels such as BHP, then, the laser suitably processes solid peroxide (e.g. NaO) and a halide (e.g. hydrogen or deuterium halide) to form a salt, water and singlet delta oxygen that may be used to induce a lasing effect. The processes and structures described herein may be used, for example, with chemical oxygen iodine lasers and the like.

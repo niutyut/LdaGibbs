@@ -1,0 +1,4 @@
+title: Process for the production of middle distillates by hydroisomerisation and hydrocracking of two fractions from feeds originating from the fischer-tropsch process
+
+abstract: 
+A system comprising: a paraffin feed produced by the Fischer-Tropsch process is fractionable into at least three fractions: an intermediate fraction boiling between T and T T being in the range 120?200? C. and T being more than 300? C. and less than 410? C., a light fraction boiling below it and a heavy fraction boiling above it; at least a portion of the intermediate fraction is hydrotreated then at least a portion thereof is passed over an amorphous hydroisomerisation/hydrocracking catalyst; the heavy fraction is passed over an amorphous hydroisomerisation/hydrocracking catalyst with a conversion of 370? C.+ products into 370? C.? products of more than 80% by weight; the hydrocracked/hydroisomerised fractions are distilled to obtain middle distillates (kerosine, gas oil).

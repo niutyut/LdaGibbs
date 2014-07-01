@@ -1,0 +1,4 @@
+title: Human estrogen receptor-?
+
+abstract: 
+The present invention provides isolated nucleic acids encoding full-length human estrogen receptor-? (hER?), which comprises 530 amino acids. The invention also provides isolated hER? polypeptides and hER?-reactive antibodies, including those that specifically recognize amino acids 1?45 of hER?. The invention also encompasses methods for identifying hER?-interactive compounds, including agonists, antagonists, and co-activators.

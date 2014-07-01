@@ -1,0 +1,4 @@
+title: Method and system for coordinating data and voice communications via contact channel changing system
+
+abstract: 
+This invention (The Customer Contact Channel Changer) enables the integration of different Customer Contact Channels such as live call center ACD (Automatic Call Distribution) agents, ADSI (Analog Display Services Interface) enhanced IVR (Interactive Voice Response) systems and WWW (World Wide Web ) servers. The world wide web servers are used to allow customers with computer equipment to access information from an organizations databases in a self service mode. Frequently these customers have questions best answered by human ACD agents. With this invention the connection between the customer with the question and the agent with the answer is done quickly and efficiently with both parties sharing screens of common information. Also control is retained by the customer to make the call happen when they want it.

@@ -1,0 +1,4 @@
+title: Power supply for a cochlear implant
+
+abstract: 
+A power supply control system for use with a tissue stimulating prosthesis, such as a cochlear implant. The power supply control system comprises a first battery (), a second battery (), at least a third battery (), and a switching system (). The first and second batteries () are electrically connected in series to provide power to the prosthesis, while the third battery () is electrically connectable through the switching means () in parallel with either the first battery (). The third battery () is electrically connected by the control system in parallel with whichever one of said first battery () or said second battery () has lowest voltage.

@@ -1,0 +1,4 @@
+title: Light-emitting golf ball
+
+abstract: 
+A light-emitting golf ball for use in the dark, comprises a spherical body made from a transparent material with an outer casing, and light-emitting means containing chemiluminescent components made from a chemiluminescent material, which components emit light once they have been mixed with one another. The spherical body is provided with a cavity in which there are compartments which are separated from one another by a partition element. One of the chemiluminescent components is accommodated in each compartment. The partition element is of frangible design, in such a manner that an impact load exerted on the outer casing causes the partition element to break, after which the chemiluminescent components can mix with one another.

@@ -1,0 +1,4 @@
+title: Window timing adjustment for spiral bursts
+
+abstract: 
+A method for writing servo information onto a disk of a hard disk drive with a servo writer. The method includes writing a plurality of spiral servo signals with a head. The spiral servo signals are used to write servo patterns using at least one timing window. The timing window is adjusted using a position error signal generated from the spiral servo signals. The adjusted timing window is then used to write servo patterns onto the disk. Adjusting the timing window compensates for irregularities in the spiral servo signals.

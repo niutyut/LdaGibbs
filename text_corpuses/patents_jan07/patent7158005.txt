@@ -1,0 +1,4 @@
+title: Embedded toroidal inductor
+
+abstract: 
+A toroidal inductor, including a substrate (), a toroidal core region () defined within the substrate, and a toroidal coil including a first plurality of turns formed about the toroidal core region and a second plurality of turns formed about the toroidal core region. The second plurality of turns can define a cross sectional area () greater than a cross sectional area () defined by the first plurality of turns. The substrate and the toroidal coil can be formed in a co-firing process to form an integral substrate structure with the toroidal coil at least partially embedded therein. The first and second plurality of turns can be disposed in alternating succession. The toroidal core region can be formed of a substrate material having a permeability greater than at least one other portion of the substrate.

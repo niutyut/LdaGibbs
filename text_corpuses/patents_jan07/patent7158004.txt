@@ -1,0 +1,4 @@
+title: Integrated circuit inductors
+
+abstract: 
+The invention relates to an inductor comprising a plurality of interconnected conductive segments interwoven with a substrate. The inductance of the inductor is increased through the use of coatings and films of ferromagnetic materials such as magnetic metals, alloys, and oxides. The inductor is compatible with integrated circuit manufacturing techniques and eliminates the need in many systems and circuits for large off chip inductors. A sense and measurement coil, which is fabricated on the same substrate as the inductor, provides the capability to measure the magnetic field or flux produced by the inductor. This on chip measurement capability supplies information that permits circuit engineers to design and fabricate on chip inductors to very tight tolerances.

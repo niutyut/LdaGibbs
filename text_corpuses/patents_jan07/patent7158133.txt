@@ -1,0 +1,4 @@
+title: System and method for shadow rendering
+
+abstract: 
+A system and method for providing shadow information for 3D computer graphics objects on a display for a graphic computer system are disclosed. The 3D objects are processed only once and the rendering and shadow generation information is stored in memory. In a subsequent two-dimensional pass, the shadow information is used to provide the color value at each rendered pixel. Thus, the latency and the need for storage capacity due to the multiple 3D pass processing are eliminated.

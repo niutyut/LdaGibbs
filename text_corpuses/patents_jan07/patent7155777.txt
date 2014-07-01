@@ -1,0 +1,4 @@
+title: Closure mechanism for hinged devices
+
+abstract: 
+A closure mechanism for hinged devices having an upper member and a lower member. The closure mechanism includes a track disposed on the upper member and at least one support arm pivotally attached to the lower member. A biasing element is adapted to urge the support arm to engage the upper member and urge it to pivot to an open configuration. The arm includes a contact element that engages the track such that an upper end of the arm moves along the track as the upper member pivots to an open position. The arm includes a hook that engages a positive stop to prevent over-rotation of the arm. In other embodiments of the closure mechanism, the arm is pivotally attached to the upper member and moves against the lower member, and the biasing element extends between the arm and either the upper member or the lower member.

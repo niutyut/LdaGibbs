@@ -1,0 +1,4 @@
+title: Electronic identifier payment systems and methods
+
+abstract: 
+A payment service method and system involve a payment service provider, a customer/payor and a consumer provider/payee. The customer/payor enrolls in the service and is provided a unique identifier that enables the customer to conduct transactions with the payment service provider. The customer/payor interfaces with the payment service provider through various forms of communication, and can facilitate payments to the consumer providers/payees through the payment service provider while remaining anonymous.

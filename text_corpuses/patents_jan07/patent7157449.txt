@@ -1,0 +1,4 @@
+title: Medicament for the treatment of diseases caused by parasitic protozoa
+
+abstract: 
+The present invention relates to the use of an inhibitor of CTP synthetase, such as a glutamine analogue, and a substance capable of suppressing toxic effects thereof in vivo, in the manufacture of a medicament for the treatment of a disease caused by a parasitic protozoa. More specifically, said substance capable of suppressing toxic effects may be a nucleobase, such as a purine base or a nucleoside, while the glutamine analogue advantageously is 6-diazo-5-oxo-L-norleucine (DON). The invention also relates to a pharmaceutical composition as such for the treatment and/or prevention of a disease caused by a parasitic protozoa, wherein the disease is selected from the group consisting of malaria, leishmaniasis and trypanosomiasis, e.g. American trypanosomiasis (Chaga's disease), or African trypanosomiasis (African sleeping sickness).

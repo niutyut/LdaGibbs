@@ -1,0 +1,4 @@
+title: Surface light source for emitting light from two surfaces and double-sided display device using the same
+
+abstract: 
+A surface light source device includes a light-emitting element which generates light, and a light guide plate which, causes light emitted from the light-emitting element to be incident from an end face, causes the light to be reflected between opposite plate surfaces to guide the light along the plate surfaces and make the light emerge from the plate surfaces, and transmits light incident from one plate surface toward the other plate surface. A first optical element is placed on one plate surface side of the light guide plate, transmits part of light emerging from one plate surface of the light guide plate toward a front side, and returns the remaining light to a rear side. A second optical element is placed on the other plate surface side and transmits at least part of light emerging from the other plate surface side.

@@ -1,0 +1,4 @@
+title: Device for demountable assembly of the jib elements of a tower crane
+
+abstract: 
+The invention is concerned with the demountable assembly of latticework jib elements comprising upper and lower chords connected to one another by means of triangulation bars. In the region of the upper chords, there is provided an assembly by shackle, tenon and a connecting shaft, with abutment and relative positioning means. In the region of the lower chords, there are provided centering pegs and a locking assembly consisting of two connections spaced apart and having clamping and locking means. This device is used for assembling the jib elements and counterjib elements of tower cranes, in particular those having a jib without a masthead and without a tie.

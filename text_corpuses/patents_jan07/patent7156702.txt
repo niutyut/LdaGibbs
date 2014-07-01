@@ -1,0 +1,4 @@
+title: Connector
+
+abstract: 
+A connector includes a first housing, a second housing arranged on an upper face of the first housing, and a cover engaged to at least one of the first housing and the second housing so as to cover the upper face of the first housing and an upper face of the second housing. The first housing, the second housing and the cover are engaged to each other at a first engagement state and a second engagement state. A plurality of press contact terminals with wires are inserted into the first housing and the second housing respectively in the first engagement state. Spaces for allowing the insertion of crimp terminals into the first housing and the second housing respectively are formed between the first housing and the second housing and between the cover and the second housing in the first engagement state. The second housing and the cover are advanced into the spaces in the second engagement state.

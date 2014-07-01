@@ -1,0 +1,4 @@
+title: Steering system for boat
+
+abstract: 
+A steering system for a boat can include a main switch for turning power on and off, an emergency stop switch for stopping an engine, a steering wheel for operation by an operator, a steering wheel displacement sensor for detecting the operator's displacement of the steering wheel, a rudder device with an electric actuator for providing a force to move a rudder about a rotational shaft according to the detected steering wheel displacement, and a controller for outputting a signal to drive the electric actuator according to the detected steering wheel displacement. The controller can drive the electric actuator of the rudder device to return the rudder to its center position when the engine is stopped by the main switch or an auxiliary stop switch.

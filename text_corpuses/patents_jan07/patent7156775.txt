@@ -1,0 +1,4 @@
+title: Starting block with pedal markings
+
+abstract: 
+A starting block is used by a runner in a track event. The starting block contains a rail and a pair of foot pedal assemblies, one assembly connected to the left side of the rail and one assembly connected to the right side of the rail. Each foot pedal assembly contains a pad having a width of about five to twelve inches upon which the runner's foot is placed. Each pad contains markings along its width to enable the runner to place his feet at precisely the desired width.

@@ -1,0 +1,4 @@
+title: Wafer carrier pivot mechanism
+
+abstract: 
+A pivoting wafer carrier having a minimum of internal friction and a smooth, continuous pivoting motion. The pivot mechanism includes a lower ring mounted on a pressure plate, an upper ring mounted on a housing upper plate and ball transfer units disposed on the lower ring. Corresponding bearing wedges depend downwardly from the upper ring. As the pressure plate tilts during the polishing process, the load balls of the ball transfer units roll against the corresponding wedges, thus producing a smooth, continuous pivoting motion. A universal joint may be provided to the carrier to effect the rotation of the carrier and to aid the smooth, continuous pivoting motion of the wafer carrier.

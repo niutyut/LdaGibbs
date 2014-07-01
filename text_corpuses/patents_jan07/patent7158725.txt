@@ -1,0 +1,4 @@
+title: Saturable light absorber structure and a device incorporating the structure for regenerating a wavelength division multiplexed signal
+
+abstract: 
+The invention relates to a saturable light absorber adapted to receive different focused spectral components, wherein the structure of said saturable light absorber comprises microcavities integrated into a substrate and each associated with a respective one of said spectral components, each microcavity comprising a saturable absorber layer delimited by a top reflector and a bottom reflector and being disposed and having dimensions such that it receives only the focused spectral component associated with it.

@@ -1,0 +1,4 @@
+title: System for use in an assembly line
+
+abstract: 
+A transfer system () is comprised of an air conveyor (), a servo conveyor (), and a fan feeder (). In a typical configuration, the air conveyor is located at a first location where it receives packaged articles from a bagger system (). The servo conveyor () abuts the air conveyor () and extends to a second location adjacent to a destination point. The fan feeder () is located adjacent to the servo conveyor at an end opposite the air conveyor. The fan feeder lies over a bucket conveyor for a cartoner system.

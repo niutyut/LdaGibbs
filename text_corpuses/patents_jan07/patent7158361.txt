@@ -1,0 +1,5 @@
+title: Method and apparatus for regulating a current through an inductive load
+
+abstract: 
+The invention relates to a method and an apparatus for regulating a current through an inductive load, which can be connected to a power supply, to a prescribed nominal current value, where the method comprises the following method steps:
+

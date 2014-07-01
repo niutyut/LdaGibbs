@@ -1,0 +1,4 @@
+title: Portable metallizing spray booth
+
+abstract: 
+A bottom tray is supported by four wheels and is spaced apart from a bottom surface of a top frame member having two side walls and a back wall enclosing a grated work surface. A pair of pressurized tanks containing ingredients for metallizing an object are mounted under the side walls on the bottom tray. In addition, waste liquid tanks are positioned in a middle area of the bottom tray. Three spray guns are each attached by hoses to an air pressure source and a pressurized tank so that an operator can metallize an object by sequentially operating the spray guns.

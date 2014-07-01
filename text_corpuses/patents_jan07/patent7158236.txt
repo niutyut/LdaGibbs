@@ -1,0 +1,4 @@
+title: Heterodyne laser interferometer for measuring wafer stage translation
+
+abstract: 
+A system for measuring a displacement along a first axis includes an apparatus movable at least along a second axis perpendicular to the first axis, a measurement mirror mounted to the apparatus at an angle greater than 0? relative to the first axis, and an interferometer with a beam-splitter. The beam-splitter splits an input beam into a measurement beam and a reference beam, directs the measurement beam in at least two passes to the measurement mirror, and combining the measurement beam after said at least two passes and the reference beam into an output beam. At least exterior to the interferometer, the measurement beam travels in paths that are not parallel to the first axis.

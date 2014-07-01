@@ -1,0 +1,4 @@
+title: Stiffening frame for an integral tether and tearstop in an air bag door
+
+abstract: 
+An air bag door construction for air bag deployment comprises a trim panel and air bag door of unitary construction, at least a portion of the door defined by an area of reduced cross-section outlining at least a portion of the periphery thereof. One or more tethers are formed in the panel, outlined by an area of reduced cross-section, preferably in a dovetail shape which does not direct the propagation of tearing into the tether. A tear stop may be formed at the ends of the tether. The improvement comprises a stiffening frame that is attached to the backside and/or the topside of the panel just outboard of the air bag door periphery but not located across the tethers to improve deployment performance.

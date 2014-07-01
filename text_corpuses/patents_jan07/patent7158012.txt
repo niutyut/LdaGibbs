@@ -1,0 +1,4 @@
+title: Non-invasive powerline communications system
+
+abstract: 
+A non-invasive powerline communications system includes: means for generating communication signals at a first location for transmission on a powerline; means for reactively coupling the communication signals to the powerline; and means for receiving said communication signals at a second location.

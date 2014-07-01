@@ -1,0 +1,4 @@
+title: Device for opening the throat of an envelope in an insertion station
+
+abstract: 
+An envelope insertion station having a plurality of actuating arms affixed to a rotatable shaft and a plurality of fingers pivotably mounted on the actuating arms for opening the throat of an envelope placed at an insertion area. The actuating arms are movable from a first position to a second position and then to a third position. When the actuating arms are in the first position, the fingers are freely pivotable so as to allow the envelope to be moved into the insertion area. When the actuating arms are in the second position, the fingers are caused to move along a defined path into the throat of the envelope placed at the insertion area. When the actuating arms are in the third position, the fingers are freely pivotable so as to allow enclosure material to move into the envelope through the throat.

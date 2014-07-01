@@ -1,0 +1,4 @@
+title: MAGE-A1 peptides presented by HLA class II molecules
+
+abstract: 
+The invention provides isolated HLA DRB1*15-binding peptides consisting of the amino acid sequence set forth as SEQ ID NO:7 with 0?10 amino acids added to either or both ends of the amino acid sequence set forth as SEQ ID NO:7, and an endosomal targeting signal comprising an endosomal targeting portion of human invariant chain Ii or LAMP-1.

@@ -1,0 +1,4 @@
+title: Precision surface measurement
+
+abstract: 
+A test surface of a test object is measured with respect to a reference surface to generate a first relative surface measurement, where the test surface is in a first position relative to the reference surface. The test surface is measured with respect to the reference surface to generate a second relative surface measurement, where the test surface is in a second position relative to the reference surface different from the first position. Estimates of a rotationally varying part of a measurement of the test surface and a rotationally varying part of a measurement of the reference surface are provided. An estimate of a rotationally invariant part of the measurement of the test surface is calculated at a plurality of radial values based on a combination of the relative surface measurements, the provided estimates, and a difference between the first and second relative positions.

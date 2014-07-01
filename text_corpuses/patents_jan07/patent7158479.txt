@@ -1,0 +1,4 @@
+title: Method and apparatus for non contiguous sliding window
+
+abstract: 
+A method that limits data flow between two network nodes to an amount within a window where a first portion of data within a first segment of the window is separated from a second portion of data within a second segment of the window by a third portion of data not within the window.

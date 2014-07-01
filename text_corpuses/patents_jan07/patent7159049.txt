@@ -1,0 +1,4 @@
+title: Memory management system including on access flow regulator for a data processing system
+
+abstract: 
+A memory management system adapted to process large data files. The system has a plurality of low storage capacity high speed memories and a lower speed high storage capacity bulk memory. An access flow regulator generates requests for the reading and writing of data files by the memories. Large data files have a first part and an excess portion. Both parts of each file are written into the high speed memories. The excess portion of each file is immediately transferred from the high speed memories to the bulk memory while leaving the first part in the high speed memories. In read operations, the first part is read from the high speed memories. The excess portion is transferred from the bulk memory to the high speed memory in a burst mode and then read from the high speed memories.

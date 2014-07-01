@@ -1,0 +1,4 @@
+title: Multi-layered macromolecules and methods for their use
+
+abstract: 
+Multi-layered macromolecules wherein the layers are covalently bonded together and wherein the macromolecules are covalently bonded to solid particulate substrates, methods for the preparation of such compositions, and methods for their uses in a multitude of end use applications ranging from the purification of waste chemical and metal process streams to the separation and identification of proteins, peptides, and oligionucleotides.

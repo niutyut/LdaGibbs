@@ -1,0 +1,4 @@
+title: Test object for calibration of imaging measurements of mammalian skeletal joints
+
+abstract: 
+The invention provides a test device or ?phantom? for use in conjunction with medical imaging modalities. In one embodiment, the phantom replicates the attenuation and absorption properties of joint articular cartilage. The phantom is useful for quality assurance of images of joints obtained using an array of medical imaging modalities.

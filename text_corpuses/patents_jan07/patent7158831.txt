@@ -1,0 +1,4 @@
+title: Method and apparatus for cardiac pacing with variable safety margin
+
+abstract: 
+A cardiac pacemaker in which a variable safety margin with respect to a capture threshold is employed in delivering pacing pulses. The safety margin of a pacing pulse is made to vary in accordance with the pattern of preceding intrinsic and paced beats. The pacing pulse energy is thereby maintained at a more optimum value with respect to the capture threshold.

@@ -1,0 +1,4 @@
+title: Extracellular serine protease
+
+abstract: 
+The present invention provides a DNA encoding a novel extracellular serine protease termed Tumor Antigen Derived Gene-14 (TADG-14) which is overexpressed in ovarian, breast and colon carcinoma samples. Also provided are vector and host cells capable of expressing the DNA of the present invention, as well as the uses of the DNA and protein of the present invention.

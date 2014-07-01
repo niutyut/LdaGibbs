@@ -1,0 +1,4 @@
+title: Digital image processing device
+
+abstract: 
+A low-cost digital image processing device constructed by using a simplified circuit is provided which is capable of reducing an amount of data of an image to be stored in a frame memory and of being applied to a display panel with a desired level of a resolution. In the digital image processing device, a video input signal is processed in a signal processing unit and is stored in a frame memory as image data. The frame memory is installed to play a role as, for example, a double buffer to smooth out transfer speed discrepancies between a video input signal and a video output signal. Dummy data is embedded in an image data read from the frame memory by a redundant pixel embedding section and the image data is fed to a display panel as a video output signal.

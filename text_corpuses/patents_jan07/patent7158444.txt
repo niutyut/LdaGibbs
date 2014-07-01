@@ -1,0 +1,4 @@
+title: Semiconductor memory device
+
+abstract: 
+A semiconductor memory device comprises a memory cell array and a control circuit. The memory cell array has a plurality of memory cells arranged in rows and columns. The memory cells store data and are selected according to address signals. The control circuit is configured to receive a clock signal and a first control signal, and output a plurality of data in response to the clock signal after the first control signal is asserted. After the first control signal is asserted, an internal signal which responds to the clock signal transits N times (N is a positive integer and greater than or equal to 2), then output of the data is started. At least one of the data is output at the transition after the output begins.

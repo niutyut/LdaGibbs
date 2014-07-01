@@ -1,0 +1,4 @@
+title: Air intake device for engine
+
+abstract: 
+An air intake device for an engine has a cleaner element. A housing encloses the cleaner element. The housing communicates with the engine downstream of the cleaner element. The housing has an intake section disposed upstream of the cleaner element. The intake section defines an air passage that has a plurality of inlet openings through which ambient air is introduced into the air passage. The inlet openings communicate with each other upstream of the cleaner element. The cleaner element faces the air passage.

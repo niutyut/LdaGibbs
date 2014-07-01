@@ -1,0 +1,4 @@
+title: Method and system for comprehensive evaluation of orthodontic treatment using unified workstation
+
+abstract: 
+A method and workstation for evaluation of an orthodontic treatment plan for a patient. The workstation is based on a computing platform having a graphical user interface, a processor and a computer storage medium containing digitized records pertaining to a patient including image data (3D image data and/or 2D image data). The workstation further includes a set of software instructions providing graphical user interface tools by which the user can create a proposed treatment plan (proposed position of the teeth at the end of treatment) in three dimensions. The workstation also provides tools for evaluation of the proposed treatment plan.

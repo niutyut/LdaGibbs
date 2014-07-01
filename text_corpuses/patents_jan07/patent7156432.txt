@@ -1,0 +1,4 @@
+title: Operator catch cartridge assembly for a door handle set
+
+abstract: 
+A handle set includes an operator having a retention slot. A chassis is provided for mounting the operator. The chassis includes a sleeve having a bore, and an opening extending through the sleeve to the bore. An operator catch cartridge assembly is configured for mounting to the chassis via the opening. The operator catch cartridge assembly includes a housing defining a guide channel. An operator catch is positioned in the guide channel for sliding engagement with the housing. A biasing member biases the operator catch with respect to the housing. The operator catch engages the retention slot in the operator when the operator is received over the sleeve of the chassis.

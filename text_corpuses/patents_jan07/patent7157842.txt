@@ -1,0 +1,4 @@
+title: Image display medium ribs, production process thereof, and image display medium using the ribs
+
+abstract: 
+Ribs for an image display medium, which ribs can be retained between a pair of substrates. These image display medium ribs are formed by liquid injection molding (LIM molding), utilizing a heat-curable epoxy resin. In addition, the image display medium ribs are formed so as to have a cell-form arrangement.

@@ -1,0 +1,4 @@
+title: Electrolyzing electrode and production method therefor and electrolysis method using electrolyzing electrode and electrolysis solution producing device
+
+abstract: 
+There are provided an electrode for electrolysis which takes into consideration safety to human bodies and environmental pollution upon disposal of the electrode, produces ozone with high efficiency and has excellent durability, a production process of the electrode, and an active oxygen producing device using the electrode. In an electrode  for electrolysis which has an electrode catalyst at least on the surface and produces ozone or active oxygen in for-treatment water by electrolysis, the electrode catalyst contains a dielectric which constitutes more than 70% of the surface area of the electrode catalyst.

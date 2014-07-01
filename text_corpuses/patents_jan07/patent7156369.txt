@@ -1,0 +1,4 @@
+title: Valve control device
+
+abstract: 
+The device () comprises a support structure () in which at least a first opening () is defined, a shutter () which is mounted for piloting in that structure () and which is adapted to take up a least a first and a second angular position, in which it closes and opens at least partially the first opening () of the structure (), respectively, and an actuator device () which is capable of bringing about a controlled angular movement of the shutter () relative to the support structure ().

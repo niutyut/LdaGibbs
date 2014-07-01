@@ -1,0 +1,4 @@
+title: Optical bio-discs and fluidic circuits for analysis of cells and methods relating thereto
+
+abstract: 
+The present invention is directed to optical bio-discs, methods, and optical disc drives for clinical diagnostics. The present invention is further directed to methods for determining the quantity of a specific type of blood cell in a biological sample including on-disc sample preparation and processing, providing a pre-processed sample onto a capture zone, removing portions of the sample that are not bound in the capture zone, and counting bound cells. Also disclosed are fluidic circuits for processing blood samples for use in a cluster designation marker assay in the optical bio-disc.

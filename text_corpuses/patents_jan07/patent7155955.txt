@@ -1,0 +1,4 @@
+title: Crimping assembly
+
+abstract: 
+A crimping assembly is disclosed. The assembly includes cam profiles on the ends of the arms. The cam profiles are engaged by the crimping tool and control the input force versus displacement of the tool. The cam profile includes a first portion defined by a radius, a second portion adjacent the first portion and defined by a non-linear equation, and a third portion adjacent the second portion and defined by a linear equation. The assembly further includes a passive mode of failure in the side plates. The arms of the assembly have a hardness greater than the side plates and have a maximum section height at their point of rotation for increasing their strength. The assembly further includes a leaf spring disposed between the arms and held therebetween by pins disposed in holes defined in the sides of the arms. A crimp ring having an increased diameter is disclosed for reducing the crimping force required to crimp 3-inch fittings.

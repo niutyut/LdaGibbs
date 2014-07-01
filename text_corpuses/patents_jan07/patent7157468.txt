@@ -1,0 +1,9 @@
+title: Pyrazole derivatives
+
+abstract: 
+This invention relates to pyrazole derivatives of formula (I)
+
+
+or pharmaceutically acceptable salts, solvates or derivative thereof, wherein Rto R, n W, X and Y are defined in the description, and to processes for the preparation thereof, intermediates used in their preparation of, compositions containing them and the uses of such derivatives.
+
+The compounds of the present invention bind to the enzyme reverse transcriptase and are modulators, especially inhibitors thereof. As such the compounds of the present invention are useful in the treatment of a variety of disorders including those in which the inhibition of reverse transcriptase is implicated. Disorders of interest include those caused by Human Immunodificiency Virus (HIV) and genetically related retroviruses, such as Acquired Immune Deficiency Syndrome (AIDS).

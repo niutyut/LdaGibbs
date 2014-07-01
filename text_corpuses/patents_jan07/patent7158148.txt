@@ -1,0 +1,4 @@
+title: Display equipment, display method, and recording medium for recording display control program
+
+abstract: 
+A three-times magnified pattern of a central target pixel and horizontally contiguously adjacent sub-pixel patterns next thereto are determined on the basis of a reference pattern that has a rectangular profile and further that consist of eight-neighboring pixel about the target pixel. The determined three-times magnified pattern is allocated to three sub-pixels that form the target pixel. The determined sub-pixel patterns are allocated to horizontally adjacent sub-pixels next to the target pixel. As a result, a black area defined by the target pixel is displaced rightward by an amount of a sub-pixel without any change in black area size that corresponds to three sub-pixels. This feature inhibits a variation in output image density, which otherwise would conspicuously occurs as a result of a varied object line width.

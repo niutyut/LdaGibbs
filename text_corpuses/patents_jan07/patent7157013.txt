@@ -1,0 +1,4 @@
+title: Filtration method
+
+abstract: 
+A method of filtering contaminants from a chemical process stream is disclosed. The method includes a step of passing the process stream over a filtration medium including a plurality of discrete filtration elements, each element having parallel first and second faces and a multi-cellular structure of substantially uniform parallel channels running from the first face to the second face. The cross-sectional shape of the channels preferably defines a polygon having angles less than or equal to 90?.

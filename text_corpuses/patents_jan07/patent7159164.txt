@@ -1,0 +1,4 @@
+title: Method and apparatus for recovery of particular bits of a frame
+
+abstract: 
+A method and an apparatus for recovery of particular bits in a frame are disclosed. An origination station forms a frame structure with groups of information bits of different importance. All the information bits are then protected by an outer quality metric. Additionally, the groups of more important information bits are further protected by an inner quality metric; each group having a corresponding quality metric. The frame is then transmitted to a destination station. The destination station decodes the received frame and decides, first in accordance with the outer quality metric, whether the frame has been correctly received, or whether the frame is erased. If the frame has been declared erased, the destination station attempts to recover the groups of more important information bits in accordance with the corresponding inner quality metrics.

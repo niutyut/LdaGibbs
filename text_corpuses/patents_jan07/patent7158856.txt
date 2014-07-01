@@ -1,0 +1,4 @@
+title: Apparatus for enabling part picking in a manufacturing facility
+
+abstract: 
+An apparatus for enabling part picking in a manufacturing facility comprises a conveyor  for transporting containers each bearing a barcode defining a plurality of parts to be placed in the container and, disposed at intervals along the conveyor, a plurality of barcode readers , a plurality of part storage racks , and a plurality of display screens . A control system  can selectively assign the code readers, storage racks and display screens to one or more zones each including at least one active barcode reader, at least one active display screen and at least one storage rack. In operation the control system displays on at least one display screen of each zone the parts to be picked from the at least one storage rack according to the barcode read by the at least one active scanner.

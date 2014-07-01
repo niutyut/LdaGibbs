@@ -1,0 +1,4 @@
+title: Repairable block redundancy scheme
+
+abstract: 
+A scheme for block substitution within a flash memory device is disclosed which uses a programmable look-up table to store new addresses for block selection when certain input block addresses are received. The new addresses are loaded into a programmable fuse latch each time an address transition is detected in the input address. The new addresses may contain block addresses or block and bank addresses.

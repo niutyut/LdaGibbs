@@ -1,0 +1,4 @@
+title: Semiconductor device with suppressed copper migration
+
+abstract: 
+A semiconductor device having: a semiconductor substrate; a plurality of circuit regions formed on the semiconductor substrate, the circuit regions including circuits driven at multiple supply voltages; interlayer insulating film or films formed above the semiconductor substrate; copper wirings buried in the interlayer insulating film or films, a minimum wiring spacing between adjacent wirings in a same layer so that an electric field between adjacent wirings due to an applied voltage difference is set to 0.4 MV/cm or lower; and a copper diffusion preventive film formed on the interlayer insulating film, covering an upper surface of the copper wirings. A semiconductor device is provided which has copper wirings capable of realizing a high reliability in a long term, basing upon newly found knowledge of time dependent failure rate of wiring.

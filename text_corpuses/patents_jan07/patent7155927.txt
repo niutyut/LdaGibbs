@@ -1,0 +1,4 @@
+title: Exhaust heat utilizing refrigeration system
+
+abstract: 
+There is provided an exhaust-heat using refrigerating system which can add the function of refrigerant heater, condenser or super-cooler by using exhaust heat. The system comprises a heat pump apparatus  equipped with a compressor , a first heat exchanger  a pressure-reducing device  and a second heat exchanger  and an absorption type refrigerating machine  equipped with a regenerator  using exhaust heat as a heat source, a condenser  an evaporator  and an absorber  A third heat exchanger  is connected to the first heat exchanger  in parallel, and the heat source of the third heat exchanger  is achieved from the evaporator  of the absorption type refrigerating machine.

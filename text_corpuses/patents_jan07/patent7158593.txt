@@ -1,0 +1,4 @@
+title: Combining a clock signal and a data signal
+
+abstract: 
+A method of transmitting data in a system including at least one data channel and a separate clock channel is disclosed. The method involves combining a clock signal to be transmitted on the clock channel with a data signal to generate a combined clock and data signal. In one embodiment, the data signal has been generated from data words using an encoding scheme that shifts an energy spectrum of the data signal away from an energy spectrum of the clock signal. In another embodiment, the clock signal has a plurality of pulses each having a front edge and a back edge, and the data signal is modulated onto the clock signal by moving at least one edge (i.e. front or back or both) of the plurality of pulses, thereby to create a combined clock and data signal.

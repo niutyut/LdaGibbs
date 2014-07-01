@@ -1,0 +1,4 @@
+title: UV induced oxidation of nitric oxide
+
+abstract: 
+Nitric oxide in a gaseous stream is converted to nitrogen dioxide using oxidizing species generated at least in part using in situ UV radiation sources. The sources of the oxidizing species include oxygen and/or hydrogen peroxide. The oxygen may be a component of the gaseous stream or added to the gaseous stream, preferably near a UV radiation source, and is converted to ozone by the UV irradiation. The hydrogen peroxide is decomposed through a combination of vaporization and UV irradiation. The hydrogen peroxide is preferably stored at stable concentration levels, i.e., approximately 50% by volume, and increased in concentration in a continuous process preceding vaporization within the flow channel of the gaseous stream and in the presence of the UV radiation sources.

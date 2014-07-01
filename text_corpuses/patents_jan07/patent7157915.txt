@@ -1,0 +1,4 @@
+title: Combined characterization and inversion of reservoir parameters from nuclear, NMR and resistivity measurements
+
+abstract: 
+A method of determining the distribution of shales, sands and water in a reservoir including laminated shaly sands using vertical and horizontal conductivities derived from nuclear, NMR, and multi-component induction data such as from a Multicomponent Induction Logging Tool

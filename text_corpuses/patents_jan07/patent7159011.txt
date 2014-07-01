@@ -1,0 +1,4 @@
+title: System and method for managing an online message board
+
+abstract: 
+A database management system employs a number of community and customized software search robots. The robots interact with subscribers to access, retrieve and post content according to content groupings and classifications that reflect the collective shared interests, desires, etc. of such subscribers. A user query interface is also adapted to facilitate searching and review of the content through predefined and customized filtering parameters.

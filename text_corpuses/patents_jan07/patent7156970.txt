@@ -1,0 +1,4 @@
+title: Distributed multi-segmented reconfigurable traveling wave grids for separation of proteins in gel electrophoresis
+
+abstract: 
+Various traveling wave grids and electrophoretic systems, and electrode assemblies using such grids, are disclosed. A configuration in which a voltage potential is used to load a biomolecule sample against a grid is disclosed. A unique strategy of using multiple, reconfigurable grids in such systems is also described. The strategy involves initially conducting a broad protein separation and then selectively tailoring one or more grids, and conducting one or more secondary processing operations. Related strategies and specific methods are additionally disclosed for separating samples of biomolecules and components thereof using the noted systems, assemblies, and grids.

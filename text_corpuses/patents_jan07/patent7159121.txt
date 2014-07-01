@@ -1,0 +1,4 @@
+title: Transmission of information to a reproduction device having user identification by organism information of a specified type
+
+abstract: 
+In a printing system, an information reception apparatus, such as a printer or the like, is allowed to more assuredly identify a specific user by using organism information of the user. Fingerprint readers read a fingerprint pattern of the user as image data. Pointing device including a keyboard, a mouse and the like is used when forming or editing print data. The print data and the fingerprint pattern subjected to encryption are transmitted from a computer to the printer via a data transmission channel. The fingerprint pattern transmitted from the computer is decoded. After authenticating the user by performing matching between the decoded fingerprint pattern and the fingerprint pattern read by the fingerprint reader, the print data is printed.

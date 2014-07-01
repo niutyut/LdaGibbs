@@ -1,0 +1,4 @@
+title: Method and apparatus for controlling power of a transmitted signal
+
+abstract: 
+In the method and apparatus of controlling power of a transmitted communication signal, a communication signal is amplified and transmitted. At least one parameter on the transmitted signal is received, and a measure of interference with the transmitted signal is determined based on the received parameter. An average power level of the communication signal is increased by clipping the communication signal prior to amplification by an amount based on the determined measure.

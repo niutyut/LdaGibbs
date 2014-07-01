@@ -1,0 +1,4 @@
+title: Method of calibrating an engraving machine
+
+abstract: 
+A method of calibrating a gravure engraving machine includes the steps of providing an engraving signal to the engraving machine to cause production of a cell, measuring the volume of the cell, comparing the measured cell value to a predetermined cell volume and adjusting the engraving cell in accordance with the comparison.

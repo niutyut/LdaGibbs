@@ -1,0 +1,4 @@
+title: Humidifier
+
+abstract: 
+A humidifier includes a hollow-fiber-membrane module shaped tubular and a support configured to axially slideably support the module.

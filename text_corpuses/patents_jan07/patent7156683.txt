@@ -1,0 +1,4 @@
+title: System and method for push-push cable connection
+
+abstract: 
+A networking cable connects and disconnects with an information handling system port through activation of a push-push latch. A first push of the cable's connector, such as a RJ-45 connector, into a port engages the push-push latch to secure the cable in the port. A second push of the cable's connector into the port releases the push-push latch to allow removal of the cable from the port. A cable connector having a clip avoids engagement of the clip with the port by openings of the port and latch that are aligned with the clip. A biasing mechanism provides a biasing force against the cable connector to aid in removal of the cable from the port.

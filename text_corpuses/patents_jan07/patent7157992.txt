@@ -1,0 +1,4 @@
+title: Systems and methods for blocking microwave propagation in parallel plate structures
+
+abstract: 
+Systems and methods are taught for blocking the propagation of electromagnetic waves in parallel-plate waveguide (PPW) structures. Periodic arrays of resonant vias are used to create broadband high frequency stop bands in the PPW, while permitting DC and low frequency waves to propagate. Some embodiments of resonant via arrays are mechanically balanced, which promotes improved manufacturability. Important applications include electromagnetic noise reduction in layered electronic devices such as circuit boards, ceramic modules, and semiconductor chips.

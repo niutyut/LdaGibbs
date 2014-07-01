@@ -1,0 +1,4 @@
+title: High-speed thermally developable imaging materials
+
+abstract: 
+High-speed aqueous-based black-and-white photothermographic materials are imageable in any suitable fashion using ultraviolet, visible, infrared, or X-radiation. They can have one or more thermally developable imaging layers on either or both sides of the support and can be imaged with or without a phosphor intensifying screen in an imaging assembly. The photothermographic emulsions and materials have a net Dless than 0.25, and require less than 1 erg/cmto achieve a density of 1.00 above net D. The imaging layers include hydrophilic binders or water-dispersible latex polymer binders and chemically and spectrally sensitized photosensitive silver halide grains.

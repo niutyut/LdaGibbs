@@ -1,0 +1,4 @@
+title: Method for controlling an air conditioning unit for an automobile
+
+abstract: 
+An intensity of solar radiation is determined in a vehicle based on an absolute position of the sun, a spatial orientation of the vehicle, and a measured intensity of the sun. A position of the sun relative to the vehicle is determined on the basis of the orientation of the vehicle on the globe. This orientation can be determined by GPS data, at least one acceleration sensor, and/or an additional vehicle compass. The position of the sun relative to the vehicle can be determined based on the individual or combined data and the actual, absolute position of the sun, thereby making it possible to determine the intensity of the solar radiation in the passenger compartment of the vehicle.

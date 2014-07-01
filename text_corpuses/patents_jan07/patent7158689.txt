@@ -1,0 +1,4 @@
+title: Correlating captured images and timed event data
+
+abstract: 
+A method for correlating asynchronously captured event data associated with a timed activity and images associated with the events comprises the steps of: (a) capturing a plurality of images and storing the images and data corresponding to the images, including a time of image capture for each image, in an image database; (b) gathering data from one or more events associated with the timed activity and storing event data, including a time of occurrence of each event, in an event database; and (c) correlating the images and the event data in the databases by generating a time-based window that interrelates event data in the event database having a time of occurrence within the window with images in the image database having a time of capture within the window.

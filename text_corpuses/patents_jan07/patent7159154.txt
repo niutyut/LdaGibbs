@@ -1,0 +1,4 @@
+title: Technique for synchronizing faults in a processor having a replay system
+
+abstract: 
+A computer processor includes a replay system to replay instructions which have not executed properly and a first event pipeline coupled to the replay system to process instructions including any replayed instructions. A second event pipeline is provided to perform additional processing on an instruction. The second event pipeline has an ability to detect one or more faults occurring therein. The processor also includes a synchronization circuit coupled between the first event pipeline and the second event pipeline to synchronize faults occurring in the second event pipeline to matching instruction entries in the first event pipeline.

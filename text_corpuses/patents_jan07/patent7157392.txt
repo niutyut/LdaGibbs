@@ -1,0 +1,4 @@
+title: Alkali-free aluminoborosilicate glasses, and uses thereof
+
+abstract: 
+An alkali-free aluminoborosilicate glass having a coefficient of thermal expansion ?of between 2.8?10/K and 3.8?10/K, which has the following composition (in % by weight, based on oxide): silicon dioxide (SiO)>58?65, boric oxide (BO)>6?11.5, magnesium oxide (MgO) 4?8, barium oxide (BaO) 0?<0.5, zinc oxide (ZnO) 0?2 and aluminum oxide (AlO)>14?25, calcium oxide (CaO) 0?8, strontium oxide (SrO) 2.6?<4, with barium oxide (BaO)+strontium oxide (SrO)>3, or aluminum oxide (AlO)>14?25, calcium oxide (CaO) 0?<2, strontium oxide (SrO)>0.5?<4, or aluminum oxide (AlO)>21?25, calcium oxide (CaO) 0?8, strontium oxide (SrO)>2.6?<8, with barium oxide (BaO)+strontium oxide (SrO)>3, and which is highly suitable for use as a substrate glass both in display technology and in thin-film photovoltaics.

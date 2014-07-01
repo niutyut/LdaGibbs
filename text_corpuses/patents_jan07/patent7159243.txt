@@ -1,0 +1,4 @@
+title: Data carrier for the storage of data and circuit arrangement for such a data carrier
+
+abstract: 
+A data carrier () intended for the storage of data in memory means () has a first memory access means () for accessing a first storage location () and has a second memory access means () for accessing a second storage location (), the first storage location () being only accessible by the first memory access means () with the aid of access enabling means (), and further has an additional memory access means (), so as to enable an access authorization for the access to the first storage location () and so as to enable access to the first storage location () during an access by the second memory access means ().

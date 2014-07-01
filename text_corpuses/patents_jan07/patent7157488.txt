@@ -1,0 +1,7 @@
+title: N-(2-Arylethyl) benzylamines as antagonists of the 5-HT6 receptor
+
+abstract: 
+The present invention provides compounds of formula I
+
+
+pharmaceutically acceptable salts thereof, and pharmaceutical compositions thereof, which are antagonists of the 5-HTreceptor. The present invention further provides a method of treating disorders associated with 5-HTreceptors, including schizophrenia, anxiety, Alzheimer's disease, and cognitive disorders selected from the group consisting of age-related cognitive decline, mild cognitive impairment, and dementia, comprising: administering to a patient in need thereof an effective amount of a compound of formula I.

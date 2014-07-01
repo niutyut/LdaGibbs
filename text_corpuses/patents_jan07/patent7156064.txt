@@ -1,0 +1,4 @@
+title: Engine starting control apparatus and starting control method
+
+abstract: 
+An engine start control apparatus has a power generating circuit that generates power by a starting operation of a starter apparatus that starts an engine, an engine starting circuit that is connected to the power generating circuit and to which various devices required to start the engine are connected, and an accessory circuit that is connected to the engine starting circuit and is provided with various devices that are not required to start the engine. In a state in which a supply of power to the accessory circuit is stopped, power is supplied from the power generating circuit side to the engine starting circuit side.

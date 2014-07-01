@@ -1,0 +1,4 @@
+title: Method for accelerating oil well construction and production processes and heating device therefor
+
+abstract: 
+Methods are described for providing localized heating in an oil well at precise depths to accomplish or expedite specific objectives. The methods involve the use of a heating tool which can be lowered into an oil well to apply heat at a precise depth to achieve a desired result. The specific objectives may include localized heating of a fresh cement slurry to accelerate curing, or localized heating of recently emplaced chemicals which are formulated to be thermally activated. One purpose of such chemicals is to viscosify or increase in gel strength after being pumped into an oil well production zone, in order to restrict the production of unwanted formation fluids such as water.

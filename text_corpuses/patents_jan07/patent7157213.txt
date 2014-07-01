@@ -1,0 +1,4 @@
+title: Developer agent for positive type photosensitive compound
+
+abstract: 
+There is provided a developer agent for a positive type photosensitive compound having a near infrared wave length region laser sensitive characteristic in which a photosensitive portion of the compound exposed and reacted with a laser of the near infrared wavelength region is enabled to be dissolved in the developer liquid. This developer agent contains a) water; b) either one of or two kinds or more of tetramethyl ammonium hydroxide, benzyl triethyl ammonium hydroxide, ortho silicate soda, etc., applied as either organic or non-organic alkali capable of becoming a major material; and c) potassium pyrophosphate, tripolyphosphate soda, etc., applied as liquid agent having dampening action for preventing a reduction in pH value.

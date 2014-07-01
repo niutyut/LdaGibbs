@@ -1,0 +1,4 @@
+title: Platen structure of polishing apparatus for processing semiconductor wafer and method for exchanging polishing pad affixed to the same
+
+abstract: 
+A platen structure of a polishing apparatus for semiconductor wafer and a method for exchanging a polishing pad affixed to the same are provided in which the polishing pad supported by the platen is exchanged with convenience within a short time. The platen structure of the polishing apparatus in which the polishing pad attached to the platen of the polishing apparatus comprises a pad plate to which the polishing pad for polishing a wafer is attached, and a platen body combined with the pad plate and having at least one vacuum hole formed thereto to provide a vacuum passage.

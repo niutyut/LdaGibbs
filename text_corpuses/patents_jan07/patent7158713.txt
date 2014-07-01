@@ -1,0 +1,4 @@
+title: Information recording and reproducing apparatus
+
+abstract: 
+In an information recording and reproducing apparatus, a plurality of first video-contents signals are recorded on a first recording medium. A plurality of second video-contents signal are recorded on a second recording medium. The second recording medium differs from the first recording medium, and is removable. Signals representative of thumbnails are generated in response to the second video-contents signals respectively. The signals representative of the thumbnails are recorded on the first recording medium in cases where the plurality of the second video-contents signals are recorded on the second recording medium. The signals representative of the thumbnails are reproduced from the first recording medium. The thumbnails represented by the reproduced signals are displayed.

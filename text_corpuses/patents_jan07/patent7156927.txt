@@ -1,0 +1,5 @@
+title: Transition flow treatment process and apparatus
+
+abstract: 
+A method is provided for treating an object. In this method, a treating chemical is introduced to a bath under conditions effective to at least partially envelop the object to be treated in eddy currents of the bath liquid, followed by introducing non-treating liquid into the bath under conditions effective to at least partially envelop the object to be treated in eddy currents of the bath liquid. An apparatus for carrying out this method is also provided.
+This method is particularly beneficial for objects used in precision manufacturing by treatment with solutions, such as semiconductor wafers or similar substrates.

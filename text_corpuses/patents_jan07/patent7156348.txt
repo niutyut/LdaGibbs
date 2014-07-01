@@ -1,0 +1,4 @@
+title: Platform and system for propellant tank storage and transfer in space
+
+abstract: 
+A platform for storage and transfer of propellant tanks in space includes frames configured to releasably support plural propellant tanks in storage positions, and transfer mechanisms configured to transfer propellant tanks to and from the storage positions. The platform includes a central structure to which the plural frames are connected at predetermined spaced intervals. The transfer mechanisms include extendable telescoping arms mounted to the central structure. The arms have end effectors configured to grip bands on propellant tanks. Two platforms may be positioned adjacent each other for the transfer of propellant tanks therebetween.

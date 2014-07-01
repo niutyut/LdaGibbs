@@ -1,0 +1,4 @@
+title: Retainer for an over-centre fastener
+
+abstract: 
+A retainer for an adjustment device for an over-center fastener for securing and clamping two parts () together by applying a pulling force between the parts by a lever (). The adjustment device includes an externally threaded member () and an internally threaded member () rotatable relative to one another. The internally threaded member has a friction increasing insert () preventing unintentional relative rotation between the externally threaded member and the internally threaded member.

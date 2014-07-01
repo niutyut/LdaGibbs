@@ -1,0 +1,4 @@
+title: Method and device for processing a digital data signal in a CDMA radio transmitter
+
+abstract: 
+A digital data signal to be transmitted is split into a number of subsidiary data signals by a data signal splitting device and is output by a timeslot data output device in a particular timeslot of a TDMA frame made up of a plurality of timeslots. A channeling device is used to impress a CDMA code onto each subsidiary data signal which is output in the particular timeslot. A device for processing a digital data signal in a CDMA mobile radio transmitter is also provided.

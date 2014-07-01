@@ -1,0 +1,4 @@
+title: Driving apparatus for display panel
+
+abstract: 
+Application timing of driving pulses for a PDP is controlled so that a flow direction of a discharge current which flows between a first row electrode and a second row electrode of each of row electrode pairs belonging to odd numbered display lines due to the electrical discharge is opposite to a flow direction of a discharge current which flows between a first row electrode and a second row electrode of each of row electrode pairs belonging to even numbered display lines. Furthermore, an impedance of a current channel for the discharge current which flows between the row electrode pair belonging to the odd numbered display line and the electrode driving means is made substantially the same as an impedance of a current channel for the discharge current which flows between the row electrode pair belonging to the even numbered display line and the electrode driving means.

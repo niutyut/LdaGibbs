@@ -1,0 +1,4 @@
+title: Data storage system
+
+abstract: 
+When replacing a disk device that has passed over a warranty expiration date with a new disk device, data necessary to be stored thereafter among the data that is recorded in the device must be transferred to another disk device, to thereby require a time for processing. A storage system includes: a storage device having a plurality of disk drives that stores data; and a data storage managing device which is connected to the storage device and has a data storage managing module that manages the storage of the data in the storage device, in which the data storage managing module compares a retention date of the data to be stored with a warranty expiration date of the disk drive, selects a disk drive that stores the data as the result of the comparison, and stores the data in the selected disk drive.

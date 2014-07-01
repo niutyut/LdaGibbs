@@ -1,0 +1,4 @@
+title: Test method and architecture for circuits having inputs
+
+abstract: 
+A test method for a plurality of circuits respectively having inputs for greatly reducing the required test time and the control circuit complexity is provided. The method includes steps of providing a set of test patterns for detecting a characteristic of the circuits, providing a common data line, and electrically connecting the circuit inputs to the common data line so that the test pattern can be broadcasted to the circuits through the common data line. The present invention also provides an architecture for implementing such method.

@@ -1,0 +1,4 @@
+title: Flip-up multi-mode workpiece stop for miter saw
+
+abstract: 
+A workpiece stop is provided for a power tool such as a miter saw, wherein the stop is selectively movable to various positions for respective modes of operation. In one position, the stop is stored out of the way during non-use. In another position, the stop acts as a length-of-cut stop. In yet another position, the stop acts as a workpiece guide, especially useful for supporting crown molding during cutting. An embodiment of the stop includes an elongate main body portion with a guide tab portion and a stop tab portion projecting from the main body portion, and the stop is preferably mounted for selective movement both slidably and pivotally. Depending on the position of the stop, the guide tab portion or the stop tab portion are positioned to project adjacent a workpiece support surface on the saw to limit a position of a workpiece.

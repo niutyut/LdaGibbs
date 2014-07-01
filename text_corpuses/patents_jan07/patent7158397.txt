@@ -1,0 +1,4 @@
+title: Line drivers that fits within a specified line pitch
+
+abstract: 
+Line drivers that fit within a specified line pitch. One method of placing line drivers completely underneath a cross point array requires splitting the line driver up so that a portion of the line drivers is on a first side of the cross point array and the other portion is on the opposite side. However, using this technique requires that the width of the drivers is no larger than the width of the memory cells that are being driven. This can be accomplished by stacking transistors such that line drivers fit within a specified line pitch, but are as long as is necessary to include all the necessary circuitry.

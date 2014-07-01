@@ -1,0 +1,7 @@
+title: Serine protease inhibitors
+
+abstract: 
+Compounds of formula (I)
+
+
+where R, R, each X, L, Cy and Lp are as defined in the specification, are tryptase inhibitors useful as antiinflammatory agents.

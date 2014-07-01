@@ -1,0 +1,4 @@
+title: Systems and methods for treatment analysis by teeth matching
+
+abstract: 
+Systems and methods are disclosed for matching computer models of two sets of teeth each having corresponding matching regions includes calculating a difference for two sets of teeth shapes; finding the position of one set of teeth with respect to the other set of teeth; calculating a positional difference of the corresponding teeth based on the matching regions; and finding a corrective path to bring one set of teeth to the other set of teeth.

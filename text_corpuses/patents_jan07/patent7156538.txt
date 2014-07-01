@@ -1,0 +1,4 @@
+title: LED package for backlight unit
+
+abstract: 
+Disclosed herein is an LED package for a backlight unit. The LED package includes a plurality of LEDs, a die bonding part, a wire bonding part and a body. The die bonding part, on which the plurality of LEDs is arranged, allows the first electrodes of the LEDs to be electrically connected to an external circuit. The wire bonding part is spaced apart from the die bonding part by a predetermined distance to be insulated from the die bonding part and allows the second electrodes of the LEDs to be electrically connected to the external circuit so that the LEDs are operated. The body has a molding cup which is used to fill a space above the LEDs with transparent resin and a base on which the die bonding part and the wire bonding part are arranged.

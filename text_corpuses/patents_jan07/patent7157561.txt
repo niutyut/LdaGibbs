@@ -1,0 +1,4 @@
+title: Methods of inhibiting transmission of a costimulatory signal of lymphocytes
+
+abstract: 
+Activated haptens useful for generating immunogens to the HIV protease inhibitor atazanavir, immunogens useful for producing antibodies to atazanavir, and antibodies and labeled conjugates useful in immunoassays for determination of atazanavir. The haptens feature an activated functionality at the central, non-terminal hydroxyl group.

@@ -1,0 +1,4 @@
+title: Droplet ejecting apparatus that contains an actuator plate having a communication hole
+
+abstract: 
+A droplet ejecting apparatus including at least one nozzle through which a droplet of a liquid is ejected; at least one pressure chamber which communicates with the at least one nozzle and in which the liquid is stored; at least one supply chamber from which the liquid is supplied to the at least one pressure chamber; and an actuator plate having at least one actuator portion which is interposed between the at least one pressure chamber and the at least one supply chamber and which is deformable so that a volume of the at least one pressure chamber is changed. The at least one actuator portion has a communication hole which is formed through a substantially central part thereof, and the at least one pressure chamber and the at least one supply chamber communicate with each other through the communication hole.

@@ -1,0 +1,4 @@
+title: Reversing mechanism for motorcycles
+
+abstract: 
+A reversing mechanism is disclosed for use with motorcycles and other lightweight wheeled recreational vehicles. The reversing mechanism comprises a motorized drive gear that is configured to engage a wheel sprocket attached to the axle of a wheel, such as the drive sprocket that is part of the chain or drive belt assembly of the motorcycle.

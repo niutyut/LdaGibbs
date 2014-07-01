@@ -1,0 +1,4 @@
+title: Data storage library and accessor control method
+
+abstract: 
+A data storage library for storing a storage media, wherein a plurality of accessors accesses the data storage media stored in an array of storage cells includes a first accessor transporting the storage media, the first accessor including a first carriage storing or retrieving the storage media on to the storage cell and a first guide guiding the first carriage moving vertically; a second accessor transporting the storage media, the second accessor including a second carriage storing or retrieving the storage media on to the storage cell and a second guide guiding the second carriage moving vertically; and a third guide guiding the first accessor and the second accessor moving horizontally. The first carriage opposes the second carriage and the first and second carriages are in a staggered configuration, when the first guide exists between the array and the second guide.

@@ -1,0 +1,4 @@
+title: Method and apparatus for sensing voltage in an automatic transfer switch system
+
+abstract: 
+An Automatic Transfer Switch System includes a control circuit in which high frequency transformers, designed to operate linearly in a frequency range above the operating frequency range of utility-level power, are employed for voltage sensing. An output signal from a high frequency line matching transformer is received by a microprocessor which evaluates the signal for both a voltage level and frequency and uses these values as indices to an empirically-derived look-up table which provides an actual voltage level to the microprocessor. The actual voltage value can then be evaluated by the microprocessor to determine if and when the power delivered to a load should be supplied by a first or a second power supply.

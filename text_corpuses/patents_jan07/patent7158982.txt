@@ -1,0 +1,4 @@
+title: Declarative, data-neutral client-server data transport mechanism
+
+abstract: 
+The invention provides a solution to client-server data handling tasks, such as, transport and data manipulation, by keeping the middleware ignorant of the specific semantics of the data and makes it instead a ?dumb? or ?blind? transport conduit between the client and the data base. Conversely, the invention provides the client with a mechanism to manipulate the database data without the middleware understanding the type or structure of the data that is being acted upon. This flows easily with the functioning of the client and the database, which is, to move the data back and forth from one to the other, with the client accepting the data from the user and displaying the database data to the user.

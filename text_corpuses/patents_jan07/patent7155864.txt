@@ -1,0 +1,4 @@
+title: Liquid dispersing plate
+
+abstract: 
+A liquid dispersing device includes a relatively rigid thin perforated plate having a plurality of closely spaced minute openings or holes in the form of a fine mesh. A plurality of plates are mounted on brackets secured along a side wall of a structure in the path of liquid flowing over and downward from the upper end of the wall. The liquid passing through the holes is dispersed into fine droplets with minimum agglomeration. The angle of the plate and holes determine the direction in which the droplets are dispersed. Use of the perforated plates can eliminate the usual gutter and leader structures which remove rainwater from roofs of houses and can also provide more effective cooling when mounted along internal cooling tower walls.

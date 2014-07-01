@@ -1,0 +1,4 @@
+title: Image compression with tile alignment
+
+abstract: 
+An image compression apparatus includes a tile size determiner, an image divider and an image compression processor. The tile size determiner determines an arbitrary size of a rectangular tile for each component of a still image having a plurality of components. The image divider divides the image using the rectangular tiles the sizes of which are determined by the tile size determiner. The image compression processor performs an irreversible compression process on the image divided by said image divider.

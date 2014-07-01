@@ -1,0 +1,4 @@
+title: Disk cartridge
+
+abstract: 
+Four positioning holes or grooves of the first to the fourth positioning portions are formed on a shell as positioning portions to a disk drive apparatus. When two directions perpendicular to the thickness direction of a disk-shaped recording medium are designated as an X direction and a Y direction, the first and the second positioning portions are formed at the same position in the X direction, and the third and the fourth positioning portions are formed at the same position in the X direction, and further the first and the third positioning portions are formed at the same position in the Y direction, and still further the second and the fourth positioning portions are formed at the same position in the Y direction. When the disk cartridge is located to the disk drive apparatus at the insertion of the disk cartridge from an insertion opening, at least two of the four positioning portions are used.

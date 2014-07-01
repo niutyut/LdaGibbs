@@ -1,0 +1,4 @@
+title: Associating a packet with a flow
+
+abstract: 
+A computer system includes a system memory, a processor and a peripheral. The peripheral includes a peripheral memory, a circuit, a first interface to receive a packet and a second interface that is adapted to communicate with the system memory. The peripheral memory is adapted to store a table that includes entries that identify different packet flows. The circuit is adapted to use the table to associate the packet with one of the packet flows and based on the association, interact with the second interface to selectively transfer a portion of the packet to the system memory for processing by the processor.

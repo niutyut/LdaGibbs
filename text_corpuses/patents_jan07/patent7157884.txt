@@ -1,0 +1,4 @@
+title: Method and circuit for energizing and de-energizing an electric energy storage device
+
+abstract: 
+A method and circuit for energizing an electric energy storage device () to a high voltage with electric energy supplied by a high voltage electric power source () in a safe, effective and efficient manner by first moving electric charges supplied by a high voltage power source () to a capacitive device () and then subsequently transferring the electric charges stored in an energized capacitive device () to an electric energy storage device () for later use. A method and circuit for de-energizing an electric energy storage device () from a very high voltage in a safe, effective, and efficient manner by first moving electric charges supplied by the electric energy storage device to a capacitive device () and then subsequently de-energizing an energized capacitive device () through an electrical load device () so that useful work can be performed.

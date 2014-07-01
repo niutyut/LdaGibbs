@@ -1,0 +1,4 @@
+title: Implantable valve system
+
+abstract: 
+An implantable valve having a valve element or leaflet and a base that is attachable to a vessel wall using a connector such as a screw, pin or a staple. The valve can be implanted using a catheter to position the valve in a desired location and drive the connector into the vessel wall. The valve can be used as a venous valve to control blood flow within the veins, arteries, heart or the aorta of a patient.

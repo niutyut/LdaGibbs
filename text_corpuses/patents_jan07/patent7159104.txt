@@ -1,0 +1,4 @@
+title: Simplified memory detection
+
+abstract: 
+Automatic recognition of the type of memory within a device package by using strap resistors within the device package. Such recognition enables a processor, such as a GPU, to automatically configure itself to work with the memory. A device package includes a strap contact and a bit input that are electrically connected. The device package beneficially contains a processor (such a GPU) that is operatively connected to the bit input, and a memory device that is operatively connected to the processor. By selectively inserting a strap resistor the voltage applied to the bit input changes state. That state can be read and used to set up the system.

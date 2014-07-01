@@ -1,0 +1,4 @@
+title: (Substituted)acyl dipeptidyl inhibitors of the ICE/CED-3 family of cysteine proteases
+
+abstract: 
+This invention is directed to novel (substituted) acyl dipeptidyl ICE/ced-3 family inhibitor compounds. The invention is also directed to pharmaceutical compositions containing these compounds, as well as the use of such compositions in the treatment of patients suffering inflammatory, autoimmune and neurodegenerative diseases, for the prevention of ischemic injury, and for the preservation of organs that are to undergo a transplantation procedure.

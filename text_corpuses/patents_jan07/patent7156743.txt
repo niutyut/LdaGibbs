@@ -1,0 +1,4 @@
+title: Mechanical fuse and method of manufacturing the same
+
+abstract: 
+An inexpensive mechanical fuse having a high fatigue limit ratio and high rupture reliability, and superior in forming performance, and a method of manufacturing the same are presented. The mechanical fuse is composed of Fe-based sintered alloy, and comprises an inner rim  fixed to one power transmission shaft, an outer rim  fixed to the other power transmission shaft, and plural arms  for linking the inner rim  and outer rim , which are formed integrally. The arms  include rupture portions  which are ruptured when exposed to an overload torque. By treating in steam, an iron oxide phase is formed in the surface layer and pore inner wall. The iron oxide phase is effective to form round pores and lower the notch sensitivity. As a result, the fatigue strength and fatigue limit ratio are enhanced.

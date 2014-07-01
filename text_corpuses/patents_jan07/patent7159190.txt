@@ -1,0 +1,4 @@
+title: Systems and methods for navigating and displaying print job exception information in a printer system
+
+abstract: 
+A printer system can be used for displaying and printing a print job, the print job including at least print job level properties and print job exception attributes. The printer system can include a display device that displays the print job, a memory that stores the print job and a controller that controls the print job displayed on the display device to display only the print job exception attributes of the print job that are different from the print job level properties. Moreover, a graphic user interface can be used for displaying a print job and can be used with a printer system. The graphic user interface can include a first window that displays the print job level properties of the print job and a second window that displays only the print job exception attributes of the print job that are different from the print job level properties.

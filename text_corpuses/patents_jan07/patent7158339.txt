@@ -1,0 +1,4 @@
+title: Recording/ reproducing method and recording/reproducing apparatus for magnetic tape
+
+abstract: 
+A recording/reproducing method and a recording/reproducing apparatus for magnetic tapes are provided as a recording/reproducing technique suitable for recording density enhancement of magnetic tapes. The method and apparatus are capable of correctly recording and reproducing data without causing errors even with occurrence of size changes in the widthwise direction of a magnetic tape. In the recording/reproducing method for magnetic tapes in which data tracks and servo tracks are provided, a tape width is detected and a value of the tape width is stored during data recording, and data reproduction is performed while tape tension is controlled so that the tape width during data reproduction is maintained equal to the tape width during data recording.

@@ -1,0 +1,4 @@
+title: Servo track having periodic frames of tone field and embedded synchronization marks
+
+abstract: 
+Methods and systems for sensing a position of a transducer head with respect to a storage medium. One method includes generating a read signal from a servo track stored on a magnetic storage medium. The servo track includes servo frames of magnetic flux transitions forming detectable servo marks, the servo marks forming a tone field of repeating servo marks oriented at a first azimuth angle and a mid-frame synchronization mark incorporated within the tone field, wherein the tone field provides a metric reference for dimensional measurements between features within the servo frame(s). The number of servo marks in the tone field of each servo frame along a longitudinal direction of the servo track before the mid-frame synchronization mark and after the mid-frame synchronization mark varies with lateral position.

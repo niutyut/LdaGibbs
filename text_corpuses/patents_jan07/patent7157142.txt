@@ -1,0 +1,4 @@
+title: Method for producing organic, thin-film device and transfer material used therein
+
+abstract: 
+A transfer material having at least one organic, thin-film layer on a temporary substrate support, wherein (a) at least one component constituting the organic, thin-film layer has a flow-starting temperature of 40? C. or higher and a transfer temperature or lower or a glass transition temperature Tg of 40? C. to 250? C., or wherein (b) at least one component constituting the organic, thin-film layer has a temperature of 40? C. to 240? C., at which its viscosity becomes 1?10Pa?s.

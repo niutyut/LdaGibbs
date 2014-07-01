@@ -1,0 +1,4 @@
+title: Tool using a piezo actuator
+
+abstract: 
+A tool has a tool insert and an electrically operated drive unit oscillatingly driving the tool insert. The drive unit has a piezo actuator and an adjusting travel enlarger coupled to the piezo actuator. The adjusting travel enlarger has a master piston, at least one slave piston, and at least one pressure chamber. The master piston acts through the at least one pressure chamber on the at least one slave piston. The piezo actuator and the master piston are fixedly connected to one another.

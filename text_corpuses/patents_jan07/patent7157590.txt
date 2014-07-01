@@ -1,0 +1,4 @@
+title: Process for the preparation of 17-phenyl-18,19,20-thinor-pgf 2a and its derivatives
+
+abstract: 
+The present invention provides a new and effective process for the synthesis of 17-phenyl-18,19,20-trinor-PGF and its derivatives, including the anti-glaucoma drugs Bimatoprost and Latanoprost. The benefit of the present invention rises inter alia from the fact that a major intermediate involved in the synthesis of the above compounds may be isolated from a mixture containing also an undesired isomer, by crystallization. In addition, the undesired isomer may be oxidized to give the starting compound, which is then recycled.

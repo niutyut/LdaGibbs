@@ -1,0 +1,4 @@
+title: Semiconductor device and method of fabricating the same
+
+abstract: 
+A gate electrode has an end extended over a part of a LOCOS oxide film, and a source electrode has an end extended further than the end of the gate electrode over a part of the LOCOS oxide film. An insulating film covering the gate electrode and the LOCOS oxide film is formed such that the thickness of the insulating film at an end-portion region, which is on an end portion of the gate electrode provided to extend over a part of the LOCOS oxide film, as viewed from a main surface of a supporting substrate, is smaller than the thickness of the insulating film below an end portion of the source electrode above the drain region and smaller than the thickness of the insulating film on an end portion of the gate electrode above a body region.

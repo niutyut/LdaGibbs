@@ -1,0 +1,4 @@
+title: Polishing pad with flow modifying groove network
+
+abstract: 
+A polishing pad () for polishing a wafer () or other article, the pad having a groove network () configured to vary the residence time across the wafer track of the reaction products formed by the interaction of reactants in the polishing medium () with structure on the wafer. The groove network has a first portion () that may extend substantially radially outward and a second portion () that is configured to vary the speed of the radially outward flow of the polishing medium.

@@ -1,0 +1,4 @@
+title: Adaptive non-linear noise reduction techniques
+
+abstract: 
+An impulse-reducing module () reduces random noise in video pixels by providing an impulse detector () and an impulse reducer, such as a median filter (). The impulse detector () generates filter control signals in response to detection of impulses, and the median filter () generates filtered pixel values in response to the filter control signals. The control signals set the median filter to a plurality of filter operating modes.

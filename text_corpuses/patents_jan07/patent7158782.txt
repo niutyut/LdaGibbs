@@ -1,0 +1,4 @@
+title: Wireless communication device
+
+abstract: 
+The present invention relates to a technology by which a wireless communication device performs wireless communications under communication conditions suited to where the device is located. The wireless communication device, when performing the wireless communications with other device, recognizes the present position, determines the communication conditions mapping to position information thereof, and sets these communication conditions in a communication control unit thereof. The communication control unit executes the wireless communications based on the communication conditions. Thus, the wireless communications can be performed by automatically setting the proper communication conditions without causing any intricacy in operation even if configured in a way that can support a plurality of countries and a plurality of connection services.

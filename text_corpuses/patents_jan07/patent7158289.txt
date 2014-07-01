@@ -1,0 +1,4 @@
+title: Method and apparatus for implementing optical supervisory channel using broadband noise modulation
+
+abstract: 
+Method and apparatus for implementing optical supervisory channel using broadband noise modulation are described. One embodiment of the present invention is a system for transmitting a supervisory channel from an optical fiber amplifier. The system comprises a first stage amplifier and a noise modulator module. The noise modulator module includes an erbium-doped fiber (?EDF?) that receives a pump for exciting the EDF and emits an amplified noise signal and a modulator that modulates the amplified noise signal with a supervisory signal, wherein the modulated noise signal is input back into the first stage amplifier.

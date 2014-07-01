@@ -1,0 +1,4 @@
+title: Multi-phase acceleration of a data storage disc
+
+abstract: 
+A disc drive having a multi-phase acceleration procedure is disclosed. The multi-phase acceleration procedure accelerates a data storage disc in the disc drive from an initial rotational velocity to a final rotational velocity. As the disc reaches the final rotational velocity, a read/write head operable to access data on the disc is moved by a servo control system from a landing zone to a data region on the disc. An air bearing between a slider of the read/write head and the surface of the disc is created due to the final rotational velocity of the spinning disc. The read/write head may also be moved from the landing zone as the disc reaches an early exit rotational velocity. As such, the multi-phase acceleration procedure continues accelerating the disc until the final rotational velocity to guarantee that the air bearing is maintained between the head and the disc.

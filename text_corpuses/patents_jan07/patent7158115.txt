@@ -1,0 +1,4 @@
+title: Spring system for re-centering a movable object
+
+abstract: 
+A puck is movable within a puck field of motion defined by a boundary. Arcuate springs connect the puck to the boundary. Each arcuate spring has a first end connected to the puck and a second end connected to the boundary, and applies a force to the puck that maintains the puck in a predetermined region of the puck field of motion when no external force is applied to the puck. In an embodiment, each arcuate spring includes a planar spiral member. The arcuate springs can also apply a force that dampens any oscillations in the puck position when the puck returns to the predetermined region in the puck field of motion. The puck can also include an electrode that is electrically connected to a point outside the puck field of motion by one of the arcuate springs.

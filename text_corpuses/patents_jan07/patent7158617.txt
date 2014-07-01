@@ -1,0 +1,4 @@
+title: TTY enhancement of busy condition prompt
+
+abstract: 
+A method and system are disclosed for providing an indication of the busy condition to a calling party on a telecommunications system. The calling party may be the user of a text telephone device such as a TTY device. When a called party's line is busy, the method and system send a text message to the calling party that indicates that the called party's line is busy.

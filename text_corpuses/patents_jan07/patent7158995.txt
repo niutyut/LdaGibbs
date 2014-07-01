@@ -1,0 +1,4 @@
+title: Method for managing pointers to external objects in a run-time environment
+
+abstract: 
+A method and software for managing pointers to external objects in a run-time environment are described in which eager external references are provided that allow session memory objects to point directly to certain call memory objects with machine pointers. The eager external references contain enough information to recreate the call memory objects in call memory at the beginning of the call and fix the session memory objects to point to the new locations of the recreated call memory objects.

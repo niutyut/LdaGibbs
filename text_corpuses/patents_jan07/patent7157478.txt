@@ -1,0 +1,5 @@
+title: Oxadiazole derivatives for inhibition of gamma secretase
+
+abstract: 
+Compounds of formula I: wherein X represents a 5-(R-substituted)-1,2,4-oxadiazole-3-yl moiety are inhibitors of gamma-secretase, and hence useful for treating Alzheimer's disease
+

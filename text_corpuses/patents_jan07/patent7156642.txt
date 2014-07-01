@@ -1,0 +1,4 @@
+title: Dough rolling apparatus and method
+
+abstract: 
+An improved dough-rolling apparatus and method for rolling sheeted dough. The proposed invention comprises a dough-rolling apparatus having a dough sheeter, a sheeting conveyor having a ramped section, a roll-initiating curtain positioned above the ramped section, and a roll-completing curtain positioned above the conveyor and downstream from the roll-initiating conveyor. Sheeted and cut dough pieces are deposited onto a steel mesh, partially-ramped sheeter belt, where two wire-mesh rolling curtains are draped onto the sheeter belt to induce rolling of the dough pieces.

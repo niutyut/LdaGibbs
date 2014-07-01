@@ -1,0 +1,4 @@
+title: Self-learning real-time prioritization of telecommunication fraud control actions
+
+abstract: 
+A predictive model system is used to detect telecommunications fraud. Call records (CDRs) provided by telephone companies are evaluated against specified rules. If one or more rules are matched, the system generates an alert. Pending alerts for a customer form a case, describing the caller's calling patterns. A predictive model determines a score that is predictive of the likelihood that the call involved fraud. Cases are queued for examination by analysts.

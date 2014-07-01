@@ -1,0 +1,4 @@
+title: Process for preparing MTT zeolites using nitrogen-containing organic compounds
+
+abstract: 
+The present invention relates to a process for preparing zeolites having the MTT framework topology defined by the connectivity of the tetrahedral atoms in the zeolite, such as zeolites SSZ-32 and ZSM-23, using certain nitrogen-containing organic compounds.

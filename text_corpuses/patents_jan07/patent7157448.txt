@@ -1,0 +1,7 @@
+title: Acyclic nucleoside phosphonate derivatives, salts thereof and process for the preparation of the same
+
+abstract: 
+The present invention relates to a nucleoside phosphonate derivative represented by formula (1):
+
+
+pharmaceutically acceptable salts, and stereoisomers. This nucleoside phosphonate derivative is useful as an antiviral agent, particularly, against hepatitis B virus. Also disclosed are processes for the preparation of the nucleoside phosphonate derivative. Also disclosed are methods treating hepatitis B by administering a nucleoside phosphonate derivative of formula (1).

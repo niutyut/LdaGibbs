@@ -1,0 +1,4 @@
+title: Method, system and medium for remotely managing plural image forming apparatuses and plural types of maintenance agreements relating to the apparatuses
+
+abstract: 
+When data of the number of printed paper sheets is transmitted from a user device to a service center, the service center charges on the basis of a unit price corresponding to the agreement contents of each user and the number of printed paper sheets and notifies the user of the payable amount. In addition, upon receiving toner low information from the user device, the service center predicts the toner out time and issues a notification of cartridge supply and empty cartridge collection to the user.

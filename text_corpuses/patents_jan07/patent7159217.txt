@@ -1,0 +1,4 @@
+title: Mechanism for managing parallel execution of processes in a distributed computing environment
+
+abstract: 
+According to one aspect, a work request that specifies first and second jobs is received. The first job comprises a first task and the second job comprises a second task. The work request is processed to automatically determine whether the jobs have any dependencies that have not been satisfied. In response to a determination that the jobs have no dependencies that have not been satisfied, the jobs are caused to be executed in parallel. As a default manner of operation, the tasks included in each respective job are collectively executed in parallel, whereas tasks within a given job are not executed in parallel. In an embodiment, the tasks are executed on one or more servers of a group of networked servers.

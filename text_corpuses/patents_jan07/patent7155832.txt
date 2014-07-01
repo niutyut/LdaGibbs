@@ -1,0 +1,4 @@
+title: Chain saw with tool-less chain tensioner and guide bar lock
+
+abstract: 
+A chain saw includes an engine, a chassis, and a clutch cover. A guide bar is adjustable relative to the chassis and the clutch cover, but stationary while in a secured position. An adjustment arrangement moves the guide bar to tension a chain, and includes a member operatively connected to the bar, intermeshed drive components to move the bar, and a manually engaged member that is operated without use of any tool. A guide bar securing arrangement has a knob rotatable between a tightened and loosened positions. In the loosened position, the guide bar may be adjusted. A knob handle of the securing arrangement is pivotable between a stowed position and an operation position. A lock arrangement, associated with the knob and knob handle, includes portions that cooperate to prevent the knob from rotating when the knob handle is in the stowed position.

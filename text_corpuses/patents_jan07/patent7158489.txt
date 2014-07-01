@@ -1,0 +1,4 @@
+title: Data transmission in a TDMA system
+
+abstract: 
+In TDMA systems it is possible to transmit data on more than one consecutive slot per frame. This introduces increased workloads on the power amplifier of the transmitter of the mobile station. To prevent the power amplifier from overheating, temperature sensing means are incorporated into the mobile station which output to a control system comprising a comparator and feedback means which together regulate the operation of the transmitter if the power amplifier approaches or exceeds it upper rated operating value. Thereby preventing the power amplifier from damage.

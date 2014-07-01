@@ -1,0 +1,4 @@
+title: Liquid-jet head, method for manufacturing the liquid-jet head, and liquid-jet apparatus
+
+abstract: 
+A lower electrode, which partially constitutes a piezoelectric element, is patterned such that at least one end face thereof is located in a region facing a corresponding pressure generating chamber. A piezoelectric layer includes a plurality of layers of ferroelectric films. A first ferroelectric film, which is a lowermost layer of the plurality of layers of ferroelectric films, is provided only on the lower electrode such that an end face thereof is aligned with the end face of the lower electrode. The end face of the first ferroelectric film and the end face of the lower electrode are sloped at an angle of 10? to 50? with respect to a vibration plate. Other ferroelectric films formed on the first ferroelectric film are provided in such a manner as to overlie the sloped end face of the lower electrode and the sloped end face of the first ferroelectric film.

@@ -1,0 +1,4 @@
+title: Facsimile apparatus and control method
+
+abstract: 
+A facsimile machine in which multiple items of account information can be registered in an internal memory with the machine being capable of sending and receiving E-mail is disclosed. If the facsimile machine has been instructed to perform an E-mail operation and multiple items of account information has been registered, one of these items of account information is selected and authentication processing is executed. If only one item of account information has been registered, then this account information is used but the authentication processing is omitted. Thus, depending upon the account registration circumstances, an E-mail operation can be performed without performing an account selection operation and/or personal authentication. The result is improved operability.

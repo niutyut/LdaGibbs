@@ -1,0 +1,4 @@
+title: Switching device
+
+abstract: 
+An electromagnetic relay has an iron core having a protruding shaft and a magnetic pole portion. The protruding shaft is penetrated through a through hole provided on a metal case, and coil is wound around the protruding shaft. A voltage is applied to the coil for magnetization and stopped for demagnetization, hence to drive a contact mechanism with a movable iron piece that is attracted by and separated from the magnetic pole portion, thereby causing a reciprocating motion of the movable iron piece. The relay can prevent generation of eddy current.

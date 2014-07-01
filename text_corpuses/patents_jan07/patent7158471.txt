@@ -1,0 +1,4 @@
+title: Device and method for reading multilayer optical disk with compensation of shading effects
+
+abstract: 
+The invention refers to a device and a method for scanning an optical data carrier by means of a main scanning beam being reflected by the data carrier and being detected by means of a photodetector, the data carrier having first and second layers to be scanned, the second layer being scanned through the first layer, light passing the first layer being shaded dependent on local properties of the first layer. An object of the invention is to propose a device having increased performance even for use with multi layer disks having a layer causing light fluctuations on a layer to be scanned, as well as a respective method. According to the invention such device is provided with means for keeping an output signal of the photodetector independent of variations of shading.

@@ -1,0 +1,4 @@
+title: Hybrid microprocessor controlled ventilator unit
+
+abstract: 
+A method and apparatus for operating a ventilator in a primary electronic mode or in a back-up pneumatic mode during primary electronic mode failure. A method and apparatus for operating a ventilator in an advanced mode, having a number of ventilatory modes, or in a basic mode, having a limited number of ventilatory modes is also disclosed.

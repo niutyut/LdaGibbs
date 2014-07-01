@@ -1,0 +1,4 @@
+title: Damascene process for fabricating interconnect layers in an integrated circuit
+
+abstract: 
+A damascene process using a doped and undoped oxide ILD is described. The selectivity between the carbon doped and carbon free oxide provides an etching stop between the ILD's in addition to providing mechanical strength to the structure.

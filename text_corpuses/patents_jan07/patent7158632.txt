@@ -1,0 +1,4 @@
+title: Adaptive scaling and echo reduction
+
+abstract: 
+A method, apparatus, and system for scaling a value of an amplitude to a binary value and a method, apparatus and system for reducing an undesirable portion of a signal.

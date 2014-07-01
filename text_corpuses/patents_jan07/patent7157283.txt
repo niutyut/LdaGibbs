@@ -1,0 +1,4 @@
+title: Continuous process for the production of combinatorial libraries of modified materials
+
+abstract: 
+A system is provided wherein a devolatilizing reactor is used to make combinatorial libraries of materials. Examples of suitable reactors include continuous high viscosity devolatilizers and continuous devolatilizing kneaders.

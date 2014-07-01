@@ -1,0 +1,4 @@
+title: Endoscopic instruments
+
+abstract: 
+An endoscopic instrument used to form an artificial valve for treating gastroesophageal reflux disease (GERD).

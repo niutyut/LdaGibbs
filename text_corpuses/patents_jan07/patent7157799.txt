@@ -1,0 +1,4 @@
+title: Semiconductor die package including carrier with mask and semiconductor die
+
+abstract: 
+A carrier for use in a semiconductor die package is disclosed. In one embodiment, the carrier includes a die attach region and an edge region. A solder mask is on the edge region.

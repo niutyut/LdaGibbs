@@ -1,0 +1,4 @@
+title: Display for rapid text reading
+
+abstract: 
+A display system uses so called rapid sequential visual presentation (RSVP) in which words are presented one after another in time, in a window for reading by a user. To provide context information, a thumbnail view of the document page or the section of text is also generated, and is used to indicate the location in the section of text of the word currently displayed in the RSVP window. In one example, an indicator is generated within the thumbnail view to show the position, and the indicator is moved automatically as the RSVP sequence advances. In another example, the thumbnail view is positioned in a background display pane behind the RSVP window, and the thumbnail view is moved relative to the RSVP window to indicate the current position in the text.

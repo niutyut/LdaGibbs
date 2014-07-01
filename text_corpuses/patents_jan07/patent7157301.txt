@@ -1,0 +1,4 @@
+title: Semiconductor package security features using thermochromatic inks and three-dimensional identification coding
+
+abstract: 
+Numerous embodiments of an apparatus and method for generating an identification feature are described. In one embodiment of the present invention, portions of an identification character printed with thermochromatic ink are distributed within a three-dimensional matrix of a multi-layer patch. The multi-layer patch may be disposed above a substrate.

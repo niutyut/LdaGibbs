@@ -1,0 +1,4 @@
+title: Plasma-enhanced film deposition
+
+abstract: 
+Methods and equipment for depositing films. In certain embodiments, there is provided a deposition chamber having a substrate-coating region and an electrode-cleaning region. In these embodiments, an electrode is positioned in the deposition chamber and has an interior cavity in which first and second magnet systems are disposed. In certain embodiments, there is provided a method for depositing films onto substrates using a deposition chamber of the described nature. The invention also provides electrode assemblies for film-deposition equipment. In certain embodiments, the electrode assembly comprises a rotatable electrode (optionally having an outer coating of carbon or the like) having an interior cavity, with stationary first and second generally-opposed magnet systems being disposed in this interior cavity.

@@ -1,0 +1,4 @@
+title: Method, apparatus and system providing configurable current source device for image sensors
+
+abstract: 
+A configurable current source for imager readout system that can be operated as a simple-current-source or as a cascode-current-source. The configurable current source can be operated in a simple-current-source mode during circumstances when a low power supply voltage or large output signal swing is needed to output a pixel signal. The configurable current source can also be operated in a cascode-current-source mode for reduced nonlinearity and column-wise fixed pattern noise when power from a power supply is not a limitation. The configurable current source provides design flexibility and pixel optimization for imager development.

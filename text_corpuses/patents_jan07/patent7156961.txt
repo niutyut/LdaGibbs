@@ -1,0 +1,4 @@
+title: Sputtering apparatus and film forming method
+
+abstract: 
+The present invention is to provide a sputtering apparatus and a thin film formation method which make it possible to form respective layers of a multilayer film having a clean interface at a optimum temperature, or which make it possible to continuously carry out the film formation and the surface processing. Another object of this invention is to provide a small sputtering apparatus for forming a multilayer film as compared with prior art apparatus. A sputtering apparatus of this invention comprises a main shaft around which at least one target and at least one surface processing mechanism are installed, a substrate holder holding a substrate or a plurality of substrates arranged facing the target and the surface processing mechanism, and a rotation mechanism to rotate the main shaft or the substrate holder.

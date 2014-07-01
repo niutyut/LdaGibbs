@@ -1,0 +1,4 @@
+title: Flow-independent parameter estimation based on tidal breathing exhalation profiles
+
+abstract: 
+Parametric characterization of nitric oxide (NO) gas exchange using a two-compartment model of the lungs is a non-invasive technique to characterize inflammatory lung diseases. The technique applies the two-compartment model to parametric characterization of NO gas exchange from a tidal breathing pattern. The model is used to estimate up to six flow-independent parameters, and to study alternate breathing patterns.

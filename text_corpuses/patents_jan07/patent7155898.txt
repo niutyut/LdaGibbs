@@ -1,0 +1,4 @@
+title: Thrust vector control system for a plug nozzle rocket engine
+
+abstract: 
+A thrust vector control system for a plug nozzle rocket engine for propelling and maneuvering a vehicle is disclosed. The plug nozzle rocket engine includes a housing having a nozzle throat, a plug disposed within the housing and positioned within the nozzle throat to define a space between the plug and the nozzle throat, and a thrust diverter moveably disposed relative to the housing to define an asymmetric pressure distribution along the plug for thrust-vectoring. In one embodiment, the thrust diverter is normally biased to a non-thrust-vectoring position, but is moveable in a plane substantially perpendicular to an axis extending longitudinally through the plug.

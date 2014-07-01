@@ -1,0 +1,4 @@
+title: Doubled-faced tape
+
+abstract: 
+A double-faced tape according to which, in the case of fixing a liquid crystal display panel and a backlight module together using the double-faced tape, reflection of external light can be reduced as much as possible at the fixed parts, and moreover incident light from the backlight module can be reflected back toward the backlight module with high reflectance, whereby light from a light source can be used effectively; one face of the double-faced tape A is made to be a low-reflectance face, and the other face is made to be a high-reflectance face or high-scattering face.

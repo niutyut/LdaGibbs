@@ -1,0 +1,4 @@
+title: Adapter device
+
+abstract: 
+An adapter device is provided in which a variety of IC cards having different functions is receivable. The adapter device comprises a device body () having an IC card insertion slot () formed at a side thereof and a receptacle () formed contiguously to the IC card insertion slot () and into which an IC card () is to be set, a cover member () provided over one main side of the device body () slidably on the device body (), an interface for data transfer between an IC card () set in the IC card receptacle () and a host apparatus () and a support member () to support the device body () by a hinge mechanism () at a side opposite to the IC card insertion slot () to be pivotable in relation to a surface on which the device body () is installed.

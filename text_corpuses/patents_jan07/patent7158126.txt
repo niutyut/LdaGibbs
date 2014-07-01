@@ -1,0 +1,4 @@
+title: Acoustic based pointing device
+
+abstract: 
+An acoustic based pointing device and a system and method for using the pointing device to move a cursor on a display screen of a display device. The pointing device comprises an acoustic source that generates and propagates an acoustic signal that is detected by four microphones M, M, M, and Mand is then converted into corresponding periodic electrical signals S, S, S, and S. The position vector of the acoustic source is calculated by solving triangulation equations that depend on phase-shift time delays between Sand Sfor j=1, 2, and 3. A position vector is calculated from using a scale vector that relates a change in position of the cursor to a change in position of the acoustic source. Then the cursor is moved to a position Passociated with the position vector .

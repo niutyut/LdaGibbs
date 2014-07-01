@@ -1,0 +1,4 @@
+title: Hand-held electronic device
+
+abstract: 
+A hand-held electronic device with a keyboard, thumbwheel, display and associated software is optimized for use of the device with the thumbs. The associated software has a plurality of features to optimize efficient use of the limited keyboard space and encourage the use of the device by thumb-based data entry through the thumbwheel and/or through a combination of minimal number of keystrokes. Software features include international character scrolling, and auto-capitalization. The keys on the device keyboard are optimally shaped and configured for thumb-based input. In addition, the thumbwheel is inclined between the front and a side edge of the device so as to be reachable by either the thumb or index finger of the user's hand at the side edge of the device.

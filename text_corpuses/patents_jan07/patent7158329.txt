@@ -1,0 +1,4 @@
+title: Disk drive employing active braking using inductive sense
+
+abstract: 
+A disk drive is disclosed comprising a disk, a head actuated over the disk, and a spindle motor for rotating the disk, the spindle motor comprising a plurality of windings. Disk control circuitry executes a spin-down operation of the spindle motor by estimating an angular position of the spindle motor by applying a voltage to at least one of the windings and evaluating a rise time of current flowing through the winding. The windings are commutated in response to the estimated angular position, and a driving current is applied to the windings to brake the spindle motor.

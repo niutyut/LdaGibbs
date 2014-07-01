@@ -1,0 +1,4 @@
+title: Radiation detector, sensor module having a radiation detector, and method for manufacturing a radiation detector
+
+abstract: 
+A radiation detector, a method for manufacturing a radiation detector, and a sensor module having a radiation detector. The radiation detector may include a thermopile chip having a diaphragm, a first cavity formed underneath the diaphragm, a thermopile structure formed on the diaphragm and an absorber layer applied to the thermopile structure, a cover chip, which has a second cavity on its bottom and is attached to the thermopile chip in such a way that the diaphragm having the thermopile structure and the absorber layer is located between the first cavity and the second cavity and, a filter plate attached to the cover chip via an adhesive layer of a defined layer thickness for transmitting infrared radiation of a defined wavelength range. Spacer means, for example, spacers may be provided for the defined layer thickness.

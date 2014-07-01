@@ -1,0 +1,4 @@
+title: Light emitting element driving device and portable apparatus equipped with light emitting elements
+
+abstract: 
+A driving device for driving multiple (R-, G-, and B-) groups of LEDs operative at different voltages, utilizing a battery supplying a power supply voltage of a step-up voltage. Under normal operating conditions, R-LEDs are driven by the battery voltage, but G- and B-LEDs are driven by the step-up voltage. The battery voltage is monitored to ensure that all the LEDs are driven by the step-up voltage when the battery voltage has lowered below a predetermined level, thereby reducing the power loss by the LEDs while emitting light and extending the permissible range of the battery voltage.

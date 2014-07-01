@@ -1,0 +1,4 @@
+title: Partner node migration control unit and method
+
+abstract: 
+A partner node migration control unit that permits a communication control device, for example of the type carried by a user, to efficiently move across a network, whereby a mobile node can obtain an address assigned to each network and a partner node, which is a communication partner of the mobile node. The migration communication control device, including an address post message receiving unit receiving an address post message indicating the update address of the mobile node from a packet transfer migration control unit. In turn, the packet transfer migration control unit can transmit an updated address of the mobile node to the partner node. A packet conversion unit converts a destination address of the packet to be transmitted to the mobile node into an update address, indicated by the address post message.

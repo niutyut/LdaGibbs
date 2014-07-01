@@ -1,0 +1,4 @@
+title: System and method for installing software onto a built-to-order computer system using an identification device
+
+abstract: 
+A system including a server, a computer system, and a device coupled to a port of the computer system is provided. The server includes a script associated with an identifier. The device includes the identifier. The computer system is configured to read the identifier from the device, provide the identifier to the server, and cause a script associated with the identifier to be executed to cause one or more software components to be installed onto the computer system.

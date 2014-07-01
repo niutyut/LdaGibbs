@@ -1,0 +1,4 @@
+title: Apparatus and methods of using second harmonic generation as a non-invasive optical probe for interface properties in layered structures
+
+abstract: 
+A method for non-invasively probing at least one interface property in a layered structure having at least one interface. In one embodiment, the method includes the steps of exposing the layered structure to an incident photon beam at an incident angle to produce a reflection beam, measuring intensities of the second harmonic generation signals from the reflection beam, and identifying an initial second harmonic generation intensity and a time evolution of second harmonic generation intensity from the measured second harmonic generation intensities so as to determine the at least one interface property of the layered structure.

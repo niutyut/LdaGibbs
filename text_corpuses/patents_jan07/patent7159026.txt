@@ -1,0 +1,4 @@
+title: Service performance correlation and analysis
+
+abstract: 
+Methods and apparatus are provided to determine performance of a network. A first measurement relating to a first layer of communications in the network and a second measurement relating to a second layer of communications in the network are provided. Based on the first and second measurements, a set of parameters is generated. The performance of the network is then determined based on the generated set of parameters.

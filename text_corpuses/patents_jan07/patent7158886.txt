@@ -1,0 +1,4 @@
+title: Automatic control system and method for bottom hole pressure in the underbalance drilling
+
+abstract: 
+This invention provides an automatic control system and method for bottom hole pressure (BHP) in the underbalanced drilling. It relates to a computer automatic control technology. The automatic control system according to the invention includes a processing module for the BHP based on the mechanisms of hydraulics. The BHP in the underbalanced drilling is calculated from the acquired standpipe pressure (SPP), the calculated circulating pressure loss in the drilling tools, drill bit pressure drop and the fluid colunm pressure in the drill string. The resulting BHP is then compared with the set pressure value of the system. In case that the BHP is higher or lower than the set pressure, an instruction to regulate throttle valve opening will be issued in order to bring the BHP back to the set pressure range and complete BHP monitoring and control.

@@ -1,0 +1,4 @@
+title: Pharmaceutical composition for controlled drug delivery system
+
+abstract: 
+The present invention describes a novel controlled release multilayer composition that is capable of delivering a first active agent from one layer immediately followed by continuous controlled delivery of second active agent from matrix forming layer while the dosage form floats and is retained in the fluid of the environment. The floating bilayer system comprises of immediate release layer containing one active agent and a disintegrating agent whereas second floating matrix forming layer comprises a gas generating component, a gelling agent, and a second active agent. The present invention relates more particularly to a controlled release fluoroquinolone compositions, which maintain a therapeutically effective blood concentration of fluoroquinolone for duration with once a day administration.

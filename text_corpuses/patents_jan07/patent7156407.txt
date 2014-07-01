@@ -1,0 +1,4 @@
+title: Wheelchair tire
+
+abstract: 
+A wheelchair tire has a carcass having a running profile applied to an interior side and optionally having a raised lettering. At least on an exterior tire wall, starting from a region later adjoining with wheel rim edges, to at least a first boundary plane extending through the center of the tire cavity, the carcass has a smooth construction without profiles and lettering. An intersection point of the first boundary plane on the tire extends maximally offset by an angle of 45? with respect to an intersection point of a center plane with the tire.

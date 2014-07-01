@@ -1,0 +1,4 @@
+title: Dynamic preamble detection
+
+abstract: 
+A system and method are disclosed for dynamic preamble detection. A subset of the bits comprising the synchronization portion of the preamble are decoded, de-scrambled, and analyzed to determine dynamically which preamble format is being used. The source data values for the synchronization bits for a first preamble format are different than the source data values for the synchronization bits for a second preamble format and the receiving system uses the difference to determine which preamble format has been used. The information concerning which format has been used may be used to extend a synchronization operation.

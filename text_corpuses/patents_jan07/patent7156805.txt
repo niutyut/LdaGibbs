@@ -1,0 +1,4 @@
+title: Surgical retractor
+
+abstract: 
+A surgical retractor system comprises a support frame and an instrument mounting assembly. The instrument mounting assembly includes a fastening member for securing the mounting assembly to the support frame, a loading member for attaching to the mounting assembly, and a lockable rotational member providing for rotational or angular motion of the instruments about the support frame.

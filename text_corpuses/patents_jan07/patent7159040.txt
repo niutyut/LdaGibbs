@@ -1,0 +1,4 @@
+title: Financial service system for converting amendment data at agent terminal and a portal to generate compatible data format for terminals
+
+abstract: 
+A portal facilitates electronic business communication between independent agents and connected financial services providers such as terminals of insurance firms, etc. By means of a data transmission via the portal and a format conversion, all the data relevant to the preparation, arrangement, and provision of a financial service, for example of insurance firms, are handled electronically. It is thus possible to substantially dispense with paper-based manual processing of data.

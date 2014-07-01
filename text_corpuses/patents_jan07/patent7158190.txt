@@ -1,0 +1,4 @@
+title: Broadcasting receiver and channel searching method in broadcasting receiver
+
+abstract: 
+Each of channel searching means comprises means for judging, when a search for the subsequent channel is started, whether or not receivable channel information or information indicating that receiving is impossible is stored in a channel map with respect to the subsequent channel, means for starting the search for the subsequent channel when the receivable channel information or the information indicating that receiving is impossible is not stored in the channel map with respect to the subsequent channel, and means for terminating the channel search when the receivable channel information or the information indicating that receiving is impossible is stored in the channel map with respect to the subsequent channel.

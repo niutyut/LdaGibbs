@@ -1,0 +1,4 @@
+title: Polypeptide
+
+abstract: 
+A screening tool and a screening method for a therapeutic agent for type II diabetes, particularly an agent for alleviating insulin resistance are disclosed. A novel polypeptide, a polynucleotide, a vector, a promoter, and a transformant which are useful in the screening tool and the screening method, are also disclosed.

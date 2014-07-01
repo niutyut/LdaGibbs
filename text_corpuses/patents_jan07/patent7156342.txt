@@ -1,0 +1,4 @@
+title: Systems for actively controlling the aerostatic lift of an airship
+
+abstract: 
+Various embodiments of the invention relate generally to systems for providing active vertical control of an airship. More particularly, at least one embodiment of the invention relates to a system for actively controlling the aerostatic lift of an airship by manipulating the ratio of air to lifting gas contained within the airship, and thus the overall mass of the airship. This manipulation is accomplished by actively compressing and/or decompressing the lifting gas or internal air, with the resulting pressure differential borne primarily by the hull and/or an internal pressure tank depending upon the configuration.

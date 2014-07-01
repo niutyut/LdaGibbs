@@ -1,0 +1,4 @@
+title: Nucleic acids coding for vacuolar invertases, vegetal cells and plants containing said nucleic acids and the use thereof
+
+abstract: 
+The present invention relates to a nucleic acid molecule encoding a vacuolar invertase and its use for modifying the plant saccharose metabolism, in particular in the vacuole of the cell of a plant storage organ. The present invention also relates to a fragment of the nucleic acid molecule, a vector containing the nucleic acid molecule or a fragment thereof, as well as a host cell, in particular a plant cell that contains the nucleic acid molecule or a fragment thereof. The present invention also comprises a transgenic plant, methods for producing a transgenic plant, as well as methods for modifying the saccharose metabolism of a plant, in particular of a plant part.

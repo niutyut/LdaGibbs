@@ -1,0 +1,4 @@
+title: Power steering apparatus
+
+abstract: 
+A power steering apparatus includes a hydraulic power cylinder, and a reversible pump driven by a motor. A steering assist sensor senses a steering assist force provided to a steering wheel. A controller ascertains a pump discharge quantity of the reversible pump, and a cylinder volume variation of the pressure chambers of the hydraulic power cylinder; and calculates a leak quantity of the reversible pump from a difference between the pump discharge quantity and the cylinder volume variation. The controller controls the motor to cause the motor to produce a desired fluid pressure in accordance with the steering assist force and the leak quantity.

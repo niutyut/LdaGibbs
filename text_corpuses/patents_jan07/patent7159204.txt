@@ -1,0 +1,4 @@
+title: System and method for design entry and synthesis in programmable logic devices
+
+abstract: 
+A system and method facilitates the implementation of analog circuitry in electronic programmable devices. A user can specify user measurable parameters for analog features of the circuit, without requiring knowledge of the internal way in which those analog circuit are implemented in the programmable device to achieve desired properties of the analog parameters of interest. The implementation can be performed in different devices which may implement the analog circuit in vastly different ways.

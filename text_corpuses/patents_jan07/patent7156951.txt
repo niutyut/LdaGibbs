@@ -1,0 +1,4 @@
+title: Multiple zone gas distribution apparatus for thermal control of semiconductor wafer
+
+abstract: 
+A gas distribution apparatus delivers a coolant gas, such as helium, to an upper surface of a chuck for controlling a temperature of a wafer placed on the chuck. The gas distribution apparatus allows first and second zones, such as an inner zone and an outer zone of the chuck, to be supplied with a coolant gas at different pressures for control of the temperature across the wafer. The gas distribution apparatus includes a pressure and flow control system for supplying the coolant gas at selected pressures and bleed lines which provide the dual function of allowing rapid evacuation of the inner and outer zones and preventing excess pressure from one zone from migrating to another zone.

@@ -1,0 +1,4 @@
+title: Face image recording system
+
+abstract: 
+In a face image recording apparatus, a camera photographs the face of a person a plurality of number of times, a processor extracts at least one high-quality image from the plurality of images photographed by the camera, and this high-quality image extracted by the processor is recorded in a memory.

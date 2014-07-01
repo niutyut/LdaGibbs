@@ -1,0 +1,4 @@
+title: Interior rearview mirror assembly with polymeric components
+
+abstract: 
+An interior rearview mirror assembly for vehicles incorporates a reflective mirror element and a first polymeric pivot joint allowing pivotal adjustment of the field of view of the reflective element. The assembly includes a polymeric support element, a polymeric rearview mirror mount, and a second polymeric pivot joint. The polymeric support element includes one of a first polymeric ball member and a first polymeric socket. The polymeric rearview mirror mount is adapted for attachment to an interior portion of the vehicle. The support element pivots on the second polymeric pivot joint about the rearview mirror mount. At least one of the pivot joints includes joint members generating increased frictional resistance to movement of a ball member in a socket, such joint members preferably comprising a textured surface on the ball member or socket.

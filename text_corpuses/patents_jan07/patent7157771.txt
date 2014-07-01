@@ -1,0 +1,4 @@
+title: Vertical device 4F2 EEPROM memory
+
+abstract: 
+EEPROM memory devices and arrays are described that facilitate the use of vertical floating gate memory cells and select gates in NOR or NAND high density memory architectures. Memory embodiments of the present invention utilize vertical select gates and floating gate memory cells to form NOR and NAND architecture memory cell strings, segments, and arrays. These memory cell architectures allow for improved high density memory devices or arrays with integral select gates that can take advantage of the feature sizes semiconductor fabrication processes are generally capable of and allow for appropriate device sizing for operational considerations. The memory cell architectures also allow for mitigation of disturb and overerasure issues by placing the floating gate memory cells behind select gates that isolate the memory cells from their associated bit lines and/or source lines.

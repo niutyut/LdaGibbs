@@ -1,0 +1,4 @@
+title: Forward channel scheduling algorithm of HDR system
+
+abstract: 
+A system and method for performing forward channel scheduling for an HDR system includes collecting status information of connected terminals, calculating a predetermined weight (?(n)), calculating priority values of respective terminals based on the collected status information and the weight (?(n)), and selecting a terminal having the highest priority value and providing the selected terminal with the service. By considering the number of connected mobile terminals, disadvantages of other proposed scheduling algorithms are overcome. Also, the entire throughput of the HDR system is improved by maintaining Quality of Service (QoS) of the mobile terminals that require the real-time service.

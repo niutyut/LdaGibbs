@@ -1,0 +1,4 @@
+title: Antibacterial 1,3-oxazolidin-2-one derivatives
+
+abstract: 
+Compounds of the formula (I), or a pharmaceutically-acceptable salts, or in-vivo-hydrolysable esters thereof, wherein: N?HET is for example triazolyl substituted with R; Ris for example optionally substituted (1-4C)alkyl; Q is for example phenyl or pyridyl, substituted with T; T is for example selected from (TAa1 to TAa12) such as (TAa1 and TAa5); formula (II): R, R, Rare for example selected from hydrogen, (1-4C)alkyl, (1-4C)alkoxycarbonyl, (1-4C)alkanoyl and carbamoyl; processes for making them, compositions containing them and their use as antibacterial agents are described.

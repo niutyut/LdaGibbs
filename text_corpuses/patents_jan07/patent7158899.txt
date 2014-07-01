@@ -1,0 +1,4 @@
+title: Circuit and method for measuring jitter of high speed signals
+
+abstract: 
+A method and circuit for measuring a statistical value of jitter for a data signal having a data rate f, comprises digitally sampling the data signal at a sampling rate, f, to produce sampled logic values, where f/fis a predetermined non-integer ratio; and analyzing the sampled values to deduce a statistical value of the jitter.

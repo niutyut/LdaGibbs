@@ -1,0 +1,4 @@
+title: Optical glass, preform for press molding and optical element
+
+abstract: 
+An optical glass being free of lead and fluorine, having a low glass transition temperature permitting press-molding with a mold formed of stainless steel and having high climate resistance includes an optical glass comprising, by mol %, 25 to 44% of PO, 10 to 40% of a total of LiO, NaO and KO, 5 to 40% of ZnO, 1 to 35% of BaO and at least one components selected from NbO, BiOand WO, having a glass transition temperature (Tg) of 370? C. or lower and being free of lead and fluorine and an optical glass which is free of lead and fluorine, has a mass loss ratio of less than 0.25% when immersed in pure water, and has a glass transition temperature (Tg) of 370? C. or lower.

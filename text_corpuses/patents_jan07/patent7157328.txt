@@ -1,0 +1,4 @@
+title: Selective etching to increase trench surface area
+
+abstract: 
+The surface area of the walls of a trench formed in a substrate is increased. A barrier layer is formed on the walls of the trench such that the barrier layer is thinner near the corners of the trench and is thicker between the corners of the trench. A dopant is introduced into the substrate through the barrier layer to form higher doped regions in the substrate near the corners of the trench and lesser doped regions between the corners of the trench. The barrier layer is removed, and the walls of the trench are etched in a manner that etches the lesser doped regions of the substrate at a higher rate than the higher doped regions of the substrate to widen and lengthen the trench and to form rounded corners at the intersections of the walls of the trench.

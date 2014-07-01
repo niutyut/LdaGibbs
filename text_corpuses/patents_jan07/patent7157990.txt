@@ -1,0 +1,4 @@
+title: Radio frequency device and method using a carbon nanotube array
+
+abstract: 
+A radio frequency (RF) filter includes a substrate, first and second dielectric layers formed on first and second portions of the substrate, a ground plane formed on a third portion of said substrate, a carbon nanotube array, and first and second electrodes. The third portion of the substrate includes, at least in part, the area between the first and second portions thereof. The carbon nanotube array is formed on a portion of said ground plane between the first and second dielectric layers. The first and second electrodes are formed on the first and second dielectric layers, such that an RF signal may be input to and output from the carbon nanotube array via the first and second signal guides. A third electrode is disposed over the carbon nanotube array and is used to voltage bias the array.

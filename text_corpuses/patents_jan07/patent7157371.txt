@@ -1,0 +1,4 @@
+title: Barrier layer and a method for suppressing diffusion processes during the production of semiconductor devices
+
+abstract: 
+A dielectric barrier layer composed of a metal oxide is applied in thin layers with a thickness of less than 20 nanometers in the course of processing semiconductor devices by sequential gas phase deposition or molecular beam epitaxy in molecular individual layers on differently structured base substrates. The method allows, inter alias, effective conductive diffusion barriers to be formed from a dielectric material, an optimization of the layer thickness of the barrier layer, an increase in the temperature budget for subsequent process steps, and a reduction in the effort for removing the temporary barrier layers.

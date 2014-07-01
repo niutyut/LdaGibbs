@@ -1,0 +1,4 @@
+title: Device for removing an injection molded substrate from an injection mold
+
+abstract: 
+A device for removing an injection-molded substrate with attached sprue from an injection mold having half-molds, in particular a substrate for optical data carriers, includes a lever that can swing in and out of a position between the half-molds of the injection mold and is constructed to include a substrate retaining mechanism with a substrate retaining member with a recess or an opening sized to hold the substrate and configured to receive the sprue with a pass fit. The substrate retaining member secures the substrate in place as the lever swings in and out of the open half-molds. An injection molding machine using the device is also described. The substrate can be quickly demolded and the sprue removed in a single operation without producing dust in the mold.

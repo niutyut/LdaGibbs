@@ -1,0 +1,4 @@
+title: Method for producing a multilayer ceramic substrate
+
+abstract: 
+A method for producing a multilayer ceramic substrate having a cavity formed therein includes punching a through opening corresponding to the cavity in green sheets constituting a laminate, and printing a conductor at a predetermined position of the green sheets, laminating the green sheets to constitute a green sheet laminate, and applying a pressure to the green sheet laminate by using a compression member having a projection at a position corresponding to the cavity to thereby compress the green sheet laminate. The projection has a height which is equal to the depth of the cavity multiplied by compression ratio of the green sheet laminate, and the green sheet laminate is compressed by applying the pressure such that compression ratio of the bottom of the cavity is identical with the compression ratio of other parts of the green sheet laminate.

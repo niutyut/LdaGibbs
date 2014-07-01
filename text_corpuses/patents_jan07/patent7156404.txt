@@ -1,0 +1,4 @@
+title: Adjustable height suspension
+
+abstract: 
+An apparatus for adjusting a height of suspension of a vehicle frame includes a first end of a shock absorber mounted to a suspension arm and a top end of a shock absorber slidably attached to a frame of the vehicle and is movable in a first plane of travel. An adjusting member is slidably attached to the frame and movable within a second plane of travel non-parallel to the first plane of travel of the second end of the shock absorber. The adjusting member includes a camming surface which provides a force to the second end of the shock absorber such that as the adjusting member moves in the second plane of travel, the camming surface positions the second end of the shock absorber in the first plane of travel thereby adjusting a height of the frame.

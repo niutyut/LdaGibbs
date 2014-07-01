@@ -1,0 +1,4 @@
+title: Recording media discard device, recording media discard system, and contents administration method
+
+abstract: 
+The present invention provides a system which includes: a display media discard device which has a discard unit for discarding a display medium with an RF-ID tag and an RF-ID read unit for reading identification information of the RF-ID tag by radio communication; and a data administration device which stores contents information and administration information related to the contents information in association with the identification information of the RF-ID tag. In the system, when the display medium is discarded in the display media discard device, the contents information stored in the data administration device is deleted or the administration information is rewritten.

@@ -1,0 +1,4 @@
+title: Method for perchlorate removal from ground water
+
+abstract: 
+A method for removing perchlorate or other anionic contaminates from ground water which comprises the step of passing the ground water over activated carbon, wherein the activated carbon has been either preloaded with an organic cation functional group or organic cation polymer or cationic monomer, or tailored with ammonium or other reduced nitrogen-containing compound.

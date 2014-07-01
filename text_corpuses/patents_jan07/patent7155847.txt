@@ -1,0 +1,4 @@
+title: Snow removing machine
+
+abstract: 
+A snow removing machine including a control unit for controlling lifting and lowering of an auger housing by an electrohydraulic cylinder. The control unit has the functions of presetting per-unit-time lifting and lowering distances as constants; setting the lowest position as a lifting time measurement starting point upon lifting of the auger housing; setting the highest position as a lowering time measurement starting point upon lowering of the auger housing; measuring a time of movement from the measurement starting point depending on a lifting or lowering operation; and estimating the current vertical movement position by multiplying the lifting or lowering time with a corresponding one of the constants.

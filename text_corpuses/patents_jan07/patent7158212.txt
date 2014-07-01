@@ -1,0 +1,4 @@
+title: Scanning exposure apparatus and device manufacturing method
+
+abstract: 
+A scanning exposure apparatus includes a projection optical system, a stage to move while holding a substrate, a measurement system to measure a position of the substrate in an optical axis direction of the projection optical system, a generation system to generate a driving signal, in which a change amount being controlled to be equal to or less than an upper limit value, to the stage based on the result of measurement by the measurement system, and a setting system to set the upper limit value based on a running status of the stage.

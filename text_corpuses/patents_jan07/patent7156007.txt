@@ -1,0 +1,4 @@
+title: Device and a process for coarsely grinding hydrous polymer gels
+
+abstract: 
+The present invention relates to a device for crushing a hydrous polymer jelly, comprising two rolls () located axially parallel and rotating in opposite directions between which a nip () for the passage of the polymer gel () is formed. In order to achieve a more uniform and cheaper size reduction of polymer gels, the present invention proposes to form one roll as a cutting roll () which is provided with at least one axially extending cross cutting element () having a cutting edge () and with a radially extending longitudinal cutting element () provided with a cutting edge () which runs around it, and to form the other roll as a back-up roll ().

@@ -1,0 +1,4 @@
+title: Inkjet printer and paper feeding method therefor
+
+abstract: 
+An inkjet printer includes a resistance element with which a front end of the paper becomes in contact so that a paper on a top of the stack of papers is separated from the stack of papers and picked up from a cassette, an angle conversion unit which changes an inclination angle of the resistance element with respect to the front end of the paper, and a switching gear which is moved by a carriage to a first position to feed the paper and to a second position to drive the angle conversion unit.

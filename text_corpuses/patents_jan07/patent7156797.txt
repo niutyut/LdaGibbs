@@ -1,0 +1,4 @@
+title: Assembling method for developing roller
+
+abstract: 
+An assembling method that is for a developing roller usable with a developing device. The developing roller includes a developer carrying member in the form of a hollow cylinder, a flange member provided at an end of the developer carrying member, and a magnet provided in the developer carrying member. The method includes an inserting step of inserting the magnet having at least one projection into an inside of the developer carrying member through an opening of the developer carrying member; an abutting step of abutting the at least one projection to an inside surface of the cylinder of the developer carrying member; and an engaging step of engaging the flange member with the opening by penetrating the flange member with a shaft of the magnet projected out of the opening.

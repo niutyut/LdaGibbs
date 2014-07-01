@@ -1,0 +1,4 @@
+title: Methods and apparatus for caching a location index in a data storage system
+
+abstract: 
+One embodiment is a system for locating content on a storage system, in which the storage system provides a location hint to the host of where the data is physically stored, which the host can resubmit with future access requests. In another embodiment, an index that maps content addresses to physical storage locations is cached on the storage system. In yet another embodiment, intrinsic locations are used to select a storage location for newly written data based on an address of the data. In a further embodiment, units of data that are stored at approximately the same time having location index entries that are proximate in the index.

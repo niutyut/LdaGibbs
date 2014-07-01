@@ -1,0 +1,4 @@
+title: Rapid computer modeling of faces for animation
+
+abstract: 
+Described herein is a technique for creating a 3D face model using images obtained from an inexpensive camera associated with a general-purpose computer. Two still images of the user are captured, and two video sequences. The user is asked to identify five facial features, which are used to calculate a mask and to perform fitting operations. Based on a comparison of the still images, deformation vectors are applied to a neutral face model to create the 3D model. The video sequences are used to create a texture map. The process of creating the texture map references the previously obtained 3D model to determine poses of the sequential video images.

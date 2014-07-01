@@ -1,0 +1,4 @@
+title: Dual, coupled check valve for direct drive, reversible power sources for hydraulic systems
+
+abstract: 
+An invented dual, coupled check valve mechanism is described for a direct drive, reversible hydraulic power source for hydraulic circuits that includes a manifold hydraulically coupled to the respective input/output ports and a reservoir of the hydraulic power source defining a translation passageway having mid-passage drain hydraulically coupled to the reservoir, where each end of the translation passageway has an angled annular valve seat opening to larger diameter plenum containing a check valve ball. A translating rod with a length greater and a circumferential diameter less than that of the translation passageway located in the translation passageway prevents the respective check valve balls from simultaneously seating on the valve seats at the respective ends of the translation passage way.

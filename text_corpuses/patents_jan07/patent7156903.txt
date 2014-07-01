@@ -1,0 +1,4 @@
+title: Sound enclosure for portable oxygen concentrators
+
+abstract: 
+A portable pressure swing adsorption apparatus and conservation device for medical use, and a sound enclosure for the apparatus having two isolating sections to enclose the apparatus, the enclosure having an inlet in one of the sections for allowing ambient air into the enclosure and an outlet in the other section for enabling waste gases from the apparatus to exit the enclosure and causing the ambient air and waste gases substantially to change direction within the enclosure before entering or exiting the apparatus.

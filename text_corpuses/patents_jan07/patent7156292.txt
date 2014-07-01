@@ -1,0 +1,4 @@
+title: Validating competition entry
+
+abstract: 
+A method of validating entry to a competition via interaction of a sensing device with a printed competition entry form comprising coded data indicative of a unique product identifier, the method comprising the steps, performed in a computer system, of: receiving, from the sensing device, interaction data representing interaction of the sensing device with the coded data, the interaction data including at least the unique product identifier and enabling a competition entry to be electronically captured in the computer system; and transmitting the product identifier and the competition entry to a competition administrator for validation of the competition entry at the competition administrator by verification of the product identifier.

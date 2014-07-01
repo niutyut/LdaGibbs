@@ -1,0 +1,4 @@
+title: Tool change system for a machine
+
+abstract: 
+A plurality of atomizers or other tools are disposed in a mounting plate () in storage places (), respectively. The mounting plate () is rotatable relative a paint robot of a coating installation and has a pneumatic lock or a tool holder () that can only be released automatically during storage of the atomizers by an external control device of the mounting plate.

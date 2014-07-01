@@ -1,0 +1,4 @@
+title: Low power start-up circuit for current mirror based reference generators
+
+abstract: 
+Start-up circuit for current mirror circuits to facilitate transition from a zero-current state to an operation state. The start-up circuit includes two sets of current control devices. A set is coupled to each leg of the current mirrored circuit to provide a bias on start-up. The current control devices are coupled together to mirror the current that continues during the operational state such that the start-up circuit in combination with the operating circuit do not draw more current in the operational state than the operating circuit would normally draw in the operational state.

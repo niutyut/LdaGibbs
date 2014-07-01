@@ -1,0 +1,4 @@
+title: Methods for detecting an abnormal condition of a blood pump system
+
+abstract: 
+The present invention provides methods for detecting an abnormal condition of a blood pump system based on the power consumption of the pump actuator. By plotting differentiated power consumption of the pump actuator over time against the power consumption, a plot pattern is obtained. A change of the plot pattern area and/or a movement of the plot pattern will indicate a change in condition of the pump. A Heart Pump Area (HPA) index may be established which corresponds to the changing area of the plot pattern over time. A Heart Pump Position (HPP) index may be established which corresponds to the changing position of the plot pattern over time (e.g., corresponding to the distance the plot pattern has moved). By plotting the HPA index against the HPP index, changes in the condition of the pump can be monitored and any abnormal condition of the pump can be detected.

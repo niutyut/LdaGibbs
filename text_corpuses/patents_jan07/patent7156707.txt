@@ -1,0 +1,4 @@
+title: Marine propulsion system
+
+abstract: 
+A marine propulsion system comprising a push rod () for adjusting the pitch of propeller blades (). The push rod () has a screw-threaded bolt () engaged with a nut (). The nut () carries a bevel gear () by which the nut () can be rotated to cause the bolt () and therefore the push rod () to move longitudinally. The push rod () is connected to a claw with arms couple with pins (). The pins () engage eccentric shafts () for unlocking a propeller base () so the base () can rotate around a transverse axis. The base () has an inclined surface which engages with an inclined surface defining an opening in the propeller's hub therefore locking the propeller blade () in position. The inclined surfaces are disengaged by rotation of the eccentric shaft () thus the propeller blades () can be rotated to adjust the pitch and than the inclined surfaces re-engage locking the propeller blade () in the pitch adjusted position.

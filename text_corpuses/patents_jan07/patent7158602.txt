@@ -1,0 +1,4 @@
+title: Phase locked loop circuit and clock reproduction circuit
+
+abstract: 
+A phase locked loop circuit and a clock reproduction circuit can operate stably with satisfying both of wide lock range and good jitter characteristics. The phase locked loop circuit for generating a clock signal in synchronized in phase with an input signal, has a phase comparator having an analog characteristics as a phase difference detection output characteristics and detecting a phase difference between the input signal and the clock signal, a first control loop controlled oscillation depending upon the phase difference detection output and a second control loop controlled oscillation depending upon a signal derived from the phase difference detection output with enhancing frequency components near a direct current component and performs low speed control in comparison with the first control loop.

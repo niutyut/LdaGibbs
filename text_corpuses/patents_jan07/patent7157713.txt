@@ -1,0 +1,4 @@
+title: Device and method for identifying plastic
+
+abstract: 
+A plastic identifying apparatus of the present invention is provided with a sampling unit () that samples a test piece () from an item to be identified that contains plastic; an identifying unit () provided with a detection unit () that identifies a type of plastic contained in the test piece (); and a supply unit () that supplies the test piece () from the sampling unit () to the detection unit (). With this plastic identifying apparatus, it is possible to realize a plastic identifying method of the present invention, and to identify the types of plastics contained in items to be identified with good accuracy, and continuously, regardless of the size of the items.

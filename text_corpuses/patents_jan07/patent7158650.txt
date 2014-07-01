@@ -1,0 +1,4 @@
+title: Electroacoustic transducer
+
+abstract: 
+An electroacoustic transducer has an annular permanent magnet provided in a frame, and an annular top plate mounted on the permanent magnet. A ring is secured to the upper surface of the top plate. A diaphragm is secured to the ring.

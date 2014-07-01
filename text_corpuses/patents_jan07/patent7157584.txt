@@ -1,0 +1,11 @@
+title: Benzimidazole derivative and use thereof
+
+abstract: 
+The present invention relates to a compound represented by the formula (I)
+
+
+wherein Ris a group represented by the formula
+
+
+
+wherein R, R, R, R, R, Rand Rare each independently a hydrogen atom or a Calkyl, or a salt thereof. The compound of the present invention is useful as an agent for the prophylaxis or treatment of circulatory diseases such as hypertension and the like and metabolic diseases such as diabetes and the like.

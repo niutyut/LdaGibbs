@@ -1,0 +1,4 @@
+title: Method and apparatus for rendering an image in a video graphics adapter
+
+abstract: 
+In accordance with the invention, a video source is received by a first video adapter. The video source is captured in the video memory associated with the first VGA. The stored video source is associated with a window of an existing application. When the window location of the existing application is shifted to coincide with the video memory of a second graphics adapter, a data transfer occurs to the appropriate video memory location of the second graphics adapter to allow the rendering of that portion of the video now residing on a second monitor.

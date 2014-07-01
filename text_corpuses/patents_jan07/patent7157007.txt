@@ -1,0 +1,4 @@
+title: Vertical gas induced flotation cell
+
+abstract: 
+A system for separating oil and/or oily coated solids from an oily water mixture. The system includes an upright vessel having an inlet for introducing oily water in a horizontal pattern. The vessel also has a water outlet in a lower portion of the vessel and an oil outlet. An eductor is positioned within a lower portion of the vessel and is arranged to disseminates small gas bubbles in a radial, substantially horizontal pattern and substantially uniformly over the full cross-sectional area of the vessel. The bubbles migrate upwardly against the downward flow of oily water within the vessel and attach to oil droplets and/or oily coated solids augmenting the buoyancy thereof, and thereby enhancing oily contaminant separation from water. A two-stage oil skimmer bucket is located in a top portion of the vessel by which separated oil is collected and discharged through the oil outlet.

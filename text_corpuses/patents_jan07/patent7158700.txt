@@ -1,0 +1,4 @@
+title: Fiber-optic transceiver
+
+abstract: 
+A fiber optic transceiver () is adapted for use in transmitting and receiving optical signals in a fiber-optic network (). The improved transceiver comprising: a multi-mode optical fiber () having a longitudinal axis (x?x) and having a proximal end (). The fiber is adapted to convey optical signals in either direction therealong. A photodetector () is arranged in longitudinally-spaced relation to the fiber proximal end. The photodetector has a sensitive surface () operatively arranged to receive light energy exiting the fiber through the proximal end. A light source () is arranged between the fiber proximal end and the photodetector surface. The light source is arranged to selective emit light energy into the fiber through the proximal end.

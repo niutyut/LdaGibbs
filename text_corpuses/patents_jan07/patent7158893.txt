@@ -1,0 +1,4 @@
+title: Mass spectrometric data analyzing method, mass spectrometric data analyzing apparatus, mass spectrometric data analyzing program, and solution offering system
+
+abstract: 
+A main object is to cope with an unknown structure substance thereby to identify the structure of a parent ion highly precisely and to derive a supposed structure. A method for analyzing mass spectrometric data is disclosed, which: acquires mass spectrometric data on an ionized sample and dissociated ions dissociated from the sample as a parent ion; derives dissociated ion candidates by analyzing the molecular orbits on the candidates of the structures of the parent ion; and displays the analytical results of the parent ion candidates and the dissociated ion candidates and compares the data of the dissociated ion candidates and the data of dissociated ions actually measured, to evaluate the structures of the parent ion candidates.

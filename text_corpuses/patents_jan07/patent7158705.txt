@@ -1,0 +1,4 @@
+title: Optical fiber with birefringence and large mode field diameter
+
+abstract: 
+According to the present invention the optical fiber includes a core with a first refractive index (n) and the innermost core region with the refractive index n, a cladding surrounding the core, the cladding having a third refractive index (n), wherein n>nand n<n. According to some of the embodiments the optical fiber may also include a moat surrounding and abutting the core and situated between the core and the cladding, the moat having a second refractive index (n), wherein n>n. It is preferable that at least one of the core, innermost core region and/or moat has a non-circular shape.

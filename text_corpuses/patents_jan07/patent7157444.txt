@@ -1,0 +1,5 @@
+title: Aminosalicylate derivatives for treatment of inflammatory bowel disease
+
+abstract: 
+Therapeutic 5-aminosalicylic acid derivative compositions having general formula (I), wherein R is a 1-deoxy sugar residue or a poly(ethylene glycol) chain-containing residue, are provided. The compositions enable topical delivery of 5-aminosalicylic acid to the gastrointestinal tract following oral administration in pharmaceutical preparations. According to the invention, the compositions stabilize pharmaceutical compositions containing therapeutic 5-aminosalicylic acid derivatives in a manner that enhances the retention of said compositions in the intestine, decreases the cellular absorption thereof, and decreases the transfer of said compositions or the 5-aminosalicylic acid derived therefrom to the systemic circulation
+

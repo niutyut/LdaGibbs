@@ -1,0 +1,4 @@
+title: Receiving element for a yarn drawing nozzle of an open-end rotor spinning device
+
+abstract: 
+The invention relates to a receiving element for receiving an interchangeable yarn drawing nozzle that can be magnetically locked. According to the invention, the receiving element is configured as an adapter (), which can be screwed into a central threaded bore () of a thread channel plate () in an open-ended rotor spinning device (), the latter being designed to receive a conventional yarn drawing nozzle that is equipped with an external thread. The adapter () comprises centring bores () for receiving ferromagnetic centring lugs () of a yarn drawing nozzle () in addition to a continuous bore (), whose internal diameter (d) is adapter to the external diameter (D) of the shaft () of the yarn drawing nozzle (). The adapter is also equipped with permanent magnetic pins (), which correspond with the ferromagnetic centring lugs () of the yarn drawing nozzle ().

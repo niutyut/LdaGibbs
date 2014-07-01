@@ -1,0 +1,4 @@
+title: Vehicle radar device
+
+abstract: 
+In a vehicle radar device, a predetermined number of received light signals output based on a predetermined number of laser beams radiated from a radar sensor are integrated by an integrator to produce an integrated signal. Integration of the predetermined number of received light signals helps amplify the received light signal components corresponding to the waves reflected by reflecting objects, making it possible to improve the sensitivity for detecting the waves reflected by the reflecting object. There are set a plurality of ranges of the received light signals to be integrated, each being shifted by one received light signal. This minimizes a drop in the angular resolution based on the integrated signals.

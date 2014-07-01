@@ -1,0 +1,4 @@
+title: Intradermal delivery device
+
+abstract: 
+A delivery device for delivering a substance intradermally into the skin of a patient including a housing for contacting the surface of the skin and a disposable cartridge to be received in the housing. The cartridge includes an internal reservoir containing a substance to be delivered to the patient, a plurality of micro skin penetrating members and a fluid channel extending between the micro skin penetrating members and the reservoir. The housing includes a bottom wall with a central opening and a cover member. The cartridge is positioned in the housing with the micro skin penetrating members extending through the central opening of the bottom wall and positioned on the surface of the skin of a patient. The cover is closed onto the cartridge to dispense the substance from the cartridge through the micro skin penetrating members and into or through the skin of the patient.

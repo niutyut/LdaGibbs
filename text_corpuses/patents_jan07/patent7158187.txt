@@ -1,0 +1,4 @@
+title: Audio video reproduction apparatus, audio video reproduction method, program, and medium
+
+abstract: 
+An audio video reproduction apparatus having: an audio speed conversion circuit of performing audio speed conversion on a generated audio signal in such a manner that the information on an A-PTS is maintained, depending on an executing reproduction speed. An audio output buffer circuit of accumulating the audio signal having undergone the audio speed conversion and of outputting the signal according to the executing reproduction speed. A video output buffer circuit of accumulating and outputting a generated video signal. A comparison circuit of comparing the A-PTS with a V-PTS by using the maintained information on the A-PTS; wherein using the result of the comparison, the video output buffer circuit outputs the accumulated video signal according to the executing reproduction speed.

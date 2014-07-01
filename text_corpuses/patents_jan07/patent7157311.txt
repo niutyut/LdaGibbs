@@ -1,0 +1,4 @@
+title: Substrate sheet material for a semiconductor device and a manufacturing method thereof, a molding method using a substrate sheet material, a manufacturing method of semiconductor devices
+
+abstract: 
+A substrate sheet material for semiconductor device and manufacturing method thereof and a manufacturing method of a semiconductor device using the substrate sheet material can suppress and reduce a warp which may occur in the substrate sheet material even when a plurality of semiconductor chips formed in the substrate sheet material are molded all at once. A plurality of substrates to be used for producing semiconductor packages are formed in the substrate sheet material. An outer configuration of the substrate sheet material is made into a circular shape.

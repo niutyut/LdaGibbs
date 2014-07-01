@@ -1,0 +1,4 @@
+title: Dual diameter and rotating centralizer/sub
+
+abstract: 
+A centralizer for maintaining stand-off and/or centralizing a tubular member inside a larger diameter tubular member, for instance, in a wellbore. The centralizer is provided with bow springs that compress to a minimal diameter around the outer diameter of the sub to which the centralizer is concentrically mounted when compressive force is applied to the bow springs to facilitate insertion of the centralizer into restricted openings and/or flow control or wellhead equipment. The minimal diameter of the centralizer is provided by mounting the bow springs to a reduced diameter portion of the collar that is mounted to the sub, and even greater reduction in diameter is achieved by mounting the bow springs in notches formed in the reduced diameter portion of the collar.

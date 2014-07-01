@@ -1,0 +1,4 @@
+title: Fuel injection device for an internal combustion engine
+
+abstract: 
+A fuel injection apparatus having a fuel supply pump supplying fuel to a high-pressure pump which delivers fuel into a reservoir with a metering device for adjusting the fuel quantity delivered into the reservoir; the metering device has a control valve triggered by an actuator. The control valve has a valve element guided in a cylinder of a valve housing can be slid by the actuator in opposition to a spring and in cooperation with an opening in the cylinder bore connected to an inlet from the supply pump or an outlet to the high-pressure pump, controls a flow cross section from the supply pump to the high-pressure pump. The valve element can close the flow cross section at least almost completely and also control a connection of the inlet from the supply pump or of the outlet to the high-pressure pump to a discharge region, and open this connection when it closes the flow cross section.

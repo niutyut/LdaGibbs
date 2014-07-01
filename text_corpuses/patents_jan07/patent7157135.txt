@@ -1,0 +1,4 @@
+title: Co-extruded high refractive index coated embossable film
+
+abstract: 
+An embossable film for creating holograms and diffraction gratings and methods of producing the embossable films are provided. The embossable film includes a base layer and a co-extruded embossable layer that is coated with a transparent high refractive index (HRI) coating prior to embossing.

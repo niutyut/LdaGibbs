@@ -1,0 +1,4 @@
+title: Scale dissolver fluid
+
+abstract: 
+A scale dissolver fluid for dissolving scale in a subterranean hydrocarbon-bearing formation comprises an effective amount of a scale dissolver formulation and an effective amount of a surfactant for controlling the viscosity of the fluid. In use, formation hydrocarbons act on the surfactant to reduce the viscosity of the fluid so that the fluid selectively invades a hydrocarbon-bearing zone of the formation.

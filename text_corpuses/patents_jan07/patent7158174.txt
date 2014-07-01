@@ -1,0 +1,4 @@
+title: Method for automatic white balance of digital images
+
+abstract: 
+A method of adjusting the color characteristics of a digital image includes receiving a digital image including a plurality of pixels, receiving non-pixel data relating to camera capture parameters including an aperture value, an exposure time value, and a speed value specific to the received digital image; using the aperture value, time value, and speed value to calculate a scene brightness value; and using the calculated scene brightness value to adjust the color of the digital image.

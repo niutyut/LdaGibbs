@@ -1,0 +1,4 @@
+title: Three point seat belt system
+
+abstract: 
+A three-point seat belt system adapted for use with a seat frame having a seat back and a seat bottom, wherein the system comprises: (a) retractor shoulder belt with a single first connector on its distal end, adapted to be fixedly attached at its opposite end to the underside of said seat bottom, and extending to the front side of said seat back; (b) multi-connecting lap and shoulder belt comprising: (i) seat belt webbing connected to a Y-junction; (ii) a second connector consisting of a post connector attached to one end of the Y-junction, which releasably attaches to said first connector; and (iii) a third connector consisting of a tongue connector attached to the second end of the Y-junction; and (c) a single lap belt with a fourth connector consisting of a buckle on its distal end, which releasably attaches to said third connector.

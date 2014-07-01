@@ -1,0 +1,4 @@
+title: Flow control valve for fuel module assembly
+
+abstract: 
+A fuel flow control valve () for an in-tank fuel module (M) to control fuel flow to a fuel pump (P) from either a fuel tank (T) in which the module is installed or a fuel module reservoir (V). The valve includes a disc () having a plurality of slots () formed therein through which fuel flows from an opening (O) in the module to the fuel pump. The disc is mounted on the head () of a valve stem (). This allows the valve to move between one position opening a fuel flow path between the fuel tank and the fuel pump and a second position opening a fuel flow path between the fuel reservoir and the fuel pump, the valve, when opening one of the flow paths, simultaneously blocking the other flow path.

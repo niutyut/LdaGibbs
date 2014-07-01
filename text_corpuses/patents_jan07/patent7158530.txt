@@ -1,0 +1,4 @@
+title: Real time communications of musical tone information
+
+abstract: 
+A musical tone data communications system having a unit for generating MIDI data of a musical performance by a player, a unit for transmitting the generated MIDI data over a communications network and a unit for receiving the transmitted MIDI data and reproducing musical tones corresponding to the MIDI data in real time.

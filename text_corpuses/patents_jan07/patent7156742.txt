@@ -1,0 +1,4 @@
+title: Memory cartridge system
+
+abstract: 
+A memory cartridge system includes a main body, and a main body ROM incorporated in the main body is stored with a warning message display program, and a memory cartridge attachable to or detachable from the main body is stored with a karaoke program. When the memory cartridge is not attached, the warning message display program is mapped to an address space in a first manner, whereby the warning message display program is started. On the other hand, when the memory cartridge is attached, the warning message display program and the karaoke program are mapped to the address space in a second manner, whereby the karaoke program can be started.

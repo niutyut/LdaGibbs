@@ -1,0 +1,4 @@
+title: Forming tool
+
+abstract: 
+The invention relates to a forming tool for forming sheet blanks in a diaphragm press of the kind comprising an openable, closed pressure chamber, which is divided in a gas and liquid tight manner by means of a flexible diaphragm. The forming tool is arranged on one side of the diaphragm and a sheet blank to be formed is arranged between the forming tool and the diaphragm. The opposite side of the diaphragm is pressurized by a fluid being supplied at high pressure to cause the flexible diaphragm to deform and, thus, the sheet blank to be pressed against the forming tool. The forming tool comprises an elongate cutting and flanging tool along at least part of its periphery and/or around an intended opening in the sheet blank.

@@ -1,0 +1,4 @@
+title: Method for producing ultra-thin semiconductor device
+
+abstract: 
+A method for producing an ultra-thin semiconductor chip and an ultra-thin back-illuminated solid-state image pickup device utilizing a semiconductor layer formed on a support substrate via an insulating layer to improve separation performance of a semiconductor layer from a support substrate and thereby improve the productivity and quality. The method uses two porous peeling layers on opposite sides of a substrate to produce an ultra-thin substrate.

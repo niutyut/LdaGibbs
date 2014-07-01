@@ -1,0 +1,4 @@
+title: Updating data from a source computer to groups of destination computers
+
+abstract: 
+A source computer  stores updated data that is to be distributed to a plurality of destination computers ( to ). The destination computers ( to ) are divided into groups sharing a common priority level (). Each of these groups is then associated with a push update task to be executed by the source computer . These push update tasks are then sequentially executed. If a particular group of destination computers exceeds a threshold size, then it may be further divided in accordance with a hierarchy of splitting rules. The push update tasks use multicasting to transfer the update data to the destination computers within their groups in a manner that reduces network traffic.

@@ -1,0 +1,4 @@
+title: Determining structures by performing comparisons between molecular replacement results for multiple different biomolecules
+
+abstract: 
+A method is provided for identifying a search model to use in molecular replacement for determining a structure of a target biomolecule, such as a protein, from X-ray diffraction data, the method comprising: employing computer executable logic to perform multiple molecular replacement searches on X-ray diffraction data of the target biomolecule where a group of different biomolecule structures are used as search models for the multiple molecular replacement searches; and employing computer executable logic to compare solutions from the multiple molecular replacement searches, the comparison producing data from which biomolecule structures can be identified as having superior structural identity with the target biomolecule as compared to the other biomolecule structures in the group.

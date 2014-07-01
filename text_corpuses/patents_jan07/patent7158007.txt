@@ -1,0 +1,4 @@
+title: Lock control system, lock controller, and key device
+
+abstract: 
+A lock is operated by a lock controller that receives identifying signals transmitted from one or more wireless key devices. Weights are assigned to the identifying signals, and the lock is operated only if the weights of the received identifying signals satisfy a condition, such as a threshold condition applied to their sum. The weights are preferably assigned by counting the number of times each identifying signal is registered in the lock controller. The count may be kept in the lock controller or in the wireless key device itself.

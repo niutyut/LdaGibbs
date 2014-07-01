@@ -1,0 +1,4 @@
+title: Semiconductor device and process of production of same
+
+abstract: 
+A semiconductor device comprising: a first insulating film formed on a semiconductor substrate; a semiconductor layer at least a part of which is formed on the first insulating film; a second insulating film comprising a non-doped silicon oxide film and formed on the semiconductor layer; a third insulating film comprising a silicon oxide film containing at least phosphorus formed on the second insulating film; and a fourth insulating film comprising a non-doped silicon oxide film formed on the third insulating film.

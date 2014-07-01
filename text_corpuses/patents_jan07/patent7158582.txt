@@ -1,0 +1,4 @@
+title: Digital I/Q modulator having a predistortion
+
+abstract: 
+An I/Q modulator processes a time-discrete I/Q signal comprising an I component and a Q component. The I/Q signal is based on a sampling frequency which is equal to four times a carrier frequency of a carrier signal onto which the I/Q signal is modulated. A predistorter of the modulator predistort the I and components with a predistortion signal, which depends on the I and Q components, so as to form a predistorted I component and, in temporal alternation therewith, a predistorted Q components. An adjuster of the modulator adjusts the signs of the predistorted I and Q components so that two temporally successive predistorted components have a first sign and two additional successive predistorted components, which follow the first-mentioned components in time, have a second sign which is the inverse of the first sign, so as to produce therefrom an output signal at an output of the modulator.

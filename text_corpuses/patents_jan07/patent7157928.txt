@@ -1,0 +1,4 @@
+title: Determining leakage in matrix-structured electronic devices
+
+abstract: 
+One embodiment of this invention pertains to a high throughput screening technique to identify current leakage in matrix-structured electronic devices. Because elements that are likely to develop a short have relatively high leakage current at zero operation hours, by identifying elements with the relatively high leakage current, the electronic devices that are more likely to later develop a short can be differentiated. The screening technique includes performing the following actions: selecting one of multiple first lines; applying a first voltage to the selected first line; applying a second voltage to the one or more of the first lines that are not selected; floating the multiple second lines; and measuring the voltages on the second lines, either sequentially one line at a time or measuring all the lines at the same time.

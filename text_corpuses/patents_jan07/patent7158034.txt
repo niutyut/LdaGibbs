@@ -1,0 +1,4 @@
+title: Pipe gasket manufacturing and identification method with RFID tracking
+
+abstract: 
+An asset tracking system is provided, having particular usefulness in connection with the marking and tracking of sealing gaskets of the type used in water and sewage systems and in fluid conveyance systems generally. Interrogation of RFID tags located on the sealing gaskets insures that the gaskets are properly tracked, identified and sorted.

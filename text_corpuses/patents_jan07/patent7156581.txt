@@ -1,0 +1,4 @@
+title: Dynamic remediation of soil and groundwater
+
+abstract: 
+A method and system for improved environmental remediation. A method comprising establishing an initial remediation protocol; applying at least one initial motive force according to the initial remediation protocol; monitoring the effect on the site resulting from the application of the at least one initial motive force; modifying the remediation protocol to improve the performance of the remediation using information gleaned from the monitoring of the site; applying at least one motive force according to the modified remediation protocol; and repeating monitoring, modifying, and applying in a more or less continuous fashion until the remediation is complete.

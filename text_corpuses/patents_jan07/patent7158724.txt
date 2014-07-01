@@ -1,0 +1,4 @@
+title: Method of detecting switching subnodes for switching wavelength division multiplexes
+
+abstract: 
+A method of detecting switching subnodes in a monoblock wavelength division multiplex optical switching node, each subnode corresponding to a given level of granularity and to a given switching function. The method includes collecting information concerning how traffic is crossing an initial monoblock switching node, defining the granularity and switching function of the subnodes to be detected, considering each subnode successively in an order corresponding to reducing switching constraints and, for each subnode, selecting all or part of the traffic of an incoming granularity and an outgoing granularity that satisfy the switching constraints of the subnode concerned.

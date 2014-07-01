@@ -1,0 +1,4 @@
+title: Semiconductor bond pad structures and methods of manufacturing thereof
+
+abstract: 
+Described is a semiconductor device having improved semiconductor bond pad reliability and methods of manufacturing thereof. The semiconductor device includes a layer formed over an integrated circuit on a semiconductor substrate. The first layer includes a conductive portion and an insulating portion. A second layer is then formed over the first layer and includes a conductive portion corresponding to the first layer's conductive portion and an insulating portion corresponding to the first layer's insulating portion. A bond pad is then formed over the first and second layers such that the bond pad is substantially situated above the conductive portions and the insulating portions of the first and second layers. A bonding ball is then formed on the bond pad substantially above the conduction portion of the first and second layers.

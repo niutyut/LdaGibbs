@@ -1,0 +1,4 @@
+title: Method for making highly colored DVDs
+
+abstract: 
+Embodiments of highly colored optical discs and methods for making the same are disclosed. For examples, specification discloses a DVD composition that comprises a bonding layer and a data layer disposed there between, wherein at least one of the substrates is a read side substrate comprising a highly colored polycarbonate comprising an optical quality polycarbonate resin and a colorant formulation in the range of 0.1 to 0.4 wt % of the highly colored polycarbonate.

@@ -1,0 +1,4 @@
+title: Apparatuses and processes for synthesis of carbon nanotubes using inverse diffusion flame
+
+abstract: 
+Disclosed is an apparatus for the combustion synthesis of carbon nanotubes characterized with the combustor having an oxidizing agent inlet, a fuel inlet and an inert gas inlet, such that the inverse diffusion flame occurs within the combustor, thereby producing carbon nanotubes without using vacuum, and a method for the combustion synthesis of carbon nanotubes using the same. According to the present invention, it is possible to directly collect samples including carbon nanotubes without oxidation and a substrate may be installed with ease. Moreover, the manufacturing cost can be lowered to a level suitable for mass production so that the carbon nanotube technology can be extended to various applications.

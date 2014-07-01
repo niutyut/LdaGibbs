@@ -1,0 +1,4 @@
+title: Injection molding machine spigotted shooting pot piston
+
+abstract: 
+An injection molding shooting pot configured to be installed in a coinjection hot runner with a coinjection nozzle, the coinjection nozzle having at least two melt channels ending at the same gate. The injection molding shooting pot includes a shooting pot piston having a proximal end and a distal end. A shooting pot piston extension is disposed at the distal end of the shooting pot piston, and is configured to dislodge a check valve moving element during a discharge cycle of the shooting pot piston.

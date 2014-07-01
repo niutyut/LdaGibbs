@@ -1,0 +1,4 @@
+title: Coating device
+
+abstract: 
+The coating device () for coating a metal band or strip () in a melted metal mass ( ) comprises a shaft () rotatably supported in the melted metal mass () by a slide bearing () is formed by a bearing housing () and an open bearing shell () held therein, with two bearing surfaces () . Between the two bearing surfaces (), the bearing shell () comprises a deformation zone () with a deformation element () . With high radial forces of the shaft occurring, the two bearing shell halves () are slightly spread. The flexible deformation zone ensures that the two bearing shell halves remain interconnected and resist breaking in this area.

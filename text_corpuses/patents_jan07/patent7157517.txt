@@ -1,0 +1,4 @@
+title: Method of delaminating a graphite structure with a coating agent in a supercritical fluid
+
+abstract: 
+The present invention involves a method of delaminating a graphite structure. The method comprises diffusing a coating agent in a supercritical fluid between layered particles of a graphite structure defining contacted graphite particles and catastrophically depressurizing the supercritical fluid to form delaminated graphite particles.

@@ -1,0 +1,4 @@
+title: Intake device for internal combustion engine
+
+abstract: 
+An intake device includes an intake pipe, a valve having a downstream side including a cutoff portion and an upstream side rotatably attached to an inner wall of the intake pipe, and a partition plate provided in the intake pipe so as to divide an intake passage in the intake pipe into an upper intake passage and a lower intake passage. The valve has an open state in which the upper and lower intake passages are open, a closed state in which the upper and lower intake passages are closed; and an intermediate state in which the lower intake passage is closed.

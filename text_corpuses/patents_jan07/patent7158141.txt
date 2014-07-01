@@ -1,0 +1,4 @@
+title: Programmable 3D graphics pipeline for multimedia applications
+
+abstract: 
+A programmable graphics pipeline and method for processing multiple partitioned multimedia data, such as graphics data, image data, video data, or audio data. A preferred embodiment of the programmable graphics pipeline includes an instruction cache, a register file, and a vector functional unit that perform partitioned instructions. In addition, an enhanced rasterization unit is used to generate inverse-mapped source coordinates in addition to destination output coordinates for graphics and other media processing. An enhanced texture address unit generates corresponding memory addresses of source texture data for graphics processing and source media data for media processing. Data retrieved from memory are stored in an enhanced texture cache for use by the vector functional unit. A vector output unit includes a blending unit for graphics data and an output buffer for wide media data.

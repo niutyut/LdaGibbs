@@ -1,0 +1,4 @@
+title: Smart book
+
+abstract: 
+A method and system that permits the purchase of a license to make a limited number of copies of a book. At the time of purchase, the purchaser or user is given a key that contains the ability to obtain the limited number of copies on demand. The key contains a web address that can be used to obtain the authorized copies. In some embodiments, the key is a label in a machine readable form that is readable by a label reader, such as a bar code reader or a magnetic reader. In other embodiments, the key is merely a web address that the user may contact. At the point of sale, the key or record is formed, affixed to the book and also sent to copy tracker. The copy tracker then keeps track of the copies as made and processes each request to make a copy. If permitted, a database is enabled to send an electronic image of the requested copy to the user.

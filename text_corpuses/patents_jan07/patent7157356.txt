@@ -1,0 +1,4 @@
+title: Method for forming a notched gate insulator for advanced MIS semiconductor devices and devices thus obtained
+
+abstract: 
+Methods of providing a semiconductor device with a control electrode structure having a controlled overlap between control electrode and first and second main electrode extensions without many spacers are disclosed. A preferred method provides a step of etching back an insulating layer performed after amorphizing and implanting the main electrode extensions. Preferably, the step that amorphizes the extensions also partly amorphizes the insulating layer. Because etch rates of amorphous insulator and crystalline insulator differ, the amorphized portion of the insulating layer may serve as a natural etch stop to enable even better fine-tuning of the overlap. Corresponding semiconductor devices are also provided.

@@ -1,0 +1,4 @@
+title: Tank for heat exchanger
+
+abstract: 
+In tubular portion of a tank, slits are formed in each side face of chambers or across all side faces of the chambers. For partition plates that are to be inserted from the slits, groove portions in which the partition plates are fitted are formed by cutting portions to which the partition plates butt. The slits are formed in the chambers at positions relatively shifted from each other in a direction in which tubes are layered. This structure guarantees that, in the tank for a heat exchanger, bypass leakage of a heat exchange medium between sub-chambers is prevented from occurring when the partition plates are inserted in the tank from the slits provided on the tank side faces. Further, the tank can maintain required strength even if the slits are formed in it.

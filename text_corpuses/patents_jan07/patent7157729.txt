@@ -1,0 +1,4 @@
+title: Storage phosphor media service and jam access in a CR reader
+
+abstract: 
+A storage phosphor reader. The reader comprises a receiving station adapted to receive a cassette containing a removable storage phosphor. The reader further comprises a path along which the storage phosphor is transportable in a first and second direction when removed from and returned to the cassette. The receiving station is disposed at one end of the path and an access area is disposed at the other end of the path. The access area can be exposed to light as the storage phosphor is transported along the path.

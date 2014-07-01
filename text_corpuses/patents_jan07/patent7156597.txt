@@ -1,0 +1,4 @@
+title: Contamination detection system
+
+abstract: 
+A dual bar code for detecting contamination. When no contamination is present, a first bar code identifies the product. When contamination is present a second bar code identifies the presence of contaminants.

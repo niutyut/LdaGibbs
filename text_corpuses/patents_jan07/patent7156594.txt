@@ -1,0 +1,4 @@
+title: Device, system, and method for restraining planar objects
+
+abstract: 
+Certain exemplary embodiments can provide an apparatus comprising a first arm defining a pair of opposing ends, each of said opposing ends attached to a restrainer; a second arm defining a translatable end to which a restrainer is attached and an opposing end attached to said first arm; a third arm defining a translatable end to which a restrainer is attached and an opposing end attached to said first arm; and a first restorer attached between said second arm and said third arm, said first restorer resisting relative motion between said second arm and said third arm.

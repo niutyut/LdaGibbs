@@ -1,0 +1,4 @@
+title: Scheduling the recording of television programs
+
+abstract: 
+A television receiving system displays an advertisement for a future television program. If the future television program is identified as recordable, the system also displays an option to set a reminder for the advertised program and/or an option to record the advertised program on a video recorder. If a viewer of the advertisement selects the reminder option, then a reminder is programmed in the system. If the viewer selects the record option, then the system automatically programs the video recorder to record the advertised program. If the viewer has established an interactive session during a television advertisement, and has not completed the interactive session when the advertisement ends, then the current television program is paused until the interactive session is completed.

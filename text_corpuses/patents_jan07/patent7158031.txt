@@ -1,0 +1,4 @@
+title: Thin, flexible, RFID label and system for use
+
+abstract: 
+A radio frequency indentification (RFID) label includes an integrated circuit and an antenna. The label may also include two flexible films directly sealed to each other. The label may be affixed to an article and used in conjunction with an interrogation system to track the article.

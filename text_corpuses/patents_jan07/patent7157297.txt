@@ -1,0 +1,4 @@
+title: Method for fabrication of semiconductor device
+
+abstract: 
+On a processed substrate having an engraved region as a depressed portion formed thereon, a nitride semiconductor thin film is laid. The sectional area occupied by the nitride semiconductor thin film filling the depressed portion is 0.8 times the sectional area of the depressed portion or less.

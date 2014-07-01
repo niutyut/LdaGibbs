@@ -1,0 +1,4 @@
+title: Bathroom flushers with novel sensors and controllers
+
+abstract: 
+A bathroom flusher () includes a body having an inlet () in communication with a supply line and an outlet () in communication with a flush conduit, a valve assembly in the body positioned to close water flow between the inlet and the outlet upon sealing action of a moving member (A, B, C, , or ) at a valve seat (A, A,  or ) thereby controlling flow from the inlet to the outlet, and an actuator () for actuating operation of the moving member. The bathroom flusher includes one of several novel sensors and is controlled by one of several novel controllers, as described. The controllers may execute a novel control algorithm.

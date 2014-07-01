@@ -1,0 +1,4 @@
+title: Federated management of content repositories
+
+abstract: 
+A method for integrating a plurality of content repositories into a virtual content repository (VCR), comprising providing credential information to each one of said plurality of content repositories, receiving authorization information from each one of said plurality of content repositories, wherein the authorization information indicates whether or not an authorization procedure succeeded, integrating into the VCR each one of said plurality of content repositories whose authorization information indicates successful authorization, and wherein each one of said plurality of content repositories exposes a first set of services to enable its integration into the VCR.

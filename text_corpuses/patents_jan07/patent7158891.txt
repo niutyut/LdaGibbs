@@ -1,0 +1,4 @@
+title: Method and system to build optimal models of 3-dimensional molecular structures
+
+abstract: 
+The present invention relates to a method to build 3-dimensional models of molecular structures corresponding to the lowest value of the potential energy function from knowledge of their chemical structures. The system uses Mutually Orthogonal Latin Squares to search through conformational space to obtain the best conformation. The system may also be used to obtain the optimum of any function, and not only those related to biomolecular structure.

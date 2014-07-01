@@ -1,0 +1,4 @@
+title: Mill variation control apparatus and method
+
+abstract: 
+Apparatus and method for reducing vibration in a mill stand. The apparatus comprises a roll () positioned upstream or downstream of the mill stand () and over which the strip material () being rolled is passed. The vibration control apparatus comprises an inertia element in the form of a flywheel () connected to the roll () by a stiffness element in the form of a compliant shaft (). The components () and () form a mechanical system which can be tuned in such a way as to introduce a speed fluctuation at the roll () which exactly matches the speed fluctuation of the strip material as it enters the roll bite. Both the inertia element () and stiffness element () can take other forms: for example, the stiffness element could be a flexible drive belt or belts; the inertia element could be a shaft about which the roll () rotates, via a stiffness element.

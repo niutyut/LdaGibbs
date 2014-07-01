@@ -1,0 +1,4 @@
+title: System and method for providing a redundant memory array in a semiconductor memory integrated circuit
+
+abstract: 
+A memory device that has an internal memory array provides timing signals to control the output timing of one or more redundant memory blocks that substitute for defective memory blocks in the internal memory array. In one embodiment, the internal memory array includes a pipelined output stage, and the timing signals ensure that the data is output from the memory devices in the order memory access requests are issued, even when the latency of the redundant memory blocks is less than the latency of the main memory array by up to two clock periods. In one embodiment, a FIFO memory queues the output data of the redundant memory blocks waiting to be output.

@@ -1,0 +1,4 @@
+title: Method of centering media disks on the hub of a spindle motor in a hard disk drive
+
+abstract: 
+A method for centering and securing data storage disks to the hub of a spindle motor in a hard disk drive has a chamfer and a countersink on the top of the spindle motor shaft center. During the hard disk drive assembly process, a disk centering tool engages and uses these features to locate and center the disks that are installed on the spindle motor. The features are closely toleranced to provide a very precise centering feature for mounting and aligning the media disks with respect to the hub and the spindle motor. The present design reduces the complexity of the tooling and fixtures required to complete the assembly. As a result, the overall part cost is reduced and the manufacturing yield is improved.

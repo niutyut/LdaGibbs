@@ -1,0 +1,4 @@
+title: Coating machine
+
+abstract: 
+A coating machine having a coating material discharging mechanism for discharging a previously filled coating material under pressure to an atomizing mechanism wherein a coating material bag for filling a coating material is housed in a coating material discharging chamber of a predetermined volume and an inlet/exit port of an operating fluid is disposed for exerting a pressure from the outside of the coating material bag thereby discharging the coating material under pressure, while crushing the coating material bag, whereby paint or other coating material can be discharged under pressure reliably by a small driving force.

@@ -1,0 +1,4 @@
+title: Waveform equalizer and shift register
+
+abstract: 
+In a tap  in a shift register of a waveform equalizer, data of an input signal is stored in a data storing FF . A tap coefficient computing unit  calculates a tap coefficient, which is stored in a tap coefficient storing FF  and output to an absolute value computing unit . The unit  obtains the absolute value of the tap coefficient. A comparator  compares the absolute value to a threshold value. A masking unit  masks and outputs the data from the data storing FF  to a multiplier  if the absolute value is smaller than the threshold value, while outputting the data from the data storing FF  without change if the absolute value is no less than the threshold value. The multiplier  multiplies the data of the input signal by the tap coefficient and outputs a signal to an adder 

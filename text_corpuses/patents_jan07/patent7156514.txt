@@ -1,0 +1,4 @@
+title: Inks and printheads with internal clog prevention
+
+abstract: 
+Active enzymes are incorporated into inks to prevent clogging. These may be just cellulase or cellulase and protease, to attack the most prevalent materials. The enzymes decompose the materials they are specific to, which degrades or solubilizes them to prevent clogging at nozzles and other flow features of a printhead.

@@ -1,0 +1,4 @@
+title: Seat convertible into a bed, in particular for aircraft
+
+abstract: 
+A convertible seat, e.g., for an aircraft, including a fixed structure and a mobile structure, including a seat bottom, a seat back, a leg rest and, optionally, a leg rest extension. The different elements of the mobile structure are mechanically connected to each other, and to the fixed structure, to automatically move the mobile structure between a first extreme seat type posture and a second extreme bed type posture, passing through given ergonomically comfortable intermediate postures, using a single control. This control may be a manual control or a motorized control.

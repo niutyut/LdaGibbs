@@ -1,0 +1,4 @@
+title: Refrigerating apparatus
+
+abstract: 
+In a refrigerating apparatus in which a plurality of application-side heat exchangers () are connected to a heat-source side heat exchanger (), liquid lines for a plurality of channels in a refrigerant circuit (E) share a liquid side communication pipe () in order to reduce the number of pipes. Further, the liquid side communication pipe () is provided adjacent to a low-pressure gas side communication pipe () for at least one channel so as to contact it in order to supercool a liquid refrigerant by a low-pressure gas refrigerant. Thus, workability for connecting the pipes is improved and a refrigerating ability may not be decreased even if communication pipes () become long.

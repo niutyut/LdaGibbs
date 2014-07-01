@@ -1,0 +1,4 @@
+title: Cutter adjustment system
+
+abstract: 
+An improvement for a cartridge case trimmer which indexes on the shoulder of the case as established by the resizing die and permits a rotating cutter assembly to trim the neck of cases from the inside at a controllable angle. The cutter assembly includes a notched cutter with a cutting edge for length, a cutting edge for inside chamber, and a notched support plate with a guide which also serves as an outside deburring edge. The rotating cutter assembly has a flywheel mounted to it so as to stabilize the cutter while rotating to reduce the tendency to wobble. Set screws fit within the notches of the notched cutter and notched support plate to both hold them in place and to adjust them independently for the desired shape of the trimmed cartridge case neck.

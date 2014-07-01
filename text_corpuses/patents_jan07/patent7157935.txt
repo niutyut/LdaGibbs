@@ -1,0 +1,4 @@
+title: Method and device for configuration of PLDs
+
+abstract: 
+A Programmable Logic Device provides efficient scalability for configuration memory programming while requiring reduced area for implementation. The device includes an array of configuration memory cells, a Vertical Shift Register (VSR) connected to the vertical lines of the array of configuration memory cells, a Select Register (SR) connected to the horizontal lines of the array of configuration memory cells, a Horizontal Shift Register (HSR) providing the enable input to the Select Register (SR), and a Configuration State Machine (CSM) which synchronizes the operations of the VSR, SR and HSR.

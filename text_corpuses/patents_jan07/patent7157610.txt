@@ -1,0 +1,4 @@
+title: Process for recovering methanol
+
+abstract: 
+A process for recovering methanol from mixtures containing methanol and water, comprising multistage evaporation with heat integration, wherein the pressure is reduced from each stage to the next, and a downstream series of distillation stages with heat integration, wherein the pressure is increased from each stage to the next. The process reduces the amount of energy required for methanol recovery.

@@ -1,0 +1,4 @@
+title: Rotary valve in a multi-gas cooker
+
+abstract: 
+The cooking appliance () having a control panel () is equipped with one or more gas flow (Q) regulating valves, wherein the rotary regulator organ () is provided with various peripheral through holes (). The control knob () being interchangeable for fitting to the actuating shaft (), is chosen from the two units available, one and the other permitting different angular limit positions (A, A) for the supply of a constant minimum gas flow Qmin, through one of two successive holes () calibrated each one for a different type of gas NG or LPG, one or the other hole being superimposed to a valve inlet duct () at a different angular position A, A. An integral lug () on the control knob () running into a slide groove () in the control panel (), establishes a first rotation stop A

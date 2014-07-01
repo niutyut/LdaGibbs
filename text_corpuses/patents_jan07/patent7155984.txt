@@ -1,0 +1,4 @@
+title: Rotational sensor
+
+abstract: 
+A rotational sensor includes a detection element accommodated in a case and detecting a rotational motion of a rotor located outside the case to output a rotational signal, a terminal physically and electrically connected to the detection element, a connecting member electrically connected to the terminal to output the rotational signal from the terminal outside the rotational sensor and an elastic body fitted into the case by press-fitting and through which the terminal is inserted.

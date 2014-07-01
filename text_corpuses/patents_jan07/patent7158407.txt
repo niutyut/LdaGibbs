@@ -1,0 +1,4 @@
+title: Triple pulse method for MRAM toggle bit characterization
+
+abstract: 
+A method is provided for testing magnetic bits () of an array. A train of first (), second (), and third () pulses is provided to a desired bit, the first and second pulses beginning at a substantially similar low field and increasing in similar amounts with respect to successive trains of the first, second, and third pulses, the third pulse having a current amplitude sufficient to toggle the magnetic bit. A representative count is recorded in response to switching of the bit. The above steps are repeated and a determination is made of the current amplitude required to write and toggle the bit.

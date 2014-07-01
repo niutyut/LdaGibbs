@@ -1,0 +1,4 @@
+title: Orientation dependent functionality of an electronic device
+
+abstract: 
+An electronic device is provided that includes a housing, a plurality of modules, a sensor and a selection mechanism. The housing has multiple housing segments, with each segment housing one of the plurality of modules. The sensor detects an orientation of the electronic device. The selection mechanism automatically selects at least one, but nor all, of the plurality of modules to be active, based on the detected orientation of the electronic device.

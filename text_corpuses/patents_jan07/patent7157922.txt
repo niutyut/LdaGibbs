@@ -1,0 +1,4 @@
+title: Planar electroconductive contact probe holder
+
+abstract: 
+An opening is formed in a part of a high strength base plate  for providing electroconductive contact units, and a holder hole forming member  made of plastic material is filled into the opening via an insulating film . Holder holes  are formed in the holder hole forming member, and a coil spring  and electroconductive needle members  and  are installed in each holder hole. Because the proportion of the reinforcing material in the thickness of the holder is so high that the contact probe holder can be made almost as strong as the high strength base plate. Thus, even when the thickness of the holder is minimized, the mechanical strength of the holder can be ensured as opposed to the conventional arrangement including a simply insert molded metallic member, and the holder can be made even thinner.

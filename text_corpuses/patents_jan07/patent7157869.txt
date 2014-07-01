@@ -1,0 +1,4 @@
+title: Control system and control method for motor powered four wheel drive vehicle
+
+abstract: 
+A control system for controlling a vehicle which has an engine for driving front wheels thereof and a motor for driving rear wheels thereof. The control system includes: a motor generator which is driven by the engine and generates three-phase alternating-current power at first voltage; an inverter which converts the three-phase alternating-current power to direct-current power at second voltage lower than the first voltage; a battery to be charged with the direct-current power supplied from the inverter; and a capacitor device connected to the inverter. The motor of the vehicle is supplied with third power at third voltage converted from the first alternating-current power.

@@ -1,0 +1,4 @@
+title: Magnetic recording medium
+
+abstract: 
+The present invention provides a magnetic recording medium comprising a magnetic layer with excellent surface smoothness, which comprises a thin film magnetic layer of thickness in a range from 0.03 to 0.30 ?m that is ideal for short wavelength recording, and displays superior electromagnetic conversion characteristics. The magnetic recording medium comprises a magnetic layer containing at least a ferromagnetic powder and a binder resin on one surface of a non-magnetic support, wherein the thickness of the magnetic layer is within a range from 0.03 to 0.30 ?m, and the number of concavities with a depth of 30 nm or greater in the surface of the magnetic layer is 5 per 1 cmof surface area or less. Preferably, the value of the average depth Rv6 of the surface of the magnetic layer, as measured by a contact type surface roughness meter, is 12 nm or less.

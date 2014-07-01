@@ -1,0 +1,4 @@
+title: Method of picking up sectional image of laser light
+
+abstract: 
+A knife edge is disposed at a height corresponding to a section on which a sectional image (light intensity distribution) is picked up in such a manner as to intercept a part of the section of the laser light. The knife edge is irradiated with the laser light, and the sectional image of the laser light is enlarged with an image forming optics, and is picked up by a CCD. While picking up the sectional image in this manner, focusing of the image forming optics is performed. Next, the knife edge is retracted from the optical path of the laser light, the laser light is allowed to enter the CCD via the image forming optics, and the sectional image of the laser light is picked up.

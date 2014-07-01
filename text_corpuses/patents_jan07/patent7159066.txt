@@ -1,0 +1,4 @@
+title: Precharge suggestion
+
+abstract: 
+Machine-readable media, methods, and apparatus are described which process memory transactions. In some embodiments, a processor requests an external memory controller to close a storage location of a memory associated with a first memory transaction based upon a relationship between the first memory transaction and a second memory transaction.

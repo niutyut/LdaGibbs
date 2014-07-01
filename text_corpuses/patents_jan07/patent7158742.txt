@@ -1,0 +1,4 @@
+title: Toner container and image forming apparatus using the same
+
+abstract: 
+A toner container of the present invention stores powdery toner to be replenished via a toner outlet thereof and includes a container body. A shutter device is positioned in the toner outlet for selectively opening or closing the toner outlet. The shutter device includes an opening/closing member, a resilient member constantly biasing the opening/closing member from the inside toward the outside of the container body, and a support member supporting the resilient member and opening/closing member. The toner container is simple and easy to mount and dismount from an image forming apparatus while surely preventing the toner from leaking.

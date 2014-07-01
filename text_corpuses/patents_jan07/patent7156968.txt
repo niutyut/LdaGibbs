@@ -1,0 +1,4 @@
+title: Electrode comprising material to help stabilize oxide of catalyst for electrochemical sensor
+
+abstract: 
+An electrode comprises a catalyst and material to help stabilize an oxide of the catalyst. The electrode for one embodiment may be used for an electrochemical sensor or sensor cell.

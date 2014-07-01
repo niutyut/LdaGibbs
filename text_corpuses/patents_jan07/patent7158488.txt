@@ -1,0 +1,4 @@
+title: Communication control apparatus and method
+
+abstract: 
+One or more nodes on a communication network are selected and set as one node group. In each of the nodes, group identification information representing the node group to which the node belongs is stored in advance. The group identification information is attached to the header of a data packet to be transmitted, so that nodes constituting a node group that should commonly receive data can be readily identified by comparing the group identification information imparted to the transmitted data packet and the group identification information stored in each receiving node. Given node can choose to become a node of a particular function, such as a clock master node, in which case control is performed to delete, from the node group, a node having so far played the role of the node of the particular function in such a manner that there exists only one node of the particular function per node group.

@@ -1,0 +1,4 @@
+title: Non-volatile flash semiconductor memory and fabrication method
+
+abstract: 
+In a semiconductor memory, a plurality of FinFET arrangements with trapping layers or floating gate electrodes as storage mediums are present on respective top sides of fins made from semiconductor material. The material of the gate electrodes is also present on two side walls of the fins, in order to form side wall transistors, and between the gate electrodes forms parts of a word line belonging to the corresponding fin.

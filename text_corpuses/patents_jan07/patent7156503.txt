@@ -1,0 +1,4 @@
+title: Ink jet head
+
+abstract: 
+An ink-jet head includes a base member provided with a plurality of channel grooves separated from each other by channel walls and connecting front and rear ends together, a cover member arranged in contact with the base member and opposed to a surface provided with the plurality of channel grooves of the base member, an electrode arranged as a drive electrode on at least a part of inner surfaces of the channel grooves, and conductive resin arranged at the rear end to fill inner spaces of the channel grooves and electrically connected to the drive electrode. The rear end of the channel groove is shallower than the front end of the channel groove.

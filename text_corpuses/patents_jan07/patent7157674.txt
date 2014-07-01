@@ -1,0 +1,4 @@
+title: Induction heater with controlled current to heating coil
+
+abstract: 
+A detector is operable to detect a displacement of a load by an ascending force based on a period of time from a time a heating output of an inverter drops from a predetermined level to a first level, to a time the heating output returns back to a second level larger than first level. Thereby, the detector distinguishes an intentional removal of the load from the displacement of the load by the ascending force. An induction heater including the detector reduces the displacement of the load by the ascending force and stops the heating of the load when the load is removed intentionally.

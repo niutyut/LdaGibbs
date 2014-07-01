@@ -1,0 +1,4 @@
+title: Conducting-fiber deicing systems and methods
+
+abstract: 
+Conducting-fiber deicing systems and methods. In one embodiment, an assembly includes a surface subject to an accumulation of ice, the surface at least partially including a heating portion having a layer of multi-directional electrically-conductive fibers formed between first and second non-electrically conductive layers. The layer of electrically-conductive fibers is coupled to a power supply member and is adapted to conduct an electrical current such that the layer of electrically-conductive fibers, and at least one of the first and second non-electrically conductive layers of the heating portion, are raised to an elevated temperature to at least partially inhibit the accumulation of ice on the surface.

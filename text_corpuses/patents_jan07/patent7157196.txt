@@ -1,0 +1,7 @@
+title: Naphthalenetetracarboxylic acid diimide derivatives and electrophotographic photoconductive material having the same
+
+abstract: 
+Naphthalenetetracarboxylic acid diimide derivatives include a structure represented by the following formula:
+
+
+in which, R, R, and Rare each independently any one selected from the group consisting of hydrogen; halogen; substituted or unsubstituted alkyl of Cto C; substituted or unsubstituted alkoxy of Cto C; substituted or unsubstituted aryl of Cto C; and substituted or unsubstituted aralkyl of Cto C. An electrophotographic photoconductive material includes the naphthalenetetracarboxylic acid diimide derivatives as an electron transferring material.

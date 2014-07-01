@@ -1,0 +1,4 @@
+title: Reel
+
+abstract: 
+A reel has: a cylindrical hub, which is molded of a resin material, and around which a recording tape is wound; a pair of flanges provided at end portions of the hub, and holding transverse direction end portions of the recording tape; and a ring-shaped member formed of metal and disposed at an inner side of the hub, at least one portion of an outer peripheral surface of the ring-shaped member contacting an inner peripheral surface of the hub. The ring-shaped member of the reel contacts a substantially central portion, in a heightwise direction, of the inner peripheral surface of the hub.

@@ -1,0 +1,4 @@
+title: Method of controlling microvalve actuator
+
+abstract: 
+In a method of controlling an actuator of a microvalve, a controller is provided for supplying a voltage to the actuator. The controller provides an initial voltage to the actuator which is effective to actuate the microvalve. Then, the controller provides a pulsed voltage to the actuator which is effective to continue the actuation of the microvalve.

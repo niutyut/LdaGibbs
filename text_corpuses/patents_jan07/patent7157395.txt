@@ -1,0 +1,4 @@
+title: Crucible for melting rare earth element alloy and rare earth element alloy
+
+abstract: 
+A crucible comprising AlOand at least one selected from rare earth oxides inclusive of YOas main components and characterized by firing at 500?1,800? C., the distribution of the rare earth oxide at a higher proportion in a fine particle portion having a particle size of up to 0.5 mm than in a coarse particle portion having a particle size in excess of 0.5 mm, and the substantial absence of the reaction product of the rare earth oxide with AlOis suitable for the melting of a rare earth alloy.

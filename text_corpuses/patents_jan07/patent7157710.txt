@@ -1,0 +1,4 @@
+title: Corona discharge detection
+
+abstract: 
+An apparatus and process are provided for detecting whether a corona discharge has occurred external or internal to equipment in which a broadband optical spectra sensor is placed. The broadband optical spectra sensor senses both the ultraviolet energy of the corona discharge and the infrared energy of afterglow of the discharge when the discharge occurs internal to the equipment. The sensed broadband optical spectra signal is processed and a determination is made as to whether the corona discharge occurred external or internal to the equipment from the pulse width of the sensed energy pulse.

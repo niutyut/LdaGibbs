@@ -1,0 +1,4 @@
+title: Semiconductor device and method of manufacturing thereof
+
+abstract: 
+There is provided a method of manufacturing a semiconductor device that can reduce the number of processes, and decrease contact resistance between plugs. The method comprises forming a first interlayer dielectric film having a first opening where a contact plug is to be formed; uniformly forming a first conductive layer on the first interlayer dielectric film and in the first opening; forming a resist defining an interconnect pattern by a lithography process on a region excluding the first opening; performing first anisotropic etching to remove a region of the first conductive layer not covered with the resist until an upper face of the first interlayer dielectric film is exposed, thus to form an interconnect and the contact plug.

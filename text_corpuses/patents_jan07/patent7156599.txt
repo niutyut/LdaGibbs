@@ -1,0 +1,4 @@
+title: Cage nut assembly having stand-offs
+
+abstract: 
+A cage nut assembly includes a nut and a cage wrapped therearound. The nut and/or the cage are provided with a number of stand-offs. The stand-offs reduce the amount of bearing surface interface between the cage and the nut thus reducing the possibility that the two parts will stick to each other after a bath is applied to the mating surface, and thus to the cage nut assembly, as the cage is welded to the mating surface. The stand-offs can be configured such that the cage nut assembly can move through the bath in a horizontal position, an upside down position, or a sideways position, substantially without the cage and nut sticking to one another.

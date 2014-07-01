@@ -1,0 +1,4 @@
+title: Spectroscopic ellipsometer and polarimeter systems
+
+abstract: 
+A spectroscopic ellipsometer or polarimeter system having a source of a polychromatic beam of electromagnetic radiation, a polarizer, a stage for supporting a material system, an analyzer, a dispersive optics and a detector system which comprises a multiplicity of detector elements, there being apertures before the stage for supporting a material system, and thereafter, the system being present in an environmental control chamber.

@@ -1,0 +1,4 @@
+title: Cantilevered drawer construction
+
+abstract: 
+A cantilevered drawer assembly comprises a support frame assembly comprising a pair of upright members. A rotating drawer assembly comprises a drawer frame having opposed parallel side rails supported upon a pivot frame having a pair of opposed pivot wheels. A pair of circular sector-shaped pivot arms is attached to the upright members. A channel having a parabolic section and a pair of straight sections extends across each pivot arm, and receives a pivot wheel. The side rails of the drawer frame are supported by the pivot arms. A pair of flanged wheels engages an upper edge of each side rail to restrict the vertical movement of the drawer frame. Translation of the drawer frame relative to the support frame assembly is accompanied by pivoting of the pivot arms. During translation, the drawer frame remains in a horizontal plane and is held in a cantilevered configuration.

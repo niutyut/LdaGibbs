@@ -1,0 +1,4 @@
+title: Cardiac harness for treating heart disease
+
+abstract: 
+A system for treating the heart includes a cardiac harness associated with a cardiac rhythm management devise which does not have a lead system. The cardiac harness applies a compressive force on the heart during diastole and systole, and the cardiac rhythm management devise will deliver an electrical shock to the heart for defibrillation and/or can be used for pacing/sensing. The cardiac harness and cardiac rhythm management devise are both delivered and implanted by minimally invasive access.

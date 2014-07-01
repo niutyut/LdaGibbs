@@ -1,0 +1,4 @@
+title: Mobile communication terminal
+
+abstract: 
+A mobile communication terminal of a portable telephone is housed in a casing having a first surface. A receiver section of the portable telephone capable of generating a voice is arranged on the first surface. A two-wavelength loop antenna arranged on a plane substantially parallel to the first plane and formed of a looped line having a right section and a left section that are in symmetry with respect to an imaginary vertical symmetric line is housed in the casing. A power supply point for supplying an electric power to the loop antenna is arranged in the vicinity of the intersection between the symmetric line and the looped line.

@@ -1,0 +1,4 @@
+title: Method for selecting a golf putter
+
+abstract: 
+A putter has a center of gravity located rearward from the face and under the stroking pivot point. The polar moment of inertia of the putter is increased by moving the distribution of weight toward the rear of the head away from the contact surface. The sole of the putter has an optimized transverse radius and a raised front edge. The putter has an aiming mark that has a minimum area and a minimum length-to-width ratio and is brightly colored. The putter grip has a flat portion that is oriented to match the player's hand rotational position. The face of the putter has friction and energy transfer characteristics that are selected to influence ball motion if struck with stroking errors. The face loft angle cooperates with the face surface characteristics to influence ball launch angle and rotation.

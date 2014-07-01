@@ -1,0 +1,4 @@
+title: Phosphor based light sources utilizing total internal reflection
+
+abstract: 
+A LED package including an LED that emits excitation light at an excitation light wavelength and a layer of phosphor material positioned to receive the excitation light and having a first index of refraction at the excitation light wavelength. The phosphor material emits visible light at a visible light wavelength when illuminated with the excitation light. An interference reflector is positioned adjacent to the layer of phosphor material and a TIR promoting layer is in contact with the layer of phosphor material. The TIR promoting layer has a second index of refraction at the excitation light wavelength that is less than the first index of refraction at the excitation light wavelength.

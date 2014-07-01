@@ -1,0 +1,4 @@
+title: Method and apparatus for adjusting conditions for recording and reproducing informations
+
+abstract: 
+A method of adjusting a condition for at least one of a recording operation and a reproducing operation includes the following steps. At least first and second asymmetry values is found. The first asymmetry value is defined based on a first signal combination selected from at least three signals different in cycle from each other. The second asymmetry value is defined based on a second signal combination selected from the at least three signals. The second signal combination is different from the first signal combination. The condition is set with reference to the at least first and second asymmetry values.

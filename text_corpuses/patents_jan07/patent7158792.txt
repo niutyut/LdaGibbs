@@ -1,0 +1,4 @@
+title: Selecting a wireless link in a public wireless communication network
+
+abstract: 
+A wireless communication device automatically and periodically monitors each of a plurality of wireless links in a public wireless communication network to generate a set of link metrics for each of the wireless links. The wireless communication device then processes the link metrics to generate historical performance data for the wireless links. The wireless communication device selects a selected wireless link from the plurality of wireless links based on the historical performance data. The wireless communication device then uses the selected wireless link to communicate over the public wireless communication network.

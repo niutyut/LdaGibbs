@@ -1,0 +1,4 @@
+title: Projection system and optical path transfer device thereof
+
+abstract: 
+A projection system. The projection system has a light source, a relay module, an optical path switching device and an optical path transfer device. The light source emits a light beam, and the relay module relays the light beam. The optical path switching device is used to receive and switch the light beam and has at least one active area. The optical path transfer device is disposed between the relay module and the optical path switching device directing the light beam toward the optical path switching device in a first angle, and the optical path transfer device has an incident surface tilted perpendicular to an incidence of the light beam.

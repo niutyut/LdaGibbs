@@ -1,0 +1,4 @@
+title: Method for executing a sequential program in parallel with automatic fault tolerance
+
+abstract: 
+The present invention provides system and methods for executing a sequential in parallel. Parallel procedures, specified in the program, are executed as parallel slave processes. A process when actually accessing a ?synchronous object? that does not contain the data value same as in program's sequential run gets blocked till the right value is received. Object value transfer takes place through an ownership queue. Synchronization over referred objects along with run-time alterations in the linkage structure of the objects is also supported. In the event of a fault, aborted processes are rescheduled and redundancy in data storage is avoided.

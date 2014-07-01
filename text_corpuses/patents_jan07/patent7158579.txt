@@ -1,0 +1,4 @@
+title: Diversity transmitter and diversity transmission method
+
+abstract: 
+The present invention concerns a diversity transmitter and a corresponding diversity transmission method. A symbol matrix is input for being processed, the processing comprising supplying columns of the symbol matrix to a plurality of at least two branches, each branch being supplied to a respective one of spatial channels for transmission. Parallelization is performed so as to provide within each branch at least two parallel channels allocated to a respective user. The symbol matrix signals is subjected on at least one of the branches to an invertible linear transformation with at least one fixed complex weight, the complex weight being different for at least two parallel channels.

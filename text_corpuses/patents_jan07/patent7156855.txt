@@ -1,0 +1,4 @@
+title: Intraocular lens injection instrument
+
+abstract: 
+An intraocular lens insertion instrument includes: a cylinder () provided with an insertion part () which is inserted in an eye through an incision formed in the eye; a push-out unit () which is mounted axially movably in the cylinder to push out an intraocular lens () placed in the cylinder to the outside through the insertion part; and a working pressure adjustment unit () which is set in contact with the push-out unit to adjust working pressure needed to move the push-out unit by changing frictional force on the push-out unit.

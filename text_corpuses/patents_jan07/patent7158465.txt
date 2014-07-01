@@ -1,0 +1,4 @@
+title: Apparatus and method for detecting and correcting relative address on optical storage medium
+
+abstract: 
+An apparatus for detecting and correcting a relative address on an optical storage medium, includes a relative address detector which reads relative addresses recorded on the optical storage medium, a relative address continuity detector which checks whether the number of continuances between the relative addresses output from the relative address detector is at least a predetermined number N, and a relative address corrector which forcibly corrects a current relative address that is not consecutive to a previous relative address and outputs the corrected relative address, after the relative address continuity detector determines that the number of continuances between the relative addresses is at least the predetermined number N.

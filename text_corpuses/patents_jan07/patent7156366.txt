@@ -1,0 +1,4 @@
+title: Electromagnetically driven valve device
+
+abstract: 
+An electromagnetically driven valve device is formed by attaching a lower core assy, an armature, an upper core assy, and an upper case in that order from bottom, to a cylinder head of an engine. Each of the lower core assy and the upper core assy is unitarily formed so as to have a predetermined shape by resin-molding a core and a coil that form an electromagnet as well as an armature bearing, etc. The lower core assy is fastened together with the upper core assy to the cylinder head, and is thus attached to the mounting surface.

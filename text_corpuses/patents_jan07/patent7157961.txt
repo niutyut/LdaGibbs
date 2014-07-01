@@ -1,0 +1,4 @@
+title: MOS charge pump
+
+abstract: 
+A passive charge pump includes a plurality of stages or a single stage, with each stage including only two MOS transistors. Both of the transistors are configured in a transcapacitance configuration, and both transistors are primarily in the accumulation mode during operation. Embodiments of the charge pump rely entirely on the MOS capacitance and its embedded diode features to perform the necessary charge accumulation and transfer process necessary for voltage multiplication at the output and do not require any collateral capacitors and diodes. The charge pump may be embodied in an MOS technology, nMOS, pMOS, or CMOS.

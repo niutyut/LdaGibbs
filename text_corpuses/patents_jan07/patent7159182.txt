@@ -1,0 +1,4 @@
+title: Supplemental request header for applications or devices using web browsers
+
+abstract: 
+A method and system for generating and/or servicing requests for information requested across networks, such as the Internet, is disclosed. In some embodiments, supplemental request header information is included with HyperText Transfer Protocol (HTTP) requests for a web page. The supplemental request header information may identify one or more characteristics of an application for which the HTTP request was generated. In further embodiments, the Internet server servicing the HTTP request having such a supplemental request header may extract and use information from this header to select and/or modify the requested web page to best suit the requesting application's status and/or current characteristic.

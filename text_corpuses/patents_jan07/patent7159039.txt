@@ -1,0 +1,4 @@
+title: Systems and methods for providing in-band and out-band message processing
+
+abstract: 
+A personal messaging agent () performs enhanced messaging services. The personal messaging agent () includes a user profile (), a message filter (), and at least one external helper (). The user profile () stores user preferences for processing messages. The message filter () receives messages, performs in-band processing on the messages based on the user preferences, and generates at least one event for triggering out-of-band processing of the messages. The external helpers () perform the out-of-band processing of the messages in response to the event(s).

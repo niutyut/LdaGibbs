@@ -1,0 +1,4 @@
+title: Toy gun
+
+abstract: 
+A toy gun includes a barrel having a bay for receiving a soft projectile loaded within a cartridge. A stock is connected pivotally to the barrel and encases a pneumatic cylinder and piston that is primed upon pivotally opening the stock and barrel. The pneumatic cylinder and piston communicate with the bay when the stock and barrel are closed. A trigger releases the piston to force air into the bay for dispatching the projectile from the cartridge?leaving the cartridge within the bay for ejection upon opening of the stock and barrel.

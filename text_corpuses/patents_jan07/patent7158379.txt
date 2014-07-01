@@ -1,0 +1,4 @@
+title: Device for removing heat from a power connector
+
+abstract: 
+A heat removal device includes a shroud on a top side of a printed circuit board that contains a power connector. An air intake vent is located underneath the printed circuit board and directs air up through printed circuit board vias into the shroud. Openings are located in a power connector housings that allow air to flow over conductors in the connector and out an air outtake vent. The conductors include heat sink fins that extend out of the openings in the connector housing.

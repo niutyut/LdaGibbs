@@ -1,0 +1,4 @@
+title: Rotary combustion engine
+
+abstract: 
+The aim of the invention is to dispense with the disadvantages of previous engines either fully or partially. This is achieved by two cylindrical parts which rotate into each other, respectively possessing a wing and which can rotate about an axis of different speeds. Similar to a four-stroke engine, the following occurs: induction of an air-fuel mixture, compression until self-ignition, creation of a working stroke and discharge of combustion gases. The variable inlet and outlet opening times are controlled according to a control bushing and a special stepper motor. The rotating wings are controlled by freewheeling and by unilaterally acting hydrodynamic brakes or secured against reversed rotation. In relation to the cylinder core, two functional variable work chambers arise for each disk discharge elements, which were not possible with the previously rigid engine structure.

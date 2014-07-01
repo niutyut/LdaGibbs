@@ -1,0 +1,4 @@
+title: Refrigerator with television
+
+abstract: 
+A refrigerator includes a main body provide with a storage compartment and a door for opening and closing the compartment, a display unit installed on the door, for displaying an image of a television, and a heat discharging unit installed at one side of the display unit, for releasing heat generated from the display unit. Accordingly, overheating of the display unit and deterioration of refrigeration performance can be prevented.

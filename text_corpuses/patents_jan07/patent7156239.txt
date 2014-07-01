@@ -1,0 +1,4 @@
+title: Filter unit for freezable liquids, particularly for a metering unit of an exhaust gas treatment device
+
+abstract: 
+A filter unit for liquids undergoing freezing for a metering unit of an exhaust gas treatment unit has a housing having an outer member and a lid member. At least one filter insert is arranged in the housing. An elastically deformable casing part is provided that surrounds at least partially the filter insert. The elastically deformable casing part is a part of the lid member or of the outer member of the housing and is made of a thermoplastic synthetic material. When the liquid undergoes freezing and thawing in the filter unit, the elastically deformable casing part can compensate the volume changes caused by freezing and thawing.

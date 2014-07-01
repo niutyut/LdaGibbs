@@ -1,0 +1,4 @@
+title: Disk drive having control circuit board mounted outside casing and head actuator coupled capacitor mounted inside casing on printed circuit board
+
+abstract: 
+A disk drive includes a casing which houses a disk-shaped recording medium, a drive motor which holds and rotates the recording medium, a head which performs read/write operations, a head actuator movably supporting the head to move the head relative to the recording medium, and a board unit connected to the head actuator. The board unit has a board main body arranged on the inner surface of the casing and at least one capacitor, mounted on the board main body for supplying power to perform a retracting operation for permitting the head actuator to move the head to a retracted position.

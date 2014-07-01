@@ -1,0 +1,4 @@
+title: Power umbilical for deep water
+
+abstract: 
+A subsea umbilical includes electrically insulated power conductors, fiber optic elements, electrical signal cables, and fillers within a common outer cover. At least one of the electrical signal cables is enclosed within a dedicated metal tube, and the umbilical is hung off on an offshore platform or the like and the metal tube containing the electrical signal cable is hung off separately from the umbilical.

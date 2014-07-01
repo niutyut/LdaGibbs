@@ -1,0 +1,7 @@
+title: Polymerizable compounds and their polymers
+
+abstract: 
+A compound represented by formula (1) or (2) and a polymer obtained by polymerizing the compound are provided:
+
+
+wherein Ris one of the groups represented by Formulas (3-1) to (3-5); Ris hydrogen, halogen, or a side chain such as ?CN, ?NCO, ?NCS or alkyl having a carbon number of 1 to 20; A is a cyclic diyl group such as 1,4-cyclohexylene, 1,4-cyclohexenylene, 1,4-phenylene, naphthalene-2,6-diyl, tetrahydronaphthalene-2,6-diyl, fluorene-2,7-diyl, bicyclo[2.2.2]oct-1,4-diyl or bicyclo[3.1.0]hex-3,6-diyl, wherein at least one A is substituted 1,4-phenylene represented by Formula (4-1) or (4-2); Z is a single bond or a bonding group such as alkylene having a carbon number of 1 to 20; Ris hydrogen, halogen, ?CFor alkyl having a carbon number of 1 to 5; m is an integer of 1 to 6, and q is 0 or 1.

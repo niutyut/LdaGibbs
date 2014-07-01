@@ -1,0 +1,4 @@
+title: Coupling assembly with retention mechanism
+
+abstract: 
+A coupling assembly includes a female fitting assembly comprising a tube body having a nut that is axially and rotatably movable relative to the tube body, and a generally U-shape spring fixedly connected to the nut. The spring has a pair of laterally spaced arms that straddle the tube body when the nut is inserted over the tube body and spring arm end portions that are engageable with serrations on opposite sides of the tube body. The spring arm end portions are shaped to provide more resistance to turning of the nut in the loosening/back-off direction when the nut is fully torqued on a male fitting assembly than during tightening of the nut on the male fitting assembly.

@@ -1,0 +1,4 @@
+title: Semiconductor dynamic quantity sensor
+
+abstract: 
+A capacitance type semiconductor dynamic quantity sensor includes a substrate having a support layer and a semiconductor layer mounted on the support layer, a weight portion displaceable in a predetermined direction, movable electrodes joined to the weight portion so as to be displaceable integrally with the weight portion, fixed electrodes disposed so as to confront the movable electrodes and beam-shaped beam portions that are deformable elastically to displace the weight portion. When a dynamic quantity is applied, the distance between each movable electrode and each fixed electrode being varied, and the applied dynamic quantity being detected on the basis of the capacitance variation between both the electrodes which is caused by the variation of this distance. The thickness h of the beam portion is set to be larger than the thickness h of the movable electrode.

@@ -1,0 +1,4 @@
+title: Method of manufacturing display and electronic apparatus
+
+abstract: 
+A method of manufacturing a display that includes a first substrate having a pixel electrode, a second substrate having a common electrode, and a microcapsule interposed between the first and second substrates, a display material being encapsulated in the microcapsule, an optical characteristic of the display material changing in response to an electrical stimulus. The method includes: selectively disposing a microcapsule material that includes the microcapsule on a display area formed of the pixel electrode of the first substrate or an area, of the second substrate, corresponding to the display area; drying the microcapsule material; and joining the first substrate to the second substrate after the drying.

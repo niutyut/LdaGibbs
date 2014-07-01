@@ -1,0 +1,4 @@
+title: Method and apparatus for scanning a key or button matrix
+
+abstract: 
+An improved key matrix scanning technique conducts a first pre-scan on a first array of connections in a key matrix to identify any activated keys or buttons associated with the first array. A second sub-scan is conducted on a second array of connections in the key matrix but only for the connections in the first array that are detected as having activated keys.

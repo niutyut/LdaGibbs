@@ -1,0 +1,4 @@
+title: Color conversion apparatus and color conversion program storage medium
+
+abstract: 
+A color conversion apparatus has a profile storage section storing a first sort of input profile and a second sort of input profile, which are classified in an input profile, a first color conversion section for applying a color conversion to image data in accordance with the input profiles, and an image processing section for applying a data processing of altering a tone of an image to image data after color conversion only in the event that the first color conversion section executes the a color conversion according to the second sort of input profile.

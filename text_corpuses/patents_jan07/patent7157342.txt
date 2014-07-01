@@ -1,0 +1,4 @@
+title: Thyristor-based semiconductor memory device and its method of manufacture
+
+abstract: 
+A thyristor-based memory device may comprise a commonly-implanted base region, in which a common emitter region may be implanted for the left and the right thyristors in a mirror-image pair. The implanting of the base region may include directing the dopant toward a semiconductor material through a window defined by sidewalls formed in a conditioned masking material over the semiconductor material. The resulting base and emitter regions may be substantially symmetrical about a central boundary plane. In relation to the symmetry, one thyristor may be operable with a minimum holding current within about 10 percent of that for the other thyristor in the mirror-image pair.

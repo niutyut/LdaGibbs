@@ -1,0 +1,4 @@
+title: Paint-ball sport gun with adjustable detent assembly
+
+abstract: 
+A detent body with a center bore is secured to the chamber wall of a paint-ball gun. A floating detent with a hollow core and a domed tip reciprocates within the center bore, allowing the tip to extend into the chamber to restrict movement of a paint ball. Axially aligned slots extend through opposing sides of the floating detent. A pin extends through the slots and corresponding pin holes in opposing sides of the detent body to create a stationary abutment for limiting axial movement of the floating detent. A compressive spring disposed within the hollow core between the pin and the inner end urges the outer tip into the chamber. A set screw threaded into the end of the hollow core engages the pin and the floating detent. Rotation of the set screw regulates axial movement of the outer tip into and out of the chamber.

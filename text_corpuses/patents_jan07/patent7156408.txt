@@ -1,0 +1,4 @@
+title: Vehicle steering head
+
+abstract: 
+Vehicle steering head including a connecting element adapted to engage a handlebar. A support tube rotatably supports the connecting element. A connecting member is adapted to connect a wheel fork to a handlebar. The connecting member is rotatable with respect to the support tube. A mechanism limits the rotational movement of the connecting member in each of two directions. A lower bearing support is mounted to the support tube. The mechanism and the lower bearing support cooperate to limit the rotational movement of the connecting member.

@@ -1,0 +1,4 @@
+title: Modularized lawnmower replacement blade
+
+abstract: 
+A modularized lawnmower replacement blade which can be can be attached to a standard lawnmower shaft. The modularized blade includes a central mounting hub with four recessed seats. In the preferred embodiment, a cutting blade is attached to each recessed seat so that the blades are positioned at a right-angled orientation with respect to each other.

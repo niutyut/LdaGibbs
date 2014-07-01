@@ -1,0 +1,4 @@
+title: Method and apparatus for tagging media presentations with subscriber identification information
+
+abstract: 
+A system that inserts subscriber identification information includes, in a preferred embodiment, a system with a memory for storing subscriber identification information and a processor configured to insert the subscriber identification information into a media presentation to improve traceability of copied presentations to a subscriber.

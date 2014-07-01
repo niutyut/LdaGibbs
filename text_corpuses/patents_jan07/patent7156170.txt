@@ -1,0 +1,4 @@
+title: Methods and apparatus for severing nested strings of tubulars
+
+abstract: 
+An apparatus and method for use in severing casing as it is pulled from a wellbore. In one aspect, the apparatus, includes a clamping assembly, a drilling assembly and a cutting assembly. The apparatus is disposed at the end of a telescopic arm, with the components being remotely operated by personnel using a control panel. The apparatus is positioned adjacent casing and clamped thereto. Thereafter, the apparatus drills a hole completely through the casing for the insertion of a retention pin. The apparatus then severs the casing.

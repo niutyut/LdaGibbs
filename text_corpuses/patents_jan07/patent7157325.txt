@@ -1,0 +1,4 @@
+title: Method for fabricating semiconductor memory device
+
+abstract: 
+A method for fabricating a semiconductor memory device in which a logic circuit and a nonvolatile memory are provided on a semiconductor substrate includes the steps of: forming an isolation region; forming a protective film made of an insulating material over the semiconductor substrate in a logic circuit region and a nonvolatile memory region; selectively introducing impurity ions in part of the semiconductor substrate in the logic circuit region; and removing the protective film formed over the logic circuit region. The step of introducing the impurity ions is performed before the step of removing the protective film is performed.

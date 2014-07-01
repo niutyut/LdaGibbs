@@ -1,0 +1,4 @@
+title: Optical disk device for recording at optimum recording power
+
+abstract: 
+An optical disk device for estimating optimum recording power for high speed recording at an outer part of an optical disk, with high accuracy, even when an OPC for high speed recording at the outer part cannot be performed. The optical disk device includes a first optimum recording power calculation part for performing test recording at a first speed lower than the maximum recording speed of a test area by using recording parameters of a required recording speed to calculate first optimum recording power, and a second optimum recording power calculation part for performing test recording at a second speed to calculate second optimum recording power. The first speed is different from the second speed. The optical disk device further includes an estimation part for estimating optimum recording power based on the first optimum recording power and the second optimum recording power.

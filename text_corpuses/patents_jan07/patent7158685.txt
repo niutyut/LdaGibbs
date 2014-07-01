@@ -1,0 +1,4 @@
+title: Demosaicing graphical content
+
+abstract: 
+Demosaicing of graphical content is provided. In an illustrative implementation a demosaicing engine executing one or more demosaicing algorithms is employed to operate on graphical content to provide better quality and higher resolution images. In operation, the demosaicing engine operates in two modes, a training/learning mode, and a run time mode. During training, training-images are analyzed to generate a codebook of mosaic filter table entries, such that each table entry has an associated list of similar training pixel blocks and their associated filters. During run time, a run-time image is broken into pixel blocks. Each pixel block is then compared with the entries of the codebook to find the closest match filter. The list associated with the entry is then processed using a least-squares algorithm to locate the optimal mosaic filter. As a result, higher resolution is achieved without requiring more pixels.

@@ -1,0 +1,4 @@
+title: Print-job, PDL/RIP-independent data-management method and system
+
+abstract: 
+A data management method and system for expediting the flow and handling of print data from a creation source to one or more printers. Data in a stream is examined in light of assessed available and capable printers, and is block boundaried accordingly to divide the stream appropriately into compressed and uncompressed data blocks. This activity, which occurs upstream from where rasterization occurs, and which results ultimately in the handing off of data to printers on a block-by-block basis, minimizes data traffic volume and increases data flow speed.

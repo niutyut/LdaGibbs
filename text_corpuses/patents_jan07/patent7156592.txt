@@ -1,0 +1,4 @@
+title: Truck load control apparatus
+
+abstract: 
+The present Invention is an apparatus for controlling a load in a vehicle, particularly a pickup truck where the load is longer than the bed of the truck. The apparatus comprises a channel mounted to or defined by the bed or tailgate of the truck. A load-restraining member slidably engages the channel to adjust for loads of different sizes. The load-restraining member also rotatably engages the channel and may move between an upright position for use and a horizontal position for storage. The load-restraining member may be secured in the upright position.

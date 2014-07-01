@@ -1,0 +1,4 @@
+title: Up-sampled filtering for servo demodulation
+
+abstract: 
+An apparatus, method, and system for providing a fine adjustment for transducing head positioning in a hard disk drive (HDD). The apparatus, method, and system include reading a positioning error field wherein the resulting signal is a substantially sinusoidal position error signal (PES), filtering the PES to remove low frequencies and attenuate high frequencies, sample the filtered PES at a multiple of the channel frequency, filter the higher frequency harmonics, down sample the PES, and provide a signal proportional to the amplitude of the down sampled PES. This signal is the reference signal to the head positioning servo.

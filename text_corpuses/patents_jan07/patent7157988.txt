@@ -1,0 +1,4 @@
+title: Voltage controlled resistor and a controlling method
+
+abstract: 
+The invention discloses a new and original voltage variable resistor VVR with input and output ports and a first input and second input for control signals to set the impedance between the input and output ports as desired over a certain range and, thus, to optimize the operation of the VVR from the transmitter device control viewpoint as regards both the linearity and minimum impedance. The invention further discloses a method for controlling a VVR and a cellular radio system terminal.

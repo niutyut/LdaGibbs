@@ -1,0 +1,4 @@
+title: Olefin production process
+
+abstract: 
+A process is provided to stabilize and/or reactivate an olefin production catalyst system which comprises contacting an olefin production catalyst system, either before or after use, with an aromatic compound.

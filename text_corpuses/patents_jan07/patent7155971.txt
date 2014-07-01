@@ -1,0 +1,4 @@
+title: Method and device for determining the volumetric flow rate of milk flowing during a milking process
+
+abstract: 
+The invention relates to a method and device for determining the volumetric flow rate of milk flowing during a milking process. A cross-sectional area (Ai) of the milk flow () is determined at a first measuring point () by means of a sensor () which is arranged outside the flowing milk. The time (ti) required by the milk flow () with the determined cross-sectional are (Ai), to go from the first measuring point () to a second measuring point (5) which is provided downstream from the first measuring point, is measured. The flow speed (vi) is derived from the measured time (ti) and the known distance (s) between the first and second measuring points (). The volumetric flow rate (V(t)) is determined on the basis of the determined cross-sectional area (Ai) and the flow speed (vi).

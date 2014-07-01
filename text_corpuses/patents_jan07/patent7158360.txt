@@ -1,0 +1,4 @@
+title: Solenoid drive circuit
+
+abstract: 
+A solenoid drive circuit includes a control circuit which comprises a detector with a resistor for discerning current flow therethrough to produce electric signals that correspond to level of current flow through a solenoid connected to the resistor; an amplifier for amplifying the electric signals from the resistor; and an integrator for integrating the amplified output from the amplifier.

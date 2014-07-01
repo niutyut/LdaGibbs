@@ -1,0 +1,4 @@
+title: Electrode holder, headwear, and wire jacket adapted for use in sleep apnea testing
+
+abstract: 
+An electrode holder is adapted for cooperating with a strap applied to a body part of a patient to hold a surface electrode to the skin. The electrode holder includes a base and a post projecting from the base. The post is adapted for extending through the strap and into a cavity formed with the electrode. The electrode holder is releasably attached to the strap by mating hook and loop fasteners. Once attached, the post of the holder secures the electrode in position thereby reducing motion artifacts caused by disturbance of the electrode after placement against the skin of the patient.

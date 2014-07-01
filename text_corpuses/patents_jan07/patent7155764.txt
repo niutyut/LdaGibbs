@@ -1,0 +1,4 @@
+title: Rail coupling and lock for split-apart basket stretchers
+
+abstract: 
+A split-apart basket stretcher and its corresponding rail coupling and lock, where the stretcher has first and second portions for mounting in opposed facing relation to one another, and the rail coupling and lock releasably locks the first and second portions together in their opposed facing relation using a threaded slidable collet on the end of at least one rail of the first portion. The collet threads onto the end of at least one corresponding rail of the second portion. A spring loaded pin prevents the collet from unthreading until the pin is manually depressed.

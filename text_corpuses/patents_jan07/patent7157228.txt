@@ -1,0 +1,4 @@
+title: Genetic analysis and authentication
+
+abstract: 
+This invention provides compositions and methods for genetic testing of an organism and for correlating the results of the genetic testing with a unique marker that unambiguously identifies the organism. The markers may be internal markers, such as for example single nucleotide polymorphisms (SNPs), short tandem repeats (STRs), or other sites within a genomic locus. Alternatively, the markers may be external, such that they are separately added to the genetic sample before testing.

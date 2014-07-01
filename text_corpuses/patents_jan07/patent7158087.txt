@@ -1,0 +1,4 @@
+title: Dual-band dipole antenna
+
+abstract: 
+A dual-band antenna () includes a first antenna () and a second antenna (). The first antenna includes a first dipole half () and a second dipole half (). The first dipole half is disposed above the second dipole half with a space therebetween and the two dipole halves are corresponding to each other in a lengthwise direction. The second antenna includes a coaxial cable () including an inner conductor feeding the first antenna and comprising an exposed extending section () acting as a radiating portion of the second antenna, and a ground patch () electrically connected with the second dipole half.

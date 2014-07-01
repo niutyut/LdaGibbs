@@ -1,0 +1,4 @@
+title: Piston for cylinder and piston unit of disc brake
+
+abstract: 
+A piston () for a cylinder and piston unit () of a disc brake (), with a novel capability of damping the vibrations induced by a braking action, comprising a body () and a head () designed to come into contact with a pad () to act on a braking strip () of a disc (), a damping element provided between the head () and the body () of the piston (), in which the head () and the body () comprise, respectively, a stem () and a recess () for the stem (), forming a gap () for the damping element.

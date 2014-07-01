@@ -1,0 +1,4 @@
+title: Programmable transition state machine
+
+abstract: 
+The programmable transition state machine of this invention is designed to allow implementation of hardware capable of increasing the performance of critical encoding and decoding tasks in a microprocessor environment where a required encoding or decoding or machines is not known in advance. The state machine described may also be used in systems that need flexibility to support a wide variety of functions or machines or where a hardwired approach is not useful. This unique state machine processes the state information and the transition from a present state to a next state in CPU-programmable logic.

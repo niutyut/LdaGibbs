@@ -1,0 +1,4 @@
+title: Product display device
+
+abstract: 
+An apparatus and method for displaying dispenser containers at point of sale locations. The device includes a drip tray or base for holding the product container and a back member that extends upwardly from the base. An adjustable loop is then looped around the product container, attached to the device and placed in tension to hold the product container firmly in the base and bias the product toward the back member. After placing the product container in the device, the device can then be used to display the product container for sampling or other purposes at a point of purchase location, including mounting the device to a store shelf.

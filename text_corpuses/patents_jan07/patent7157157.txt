@@ -1,0 +1,4 @@
+title: Organic EL element and organic EL display
+
+abstract: 
+There is provided an organic EL element including an anode, a cathode, and an organic layer, wherein the cathode includes a protective conductor layer which faces the organic layer, a main conductor layer which is interposed between the protective conductor layer and the organic layer, and a barrier layer which is interposed between the protective conductor layer and the main conductor layer and made of an insulator or a semiconductor.

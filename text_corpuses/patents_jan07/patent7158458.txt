@@ -1,0 +1,4 @@
+title: Method and apparatus for recording/reproducing information with respect to optical recording medium
+
+abstract: 
+A method and an apparatus are provided, which enable a user's standby time to be shortened or utilized effectively in the course of recording/reproduction of information with respect to an optical disk. Information recorded on a disk is reproduced preferentially, and after counting for a predetermined period of time, recording learning is conducted. Alternatively, management information is reproduced preferentially over recording learning, and recording learning is conducted while a user is confirming this information. Alternatively, the possibility of recording on a disk is identified, and reproduction preference or recording learning preference processing is conducted based the possibility. Alternatively, a rotation speed of a disk is controlled to be variable or constant, based on the possibility of recording.

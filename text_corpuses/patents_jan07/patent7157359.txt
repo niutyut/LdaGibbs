@@ -1,0 +1,4 @@
+title: Method of forming a metal gate in a semiconductor device using atomic layer deposition process
+
+abstract: 
+A method for forming a metal gate capable of preventing degradation in a characteristic of a gate insulating film upon formation of the metal gate. The method of forming the metal gate comprises the steps of providing a silicon substrate having device isolation films of a trench shape for defining an active region; forming a gate insulating film on the surface of the silicon substrate by means of a thermal oxidization process; sequentially forming a barrier metal film and a metal film for the gate on the gate insulating film; and patterning the metal film for the gate, the barrier metal film and the gate insulating film, wherein deposition of the barrier metal film and the metal film for the gate is performed by means of an atomic layer deposition (ALD) process or remote plasma chemical vapor deposition (CVD) process.

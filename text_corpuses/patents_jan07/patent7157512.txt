@@ -1,0 +1,4 @@
+title: Golf balls comprising highly-neutralized acid polymers
+
+abstract: 
+A golf ball including a core comprised of a polymer containing an acid group that has been neutralized 90% or greater by a salt of an organic acid, a cation source, or a suitable base of the organic acid, the core having a compression of 90 or less and a diameter of between 1.00 inch and 1.64 inches; and a thermoplastic cover layer including ionomeric copolymers and terpolymers, ionomer precursors, thermoplastics, thermoplastic elastomers, grafted metallocene-catalyzed polymers, non-grafted metallocene-catalyzed polymers, single-site polymers, high-crystalline acid polymers and their ionomers, or cationic ionomers.

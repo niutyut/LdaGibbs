@@ -1,0 +1,4 @@
+title: Connector with a capacitor connected to a metal casing
+
+abstract: 
+A connector has a socket, a circuit board, a capacitor and a casing. The socket has an inner end and a sidewall. The circuit board is mounted transversely in the socket near the inner end and has an inner surface and an outer surface. The capacitor is mounted on the inner surface of the circuit board and has two leads. One lead extends around the inner end of the socket and against the outside surface of the sidewall. The casing covers the socket and clamps the lead against the outside surface of the sidewall to form the grounding device.

@@ -1,0 +1,4 @@
+title: Transgenic maize encoding an endosperm specific prolamin box binding factor peptide, which produces seed with increased methionine or lysine conent
+
+abstract: 
+The invention provides a fertile transgenic monocot, e.g., maize, plant encoding an endosperm specific prolamin box binding factor peptide (PBF) that is expressed so as to increase the methionine and/or lysine content of the seeds of said plant over said content in the seeds of the corresponding plant that lacks said gene, wherein said corresponding plant was used to prepare said transgenic plant, or an ancestor of said transgenic plant.

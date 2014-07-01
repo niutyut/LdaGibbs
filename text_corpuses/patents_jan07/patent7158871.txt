@@ -1,0 +1,4 @@
+title: Handwritten and voice control of vehicle components
+
+abstract: 
+A recognition system () for use in a vehicle or the like includes a handwriting recognizer () and a voice recognizer () for receiving handwriting and voice signals, where the signals are associated with commands used to operate with a variety of vehicle appliances. Such appliances may include, but are not limited to, car alarms (), electric windows, personal computers (), navigation systems (), and audio () and telecommunications equipment ().

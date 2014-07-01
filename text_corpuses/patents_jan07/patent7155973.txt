@@ -1,0 +1,4 @@
+title: Method and apparatus for balancing
+
+abstract: 
+A balancer assembly  which automatically provides balancer limits, which achieves a balancing state while substantially minimizing short term vibration increases and which provides for multi-plane balancer dithering.

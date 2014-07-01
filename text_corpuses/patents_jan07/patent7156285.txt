@@ -1,0 +1,4 @@
+title: Compression bonding method and apparatus using light
+
+abstract: 
+Provided are a method and apparatus for bonding an element, which has a transparency with respect to UV light, to a substrate. The method includes forming an aluminum layer on a surface of the substrate, disposing the element on the aluminum layer, and bonding the element to the aluminum layer by applying pressure on the element toward the aluminum layer and irradiating UV light on a bonding area between the element and the aluminum layer. The apparatus includes a holder, a pressurizing plate installed at the bottom of the holder to apply pressure on the element toward the substrate and formed of a material having a transparency to UV light, a UV light lamp which is installed in the inner space of the holder, and a collimating lens which is positioned between the UV light lamp and the pressurizing plate and collimates UV light emitted from the UV light lamp.

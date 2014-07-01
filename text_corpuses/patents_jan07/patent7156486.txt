@@ -1,0 +1,4 @@
+title: Liquid ejection head, liquid ejection apparatus, and manufacturing method of the liquid ejection head
+
+abstract: 
+A line head includes a nozzle plate, a frame-shaped outer frame, a plurality of head chips, and a head support member arranged within the outer frame. The linear expansion coefficients of the nozzle plate and the head support member are larger than that of the outer frame. The nozzle plate is joined onto the outer frame and a tensile stress is produced in the nozzle plate by the outer frame. The head support member is joined and fitted with the outer frame. When the head support member thermally expands relative to the outer frame, a compression stress is produced in the head support member while a strain of the head support member is restricted by the outer frame.

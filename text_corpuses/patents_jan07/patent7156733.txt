@@ -1,0 +1,4 @@
+title: Using shared files in a game console or computer for cross-game state sharing
+
+abstract: 
+A method for enabling interaction with a shared game data file in a game device is provided. The method comprises: providing logic to perform one or more actions associated with the shared game data file; and providing logic to cause the game device to perform an action in the one or more actions with the shared game data file, the shared game data file allowing data associated with a first game in the shared game data file to affect actions in a second game.

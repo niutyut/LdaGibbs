@@ -1,0 +1,4 @@
+title: Method for treatment of flue gas cleaning products
+
+abstract: 
+The invention relates to a method of treating a halogen containing solid or semi solid waste material from a flue gas cleaning process, wherein the amount of alkaline compounds is sufficient to provide a suspension of the waste material in water with a pH value of at least 10, said method comprising the steps of a) preparing an aqueous suspension of the solid or semi solid waste material, said suspension having a pH value of at least 10, b) separating the solid and the liquid material from each other to obtain an aqueous solution of waste material and a solid waste material, and collecting the solid waste material. The procedure is repeated one or more times, and optionally the resulting solid waste material is dried.

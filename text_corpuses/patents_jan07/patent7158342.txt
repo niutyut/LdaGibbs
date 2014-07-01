@@ -1,0 +1,4 @@
+title: Hard disk drive with aerodynamic diffuser, contraction, and fairing for disk base and re-acceleration drag reduction
+
+abstract: 
+A device streamlines air flow inside a hard disk drive with a stationary afterbody that is located adjacent to each of the disks. The device gradually expands the air flow so that the speed of the air flow gradually decreases while pressure increases. This design reduces losses in system momentum due to sudden expansion of the air in the drive. In addition, air flow moving toward the disk pack may be contracted to allow efficient energy conversion from pressure energy to kinetic energy prior to merging of the bypass air flow with the air flow among the disks. The device has a comb-like structure that is offset from the disk pack in the radial direction. The structure fulfills an aerodynamic function, reduces track misregistration, lowers overall aerodynamic dissipation, and fulfills a filtration function.

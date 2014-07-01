@@ -1,0 +1,4 @@
+title: Encounter tracker and service gap analysis system and method of use
+
+abstract: 
+Methods and systems for tracking whether an individual has received required services and for analyzing service gaps. In one embodiment, the present invention tracks special education students to ensure that they receive services that have been designated as appropriate for them. When a service is provided to any student by any provider, this information is input and maintained electronically. Once this information is entered, it can be analyzed to ensure that the services provided correspond with the student's IEP. In another embodiment, data from the input information on service encounters is usable with Medicaid or other reimbursement services to produce documents for submission for reimbursement.

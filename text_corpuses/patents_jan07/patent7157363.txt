@@ -1,0 +1,4 @@
+title: Method for producing a semiconductor package, with a rerouted electrode formed on a resin projection portion
+
+abstract: 
+An insulating layer () having an opening portion () at a position conformable to an electrode pad () is formed. Next, a resin projection portion () is formed on the insulating layer (). Thereafter, a resist film is formed which has opening portions made in regions conformable to the opening portion (), the resin projection portion () and the region sandwiched therebetween. A Cu plating layer () is formed by electrolytic copper plating, using the resist film as a mask.

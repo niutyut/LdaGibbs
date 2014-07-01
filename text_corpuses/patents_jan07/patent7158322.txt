@@ -1,0 +1,4 @@
+title: Lens device and method for adjusting the same
+
+abstract: 
+To provide a lens device involving simple adjustment work and an adjustment method for the same, the lens device includes the first and second lens groups, each including having a retaining guide section on a surface facing another of the first and second lens groups, wherein the retaining guide section of one of the first and second lens groups retains and guides the other of the first and second lens groups so that the other of the first and second lens groups can rotate around the optical axis in the rotary cylinder.

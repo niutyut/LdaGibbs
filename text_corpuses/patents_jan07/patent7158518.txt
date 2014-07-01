@@ -1,0 +1,4 @@
+title: Method and apparatus for transmitting data packets
+
+abstract: 
+A method and apparatus for transmitting data packets in a packet stream wherein the data packets have compressed headers. Update packets containing data indicating a context used in compressing the headers, and non-update packets are transmitted. An irregular change of the packet stream is detected and at least one packet stream parameter is obtained. Dependent on the determined packet stream parameter, either an extended update packet or an extended non-update packet is transmitted, wherein the extended packets include information about the irregular change. In addition, the packet stream parameter is estimated and a safety factor is applied.

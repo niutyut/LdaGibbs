@@ -1,0 +1,4 @@
+title: Direct amplitude modulation for switch mode power supplies
+
+abstract: 
+In one aspect, a switch mode power supply comprises a first inductive element; a first switching element, wherein a first end of the first switching element is connected to a second end of the first inductive element; a second inductive element; a second switching element, wherein a first end of the second switching element is connected to a second end of the second inductive element; and wherein a first power source terminal is connected to a first end of the first inductive element and a first end of the second inductive element, and a second power source terminal is connected to a second end of the first switching element and a second end of the second switching element, and wherein a load is connected to the first end of the first switching element and the first end of the second switching element.

@@ -1,0 +1,4 @@
+title: Magnetic resonance imaging using bessel functions
+
+abstract: 
+A method and apparatus to increase the effectiveness of a Magnetic Resonance Imaging (MRI) device by increasing the signal-to-noise ratio, allowing thinner slice thicknesses, and allowing more contiguous slices. In an MRI device, a patient is subjected to a constant magnetic field, and then RF pulses are used to excite the atoms in the body of the patient. The atoms release a corresponding RF signal when the atoms relax, which can be measured and mapped into a visual display. The RF pulses used to excite the atoms in the body of the patient use a modified Bessel function. The Bessel function having an approximately rectangular waveform in the frequency domain increases the signal-to-noise ratio, allows thinner slice thicknesses, and allows more contiguous slices, resulting in a better MR image and a more efficient MRI apparatus.

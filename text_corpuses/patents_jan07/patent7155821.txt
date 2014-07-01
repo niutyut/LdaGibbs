@@ -1,0 +1,5 @@
+title: Techniques for manufacturing a circuit board having a countersunk via
+
+abstract: 
+A technique for manufacturing a circuit board involves obtaining a plane-shaped structure having layers of circuit board material integrated together, and carving a hole within the plane-shaped structure (e.g., using a single countersinking drill bit). The carved hole includes an inner portion having a substantially uniform inner portion diameter and a connecting portion disposed between the inner portion and an outer surface of the plane-shaped structure. At least part of the connecting portion has a diameter which is larger than the substantially uniform inner portion diameter of the inner portion to improve access to the inner portion. The technique further involves
+

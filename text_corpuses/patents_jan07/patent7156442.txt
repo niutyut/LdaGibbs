@@ -1,0 +1,4 @@
+title: Adjustable vehicle seat
+
+abstract: 
+An adjustable seat for a vehicle includes a first support and a second support connected to the first support to form a seat, a mount for attachment to the vehicle floor; and an adjustment mechanism. The seat is movable between a forward orientation wherein the second support faces forward and a rearward orientation wherein the first support faces rearward.

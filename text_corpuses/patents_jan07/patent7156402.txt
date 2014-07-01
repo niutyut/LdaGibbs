@@ -1,0 +1,4 @@
+title: Quick-tighten drill chuck
+
+abstract: 
+A drill chuck has a chuck body centered on and rotatable about an axis and having a screwthread, a main sleeve axially fixed but rotatable about the axis on the body and formed centered on the axis with a plurality of angled forwardly open guides, and respective clamping jaws displaceable in the guides. A pusher axially engageable with clamping jaws is axially forwardly displaceable relative to the chuck body to shift the clamping jaws axially forward and radially inward in the respective guides and axially rearwardly displaceable relative to the chuck body to shift the clamping jaws axially rearward and radially outward in the respective guides. A coupling jaw threadedly engaging the screwthread of the chuck body is engageable with the pusher for axially coupling the coupling jaw to the pusher. The sleeve is coupled positively to the coupling jaw for joint rotation therewith.

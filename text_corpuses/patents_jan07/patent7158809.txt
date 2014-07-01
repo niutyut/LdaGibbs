@@ -1,0 +1,4 @@
+title: Mobile device with integral print apparatus and print media supply
+
+abstract: 
+A mobile phone device with integral internal print apparatus and print media supply is provided. The device comprises a mobile telephone unit, an internal print media storage unit, a processor, a printhead, an ink distribution unit, and a print media feed mechanism.

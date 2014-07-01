@@ -1,0 +1,4 @@
+title: Semiconductor integrated circuit with security function
+
+abstract: 
+An IC (integrated circuit) card (or smart card) comprising a plurality of detectors for detecting abnormal operating conditions of the IC card. If an abnormal condition is detected by one of the detectors, the detector will generate a detection signal, which is then stored in a nonvolatile memory. A reset signal is then generated in response to the detection signal to reset a central processor unit. The central processor unit informs a user of a reset status and a cause thereof.

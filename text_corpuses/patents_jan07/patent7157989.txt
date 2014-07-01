@@ -1,0 +1,4 @@
+title: Inline waveguide phase shifter with electromechanical means to change the physical dimension of the waveguide
+
+abstract: 
+An inline phase shifter including a waveguide having a waveguide path and one of a micro-electromechanical device and a piezoelectric device positioned sufficiently adjacent to the waveguide for changing physical dimensions of the waveguide path upon actuation of the one device.

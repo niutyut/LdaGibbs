@@ -1,0 +1,4 @@
+title: Disk drive head touchdown detection with improved discrimination
+
+abstract: 
+A disk drive detects head touchdown based on a magnitude of a position error signal at a discrete frequency. The discrete frequency is one-half the disk rotation frequency or an integral multiple of the disk rotation frequency. The head is heated by turning on a heater at the discrete frequency, thereby injecting bias into a servo system that increases the PES magnitude. In addition, the servo system has a first transfer function for tracking the head during read and write operations and a second transfer function for tracking the head during head touchdown detection. The second transfer function has smaller vibration rejection than the first transfer function so that the disk drive is less sensitive to vibration during read and write operations than during head touchdown detection.

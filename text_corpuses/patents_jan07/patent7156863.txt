@@ -1,0 +1,4 @@
+title: Fundoplication apparatus and method
+
+abstract: 
+An endoscopic device for the partial fundoplication for the treatment of GERD, comprises: a) a distal bending portion and a flexible portion suitable to be positioned in extended shape within the esophagus of a subject; b) a positioning assembly comprising two separate elements, one of which is located on said distal bending portion, and the other on said flexible portion; c) a stapling assembly comprising a staple ejecting device, wherein said staple ejecting device is located on either said bending portion or on said flexible portion, said staple ejecting devices being in working positioned relationship when said two separate elements of said positioning assembly are aligned; and d) circuitry for determining when said two separate elements of said positioning assembly are aligned.

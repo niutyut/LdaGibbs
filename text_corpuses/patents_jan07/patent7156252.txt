@@ -1,0 +1,4 @@
+title: Container closure with dual heat seal and magnetic seal
+
+abstract: 
+A closure system for a container comprises a magnetically permeable element such as a metal ring adapted to be affixed on a container adjacent an opening thereof, and a closure such as a membrane lid having a surface formed by a heat seal material, the closure being heat-sealed to a surface of the magnetically permeable element via the heat seal material. The closure further incorporates a magnetized material structured and arranged to attract the magnetically permeable element so as to affix the closure to the magnetically permeable element following removal of the closure therefrom, whereby the closure system is re-closable by magnetic attraction between the closure and magnetically permeable element.

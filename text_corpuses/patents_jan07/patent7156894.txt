@@ -1,0 +1,4 @@
+title: Method for recovering metal values from concentrates of sulfide minerals
+
+abstract: 
+A method of recovering precious metal values from refractory sulfide ores is provided. The method includes the steps of separating clays and fines from a crushed refractory sulfide ore, forming a heap from the refractory sulfide ore, producing a concentrate of refractory sulfide minerals from the separated fines and adding the concentrate to the heap, bioleaching the heap to thereby oxidize iron sulfides contained therein, and hydrometallurgically treating the bioleached ore to recover precious metal values contained therein.

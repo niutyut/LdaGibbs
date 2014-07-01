@@ -1,0 +1,4 @@
+title: Heat-radiation type flow sensor
+
+abstract: 
+In a heat-radiation type flow sensor, a heater resistor is connected to a fixed resistor in series with a transistor. An electrical potential between the heater resistor and the transistor is supplied to an inverting input terminal of an operational amplifier. A reference voltage is supplied to a non-inverting input terminal of the operational amplifier. An output potential of the operational amplifier is supplied to a base of the transistor. Since the electrical potential between the heater resistor and the transistor is supplied to the inverting input terminal of the operational amplifier, the airflow sensor includes only a negative feedback circuit. Thus, the airflow sensor exhibits strong endurance against electromagnetic interferences.

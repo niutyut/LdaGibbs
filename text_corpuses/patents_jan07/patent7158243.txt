@@ -1,0 +1,4 @@
+title: Printing apparatus and printing system, control method, storage medium and program
+
+abstract: 
+A printing apparatus can quickly cancel a print job without any influence on the other subsequent print jobs when a print cancel instruction is issued. During printing, if a print cancel instruction is inputted from a printer operation unit, a printer function manager notifies a print command interpreter of the cancellation. The print command interpreter searches data processed at that time in a transmission/reception buffer for an end mark command indicating the end of the cancelled job. Then the print command interpreter deletes the data before the end mark command.

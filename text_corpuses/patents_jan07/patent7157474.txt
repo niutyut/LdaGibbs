@@ -1,0 +1,4 @@
+title: C10 heterosubstituted acetate taxane compositions
+
+abstract: 
+Compositions comprising a taxane having a heterosubstituted acetate substituent at C(10), a hydroxy substituent at C(7), and a range of C(2), C(9), C(14), and side chain substituents.

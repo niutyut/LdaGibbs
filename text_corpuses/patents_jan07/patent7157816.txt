@@ -1,0 +1,4 @@
+title: Motor providing oscillating action for a personal care appliance
+
+abstract: 
+The motor assembly which produces an oscillating action for a personal care device includes a horizontally positioned U-shaped stator portion, and an armature portion which includes a torsion spring shaft which is anchored at one end thereof. The armature portion also includes a U-shaped magnet mounting member which is fixed near the upper end of the spring shaft, the U-shaped member including two opposing legs which extend along a substantial part of the length of the spring shaft, away therefrom. At the tips of each leg are magnet assemblies, which interact with the stator portion in alternating torsion, to produce a back-and-forth oscillation of the armature and a brushhead or other workpiece attached thereto.

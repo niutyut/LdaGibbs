@@ -1,0 +1,4 @@
+title: Scanning module
+
+abstract: 
+A scanning module includes a contact image sensor, a movable base and an elasticity unit that is assembled between the contact image sensor and the base. When the assembly of the contact image sensor and the elasticity unit is placed under a glass window of a scanner, the contact image sensor and elasticity unit can be moved relatively. Thus, the scanning module can be easily assembled and decided a reduced volume to satisfy the miniaturized requirement.

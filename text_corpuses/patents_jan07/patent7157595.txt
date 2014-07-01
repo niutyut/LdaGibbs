@@ -1,0 +1,4 @@
+title: Degradation of epothilones
+
+abstract: 
+According to one embodiment the invention concerns a process for a degradation of an epothilone C or a epothilone D, wherein an epothilone C or epothilone D is subjected to an olefin metathesis in the presence of ethylene and subsequently an optional ester hydrolysis.

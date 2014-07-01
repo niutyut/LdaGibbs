@@ -1,0 +1,4 @@
+title: Data write method of magnetic random access memory
+
+abstract: 
+A data write method of a magnetic random access memory including a magnetoresistive element which has axis of easy and hard magnetizations, a first write wiring which runs in a direction of the axis of easy magnetization, and a second write wiring which runs in a direction of the axis of hard magnetization, includes a first phase of supplying a first current to the first write wiring in a first direction and supplying a second current to the second write wiring in a second direction, a second phase of stopping supplying the first current to the first write wiring and supplying the second current to the second write wiring in the second direction, and a third phase of supplying the first current to the first write wiring in a third direction reverse to the first direction and supplying the second current to the second write wiring in the second direction.

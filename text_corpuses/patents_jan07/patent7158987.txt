@@ -1,0 +1,4 @@
+title: Data search system and data search method
+
+abstract: 
+A data retrieving part searches a database for data under the conditions for a search input by a user through a search condition input part. A classifying and arranging part classifies and arranges data (search results) using feature values. A ground information providing part provides each data with ground information visualizing the ground for classification and arrangement of the data. The ground information is, for example, visualized distribution information of feature values of the data, color histogram label information, and label information on wavelet conversion feature values. A display part displays each data together with corresponding ground information, in accordance with the information on classification and arrangement from the classifying and arranging part.

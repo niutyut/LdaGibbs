@@ -1,0 +1,4 @@
+title: Protecting structure for electrostatic discharge
+
+abstract: 
+A protecting structure for ESD is formed on a substrate of a TFT-LCD. A display area of the TFT-LCD is formed by a pixel array comprising lots of pixel units, scan lines and data lines. The protecting structure comprises a first rake metal and an ?-Si layer. The first rake metal is formed outside the display area and each short end of the first rake metal faces the data line by a spacing. Further, all tips of the short end and the data lines are sharp in shape so as to accumulate electrostatic charges. The ?-Si layer is formed directly under the predetermined short end of first rake metal and the corresponding data line. The ?-Si layer is used to serve as a discharging path for performing through breakdown to the ?-Si layer so as to eliminate electrostatic charges.

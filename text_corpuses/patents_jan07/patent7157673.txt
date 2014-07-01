@@ -1,0 +1,4 @@
+title: Image heating apparatus
+
+abstract: 
+The present invention provides an induction heating apparatus including a fixing belt that heats an unfixed image on recording paper, an excitation coil that induction-heats the fixing belt, an inverter circuit that supplies power to the excitation coil, a harness that electrically connects the excitation coil and the inverter circuit. The harness is constructed of a litz wire having a resistance of the harness section of 0.016 ? or below formed by stranding several tens of wires which are conductive wires coated with an insulator into a predetermined thickness.

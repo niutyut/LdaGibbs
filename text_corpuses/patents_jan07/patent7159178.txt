@@ -1,0 +1,4 @@
+title: System for supporting a virtual community
+
+abstract: 
+A browser-enabled system of software and services that focuses on connecting people across spatial, temporal, and organizational barriers to achieve specific objectives. The system includes a client server system that provides a virtual meeting place for a learning community and a structure through which that community can achieve its goals.

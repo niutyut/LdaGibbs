@@ -1,0 +1,4 @@
+title: Removable breaking calibration connector for toroidal conductivity sensor and method of calibration
+
+abstract: 
+This invention relates to electrical connectors used with non-invasive toroidal conductivity sensors and calibration thereof. A removable breaking calibration connector is provided for temporary insertion in the electrical circuit to selectively break connection to a sense toroid for zero out calibration in situ while retaining connection to the drive toroid and other peripherals, even when process fluid is flowing in the pipes.

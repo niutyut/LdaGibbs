@@ -1,0 +1,4 @@
+title: Packet data transmitting/receiving method in mobile communication system
+
+abstract: 
+A method of transmitting/receiving packet data in a mobile communication system, where a mobile station requests a packet channel to a base station is disclosed. The base station checks whether the packet channel is available by monitoring the state of a radio link. If the packet channel is available, the base station transmits a Packet Uplink Assignment message including a UDSF (Uplink/Downlink State Flag) to the mobile station. The mobile station checks whether a downlink state flag is set by monitoring the UDSF of the Packet Uplink Assignment message. When the downlink state flag is set, the mobile station receives downlink packet data from the base station in a dedicated mode after the mobile station completely transmits uplink packet data.

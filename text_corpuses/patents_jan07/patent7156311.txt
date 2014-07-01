@@ -1,0 +1,4 @@
+title: System and method for decoding and analyzing barcodes using a mobile device
+
+abstract: 
+The present invention discloses a system and method for decoding barcodes using mobile device. Generally, the barcode image is acquired via a digital camera attached to the mobile device. After the barcode image has been acquired, software located on the mobile device enhances the barcode image and subsequently decodes the barcode information. The barcode information is then transmitted to a server via a wireless network. The server processes the barcode information and transmits media content related to the barcode back to the mobile device.

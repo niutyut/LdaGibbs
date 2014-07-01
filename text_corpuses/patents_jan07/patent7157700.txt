@@ -1,0 +1,4 @@
+title: System for collection of data and identification of unknown ion species in an electric field
+
+abstract: 
+An apparatus for identification of chemical species by measurement of mobility as a function of high electric field and for generating unique compound-dependent signatures based on ion mobility at a plurality of peak RF voltages for a given compensation. The resulting detection data is compared against a library of data in order to identify a detected chemical species.

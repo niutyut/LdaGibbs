@@ -1,0 +1,4 @@
+title: Compensating suspension element configuration
+
+abstract: 
+A compensating suspension element that includes a flexible cable, a flexible pipe and a catenary riser pipe and a connecting device connecting the flexible cable, the flexible pipe and the riser without buoyancy.

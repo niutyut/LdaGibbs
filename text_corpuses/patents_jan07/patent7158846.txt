@@ -1,0 +1,4 @@
+title: System for providing product environment information
+
+abstract: 
+An environmental information system arranged to effectively provide environmental information. The information system has a product constitution information storage section for storing product constitution information including information on parts and/or raw materials constituting each of products, an environmental information storage section for storing environmental information about each product, the parts and/or the raw materials, and an integrated environmental information forming subsystem for forming integrated environmental information with respect to each product on the basis of the product constitution information and the environmental information. The formation system provides a user with environmental information about the products according to information on user's attribute.

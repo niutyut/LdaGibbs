@@ -1,0 +1,4 @@
+title: Beam-shaping method
+
+abstract: 
+A method for shaping beams in a radio communication system employs current weighting vectors determined from first weighting vectors. The first weighting vectors used for the beam shaping are chosen to be orthogonal to each other.

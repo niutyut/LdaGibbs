@@ -1,0 +1,4 @@
+title: Ionic liquids
+
+abstract: 
+The present invention relates to compositions of matter that are useful as ionic liquids. The compositions of the invention are based on an N-substituted pyrrolidinone, said pyrrolidinone having a pendant ammonium cation that is separated from the pyrrolidone ring by a variable length alkyl spacer.

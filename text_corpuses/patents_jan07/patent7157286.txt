@@ -1,0 +1,4 @@
+title: Method for immunologically measuring RCAS1 and kit for measuring the same
+
+abstract: 
+RCAS1 in a specimen is measured by a immunologically method consisting of a step of reacting a specimen with a first anti-RCAS1 antibody capable of specifically binding to RCAS1, a step of labeling the first reaction product produced by the aforementioned step, and a step of measuring a labeled amount of the labeled first reaction product. As RCAS1, recombinant RCAS1 is used. In addition, as a first anti-RCAS1, a monoclonal antibody derived from the SiSo cell line is used.

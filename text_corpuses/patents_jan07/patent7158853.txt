@@ -1,0 +1,4 @@
+title: Pattern recognition for sheet metal part models
+
+abstract: 
+Analysis is performed on sheet metal products to determine characteristics (or feature vectors) of the sheet metal products. Multiple feature vectors can be obtained for each sheet metal product. Exemplary analyses include a first order moment and a second order moment. The characteristics can be compared with characteristics of other sheet metal part shapes to determine how similar the shapes are.

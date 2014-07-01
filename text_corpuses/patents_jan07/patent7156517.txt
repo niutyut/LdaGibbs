@@ -1,0 +1,4 @@
+title: Optometric apparatus
+
+abstract: 
+A subjective optometric apparatus comprises: right-eye and left-eye examination units, each including a test window and optical elements that are manually selectively disposed in the test window; an indicator provided in each examination unit, the indicator being arranged to indicate information on the optical element disposed in the test window and generate fluorescence by ultraviolet light; and an illumination unit which includes a light source and illuminates the indicator with the ultraviolet light.

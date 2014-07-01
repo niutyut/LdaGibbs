@@ -1,0 +1,4 @@
+title: Touch panel including external connection terminal placed within outline of touch panel body provided with handle portion
+
+abstract: 
+External connection terminals are placed within an outline of a touch panel body by being concentrated in an area neighboring an edge of a touch panel body on one of an upper surface and an under surface thereof. When the external connection terminals are concentrated on a side end surface of the touch panel body, the external connection terminals are also placed within the outline of the touch panel body. The touch panel body is also provided with a handle portion.

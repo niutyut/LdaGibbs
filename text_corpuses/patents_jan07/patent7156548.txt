@@ -1,0 +1,4 @@
+title: Light guide plate with v-shaped grooves and backlight module incorporating same
+
+abstract: 
+A light guide plate () of a preferred embodiment includes: an incident surface () for receiving incident light beams from a corresponding light source; an emitting surface (); and a bottom surface () opposite to the emitting surface. The bottom surface defines a plurality of V-shaped grooves. A side () of each V-shaped groove is a curved surface, and at least one part of the curved surface is wave-shaped. The light guide plate can improve the utilization of light beams, reduce wastage of light beams and configure the uniformity of luminance.

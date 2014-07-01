@@ -1,0 +1,4 @@
+title: Method and apparatus for detecting state of blood sample contained in test tube, using X rays
+
+abstract: 
+A test tube having a plug and containing a blood sample is prepared. The blood sample is separated into blood serum and blood clot by a separation agent, and an air layer is interposed between the plug and the blood serum. The test tube is placed between an X-ray tube and an image pickup device. X rays are emitted from the X-ray tube to the test tube. An X-ray image corresponding to X rays passing through the test tube is picked up by the image pickup device, thereby detecting the internal state of the test tube.

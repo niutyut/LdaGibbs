@@ -1,0 +1,4 @@
+title: Organic light emitting device having improved stability
+
+abstract: 
+In an OLED device, the improvement including a reflective and conductive bilayer anode including a metal or metal alloy or both; a hole-injecting structure over the reflective and conductive bilayer anode; at least one organic layer formed over the hole-injecting structure; and the reflective and conductive bilayer anode being configured to improve the stability of drive voltage.

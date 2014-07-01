@@ -1,0 +1,4 @@
+title: Composite tantalum nitride/tantalum copper capping layer
+
+abstract: 
+Electromigration and stress migration of Cu interconnects are significantly reduced by forming a composite capping layer comprising a layer of tantalum nitride on the upper surface of the inlaid Cu and a layer of ?-Ta on the titanium nitride layer. Embodiments include forming a recess in an upper surface of an upper surface of Cu inlaid in a dielectric layer, depositing a layer of titanium nitride of a thickness of 20 ? to 100 ? and then depositing a layer of ?-Ta at a thickness of 200 ? to 500 ?.

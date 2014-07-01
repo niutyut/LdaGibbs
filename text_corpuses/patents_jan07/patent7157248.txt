@@ -1,0 +1,4 @@
+title: CDNA encoding the human ?2 ?4 calcium channel subunit
+
+abstract: 
+The present invention provides nucleic acid and polypeptide sequences describing a novel isoform of the ?2? subunit of a voltage gated calcium channel, herein named as ?2?-4. The isolated nucleic acid or polypeptide molecule of the invention can be used in diagnosing and treating a disease or disorder associated with a defective ?2?-4 subunit, such as seizure-related syndromes, anxiety, multiple sclerosis, and the like.

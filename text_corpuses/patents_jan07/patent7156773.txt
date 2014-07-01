@@ -1,0 +1,4 @@
+title: Electronic apparatus, input device, and input method
+
+abstract: 
+A walking sensor is attached to a shoe of the user and cooperates with an input device including a detection section detecting a movement of a user's leg, a signal conversion section converting a detection result of the detection section into a control signal, and an output section outputting the control signal to an external device.

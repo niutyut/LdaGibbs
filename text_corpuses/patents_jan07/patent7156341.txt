@@ -1,0 +1,4 @@
+title: Ribbon core for universal mounting
+
+abstract: 
+A versatile core has a tubular body with opposing ends and includes a circumferential wall for receiving the sheet roll. A plurality of circumferentially spaced apart crush ribs project radially inward from the annular inner surface and extend axially between the ends for nesting in corresponding slots in the spindle. The crush ribs are defined by a plurality of cut outs, which are provided at each of the opposing ends and are defined by the circumferential wall. The cut outs accept and engage various configurations of ribs of a spindle assembly, with the ribs of the spindle located between the crush ribs of the core. The exterior surface of the tubular body may have a texture selected to provide the desired adhesion between the tape (attaching the sheet roll to the core) and the body surface of the cylindrical body.

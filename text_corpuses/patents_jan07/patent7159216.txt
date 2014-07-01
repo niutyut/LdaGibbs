@@ -1,0 +1,4 @@
+title: Method and apparatus for dispatching tasks in a non-uniform memory access (NUMA) computer system
+
+abstract: 
+A dispatcher for a non-uniform memory access computer system dispatches threads from a common ready queue not associated with any CPU, but favors the dispatching of a thread to a CPU having a shorter memory access time. Preferably, the system comprises multiple discrete nodes, each having a local memory and one or more CPUs. System main memory is a distributed memory comprising the union of the local memories. A respective preferred CPU and preferred node may be associated with each thread. When a CPU becomes available, the dispatcher gives at least some relative priority to a thread having a preferred CPU in the same node as the available CPU over a thread having a preferred CPU in a different node. This preference is relative, and does not prevent the dispatch from overriding the preference to avoid starvation or other problems.

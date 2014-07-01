@@ -1,0 +1,4 @@
+title: Magnetoresistive sensor having specular sidewall layers
+
+abstract: 
+A transducing head includes a multilayered magnetoresistive sensor having an air bearing sidewall opposite aback sidewall and a first sidewall opposite a second sidewall. A specular layer is positioned on at least one of the air bearing sidewall, the back sidewall, the first sidewall, and the second sidewall. Each sidewall is transverse to the layers of the magnetoresistive sensor.

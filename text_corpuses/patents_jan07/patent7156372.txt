@@ -1,0 +1,4 @@
+title: Non-contact valve for particulate material
+
+abstract: 
+A non-contact valve () for controlling the flow of particulate material (M) includes a body () and a gas-porous element () associated with the body (). A first orifice () is defined by the gas-porous element (). The gas-porous element () directs a flow of pressurized gas into the first orifice (). A plug member () receivable within the first orifice () is movable into and out of the first orifice (). A channel (C) is conjunctively defined at least in part by the first orifice () and the plug (). The channel (C) defines a flow path () for the particulate material (M). The length of the channel (C) is adjusted to thereby adjust the velocity of gas flowing through the channel (C) and, thereby, adjust the flow of material (M) therethrough.

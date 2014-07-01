@@ -1,0 +1,4 @@
+title: Arcuate taper lock anchor base plate and anchor assembly with the base plate
+
+abstract: 
+An anchor assembly for supporting a post and a base plate for the assembly. The assembly includes a tubular anchor body with an arcuate interior area. The anchor body is configured to receive a post having an arcuate exterior profile and a hollow lower end. The base plate is for connection with the anchor body. The base plate has an arcuate portion shaped congruently to the anchor body. The base plate has an arcuate conical portion that has a cross-sectional area that is complementary to the hollow lower end of the post and that has a greatest radial dimension at a base of the conical portion. The greatest radial dimension is greater than a complementary dimension of an interior surface of the post to cause the interior surface to slide over the conical portion and the conical portion to frictionally engage the post to prevent lateral movement of the post.

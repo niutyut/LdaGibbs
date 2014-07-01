@@ -1,0 +1,7 @@
+title: Polymerizable compound, polymer compound and block polymer compound, and composition, image-forming method and image-forming apparatus using the same
+
+abstract: 
+A composition containing a polymer compound and medium being a solvent or a binder resin, wherein the polymer compound comprises monomer units represented by the general formula (1):
+
+
+wherein A is a straight-chain or branched alkylene group of 1 to 15 carbon atoms, which may be substituted; m is an integer of 0 to 30, and; B is a single bond or alkylene, which may be substituted; D is an aromatic ring structure; n is an integer of 1 to 10, and R is a hydrogen atom, an alkyl group, which may be substituted, an aromatic ring structure, or a mono- or poly-valent metal cation.

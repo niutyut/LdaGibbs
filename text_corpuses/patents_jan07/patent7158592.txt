@@ -1,0 +1,4 @@
+title: Method and apparatus for synchronizing data transfer
+
+abstract: 
+The invention is a method and apparatus for ensuring synchronization for digital communication between a transmitting and a receiving device, particularly when the clock and/or frame synchronization is sourced from a different location than the transmit data.

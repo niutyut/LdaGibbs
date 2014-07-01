@@ -1,0 +1,4 @@
+title: Item taking-out container
+
+abstract: 
+An item taking-out container making it possible to take out small items, such as candies or chocolates, one by one is composed of a container main body equipped with an accommodating portion capable of accommodating a plurality of items of a predetermined configuration and a cover member, an opening communicating with the accommodating portion being formed at a predetermined position on the surface of the container main body, the cover member being rotatably supported with respect to the container main body in order to close the opening so as to allow opening/closing, there being provided on the back side of the cover member an item taking-out means for holding the items accommodated in the accommodating portion and taking the items out of the container main body as the cover member is opened.

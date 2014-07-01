@@ -1,0 +1,4 @@
+title: Glycopeptide carboxy-saccharide derivatives
+
+abstract: 
+Disclosed are glycopeptide derivatives substituted at the C-terminus and/or the R-terminus with a substituent that comprises one or more saccharide groups and a carboxy group; and pharmaceutical compositions containing such glycopeptide derivatives. The disclosed glycopeptide derivatives are useful as antibacterial agents.

@@ -1,0 +1,4 @@
+title: Electrically-programmable transistor antifuses
+
+abstract: 
+Integrated circuit antifuse circuitry is provided. A metal-oxide-semiconductor (MOS) transistor serves as an electrically-programmable antifuse. The antifuse transistor has source, drain, gate, and substrate terminals. The gate has an associated gate oxide. In its unprogrammed state, the gate oxide is intact and the antifuse has a relatively high resistance. During programming, the gate oxide breaks down, so in its programmed state the antifuse transistor has a relatively low resistance. The antifuse transistor can be programmed by injecting hot carriers into the substrate of the device in the vicinity of the drain. Because there are more hot carriers at the drain than at the substrate, the gate oxide is stressed asymmetrically, which enhances programming efficiency. Feedback can be used to assist in turning the antifuse transistor on to inject the hot carriers.

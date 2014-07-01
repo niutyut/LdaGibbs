@@ -1,0 +1,4 @@
+title: On-hardware optimization of stepper-motor system performance
+
+abstract: 
+Apparatus for optimizing performance of a stepper motor includes interaction between on-hardware system drivers and a host controlling computer through an intermediate target computer. The command instructions from the host computer are optimized by the interaction using an objective function to define the best performance of the stepper motor and real-time feedback from operation of the motor. A method for optimizing the stepper motor performance is also disclosed.

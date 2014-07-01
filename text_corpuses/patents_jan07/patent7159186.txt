@@ -1,0 +1,4 @@
+title: User interface for transferring data with a communications terminal
+
+abstract: 
+An aspect of the present invention provides methods and apparatus for supporting a user interface of a terminal. The user interface enables the user to manipulate display objects on a display of the user interface in order to download software objects of other users, execute software objects of the user or of other users, and share software objects with other users. In an embodiment of the invention, the display is partitioned into three areas comprising a user's data area, an applications area, and another user's data area. The user can drag a display object between the user's data area and the other user's data area in order to download or publish a corresponding software object. Also, the user can drag a display object from either the user's data area or the other user's data area to the application area in order to execute or view the corresponding software object.

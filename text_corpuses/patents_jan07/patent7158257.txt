@@ -1,0 +1,4 @@
+title: Information processing apparatus, image processing method, and program
+
+abstract: 
+In an information processing apparatus capable of communicating with plural image processing apparatuses, the image processing apparatus satisfying a desired condition input by a user is selected from among the plural image processing apparatuses, the selected one or more image processing apparatuses are stored in a storage means, and it causes any one of the stored image processing apparatuses to perform an image process. When the image processing apparatus in question cannot continue the image process, it causes any one of the image processing apparatuses stored in the storage means and satisfying the above condition to perform a substitute process.

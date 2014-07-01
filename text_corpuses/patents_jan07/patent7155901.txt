@@ -1,0 +1,4 @@
+title: Catalyst temperature control on an electrically throttled engine
+
+abstract: 
+A method to regulate catalyst temperature by adjusting engine air and fuel amounts. The method provides catalyst temperature regulation while reducing fuel consumption.

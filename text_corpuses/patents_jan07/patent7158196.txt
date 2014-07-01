@@ -1,0 +1,4 @@
+title: Substrate for liquid crystal display with a substantially u-shaped black matrix and method of fabricating the same
+
+abstract: 
+A color filter substrate for a liquid crystal display includes a transparent substrate, and color filters formed on the substrate each with a groove. A transparent conductive layer is deposited onto the color filters to form a common electrode. A chrome layer and a chrome oxide layer are sequentially deposited onto the common electrode to form a black matrix layer. An organic film is formed on the black matrix layer. The organic film suffers ashing such that only the portion of the organic film placed over the groove is left over, and other portions are all removed while exposing the black matrix layer. The exposed portion of the black matrix layer is removed through etching. In this way, the color filter substrate is completed in a simple manner.

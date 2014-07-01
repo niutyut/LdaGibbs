@@ -1,0 +1,4 @@
+title: Phase shift full bridge converter
+
+abstract: 
+A converter is presented, including first and second switches coupled to an input power source to define a first conductive path, and third and fourth switches coupled to the input power source to define a second conductive path. A PWM unit turns on the switches in the order of the fourth, first, third, second, first, fourth, second, and third switches, and outputs pulse signals so that the first and fourth switches are turned on in overlapping intervals and the second and third switches are turned on in overlapping intervals.

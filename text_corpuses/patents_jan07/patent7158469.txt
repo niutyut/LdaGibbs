@@ -1,0 +1,4 @@
+title: Optical head with light-receiving device
+
+abstract: 
+The present invention realizes a compact and thin light-receiving device in a simple configuration, and provides a compact optical head on which this light-receiving device is mounted. The light-receiving device for receiving light reflected from an information recording medium includes a light-receiving chip having a plurality of electrodes and a flexible wiring board on which the light-receiving chip is mounted and fixed. The plurality of electrodes are connected electrically to the flexible wiring board by attaching directly or via a metal wire.

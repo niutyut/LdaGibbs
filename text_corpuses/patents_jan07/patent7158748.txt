@@ -1,0 +1,4 @@
+title: Fusing device of an image forming apparatus and method thereof
+
+abstract: 
+A fusing device of an image forming apparatus and method thereof are provided. The fusing device and method include a conductive member having a linear portion for contacting a printing medium, a fusing film for sliding on a circumference of the conductive member, a pressing roller for contacting the fusing film in the linear portion, forming a fusing nip area, and rotating the fusing film, and an induction heating unit for heating the conductive member by induction and generating heat. The thickness of the conductive member in the fusing nip area is smaller than the thickness of the conductive member in other areas.

@@ -1,0 +1,4 @@
+title: Error resilient windows media audio coding
+
+abstract: 
+A unique sync mark is applied by an encoder to the beginning of each frame in a data packet of a Windows Media? Audio bitstream by a Microsoft? Windows Media? Audio (WMA) codec. The WMA decoder handles errors at the frame level for each data packet. When a frame in a data packet of a WMA file is corrupted, the decoder can continue to decode the next frame by searching for the next sync mark at the beginning of the next frame. Accordingly, error propagation is confined to a single frame and the decoder can simultaneously handle bit errors and packet erasures when decompressing a received audio bitstream.

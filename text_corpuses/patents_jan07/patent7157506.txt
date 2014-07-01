@@ -1,0 +1,4 @@
+title: Resin composition with excellent dielectric characteristics, process for producing resin composition, varnish prepared from the same, process for producing the same, prepeg made with these, and metal-clad laminate
+
+abstract: 
+A resin composition comprising a cyanate compound (A) having 2 or more cyanato groups in the molecule; a phenol compound (B); a silicone polymer (D) having at least one siloxane unit selected from the group consisting of a tri-functional siloxane unit represented by the formula RSiOand tetra-functional siloxane unit represented by SiO, polymerization degree of 7,000 or less, and at least one terminal functional group reactive with hydroxyl group; and inorganic filler (E).

@@ -1,0 +1,4 @@
+title: Cluster availability model
+
+abstract: 
+The present invention describes a method and system for creating a cluster availability model that takes into account availabilities of software components in the cluster. Aspects of the disclosure include defining a repair model and failure parameters for a repair mode in the repair model, and modeling availabilities of software components based on the repair mode and failure parameters. Additional aspects include combining availability models of software components in a computationally feasible manner and determining repair rates of node and cluster reboots. A cluster availability model is determined using the combined availability models of software components and the repair rates of node and cluster reboots.

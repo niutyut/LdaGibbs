@@ -1,0 +1,4 @@
+title: Etching process for micromachining crystalline materials and devices fabricated thereby
+
+abstract: 
+The present invention relates generally to micromachining. More particularly, the present invention relates to a method for combining directional ion etching and anisotropic wet etching and devices and structures fabricated thereby. The present invention is particularly applicable to silicon micromachining and provides architectures that combine crystallographic surfaces and vertical dry etched surfaces together in the same structure.

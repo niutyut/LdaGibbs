@@ -1,0 +1,4 @@
+title: Mobile electronic device and button assembly thereof
+
+abstract: 
+A mobile electronic device is disclosed. The device includes a printed circuit board, a first button module, a second button module and an actuator module. The printed circuit board has a first surface and a second surface opposite to the first surface. The first button module includes a plurality of first dome-like switches disposed on the first surface. The second button module includes a plurality of second dome-like switches disposed on the second surface. The actuator module actuates the plurality of first and second dome-like switches.

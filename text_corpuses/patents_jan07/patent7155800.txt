@@ -1,0 +1,4 @@
+title: Automated seal strip assembly method and apparatus for rotary machines
+
+abstract: 
+A automated sealing assembly for rotary machines including: a seal guide assembly, the seal guide assembly aligns and holds a caulk wire and a sealing strip in a rotor groove for peening; a peening tool, the peening tool peens said caulk wire to deform the caulk wire and secure the caulk wire and the sealing strip in the rotor groove; an actuator, the actuator controls a movement and preload force of the peening tool producing a rotor groove seal having a predictable pull out strength; and a base for securing the seal guide assembly, the peening tool, and the actuator.

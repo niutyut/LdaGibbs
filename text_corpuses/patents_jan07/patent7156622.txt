@@ -1,0 +1,4 @@
+title: Compressor blade for an aircraft engine
+
+abstract: 
+A compressor blade for an aircraft engine includes a blade core made of a fiber compound material and a metallic enclosing structure. The enclosing structure is of a multi-part design and includes blanks () attached to the blade core by a metallic weave () on the suction side and on the pressure side, with the two blanks being firmly connected at the aerodynamically shaped leading edge of the compressor blade by to a leading-edge former (). Depending on the specific loads applied on the pressure side and on the suction side, welds attaching the blanks to the leading-edge former () are offset relative to each other and the material thicknesses of the components of the enveloping structure are matched to each other.

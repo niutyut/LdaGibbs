@@ -1,0 +1,4 @@
+title: Membrane-electrode assembly for polymer electrolyte fuel cell, and process for its production
+
+abstract: 
+A process for producing a membrane-electrode assembly for a polymer electrolyte fuel cell comprising an anode and a cathode each having a catalyst layer, and an ion exchange membrane disposed between them, and the membrane-electrode assembly so produced, wherein at least one of the catalyst layers is produced by preparing a coating fluid containing an ion exchange polymer and a catalyst having catalytic metal particles dispersed on a carbon support, and a catalyst layer is formed by applying the coating fluid on a substrate, wherein the catalyst has a density of total functional groups of OH groups and CO groups at the surface is at most 1.6?10(mmol/m), as obtained from the BET specific surface area and the total molar amount of OH groups and CO groups at the surface obtained by a titration method.

@@ -1,0 +1,4 @@
+title: Fused zirconia-based solid oxide fuel cell
+
+abstract: 
+The disclosure is directed to a solid oxide fuel cell including an electrolyte. The electrolyte is formed using a fused electrolyte powder. The disclosure is also directed to a solid oxide fuel cell stack including a plurality of solid oxide fuel cells. Each solid oxide fuel cell of the plurality of solid oxide fuel cells includes an electrolyte. The electrolyte is formed using a fused electrolyte powder.

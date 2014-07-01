@@ -1,0 +1,4 @@
+title: Nozzle contact device of an injection machine
+
+abstract: 
+A nozzle contact device of an injection machine has an injection device, a nozzle, a flexible body, a tension buffer device and a tension-measuring device. The nozzle is installed a front side of the injection device. The flexible body is used to drive the injection device to contact or separate from a mold. The tension buffer device is installed at a lateral side of the flexible body, and has an elastic body for receiving tension from the flexible body and decomposing the tension to form a component force and a displacement. The tension-measuring device is used to measure the displacement of the tension buffer device and deciding a contact force between the nozzle and the mold.

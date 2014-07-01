@@ -1,0 +1,4 @@
+title: Nonvolatile semiconductor memory device
+
+abstract: 
+A memory cell of a nonvolatile semiconductor memory device is formed on a silicon layer formed on a silicon substrate through an ONO film. The memory cell has a source region and a drain region formed in the silicon layer, an ONO film and a gate electrode. The ONO film and the ONO film include nitride films having charge trap parts trapping charges.

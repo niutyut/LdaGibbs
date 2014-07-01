@@ -1,0 +1,4 @@
+title: Arrangement for bearing relief in a gas turbine
+
+abstract: 
+In a gas turbine, the compressor load is reduced and the turbine load is increased for controlled bearing load reduction by forming a low-pressure chamber () that is shielded from the compressor air at the compressor () and a high-pressure chamber () that is supplied with compressor air at the turbine along the high-pressure shaft (). The pressures can be controlled within specific limits. Controlled bearing load reduction allows high speeds and a long service life of the bearings.

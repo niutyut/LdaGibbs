@@ -1,0 +1,4 @@
+title: Magnetic latching switch
+
+abstract: 
+A magnetic latching switch includes a housing having mounted therein a movable electrical control structure normally retained in a first position with a stationary electrical lug structure. The electrical control structure and the electrical lugs are held together by a retaining system including a magnetic arrangement contacted by a biasing arrangement for providing a magnetic biasing force. A diaphragm assembly is movable into direct contact with the magnetic arrangement in response to a predetermined counteracting force exerting an operating force which overcomes the magnetic biasing force, and enables the biasing system to move the contact structure to a second position with the stationary lugs.

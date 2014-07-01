@@ -1,0 +1,4 @@
+title: Heat exchanger with thermal inertia for a heat transfer fluid circuit, particularly of a motor vehicle
+
+abstract: 
+A heat exchanger for a heat transfer fluid circuit comprising ducts for the circulation of the heat transfer fluid, which are inserted between an inlet and an outlet, is described. Cavities designed to contain a heat storage fluid adjacent to the cooling fluid circulation ducts and associated with heat-exchanger surfaces, so that heat storage fluid is capable of exchanging heat with the air flow, if the circulation of the heat transfer fluid is stopped, are also described.

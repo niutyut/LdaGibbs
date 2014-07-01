@@ -1,0 +1,4 @@
+title: Drift tracking feedback for communication channels
+
+abstract: 
+A communication channel includes a first component having a transmitter coupled to a normal signal source, and a second component having a receiver coupled to a normal signal destination. A communication link couples the first and second components. Calibration logic provides for setting an operation value for a parameter of the communication channel, such as by executing an exhaustive calibration sequence at initialization of the link. A tracking circuit, including a monitoring function, tracks drift in the parameter by monitoring a feedback signal that has a characteristic that correlates with drift in the communication channel, and updates, or indicates the need for updating of, the operation value of the parameter in response to the monitoring function.

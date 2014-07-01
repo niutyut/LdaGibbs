@@ -1,0 +1,4 @@
+title: Casting steel strip
+
+abstract: 
+A method of casting steel strip by introducing molten plain carbon steel on casting surfaces at least one casting roll with the molten steel having a free nitrogen content below 120 ppm and a free hydrogen content below about 6.5 ppm measured at atmospheric pressure. The free nitrogen content maybe below about 100 ppm or below about 85 ppm. The free hydrogen content maybe between 1.0 and 6.5 ppm at atmospheric pressure. Novel cast strip of plain carbon steel is produced having a strip thickness less than 5 mm or less than 2 mm by use of the method.

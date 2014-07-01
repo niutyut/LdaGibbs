@@ -1,0 +1,4 @@
+title: Self-leveling laser alignment tool and method thereof which compensates for material stiffness of an included pendulum
+
+abstract: 
+A self-leveling laser alignment tool and method thereof which provides a laser beam in a substantially truly level or plumb orientation are disclosed. Magnetic attraction is used to compensate for leveling errors of an approximately or partially leveled pendulum platform that is suspended from a flexible support member having a predetermined material stiffness. The material stiffness of the suspension member is compensated by using magnets which pulls the pendulum platform into an orientation that is substantially truly level and plumb.

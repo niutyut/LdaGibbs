@@ -1,0 +1,4 @@
+title: Cash dispensing automated banking machine with adjustable chest hinge method
+
+abstract: 
+A secure enclosure for an automated banking machine includes a safe chest portion and a moveable door. The door has mounted thereon a locking bolt work mechanism which is operable to secure the door in a closed position. The door is mounted to the chest with the use of hinge assemblies having respective hinge pins. The hinge assemblies enable the door to be selectively adjusted in up-down and right-left directions. The door can be moved in the up-down direction via an adjustable set screw operative to move vertically relative to a hinge pin. The door can be moved in the right-left direction via adjustable set screws operative to engage and pivot the hinge pin. Thus, the door can be aligned with the chest opening.

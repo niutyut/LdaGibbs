@@ -1,0 +1,4 @@
+title: Nicotianamine synthase and gene encoding the same
+
+abstract: 
+A nicotianamine synthase is isolated and purified. Then the gene of this enzyme is cloned and the base sequence and amino acid sequence thereof are determined. This gene is employed in constructing plants, in particular, grass plants highly tolerant to iron deficiency. A nicotianamine synthase involved in the mugineic acid biosynthesis pathway; the amino acid sequence thereof; a gene encoding the same; a vector containing this gene; cells transformed by the vector; a process for producing nicotianamine by using the same; plants transformed by the gene encoding the nicotianamine synthase; and an antibody against the nicotianamine syntase.

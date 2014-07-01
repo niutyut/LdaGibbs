@@ -1,0 +1,4 @@
+title: Method and apparatus for centralized management of a storage virtualization engine and data services
+
+abstract: 
+SVE management software uses management software running at a central service processor to control storage virtualization engines operating in a plurality application programming interface (API) that allows a consistent control of all SVE facilities by means of a set of API commands. The management software controls a dispatch module that translates the commands into appropriate instructions for the SVE nodes and communicates with the remote SVE nodes by a plurality of node client-node server pairs that transfer instructions from the dispatch module to the remote nodes and transfer requested information back from the remote nodes to the dispatch module. Various interfaces, such as a command line interpreter and a CIM provider can be built using the API commands.

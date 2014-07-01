@@ -1,0 +1,4 @@
+title: RFID tag inspection system
+
+abstract: 
+An RFID tag inspection system inspects the properties of tag antennas, and further, determines the communication performance of RFID tags, based on how much their resonant frequencies are shifted from a target value. The RFID tag inspection system includes: a reader/writer including a coiled reader/writer antenna, for transmitting/receiving data to or from the RFID tag at the resonant frequency through the reader/writer antenna; an RFID tag set portion on which the RFID tag is set in such a way that the tag antenna is located within a coverage area of the reader/writer antenna; and a magnetic field sensing coil including at least one open terminal, the magnetic field sensing coil being placed corresponding to the tag antenna.

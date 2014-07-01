@@ -1,0 +1,4 @@
+title: Illumination devices comprising white light emitting diodes and diode arrays and method and apparatus for making them
+
+abstract: 
+In accordance with the invention, an illumination device comprises a substrate having a surface and a cavity in the surface. At least one light emitting diode (?LED?) is mounted within the cavity, and a monolayer comprising phosphor particles overlies the LED. The phosphor monolayer is adhered to the LED by a monolayer of transparent adhesive material. An optional optical thick layer of transparent material overlies the phosphor monolayer to encapsulate the LED and optionally to form a lens. Methods and apparatus for efficiently making the devices are disclosed.

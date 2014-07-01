@@ -1,0 +1,4 @@
+title: Structure of adenovirus bound to cellular receptor car
+
+abstract: 
+Disclosed is a mutant CAR-DI-binding adenovirus which has a genome comprising one or more mutations in sequences which encode the fiber protein knob domain wherein the mutation causes the encoded viral particle to have a significantly weakened binding affinity for CAR-DI relative to wild-type adenovirus. Such mutations may be in sequences which encode either the AB loop, or the HI loop of the fiber protein knob domain. Specific residues and mutations are described. Also disclosed is a method for generating a mutant adenovirus which is characterized by a receptor binding affinity or specificity which differs substantially from wild type.

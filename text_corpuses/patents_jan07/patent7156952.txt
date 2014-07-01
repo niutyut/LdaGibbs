@@ -1,0 +1,4 @@
+title: Method and arrangement for oxygen delignification of cellulose pulp
+
+abstract: 
+The invention relates to a method and arrangement for alkaline oxygen delignification of cellulose pulp. By adding alkali in the final phase of the oxygen delignification one can ensure that an optimal predetermined end-pH is obtained. This provides advantages in the subsequent bleaching since the bleachability is substantially improved in the form of reduced need for bleaching chemicals.

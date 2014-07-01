@@ -1,0 +1,4 @@
+title: Methods of drilling and consolidating subterranean formation particulate
+
+abstract: 
+Improved methods for drilling well bores penetrating producing zones while controlling formation particulates are provided. Some embodiments provide methods of drilling a well bore into a subterranean formation comprising the steps of providing a drilling composition comprising a drilling fluid and a consolidating material; and, using the drilling composition while drilling the well bore and allowing the consolidating material in the drilling composition to penetrate into the walls of the well bore.

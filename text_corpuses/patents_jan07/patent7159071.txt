@@ -1,0 +1,4 @@
+title: Storage system and disk load balance control method thereof
+
+abstract: 
+A storage system prevents a time out error of the host I/O caused by a stagnation of command processing in the storage system for accessing a disk device according to the host I/O request and internal I/O request. In DTC, counters for managing the requests in-process for host I/Os (host read) and internal I/Os (pre-fetch, write back) individually are provided, and the number of processing requests to be issued to a virtual disk (RLU) is limited individually. By assigning priority to the host I/Os, the load balance of the host I/Os and internal I/Os can be controlled. For rebuild/copy back, a dedicated load control mechanism is disposed where the load adjustment between ordinary I/Os and rebuild/copy back is performed.

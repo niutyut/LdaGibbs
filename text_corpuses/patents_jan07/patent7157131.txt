@@ -1,0 +1,4 @@
+title: Prevention of counterfeit markings on semiconductor devices
+
+abstract: 
+A lidded semiconductor device has a first layer applied to the lid, which first layer is chosen of a material which fluoresces upon application of non-visible electromagnetic waves thereto, for example, ultraviolet light. A second layer is provided over the first layer. Openings extend through the second layer and further extend to a substantial depth into the first layer, for example, generally halfway into the first layer, to expose portions of the first layer.

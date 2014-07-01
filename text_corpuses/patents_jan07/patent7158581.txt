@@ -1,0 +1,4 @@
+title: Method of determining parameters of an N-gate
+
+abstract: 
+A method for determining the parameters and characteristics of an n-port network such as an amplifier is described. The parameters are determined by applying an input signal train or sequence with different amplitudes and measuring an output signal train, taking into account a temporal displacement that the output signal train has in relation to the input signal train. The temporal displacement is determined by a cross-correlation of the output signal train with the input signal train.

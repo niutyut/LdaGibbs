@@ -1,0 +1,4 @@
+title: Semiconductor memory devices
+
+abstract: 
+Semiconductor memory devices. A semiconductor memory device includes a booster circuit generating a predetermined power voltage exceeding an external power voltage, a global power line supplying the predetermined power voltage, and a plurality of memory blocks. Each memory block has a local power line, a plurality of functional circuits coupled to the local power lines and a voltage control device coupled between the global power line and the local power line. The voltage control device outputs the predetermined power voltage or a first voltage to the functional circuits through the local power line in a first period and a second period respectively, according to a select signal, wherein the first voltage exceeds the external power voltage but is lower than the predetermined power voltage.

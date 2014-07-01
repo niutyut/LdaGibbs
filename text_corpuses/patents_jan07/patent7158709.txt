@@ -1,0 +1,4 @@
+title: Three-dimensional periodic structure and fabrication method thereof
+
+abstract: 
+A photonic crystal comprises a matrix constituting said three-dimensional periodic structure, a first lattice formed in said matrix by first spherical voids having a uniform first diameter, said first spherical voids forming a face-centered cubic lattice, and a second lattice formed in said matrix by second spherical voids having a uniform second diameter smaller than said first diameter, said second spherical voids occupying interstitial sites of said first spherical voids.

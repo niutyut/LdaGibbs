@@ -1,0 +1,7 @@
+title: Process for the preparation of dihydroxy esters and derivatives thereof
+
+abstract: 
+A process is provided for the preparation of a compound of formula (1)
+
+
+wherein R and R? represent optionally substituted hydrocarbyl groups and X represents a hydrocarbyl linking group. The process comprises either the stereoselective reduction of the keto group in a dihydroxy keto precursor followed by selective esterification of a primary hydroxy, or selective esterification of a primary hydroxy of a dihydroxy keto precursor followed by stereoselective reduction of the keto group.

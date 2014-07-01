@@ -1,0 +1,4 @@
+title: Field effect transistor
+
+abstract: 
+A field-effect transistor includes a channel layer that is formed on a predetermined semiconductor layer and has an impurity concentration varying from a low value to a high value, and a source region and a drain region each having a bottom face above the predetermined semiconductor layer.

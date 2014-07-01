@@ -1,0 +1,4 @@
+title: Method for making optical devices with a moving mask and optical devices made thereby
+
+abstract: 
+The present invention provides a method for forming a vertical taper in a waveguide. In the present invention, a shadow mask is disposed above a waveguide requiring a vertical taper. Then, the waveguide is exposed to a directional etching process (e.g. deep reactive ion etching) while the mask is moved. Ask the mask moves, different regions of the waveguide will be etched different depths, resulting in a vertical taper in the waveguide.

@@ -1,0 +1,4 @@
+title: Composition and method for treating magnesium alloys
+
+abstract: 
+The invention relates to a composition and method for treating a magnesium alloy. The inventive composition comprises an acid aqueous solution containing niobium pentoxide, a water-soluble cerium salt and, optionally, a zirconium salt and/or hydroflouric acid. Said method consists in submerging a magnesium alloy part in said composition. The invention can be used to protect magnesium alloy parts against corrosion.

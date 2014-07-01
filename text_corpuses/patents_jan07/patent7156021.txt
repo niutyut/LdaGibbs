@@ -1,0 +1,4 @@
+title: Machine for processing sheets of printing material
+
+abstract: 
+A machine for processing sheets of printing material has a cylinder for transporting the sheets and sheet supports which are mounted such that they can be rotated about a sheet support axis of rotation and in each case contain supporting segments for pressing the sheets onto the cylinder. The supporting segments are mounted such that they can be pivoted as desired into an active position and into a passive position about pivot axes that are skewed relative to the sheet support axis of rotation or about rotary joints determining the pivot axes.

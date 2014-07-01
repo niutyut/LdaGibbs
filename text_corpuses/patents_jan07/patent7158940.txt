@@ -1,0 +1,4 @@
+title: Method and apparatus for facilitating management of information technology investment
+
+abstract: 
+A method and apparatus to facilitate management of IT investment includes storing data associated with performance metrics of a number of information technology (IT) projects, and generating a number of ?scorecards? for a number of IT portfolios, using the stored data, with each scorecard indicating status of the IT projects of an IT portfolio relative to performance metrics, each IT portfolio having a subset of the IT projects. The method/apparatus further includes generating a number of ?dashboards? for the IT projects, using also the stored data, with each dashboard graphically illustrating one or more aspects of at least one IT project, and facilitating navigation from a scorecard to a corresponding one of the dashboards for a selected IT project by a user of the scorecard through selection of a representation of the IT project.

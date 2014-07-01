@@ -1,0 +1,4 @@
+title: Device for generating a digitally modulated test signal
+
+abstract: 
+The aim of the invention is to generate a digitally modulated test signal, which is generated in the form of a multitude of transmission channels from a digital modulation data stream according to a predetermined digital modulation standard, and which is fed as I and Q values to an I/Q modulator. To this end: a) a portion of the transmission channels is generated, in a modulation coder, directly from an internal or external modulation data stream according to the predetermined modulation standard; b) the I and Q values for at least one portion of the remaining channels are fed as a pre-calculated modulation data sequence of alimited length from a memory to the modulation coder, and; the I and Q values generated according to a) and b) are added and fed to the I/Q modulator.

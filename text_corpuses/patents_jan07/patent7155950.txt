@@ -1,0 +1,4 @@
+title: Dampers for furnace coilers
+
+abstract: 
+The invention relates to a damper construction () of a furnace coiler () which can especially be used in Steckel mills (). A hot rolled strip is respectively coiled onto, and uncoiled off, a drum inside the furnace in a reversing manner, by means of a back and forth transport movement, and is optionally heated. Guiding flaps (?) are mounted on the displaceable damper () of the furnace coiler, for inserting and guiding the rolled strip. In order to improve maintenance work, the dampers () and the furnace coiler () are embodied as separate components. The dampers () are arranged on an element (?) pertaining to a displaceable roller rack (), said element being located beneath the furnace coiler (). Each damper () is divided into at least two elements (?) which can be hinged together, the two hinged elements being connected by means of a hinge bearing () in a pivoting manner.

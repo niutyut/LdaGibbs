@@ -1,0 +1,4 @@
+title: Transparent optimization for session establishment using characterized synchronization packet
+
+abstract: 
+A system and method that optimizes transmission control protocol (TCP) initial session establishment without intruding upon TCP's core algorithms. TCP's initially session establishment is accelerated by locally processing a source's initial TCP request within the source's local area network (LAN). A control module relatively near the source's local area network (LAN) and another control module relatively near a destination's LAN are utilized to complete the initial TCP session establishment within the source and the destination's respective LANs, thereby substantially eliminating the first round-trip time delay before the actual data flow begins. The first application-layer data packet thus can be transmitted at substantially the same time as the initial TCP request.

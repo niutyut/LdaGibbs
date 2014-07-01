@@ -1,0 +1,4 @@
+title: Process for producing allyl ether
+
+abstract: 
+In the production of allyl ethers of polyol by reacting a straight-chain polyol compound with an allyl halide in the presence of an alkali metal hydroxide, wherein the straight-chain polyol compound has carbon atoms each having one hydroxyl group, the reaction between the straight-chain polyol compound and the allyl halide is proceeded in the presence of water having the amount dissolving the straight-chain polyol compound at a reaction temperature, then 14% by mol, based on total molar amount of a hydroxyl group contained in the straight-chain polyol compound, of the allyl halide is added to a reaction system before at least part of water is released out of the reaction system.

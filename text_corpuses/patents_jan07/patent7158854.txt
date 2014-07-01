@@ -1,0 +1,4 @@
+title: Universal mold vacuum system
+
+abstract: 
+A controller for a mold vacuum unit uses a programmable logic controller to provide flexible translation of pre-existing signals present on the injection-molding machine avoiding the need for modification of that machine by the addition of limit switches or the like. Simple adjustment of real time of time delays is provided by the integration of two self-contained timer units working in conjunction with the fixed programming of the programmable logic controller. Removable memories for the programmable logic controller allow the vacuum unit to be used with a variety of different injection-molding machines.

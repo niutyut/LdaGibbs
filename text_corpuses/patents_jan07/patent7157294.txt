@@ -1,0 +1,4 @@
+title: Group III nitride compound semiconductor light-emitting element
+
+abstract: 
+In a flip chip type Group III nitride compound semiconductor light-emitting element, a surface of a substrate serving as a light-emitting surface is formed as a rough surface so that radiated light is scattered by the surface.

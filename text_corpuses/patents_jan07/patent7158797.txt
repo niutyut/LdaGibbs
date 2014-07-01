@@ -1,0 +1,4 @@
+title: Mobile information acquisition system
+
+abstract: 
+A system includes a mobile unit, a client and a remote server. The mobile unit is adapted to acquire information about a region near the mobile unit, determine a location of the mobile unit and transmit an indication of the information and location. The remote server is adapted to communicate with the mobile unit to receive the indication from the mobile unit and communicate at least some of the information to the client.

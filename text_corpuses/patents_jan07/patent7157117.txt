@@ -1,0 +1,4 @@
+title: Functionalization of porous materials by vacuum deposition of polymers
+
+abstract: 
+A porous substrate is pretreated in a plasma field and a functionalizing monomer is immediately flash-evaporated, deposited and cured over the porous substrate in a vacuum vapor-deposition chamber. By judiciously controlling the process so that the resulting polymer coating adheres to the surface of individual fibers in ultra-thin layers (approximately 0.02?3.0 ?m) that do not extend across the pores in the material, the porosity of the porous substrate is essentially unaffected while the fibers and the final product acquire the desired functionality. The resulting polymer layer is also used to improve the adherence and durability of metallic and ceramic coatings.

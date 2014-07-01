@@ -1,0 +1,4 @@
+title: Gaming device with moving screen simulation
+
+abstract: 
+A gaming device which simulates movement of the gaming device screen. The screen displays certain imagery, and after a predetermined event occurs the computer of the gaming device repositions the imagery, causing the screen to appear to move. This feature, usable in primary games and bonus rounds, enhances the enjoyment and entertainment which players experience.

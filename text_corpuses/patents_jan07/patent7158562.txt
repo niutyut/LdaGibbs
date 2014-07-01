@@ -1,0 +1,4 @@
+title: Timing control in data receivers and transmitters
+
+abstract: 
+A Gigabit transceiver () has a receiver () and a transmitter (). There is an ADC () in the receiver () for each channel (A, B, C, D). The ADCs () oversample at a factor of 2. However the remainder of the digital circuitry and transmitter DACs () operate off half of the oversampling rate. In the receiver () fractionally spaced equalisers (FSES, ) ensure that the optimum sampling phase is selected digitally. The invention avoids the need for a PLL in the receiver for each channel and associated interference and retiming problems.

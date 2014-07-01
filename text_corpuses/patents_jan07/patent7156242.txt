@@ -1,0 +1,4 @@
+title: Garden tool rack
+
+abstract: 
+A garden tool rack includes a hollow rack body, tool holders plugged into respective plugholes in the rack body for holding garden tools, axial positioning structures adapted to stop the tool holders from axial displacement relative to the rack body, rotary positioning structures adapted to let the tool holders be biased relative to the rack body within a limited angle and then locked in position to prevent interference of loaded garden tools with one another.

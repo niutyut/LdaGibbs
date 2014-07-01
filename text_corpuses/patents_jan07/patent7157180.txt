@@ -1,0 +1,4 @@
+title: Rechargeable battery pack
+
+abstract: 
+A battery pack for a power tool includes a casing housing rechargeable cells. A receiving bay in the casing receives slide-in parts of the power tool and of a recharging stand, to retain the battery pack. A pair of primary electrical contacts is located in or adjacent the receiving bay. A recess opens into the receiving bay. A supplementary electrical contact is located within the recess, and a user-manipulable catch is also located in the recess alongside the supplementary contact. That is, a single recess houses both the supplementary contact and the mechanical catch. The supplementary contact is usable when recharging the battery to relay battery temperature information to a recharging stand, but has no function when the battery pack is attached to the power tool. The catch, useful in retaining the battery pack on the power tool, has no function with the recharging stand.

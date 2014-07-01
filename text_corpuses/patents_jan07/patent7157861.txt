@@ -1,0 +1,4 @@
+title: Push-pull inverter circuit
+
+abstract: 
+The present invention discloses a push-pull inverter circuit comprising a transformer with a power output end coupled to a load and two power input ends, and a power driver unit is connected between the two power output ends and a power supply unit, and the power driver unit receives a power signal and outputs two sets of drive signals having same frequency and opposite phase to the two power input ends as to constitute an inverter circuit that adopts a push-pull voltage drive signal to drive the transformer to operate and improve the output power of the transformer.

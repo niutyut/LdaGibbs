@@ -1,0 +1,4 @@
+title: Spatial light modulators with non-uniform pixels
+
+abstract: 
+A micromirror array comprises micromirrors of different properties for use particularly in display systems. Micromirrors of different properties can be arranged within the micromirror array according to a predetermined pattern, or randomly. However, it is advantageous to arrange the micromirrors with different properties within the micromirror array neither in complete order nor complete in random.

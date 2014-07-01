@@ -1,0 +1,4 @@
+title: Glass optical element and method for producing the same
+
+abstract: 
+The invention provide a glass optical element which contains an alkaline metal oxide and an alkaline earth metal oxide, comprising an end portion that contains a fluoride ion or a fluorine compound on or in a vicinity of an exposed surface of the glass optical element. The end portion containing the fluoride ion or the fluorine compound is formed by contacting the surface with hydrofluoric acid. A rod lens array is fabricated by arranging a plurality of graded index rod lenses as glass optical elements of the invention. The weather resistance of the element or the lens array can be improved by the above treatment.

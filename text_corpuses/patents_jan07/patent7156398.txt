@@ -1,0 +1,4 @@
+title: Card game and deck for use therewith
+
+abstract: 
+A game system including twenty-four cards, each respective card having respective top and bottom portions, each characterized by the following respective first and second suit-rank pairings: Ace of Spades and Nine of Hearts, King of Spades and Ten of Hearts . . . Nine of Spades and Ace of Hearts; Ace of Clubs and Nine of Hearts . . . Nine of Clubs and Ace of Hearts; Ace of Spades and Nine of Diamonds . . . Nine of Spades and Ace of Diamonds; Ace of Clubs and Nine of Diamonds . . . Nine of Clubs and Ace of Diamonds. A game is played by first forming two two-player teams and then equally distributing all of the cards to the players. Distribution of the cards is followed by bidding, naming a trump suit, taking tricks, accumulating points, and declaring the first team to exceed a predetermined number of points the winner.

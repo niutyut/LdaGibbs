@@ -1,0 +1,4 @@
+title: Apparatus and method for growing crystal, and apparatus and method for analyzing crystal
+
+abstract: 
+An apparatus for growing a biological macromolecular crystal by vaporizing biological macromolecular solution into an oversaturated state. The apparatus includes a first sealed room that receives first crystallizing agent solution, and a communicating tube that communicates with the first sealed room and has a small sectional area for suppressing convection of air. A plurality of droplets of solution dissolving a biological macromolecule and a crystallizing agent therein are held in the communicating tube with the plurality of droplets being separated from each other.

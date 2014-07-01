@@ -1,0 +1,4 @@
+title: Monomeric and dimeric fluorescent protein variants and methods for making same
+
+abstract: 
+The present invention relates generally to variant fluorescent proteins, and more specifically to monomeric and dimeric forms of Anthozoan fluorescent proteins. In one aspect, the present invention provides variants of fluorescent proteins, where the variants have a reduced propensity to tetramerize, and form dimeric or monomeric structures. The invention also relates to methods of making and using such fluorescent protein monomers and dimers.

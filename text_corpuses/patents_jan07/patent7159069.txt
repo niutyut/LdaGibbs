@@ -1,0 +1,4 @@
+title: Simultaneous external read operation during internal programming in a flash memory device
+
+abstract: 
+A system and method for performing a simultaneous external read operation during internal programming of a memory device is described. The memory device is configured to store data randomly and includes a source location, a destination location, a data register, and a cache register. The data register is configured to simultaneously write data to the destination and to the cache register. The system further includes a processing device (e.g., a microprocessor or microcontroller) for verifying an accuracy of any data received through electrical communication with the memory device. The processing device is additionally configured to provide for error correction if the received data is inaccurate, add random data to the data, if required, and then transfer the error-corrected and/or random data modified data back to the destination location.

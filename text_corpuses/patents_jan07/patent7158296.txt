@@ -1,0 +1,4 @@
+title: Vision system with eye dominance forced to fusion channel
+
+abstract: 
+A fusion vision system has a first eyepiece through which a fused viewable image is larger than an image viewed through a second eyepiece to help the operator more easily view the fused image in their brain. The fusion vision system may employ image intensification and thermal imaging capabilities.

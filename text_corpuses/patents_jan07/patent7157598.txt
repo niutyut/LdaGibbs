@@ -1,0 +1,4 @@
+title: Method for producing an aqueous alkali acrylate solution
+
+abstract: 
+A process prepares an aqueous alkali metal acrylate solution by distillatively removing acrylic acid from a mixture as vapors and taking up the vapors immediately from the gas phase into an aqueous alkali solution.

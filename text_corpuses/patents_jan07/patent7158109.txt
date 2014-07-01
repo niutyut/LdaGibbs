@@ -1,0 +1,4 @@
+title: Active matrix display
+
+abstract: 
+An active matrix display comprises an active matrix array of pixels divided into first and second sets, the pixels  of the first set are refreshed in the conventional active matrix way by a first refreshing arrangement M. Pixels  for displaying a graphical feature such as an icon overlaid on the active matrix display image have a second refreshing arrangement M to allow the icon pixels of each icon to be switched to the same state, such as maximum back or maximum white. The icon pixels  may also have the first refreshing arrangement M so that they can be used either as part of the active matrix for displaying arbitrary data or when selected as such, for overlaying the icon image on the arbitrary image data.

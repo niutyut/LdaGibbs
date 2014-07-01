@@ -1,0 +1,4 @@
+title: Preparation of starch reinforced rubber and use thereof in tires
+
+abstract: 
+The invention relates to a rubber composition which contains starch/plasticizer composite, precipitated silica and carbon black reinforcement together with a coupling agent wherein the coupling agent is an organosilane polysulfide having an average of from about 2 to about 2.6 connecting sulfur atoms in its polysulfidic bridge. The invention provides for a chemical reaction between a coupling agent and silica which is substantially decoupled from a reaction between a coupling agent and starch/plasticizer to form a filler reinforcement network in situ within the elastomer host followed by a subsequent phase mixing of the carbon black therewith. The invention further relates to the resulting rubber composition and articles of manufacture, including tires, having at least one component comprised of said rubber composition.

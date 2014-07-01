@@ -1,0 +1,4 @@
+title: Urea substituted imidazoquinolines
+
+abstract: 
+Imidazoquinoline and tetrahydroimidazoquinoline compounds that contain urea, thiourea, acylurea, or sulfonylurea functionality at the 1-position are useful as immune response modifiers. The compounds and compositions of the invention can induce the biosynthesis of various cytokines and are useful in the treatment of a variety of conditions including viral diseases and neoplastic diseases.

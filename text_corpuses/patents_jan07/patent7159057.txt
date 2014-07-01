@@ -1,0 +1,4 @@
+title: Evaluation chip
+
+abstract: 
+An evaluation chip is disclosed whose interrupt priority order can be changed freely. A plurality of interrupt priority order determining circuits - to - perform a logical operation on a plurality of signals S to S used for interrupt priority order modifying control that are applied from outside and a plurality of interrupt signals S- to S-, and output interrupt modifying signals S- to S-. A plurality of interrupt modules - to - perform a logical AND operation on the plurality of signals S- to S- and a plurality of interrupt request signals S- to S- that are applied from outside, and output the signals S- to S-. An address generating circuit  encodes the plurality of signals S- to S- and generates interrupt vector addresses . A microcomputer core  executes interrupt instructions that have been fetched from an external program memory , based on the addresses S

@@ -1,0 +1,7 @@
+title: Substrates for ?-lactamase and uses thereof
+
+abstract: 
+Substrates for ?-lactamase of the general formula I
+
+
+in which one of X and Y is a fluorescent donor moiety and the other is a quencher (which may or may not re-emit); R? is selected from the group consisting of H, lower (i.e., alkyl of 1 to about 5 carbon atoms) and (CH)OH, in which n is 0 or an integer from 1 to 5; R? is selected from the group consisting of H, physiologically acceptable metal and ammonium cations, ?CHROCO(CH)CH, ?CHROCOC(CH), acylthiomethyl, acyloxy-alpha-benzyl, delta-butyrolactonyl, methoxycarbonyloxymethyl, phenyl, methylsulphinylmethyl, beta-morpholinoethyl, dialkylaminoethyl, acyloxyalkyl, dialkylaminocarbonyloxymethyl and aliphatic, in which Ris selected from the group consisting of H and lower alkyl; A is selected from the group consisting of S, O, SO, SOand CH; and Z? and Z? are linkers for the fluorescent donor and quencher moieties. Methods of assaying ?-lactamase activity and monitoring expression in systems using ?-lactamase as a reporter gene also are disclosed.

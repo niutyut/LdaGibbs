@@ -1,0 +1,4 @@
+title: Corona discharge electrode and method of operating the same
+
+abstract: 
+A method of operating a corona discharge device includes producing a high-intensity electric field in an immediate vicinity of at least one corona electrode and continuously or periodically heating the corona electrode to a temperature sufficient to mitigate an undesirable effect of an impurity, such as an oxide layer, formed on the corona electrode.

@@ -1,0 +1,4 @@
+title: Sealed electrical connector
+
+abstract: 
+An electrical connector comprises at least one chamber for accommodating at least one electrical contact and a seal arranged in the inlet region of the chamber through which the electrical contact is plugged through or pierced through when fitting the connector. Immediately behind and/or immediately in front of the seal viewed in the contact plug-in direction an admission region widened transversely to the contact plug-in direction is provided in each case for the sealing material displaced when the contact is plugged through or pulled out.

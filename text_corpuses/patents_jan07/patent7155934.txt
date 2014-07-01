@@ -1,0 +1,4 @@
+title: Method for the production of borosilicate glass with a surface suitable for modification glass obtained according to said method and the use thereof
+
+abstract: 
+The method of making borosilicate glass with a surface having reactive SiOH groups on it includes preparing a borosilicate glass melt and dissolving at least 30 mMol per liter of water in the borosilicate glass melt. The borosilicate glass contains from 70 to 87 percent by weight, SiO; from 7 to 15 percent by weight, BO; from 0 to 8 percent by weight, AlO; from 0 to 8 percent by weight, NaO and from 0 to 8 percent by weight of KO. The borosilicate glass with the easily modified reactive surface can be used as a substrate for chemically covalent immobilization of reactive substances. This substrate can be used to make a biochemical chip, such as a DNA or gene chip, or dirt-proof window glass.

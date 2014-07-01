@@ -1,0 +1,4 @@
+title: Electrical connection box with drainage channel
+
+abstract: 
+An electrical connection box includes a fuse box having a bottom wall, the fuse box detachably and attachably accommodating a fuse element; a circuit casing being disposed below the fuse box, the circuit casing having a supporting section on an upper surface therof; the circuit casing accommodating a circuit assembly unit; and a plurality of bus bars electrically connecting between the fuse box and the circuit assembly unit, each bus bar being pulled out from the bottom face and drawn into the circuit casing through a wiring path of bus bar along a lower surface of the bottom wall. A draining space is formed between the fuse box and the circuit casing. The supporting section supports the bus bars from a lower side of the bus bars to at least partially come into contact with the bus bar along the bottom wall.

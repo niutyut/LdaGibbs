@@ -1,0 +1,4 @@
+title: Performing secure and insecure computing operations in a compartmented operating system
+
+abstract: 
+A process  runs directly on a host operating system , until the process  attempts an operation which can affect security of the host operating system  (such as loading a kernel module or using system privileges). A guest operating system  is then provided running as a virtual machine session within a compartment  of the host operating system  and running of the process  continues using the guest operating system. Operations of the process  which can affect security of the host operating system  are instead performed on the guest operating system , giving greater security. The guest operating system  is only invoked selectively, leading to greater overall efficiency.

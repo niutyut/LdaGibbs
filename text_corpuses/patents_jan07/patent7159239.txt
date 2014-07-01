@@ -1,0 +1,4 @@
+title: System to monitor, detect and analyze chemical, radiation and/or biological threats
+
+abstract: 
+A system to monitor, detect and analyze chemical, radiation and/or biological threats. The system includes a plurality of sensors, wherein each sensor gathers data on chemical, radiation or biological agents. A central processing unit is in communication with sensors analyzes sensor collected data. A transmission system transmits data in the form of alerts from each central processing unit by secure, encrypted packets over a network.

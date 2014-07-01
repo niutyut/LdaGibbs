@@ -1,0 +1,4 @@
+title: Ceiling fan with outer-rotor DC brushless motor
+
+abstract: 
+A ceiling fan with an outer-rotor type DC brushless motor has a center base with multiple blades and a DC brushless motor as a driving source for the fan. The DC brushless motor includes a controller, magnetism sensors, a stator with stator windings and a rotor assembly connected to the fan and having permanent magnets interacting with the stator windings. The controller detects polarity of the permanent magnets through the magnetism sensors. Based on the detected results, the controller changes current of the stator windings to produce an inductive magnetic field with poles the same to the permanent magnets to drive the rotor assembly. Accordingly, the blades of the fan are driven to rotate.

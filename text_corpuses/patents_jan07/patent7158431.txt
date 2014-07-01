@@ -1,0 +1,4 @@
+title: Single transistor sensing and double transistor sensing for flash memory
+
+abstract: 
+A single sensing transistor is selectively diode connected to a sense line that is coupled to reference cells and data cells to store a reference current or leakage currents on the gate of the sensing transistor by opening the switch to disconnect the diode connection of the sensing transistor. Other sensing systems may use two transistors and may stores leakage current. A sensing system with capacitance auto-zeroing is included. The sensing system may include a dynamic differential current differential amplifier.

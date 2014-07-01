@@ -1,0 +1,4 @@
+title: Raman amplification repeater and optical transmission system using the same
+
+abstract: 
+A Raman amplification repeater which conducts amplification of signal lights by Raman scattering which occurs when pumping lights are applied to a transmission path fiber, in which output power of the pumping light is controlled by monitoring, by means of a plurality of PDs, signal light power caused by excitation by using signal lights having wavelengths for monitoring whose number is not less than the number of the pumping light wavelengths and not more than the number of signal lights and which are monitoring wavelengths in a signal band of the signal light.

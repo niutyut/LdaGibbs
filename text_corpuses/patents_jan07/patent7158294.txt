@@ -1,0 +1,4 @@
+title: Laser scanning confocal microscope apparatus, image recording method, and recording medium
+
+abstract: 
+An image recording method for use in a confocal laser scanning microscope apparatus is configured to scan a specimen with each of a plurality of laser lights at least having different wavelengths as spotlight, to detect the light from the specimen based on the spotlight, and to partition and record obtained image information.

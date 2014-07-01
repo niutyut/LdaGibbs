@@ -1,0 +1,4 @@
+title: MEMs device with feedback control
+
+abstract: 
+A MEMS device includes at least one movable member and an active device having at least one property affected by the location of the movable member with respect to the active device. A control circuit is used to limit movement of the movable member based on observation of the property affected by the active device.

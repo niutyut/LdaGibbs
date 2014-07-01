@@ -1,0 +1,4 @@
+title: Driver circuit and driving method for semiconductor laser
+
+abstract: 
+A driver circuit for a semiconductor laser of the invention comprises: first bias current supply means for supplying, at least at a time of non-output of data, a first bias current to an LD; signal processing means for generating a pulse current control signal in which a burst data signal is delayed, and generating a second bias current control signal which rises more rapidly by a predetermined time than the rise of burst data included in the pulse current control signal; pulse current supply means for supplying to the LD a pulse current generated in accordance with the pulse current control signal; and second bias current supply means for supplying to the LD a second bias current generated in accordance with the second bias current control signal.

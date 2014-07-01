@@ -1,0 +1,4 @@
+title: Mobile communication system
+
+abstract: 
+In a mobile communication system holding accounting information of a mobile terminal in a database of a mobile exchange, a mobile terminal controller is provided in an offerer of pay facilities, for transmitting dummy or random location information to the mobile terminal, for connecting a call to the mobile exchanges to provide the mobile exchange with user information when the mobile terminal transmits a location registration demand message with the user information in response to the location information, and for providing the mobile exchange with accounting information of facilities rate in response to a retrieval when the mobile exchange retrieves the user information in the database.

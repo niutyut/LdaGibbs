@@ -1,0 +1,7 @@
+title: Fumaric acid amides
+
+abstract: 
+Fumaric acid amides of the general formula (I)
+
+
+wherein Rrepresents ORor a D- or L-amino acid radical ?NH?CHR?COOH bonded via an amide bond, wherein Ris hydrogen, a straight-chained or branched, optionally substituted Calkyl radical, a phenyl radical or Caralkyl radical and Ris a side chain of a natural or synthetic amino acid and Rrepresents a D- or L-amino acid radical ?NH?CHR?COOH bonded via an amide bond or a peptide radical comprising 2 to 100 amino acids bonded via an amide bond, wherein Ris a side chain of a natural or synthetic amino acid, are used for preparing a drug (1) for the therapy of an autoimmune disease; (2) for use in transplantation medicine; (3) for the therapy of mitochondrial diseases; or (4) for the therapy of NF-kappaB mediated diseases.

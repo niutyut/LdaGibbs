@@ -1,0 +1,4 @@
+title: Electrode member for retinal stimulation, and artificial retinal device using the electrode member
+
+abstract: 
+An object is to provide an electrode member for retina stimulation which can form an actually transmitted image without pressing the retina in an excessively broad range and to provide an artificial retina device using the electrode member. An electrode member includes electrodes disposed in a shape of a vertical and horizontal matrix, a support holding each electrode at a predetermined position, and a fixing pin fixing four corners of the support to a sclera. Each electrode projects in the shape of a needle from an opposed face of the support toward a retina. The fixing pin is provided with a positioning projection allowing a distal end of each electrode to come into contact with retinal bipolar cells and limiting the overall opposed face to come into contact with a retina when the support is fixed to the retina.

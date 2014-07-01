@@ -1,0 +1,4 @@
+title: Bleed leak detection system
+
+abstract: 
+A leak detector for an insulated duct carrying pressurized hot air comprises a cuff secured over a circumferential cut in the insulation of the duct, thereby creating a reservoir of hot air which has leaked from the duct, a manifold defining a conduit therein in communication with the hot air reservoir and a cap for securing heat sensitive wires to manifold at the end of the conduit such that the hot air from the hot air reservoir impinges directly on the heat sensitive wires.

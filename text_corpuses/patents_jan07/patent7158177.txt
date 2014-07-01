@@ -1,0 +1,4 @@
+title: Apparatus for and method of synthesizing face image
+
+abstract: 
+An image of a face of a person is acquired. Image data corresponding to the head is extracted from the image of the face. The image data is enlarged, reduced, or rotated to obtain an image of the head that is vibrating. The vibrating image of the head is displayed on a display.

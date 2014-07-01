@@ -1,0 +1,4 @@
+title: Backlight module
+
+abstract: 
+A backlight module includes a planar light plate with planar illumination for providing a planar light, the backlight module further including a light plate base and at least one side retaining frames that can be assembled/detached. The light plate base is disposed on one side under the light plate, and two opposite sides thereof extend upward to form two side frames for retaining two opposite sides of the light plate. The side retaining frame is sleeved on the lateral side of the opening end of the light plate base, for retaining the light plate in the light plate base.

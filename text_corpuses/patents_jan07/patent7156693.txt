@@ -1,0 +1,4 @@
+title: Electronic apparatus with pointing device on the housing
+
+abstract: 
+An electronic apparatus has a housing and a pointing device. The housing has an outside wall that includes an outer surface exposed outward of said housing, and an operation area in the outer surface. The pointing device has a flat input surface laid on the inner surface of the operation area, and the flat input surface receives input operations through the operation area.

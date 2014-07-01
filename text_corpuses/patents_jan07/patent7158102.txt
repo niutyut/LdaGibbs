@@ -1,0 +1,4 @@
+title: System and method for recalibrating flat panel field emission displays
+
+abstract: 
+A field emission display (FED) having a correction system with a correction coefficient derived from emission current is presented. Within one embodiment in accordance with the present invention, a field emission display has an anode at the faceplate and a focus structure. The anode potential is held at ground while the focus structure potential is held between, but is not limited to, 40 and 50 volts. The current flowing to the focus structure is measured and used as the basis for the correction coefficient for the field emission display.

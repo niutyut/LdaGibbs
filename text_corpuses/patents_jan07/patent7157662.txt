@@ -1,0 +1,4 @@
+title: Collision protection device of a laser processing head
+
+abstract: 
+A laser processing head collision protection apparatus includes a carrier member, and a laser processing head detachably coupled to the carrier member by a plurality of pairs of truncated cones.

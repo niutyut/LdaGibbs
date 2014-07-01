@@ -1,0 +1,5 @@
+title: Dimeric compounds and their use as anti-viral agents
+
+abstract: 
+The invention relates to compounds of general formula (I); in which R is an amino or guanidino group; Ris acetyl or trifluoroacetyl; X is CONH, SONH, NHCO or NHCONH; m is either 0 or 1; n is an integer from 2 to 6; q is an integer from 0 to 3; and Y is hydrogen or an aromatic substituent, or a pharmaceutically acceptable derivative thereof; methods for their preparation, pharmaceutical formulations containing them or their use in the prevention or treatment of a viral infection
+

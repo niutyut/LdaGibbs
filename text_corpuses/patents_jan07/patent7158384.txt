@@ -1,0 +1,4 @@
+title: Vibration reducing structure of electronic device
+
+abstract: 
+A vibration reducing structure of an electronic device includes first and second housings, a printed circuit board, a first post and a second post. The first and second housings define a closed space therebetween. The printed circuit board is disposed within the space and having a heavy component mounted on a first surface thereof. The first post is arranged on the first housing and under the heavy component. The second post is arranged on the second housing and above the heavy component.

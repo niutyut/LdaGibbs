@@ -1,0 +1,4 @@
+title: Iron-based perovskite cathodes for solid oxide fuel cells
+
+abstract: 
+An A and/or A? site deficient perovskite of general formula of (AA?)FeO or of general formula AA?FeO, wherein A is La alone or with one or more of the rare earth metals or a rare earth metal other than Ce alone or a combination of rare earth metals and X is in the range of from 0 to about 1; A? is Sr or Ca or mixtures thereof and Y is in the range of from about 0.01 to about 0.3; ? represents the amount of compensating oxygen loss. If either A or A? is zero the remaining A or A? is deficient. A fuel cell incorporating the inventive perovskite as a cathode is disclosed as well as an oxygen separation membrane. The inventive perovskite is preferably single phase.

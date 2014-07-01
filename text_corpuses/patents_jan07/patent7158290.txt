@@ -1,0 +1,4 @@
+title: Controlling apparatus for optical amplifier and controlling method thereof
+
+abstract: 
+An optical amplifier is provided with a controlling unit for controlling a gain of the optical amplifier based on input light power and output light power of the optical amplifier, as well as a gain control amount variable unit for changing the gain control amount of the optical amplifier by the controlling unit according to at least one of the input light power and the output light power. Thereby, optical communication, which can follow the change in the input power of the optical amplifier in high speed and also is stable, can be realized, without causing the occurrence of an oscillation phenomenon, the large size of the optical amplifier, and the increase in power consumption and heating.

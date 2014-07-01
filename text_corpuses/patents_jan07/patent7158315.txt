@@ -1,0 +1,4 @@
+title: Zoom lens system
+
+abstract: 
+Object is to provide an inner-focusing type zoom lens system carrying out focusing by moving a portion of a first lens group suitable for an auto-focus SLR camera. A zoom lens system includes, in order from an object, a first lens group having positive refractive power, a second lens group having negative refractive power, and a third lens group having positive refractive power. Upon zooming from a wide-angle end state to a telephoto end state, a distance between the first and the second lens groups increases, and a distance between the second and the third lens groups decreases. The first lens group is composed of, in order from the object, a A lens group GA having positive refractive power, and a B lens group GB having positive refractive power. Focusing from infinity to a close-range object is carried out by moving only the B lens group GB to the object.

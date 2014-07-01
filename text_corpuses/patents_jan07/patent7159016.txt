@@ -1,0 +1,4 @@
+title: Method and apparatus for configuring an endpoint device to a computer network
+
+abstract: 
+A method and apparatus for dynamically and automatically configuring an endpoint device to a computer network of a network system. When the endpoint device, such as a computer or router, initially connects to a computer network, it is dynamically assigned or allocated a first unique network (IP) address, as by a DHCP (Dynamic Host Configuration Protocol) server. The allocation of the first network address is monitored and, in response to the monitored allocation, a connection between a configuration manager and the endpoint device is established. The class of the endpoint device is then remotely identified and appropriate configuration information stored in a configuration database is retrieved and utilized to automatically configure the endpoint device within the network system.

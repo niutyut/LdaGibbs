@@ -1,0 +1,4 @@
+title: Communication system, communication device, and communication method
+
+abstract: 
+Respective nodes N to N only detect a carrier, and the node N sets a random time between a time after a certain period of time t and a time until a certain period of time t after the carrier of data D is gone as a waiting time so as to transmit data within this waiting time. The node N transmits ACK data D with respect to the data D to the node N before the certain period of time t after the carrier of the data D is gone. The node N detects the carrier of the ACK data D and again sets a random time after the certain period of time tuntil the certain period of time t to transmit the data.

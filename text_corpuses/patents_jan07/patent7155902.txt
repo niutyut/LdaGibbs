@@ -1,0 +1,4 @@
+title: Structure for fixing catalytic body to exhaust pipe
+
+abstract: 
+For fixing a catalytic body, which has a cylindrical case and is housed in an exhaust pipe, to the exhaust pipe that serves as part of an exhaust system connected to an engine. The catalytic body can be housed in and fixed to the exhaust pipe even if the catalytic body and the exhaust pipe are made of different materials, thus increasing the freedom in choosing materials for the case of the catalytic body and the exhaust pipe. A bracket, which is made of the same material as an exhaust pipe, is welded to an inner circumferential surface of the exhaust pipe. The bracket is crimped on the case of the catalytic body.

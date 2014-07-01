@@ -1,0 +1,4 @@
+title: Liquid crystal panel substrate, liquid crystal panel, and electronic device and projection display device using the same
+
+abstract: 
+In a liquid crystal substrate in which a matrix of reflecting electrodes is formed, on a substrate, a transistor is formed corresponding to each reflective electrode and a voltage is applied to the reflective electrode through the transistor. A silicon oxide film having a thickness of 500 to 2,000 angstroms is used as the passivation film and the thickness is set to a value in response to the wavelength of the incident light to maintain a substantially constant reflectance.

@@ -1,0 +1,4 @@
+title: Genomic messaging system
+
+abstract: 
+A computer-based method is provided for transferring data that includes a genomic sequence. The method includes identifying at least one genomic base in an input data stream comprising said genomic sequence; assigning a base-specific binary code to the at least one genomic base; grouping the base-specific binary code to form a genomic data stream representative of the genomic sequence; assigning a command binary code to at least one command for selectively processing said genomic data stream; and integrating said genomic data stream and said command binary code to form an output binary data stream.

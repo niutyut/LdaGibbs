@@ -1,0 +1,4 @@
+title: Polymeric flocculant infused silt fence
+
+abstract: 
+A polymeric flocculant infused silt fence assembly comprising two opposing and attached geo-textile sheets, each adapted to filter entrained non-colloidal particles and together encasing a layer of polymeric flocculant material. In a preferred embodiment the polymeric flocculant material comprises anionic polyarylmide. A turbid water flow having a suspension of colloidal particles is flowed through the first geo-fabric sheet, which filters any entrained non-colloidal particles. The polymeric flocculant material coagulates a portion of the colloidal particles and forms flocs. The second geo-fabric sheet filters remaining entrained non-colloidal particles, including the coagulated flocs.

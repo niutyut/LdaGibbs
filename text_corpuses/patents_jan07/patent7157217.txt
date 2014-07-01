@@ -1,0 +1,5 @@
+title: Photothermographic material
+
+abstract: 
+A photothermographic material comprising, on a support, an image forming layer containing at least a photosensitive silver halide, a non-photosensitive organic silver salt, a reducing agent and a binder, and a non-photosensitive outermost layer at a surface side of the support at which the image forming layer is provided, wherein:
+

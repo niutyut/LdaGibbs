@@ -1,0 +1,4 @@
+title: Pyridyl substituted heterocycles useful for treating or preventing HCV infection
+
+abstract: 
+The present invention relates to pyridyl substituted heterocycles and hydro isomers thereof and pharmaceutical compositions thereof that inhibit replication and/or proliferation of HCV virus. The present invention also relates to the use of the pyridyl heterocycles and hydro isomers thereof and/or pharmaceutical compositions comprising the compounds to treat or prevent HCV infections.

@@ -1,0 +1,4 @@
+title: Electronic instrument having first and second operation units
+
+abstract: 
+An electronic instrument  includes an instrument body , a first operation unit , a second operation unit  and a drive mechanism. The first operation unit  and the second operation unit  are moved over a first position, a second position and a third position by the drive mechanism. At the first position, the first operation unit  covers the second operation unit . The first operation unit  and the second operation unit  move downward from the first position. At the third position, a recording medium insertion slot is exposed. The first operation unit  moves downward from the third position whereas the second operation unit  moves upward from the third position. At the second position, the exposed planes and are exposed. In the above configuration, there is provided an electronic instrument which can easily visually recognize the operating state of itself.

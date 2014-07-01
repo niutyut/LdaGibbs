@@ -1,0 +1,4 @@
+title: Tuneable frequency translator
+
+abstract: 
+A tuneable frequency translator is disclosed having electrical circuitry mounted to a circuit board. The circuitry is designed to provide a phase-locked loop with a resonator. Compliant material is positioned between the resonator and the circuit board. Operably coupled to the resonator is at least one passive device that is short-circuited by an electrically conductive lead. The resonant frequency of the frequency translator can be changed by severing the electrically conductive lead, and thus activating the associated passive device.

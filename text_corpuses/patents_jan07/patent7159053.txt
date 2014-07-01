@@ -1,0 +1,4 @@
+title: Portable flat display adaptor
+
+abstract: 
+This invention adapts a stationary flat display for use as a portable computing and media device. The adaptation takes advantage of the predetermined mounting arrangements of the stationary flat display by inserting external modules between the predetermined mounting arrangements. When stationary, the flat display can continue its intended use as the primary display connected to a desktop computer system. The combination of the flat display with attached external modules is quickly released from stationary use to enable portable use for other applications.

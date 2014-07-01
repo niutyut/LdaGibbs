@@ -1,0 +1,4 @@
+title: Bonding device and bonding tool
+
+abstract: 
+A bonding device is for bonding an object to be bonded under pressure to a surface to be bonded by allowing a load and vibration to act on the object to be bonded. The bonding device includes a bonding tool  abutting on the object to be bonded, and a pressing unit pressing the bonding tool to the object to be bonded. The bonding tool includes a transversely elongated horn, a vibrator  applying a longitudinal vibration to the horn  in a first direction along the longitudinal direction of the horn a protruding part  protruding from the horn in a second direction substantially perpendicular to the first direction, a bonding operation part  provided in the end part of the protruding part  to abut on the object to be bonded, and a heating unit inserted into a mounting hole provided in the horn. The heating unit is mounted into the mounting hole with a space maintained from the inner surface of the mounting hole.

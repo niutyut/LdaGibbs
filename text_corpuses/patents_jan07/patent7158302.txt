@@ -1,0 +1,4 @@
+title: Wire grid polarizer with double metal layers
+
+abstract: 
+A wire grid polarizer with double metal layers for the visible spectrum. Parallel dielectric layers having a period (p) of 10?250 nm and a trench between adjacent dielectric layers overlie a transparent substrate. A first metal layer having a first thickness (d) of 30?150 nm is disposed in the trench. A second metal layer having a second thickness (d) of 30?150 nm and a width (w) overlies on the top surface of each dielectric layer. The first and second metal layers are separated by a vertical distance (l) of 10?100 nm. The first thickness (d) is the same as the second thickness (d). A ratio of the width (w) to the period (p) is 25?75%.

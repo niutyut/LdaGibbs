@@ -1,0 +1,4 @@
+title: Non-volatile semiconductor memory that prevents unauthorized reading
+
+abstract: 
+A non-volatile includes a memory cell array for storing data, a decryption circuit for decrypting data read from the memory cell array using a prescribed computing process, and a decryption control circuit for activating the decryption circuit according to an inputted decryption command during a read operation.

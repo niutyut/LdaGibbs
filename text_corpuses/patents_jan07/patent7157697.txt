@@ -1,0 +1,4 @@
+title: Ion detector
+
+abstract: 
+An ion detector for a mass spectrometer is disclosed comprising one or more microchannel plates and an anode arranged to receive electrons emitted from the one or more microchannel plates. The anode preferably has a smaller diameter than the microchannel plates and is preferably arranged at a distance of at least 15 mm from the microchannel plates. One or more focusing lenses may be provided intermediate the microchannel plates and the anode. The anode preferably comprises two portions separated by an electrically insulated layer.

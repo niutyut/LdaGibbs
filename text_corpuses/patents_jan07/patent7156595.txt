@@ -1,0 +1,4 @@
+title: Load indicating fastener insert
+
+abstract: 
+A method and apparatus for determining fastener axial loading includes a fastener insert having an arched bottom surface, which deflects correlative to the level of axial loading. A load indicating mechanism determines axial loading by measuring the amount of deflection experienced by the arched insert. In addition, the arched insert stores elastic energy which is added to the overall elastic energy of the fastener, thereby aiding the fastener integrity during use. The system comprises a zeroing mechanism and full-scale adjustment mechanism for calibration of the system, and an apparatus for measuring in-service load.

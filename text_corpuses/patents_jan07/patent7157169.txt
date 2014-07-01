@@ -1,0 +1,4 @@
+title: Fuel cell
+
+abstract: 
+A fuel cell of the present invention includes a fuel cell stack () for being formed by stacking a plurality of cell plates () having a flat shape, the cell plates () being configured by arranging a plurality of cells, the cell having an electrolyte layer (), a fuel electrode layer () and an air electrode layer (). A combustion heater plate () includes a porous combustion plate () and a gas non-pass layer () covering a surface of the porous combustion plate (). The combustion heater plate () is disposed between the cell plates ().

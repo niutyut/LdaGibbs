@@ -1,0 +1,4 @@
+title: Laser heater assembly
+
+abstract: 
+A heated laser assembly for maintaining a set point temperature of a laser. A common transistor external to the laser is positioned in thermal proximity to the laser. A thermal transfer member is positioned in thermal contact between the laser and the transistor. The transistor heats the thermal transfer member, and thus heats the laser, when the ambient temperature drops below a set point temperature. Therefore, the overall temperature range the laser must operate over is reduce through the use of a common transistor.

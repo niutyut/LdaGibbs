@@ -1,0 +1,4 @@
+title: Inductive sensor and rotary encoder provided with an inductive sensor
+
+abstract: 
+An inductive sensor includes at least two circuit boards and receiver circuit traces applied on the first circuit board. Arranged on the second circuit board are components of an evaluation electronics for evaluating signals that originate from the receiver circuit traces. The two circuit boards are joined in a sandwich-type manner and at least one component of the evaluation electronics is accommodated between the two circuit boards. A rotary encoder may be fitted with this inductive sensor.

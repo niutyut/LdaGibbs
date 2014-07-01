@@ -1,0 +1,4 @@
+title: Free packet buffer allocation
+
+abstract: 
+According to some embodiments, systems an apparatuses may have a communication path to exchange information packets. A processor may process information packets. A buffer pool cache local to the processor may store free buffer handles for information packets when the buffer pool cache local to the processor is not full. A non-local memory may store the free buffer handles for information packets when the buffer pool cache local to the processor is full.

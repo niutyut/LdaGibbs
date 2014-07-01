@@ -1,0 +1,4 @@
+title: Lubricating mechanism of oil pump
+
+abstract: 
+A rotation of an input shaft is accelerated and transmitted to a drive shaft of an oil pump through gears. The oil pump is provided with a lubricant hole and part of the lubricant discharged from a discharge side oil chamber is supplied to a first sliding face of a radial bearing through the lubricant hole. By provision of a cutout portion in an oil sump and a first rib, part of the lubricant supplied from the input shaft to a bearing through a plurality of oil passages and the oil sump is supplied to a second sliding face which rotatably supports a thrust washer.

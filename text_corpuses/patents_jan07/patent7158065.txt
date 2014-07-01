@@ -1,0 +1,4 @@
+title: Signal driving circuits
+
+abstract: 
+Signal driving circuits with high driving capability and precise analog output voltage level, by outputting analog voltages through analog buffers and directly outputting voltages from digital-to-analog converters in turn. A digital-to-analog converter generates a first analog voltage according to digital data. An output circuit selectively either outputs a second analog voltage according to the first analog voltage by an analog buffer to a load or outputs the first analog voltage to the load directly.

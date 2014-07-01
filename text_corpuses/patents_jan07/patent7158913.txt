@@ -1,0 +1,4 @@
+title: Automatic activation of touch sensitive screen in a hand held computing device
+
+abstract: 
+Method and system for activating at least one of a display screen and a touch screen, and/or for deactivating a power conservation system for a hand held computing device (PDA, radiotelephone, etc.), when a stylus used for the touch screen is absent from a receptacle that receives the stylus on the device. When the stylus is present in the receptacle, the display screen and/or touch screen are deactivated and/or the power conservation system is activated. When the stylus is absent from the receptacle, but an accumulated time for such absence is greater than a selected time-out value, the system reacts as if the stylus is present in the receptacle. Examples of methods of sensing presence or absence of a stylus in a stylus receptacle are presented.

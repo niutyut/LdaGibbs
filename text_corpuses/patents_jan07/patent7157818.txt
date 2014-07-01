@@ -1,0 +1,4 @@
+title: Low noise ventilation system for electric motor
+
+abstract: 
+An electric motor having a fan and baffle for directing a flow of cooling air through the motor while minimizing generation of noise. The fan has blades which are curved in a direction opposite to the direction of rotation of the fan. The blades are spaced from a hub of the fan thereby forming a clearance region to inhibit air flow shear and turbulence. The baffle has an annular shape with upstream and downstream faces for directing air flow. The downstream face is inclined so that air flowing along its surface has a component of motion in the downstream direction to inhibit separation of flow from the surface. The baffle is received in a casing of the motor with a slip fit.

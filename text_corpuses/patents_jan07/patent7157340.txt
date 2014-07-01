@@ -1,0 +1,4 @@
+title: Method of fabrication of semiconductor device
+
+abstract: 
+A manufacturing method of a semiconductor device, the method including implanting impurity ions into a silicon layer and irradiating a pulsed light having a pulse width of 100 milliseconds or less and a rise time of 0.3 milliseconds or more onto the silicon layer thereby activating the impurity ions. The rise time is defined as a time interval of a leading edge between an instant at which the pulsed light starts to rise and an instant at which the pulsed light reaches a peak energy.

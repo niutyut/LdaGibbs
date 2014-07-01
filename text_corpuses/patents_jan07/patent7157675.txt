@@ -1,0 +1,4 @@
+title: Radio frequency identification controlled heatable objects
+
+abstract: 
+A temperature controlled heatable object is provided in which a temperature sensor is connected to a Radio Frequency Identification (RFID) tag. The RFID tag is located within the handle of the object, and the temperature sensor is placed in contact with the object. In a first embodiment of the invention, the temperature sensor is partially imbedded within the object via a notch located in the side of the object. In a second embodiment of the invention, a temperature sensor is imbedded within a tunnel drilled within the base of the object. In a third embodiment, a temperature sensor is imbedded between the bottom of the object and a slab attached to the bottom of the object. The sensor can be located in a slot formed in either the slab or the bottom or the object. Handles and receivers for mounting the handles to the temperature controllable objects are also provided.

@@ -1,0 +1,4 @@
+title: Dual airbag airspring
+
+abstract: 
+An air spring assembly includes a primary airbag mounted to a piston air bag such that the piston airbag provides a rolling surface for the primary airbag. A change in the piston airbag pressure changes the effective rate of the primary air spring. A relatively small change in the piston airbag volume provides a change in the spring rate of air spring assembly as the diameter of the rolloff surface is selectively modified.

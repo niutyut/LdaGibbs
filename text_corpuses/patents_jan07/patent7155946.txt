@@ -1,0 +1,4 @@
+title: Mortise lock having double locking function
+
+abstract: 
+A mortise lock having a double locking function is provided, which includes: a deadbolt for performing a locking function of a door by going in and out the door; a latchbolt going in and out the door by a handle installed on the door; and a locking member for maintaining the latchbolt in a locked state by keeping the latchbolt projected when the deadbolt is projected, whereby it is possible to improve the security, and reducing breakage and malfunction of the deadbolt due to forced operations of the door, since the door employing the mortise lock cannot be forcedly opened without breaking the latchbolt as well as the deadbolt.

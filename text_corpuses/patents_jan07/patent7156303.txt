@@ -1,0 +1,4 @@
+title: Shopping system and method
+
+abstract: 
+A shopping system and method which reduces resources necessary for completing transactions. The shopping system includes an item recording computer for recording item identification information associated with an item selected for purchase by a shopper in a store, for recording identifying information about the shopper from an RFID identifier carried by the shopper, and for storing the item identification information in a data file associated with the identifying information of the shopper.

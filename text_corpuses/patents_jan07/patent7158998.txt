@@ -1,0 +1,4 @@
+title: Efficient synchronous and asynchronous database replication
+
+abstract: 
+A put transaction is intercepted and communicated from an application to a database driver. The transaction is committed to a target database of the transaction and a backup database of the target database when both the target database and the backup database are available. When one of the target database and the backup database is an unavailable database, the transaction is recorded in a file. When the unavailable database becomes an available database, the transaction is committed to the available database.

@@ -1,0 +1,9 @@
+title: Process for preparing crystalline 3-chloromethyl-3-cephem derivatives
+
+abstract: 
+A chlorinated azetidinone derivative expressed by Formula (1) and an alcoholate are allowed to react in a solvent containing at least one of alcohols and an ether at a pH of 8 or less. Thus a 3-chloromethyl-3-cephem derivative expressed by Formula (2) is prepared.
+
+
+
+
+In the formulas, Rrepresents a substituted or unsubstituted aryl group or a substituted or unsubstituted heterocyclic residue, and Rand Reach represent a substituted or unsubstituted aromatic hydrocarbon group.

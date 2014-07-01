@@ -1,0 +1,4 @@
+title: Method and apparatus for signalling in a shared protection ring architecture
+
+abstract: 
+A communication network using a ring structure incorporates shared protection channels () to reduce costs in implementing protection spans. The shared protection network elements () use a protocol of conventional messaging to integrate with traditional fully redundant network elements.

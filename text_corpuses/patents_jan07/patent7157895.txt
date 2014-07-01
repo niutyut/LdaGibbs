@@ -1,0 +1,4 @@
+title: Systems and methods for generating a current
+
+abstract: 
+Systems and methods are provided for generating a current. A first current source generates a first current based on a first current selection signal, and a second current source generates a second current that is a multiple of the first current in response to selection of the first current.

@@ -1,0 +1,4 @@
+title: System and method for embedding a sub-channel in a block coded data stream
+
+abstract: 
+The present invention relates in general to a method, apparatus, and article of manufacture for providing high-speed digital communications through a communications channel. In one aspect, the present invention employs a variable rate back channel, incorporated within an existing communication that does not increase or adversely impact the transmission rate of data on the communication channel.

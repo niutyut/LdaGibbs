@@ -1,0 +1,4 @@
+title: Dual-type magnetic detecting element in which free magnetic layer and pinned magnetic layer have suitably selected ? values
+
+abstract: 
+A first free magnetic layer, a second free magnetic layer, a lower pinned magnetic layer, and an upper pinned magnetic layer are formed of magnetic materials whose ? values are suitably set so that the resistances for up-spin conduction electrons of all the magnetic layers become lower than those for down-spin conduction electrons when the magnetization of a free magnetic layer is changed to exhibit a lowest resistance. The magnetic detecting element exhibits an increased change in resistance per area.

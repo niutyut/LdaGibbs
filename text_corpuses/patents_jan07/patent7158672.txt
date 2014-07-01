@@ -1,0 +1,4 @@
+title: Recipe calculation method for matt color shades
+
+abstract: 
+The present invention provides a color recipe calculation method for matt finished, solid color shades, by means of which it is possible to determine the proportion of matting agents in a color recipe in a manner decoupled from the actual calculation of the recipe and is based on a conventional spectrophotometric characterization of a matt sample using a standardised 45?/0? measurement geometry along with an established gloss measurement, or alternatively using a spectrophotometer equipped with a d/8? measurement geometry and analyzing readings taken with the specular component included and excluded.

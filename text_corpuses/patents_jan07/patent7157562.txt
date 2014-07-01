@@ -1,0 +1,4 @@
+title: Bioprocess for the production of recombinant anti-botulinum toxin antibody
+
+abstract: 
+A process for producing recombinant anti-botulinum toxin antibody comprising the steps of fermenting recombinant cells in broth, concentrating the cells by removing the broth, crushing the concentrated cells, separating a permeate derived from the crushed cells from cell debris, purifying a recombinant antibotulinum antibody (Fab) from said permeate, and separating said Fab from impurities by diafiltration.

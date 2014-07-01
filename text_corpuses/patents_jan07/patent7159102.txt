@@ -1,0 +1,4 @@
+title: Branch control memory
+
+abstract: 
+A branch control memory store branch instructions which are adapted for optimizing performance of programs run on electronic processors. Flexible instruction parameter fields permit a variety of new branch control and branch instruction implementations best suited for a particular computing environment. These instructions also have separate prediction bits, which are used to optimize loading of target instruction buffers in advance of program execution, so that a pipeline within the processor achieves superior performance during actual program execution.

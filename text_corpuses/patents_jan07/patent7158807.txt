@@ -1,0 +1,4 @@
+title: Equalizing signal-to-interference ratios of different physical channels supporting a coded composite transport channel
+
+abstract: 
+A system and method for equalizing the signal-to-interference ratios (SIRs) of a plurality of physical channels supporting a coded composite transport channel CCTrCH comprises calculating new transmission powers such that not only are the SIRs of the physical channels equalized, but also the average SIR of the CCTrCH remains constant.

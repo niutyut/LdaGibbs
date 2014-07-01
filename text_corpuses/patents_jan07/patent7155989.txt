@@ -1,0 +1,4 @@
+title: Test port
+
+abstract: 
+A test port assembly and method are utilized for returning air characteristics within a closed chamber. The test port assembly is positioned in an exterior wall or panel and as required the test port is opened by removing a threaded cap. A thermometer can then be inserted through the test port assembly and the temperature of the air within the chamber quickly determined.

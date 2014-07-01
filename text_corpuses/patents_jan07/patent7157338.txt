@@ -1,0 +1,4 @@
+title: Non-uniform power semiconductor and method for making non-uniform power semiconductor
+
+abstract: 
+A method for making a power device produces a power device comprising active cells having designs that vary depending on where they are located in the active area. Design variations include structural variations and variations in the material used to produce the cells.

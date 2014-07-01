@@ -1,0 +1,4 @@
+title: System and method for mixing at least two products
+
+abstract: 
+The present application relates to a system and method for mixing at least two products that includes a first container for containing at least a first product, the first container including a first opening, a first coupler, and a safety member. The system may further include a second container for containing at least a second product, the second container including a second opening, a seal closing the second opening, and a second coupler configured to engage with the first coupler. The safety member may be configured to press against the seal while the seal maintains closure of the second opening.

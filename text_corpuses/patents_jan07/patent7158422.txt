@@ -1,0 +1,4 @@
+title: System and method for communicating information to a memory device using a reconfigured device pin
+
+abstract: 
+A system and method for communicating information to and from memory deices. In one embodiment, the invention includes a memory system having a memory device having at least one extraneous device pin, a memory controller configured to control the memory device and a signal path extending between the memory device and the controller that includes the at least one extraneous device pin, the signal path being operable to a transfer a selected memory system characteristic between the controller and the memory device.

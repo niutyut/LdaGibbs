@@ -1,0 +1,4 @@
+title: Method and apparatus for scarfing fibrous substrates
+
+abstract: 
+An apparatus for scarfing a fibrous web includes a rotatable scarfing roll with vacuum ports and an air moving source in fluid communication with the vacuum ports. The rotatable scarfing roll has a core member which includes a plurality of scarfing elements connected thereto and vacuum ports located therein. A method for scarfing a fibrous web includes providing a rotatable scarfing roll with vacuum ports and reducing scarfing wind by applying vacuum to the vacuum ports. A method for producing absorbent articles includes providing a fibrous web, contacting the fibrous web with a rotatable scarfing roll with vacuum ports to remove a portion of the fibrous web, applying vacuum to the vacuum ports to reduce scarfing wind, and producing an absorbent article with the fibrous web.

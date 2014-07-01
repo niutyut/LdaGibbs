@@ -1,0 +1,4 @@
+title: Wireless communications system and method
+
+abstract: 
+This invention discloses a method and a system for communicating with a user including wirelessly broadcasting content which is accessible to a multiplicity of users and which includes at least some non-audio enabling a user to select a portion of the content responsive to a selection by the user, capturing at least part of the non-audio content, corresponding to the portion of the content selected by the user and employing at least part of the captured content to access a contact using a mobile communicator by initially establishing contact with a non product-specific communication facility and employing product-specific information contained in the non-audio content.

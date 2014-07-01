@@ -1,0 +1,4 @@
+title: Power supplies noise detector for integrated circuits
+
+abstract: 
+In some embodiments, a circuit includes a reference current source to provide a substantially noise free current signal, and a detector coupled to one or two power supplies. In some embodiments, a method includes receiving a substantially noise free current signal, receiving one or two power supply signals, processing the substantially noise free current signal and the one or two power supply signals to detect a noise signal in the one or two power supply signals, and generating a noise detection signal in response to detection of the noise signal.

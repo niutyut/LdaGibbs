@@ -1,0 +1,4 @@
+title: Detection of very low quantities of analyte bound to a solid phase
+
+abstract: 
+A microscale binding assay, analyte binding array, and kits are disclosed, which exploit the mass action law to harvest analyte from a liquid sample. This is achieved by fabrication of sorbent zones having up to ten times the binding capacity per unit area generally obtained on polystyrene microtiter plates. The resulting arrays substantially deplete the liquid solution of analyte during incubation. Accordingly, the assays respond to total mass of analyte in the sample, not analyte concentration. This approach, coupled with direct fluorescence detection in the NIR, yields maximal signal intensity and low background for optimal sensitivity.

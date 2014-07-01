@@ -1,0 +1,4 @@
+title: Vent for leach field aeration
+
+abstract: 
+Pressurized air is flowed from a wastewater leach field conduit into and through the surrounding soil, and then to atmosphere above the soil surface, to enhance biochemical treatment of the wastewater. A vent, such as a perforated pipe or a region of porous media, buried within the soil in proximity to the leaching conduit, receives part of the air flowing from the conduit, and carries it directly to atmosphere, to shorten the path through the soil. A riser and with throttle valve enables control of the amount of air which flows through the vent. The vent may be directly above the conduit, to even out the air flow in soil along the length of the conduit, where the soil surface is uneven. A plurality of slot-like vent trenches are used when leach fields are beneath paved surfaces. In another embodiment, air is drawn through the soil and a vent to the conduit, which is maintained at sub-atmospheric pressure.

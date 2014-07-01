@@ -1,0 +1,4 @@
+title: Process for producing branched olefins from linear olefin/paraffin feed
+
+abstract: 
+A process for producing branched olefins from a mixed linear olefin/paraffin isomerisation feed comprising linear olefins having at least 7 carbon atoms in 5?50% w comprising in a first stage skeletally isomerising linear olefins in the isomerisation feed and in a second stage separating branched and linear molecules wherein branched molecules are substantially olefinic and linear molecules are olefinic and/or paraffinic; novel stages and combinations thereof; apparatus therefor; use of catalysts and the like therein; and use of branched olefins obtained thereby.

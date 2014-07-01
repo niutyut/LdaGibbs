@@ -1,0 +1,4 @@
+title: Braze alloy compositions
+
+abstract: 
+A nickel-based high-temperature braze alloy composition includes Cr, Hf, and B. Furthermore, a cobalt-based high-temperature braze alloy composition includes Cr, Hf, and B. The braze alloys can be used, for example, as a single homogenous braze. The braze alloys can also be used, for example, as a component in a wide gap braze mixture where higher or lower melting point superalloy and/or brazing powder is used. The braze alloys may permit joining/repairing of superalloy articles with complex shape and may be used in high temperature applications.

@@ -1,0 +1,4 @@
+title: Charge pump output device with leakage cancellation
+
+abstract: 
+The charge pump circuit includes: a charge pump output branch; a current leakage device coupled to the output branch; and a feedback device coupled between the output branch and a control node of the current leakage device such that the leakage device cancels leakage current from the output branch.

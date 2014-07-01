@@ -1,0 +1,4 @@
+title: Motor
+
+abstract: 
+A motor includes a stator formed of a stack of silicon steel sheet members and a winding holder mounted inside the stack of silicon steel sheet members, axles inserted through the stator in four corners, front and back covers respectively covered on the front and back sides of the stator and engaged with the ends of the axles and affixed to the stator with screws, and a rotor supported between the front and back covers and suspending within the stator.

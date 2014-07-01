@@ -1,0 +1,4 @@
+title: Method and apparatus for processing primitive data for potential display on a display device
+
+abstract: 
+A method and apparatus for processing a primitive (for potential display as a part of a graphical image on a display device) cause attribute data to be received by a graphics processor as a function of whether the primitive is capable of being viewable in the graphical image on the display device. Before taking that action, however, the method and apparatus assemble the primitive as a function of its positional data, and then determine if the primitive is capable of being viewable in the graphical image on the display device.

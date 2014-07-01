@@ -1,0 +1,4 @@
+title: Liquid replenishment system
+
+abstract: 
+Apparatus is provided for controllably delivering liquid, preferably foam producing liquid, from a remote supply tank to a holding tank for replenishment of liquid in the holding tank. The apparatus utilizes a pressurized air source of a vehicle to supply the energy to move the liquid. A liquid level sensing, signaling element is adapted to automatically control the filling of the holding tank and terminating operation when the holding tank is no longer being replenished.

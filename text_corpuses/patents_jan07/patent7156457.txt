@@ -1,0 +1,4 @@
+title: Seat structure
+
+abstract: 
+Seat structure designed to reduce weight and improve various functions such as impact absorbency, vibration absorbency. A torsion bar arranged along a width direction, and an arm connected to the torsion bar and enforced in a direction of falling backwards in a normal state are provided in the rear of a seat cushion, and a cushioning member is arranged between a supporting frame supported by the arm and a front frame provided at the front of the seat cushion, whose front edge is vertically movable rotationally. When working a pedal or standing up, since the front edge of the front frame is forced to move in a downward direction by a leg portion, a haunch supporting portion of the cushioning member is relatively lifted upward, so that support force to lift up the haunches works.

@@ -1,0 +1,4 @@
+title: Cash dispensing automated banking machine deposit accepting system and method
+
+abstract: 
+An automated banking machine includes a mechanism for accepting deposited items. Deposited items may be provided to the machine in envelopes which are first passed to a user from an envelope storage area () in the machine through a transport () and which are presented to the user through an opening (). An envelope storage and dispensing device () is operative to assure that only a single envelope is delivered to the user. A user may thereafter include deposit items in the dispensed envelope. The deposited items are passed through the opening () and are deposited in a deposit-holding container (). The deposited items may be marked with indicia corresponding to the transaction or properties of the deposited item where the envelope originally dispensed to the user for holding the deposited item.

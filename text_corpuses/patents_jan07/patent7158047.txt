@@ -1,0 +1,4 @@
+title: Remote control system
+
+abstract: 
+The present invention provides a remote control system capable of controlling a number of devices on a network by one remote controller. A remote controller () requires a controlled device () defined as an object to be controlled to send display information. Thus, the display information stored in a ROM () of the controlled device () in advance is read and transmitted to the remote controller (). The display information is described in a language such as HTLM, JAVA or the like. A browser on the remote controller () side displays a screen indicative of functions corresponding to a plurality of function keys () on a liquid crystal display (). Thus, the function is selected based on the screen displayed on the liquid crystal display (), and the function key () corresponding to the function is depressed, thereby making it possible to control the controlled device ().

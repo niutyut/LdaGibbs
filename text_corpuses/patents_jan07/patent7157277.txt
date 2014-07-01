@@ -1,0 +1,4 @@
+title: Factor VIII remodeling and glycoconjugation of Factor VIII
+
+abstract: 
+The invention includes methods and compositions for remodeling a peptide molecule, including the addition or deletion of one or more glycosyl groups to a peptide, and/or the addition of a modifying group to a peptide.

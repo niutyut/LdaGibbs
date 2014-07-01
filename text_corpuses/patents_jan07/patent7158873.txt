@@ -1,0 +1,4 @@
+title: Method of controlling an automated clutch of a vehicle
+
+abstract: 
+A method of controlling an automated clutch of a vehicle includes the step of adapting a characteristic curve of the clutch through an electronic clutch management system. The adaptation is performed under at least one set of operating conditions that are represented by an operating point.

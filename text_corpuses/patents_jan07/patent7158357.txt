@@ -1,0 +1,4 @@
+title: Capacitor design in ESD circuits for eliminating current leakage
+
+abstract: 
+An electrostatic discharge (ESD) protection circuit for an integrated circuit (IC) is disclosed. The ESD protection circuit has a RC module having a resistor and capacitor connected in series; and a current dissipation module for dissipating the ESD, wherein the capacitor is formed by a thick native gate oxide of a transistor, and wherein the thick native gate oxide prevents leakage current formed therethrough so that to avoid leakage current through the current dissipation module during a normal operation of the IC.

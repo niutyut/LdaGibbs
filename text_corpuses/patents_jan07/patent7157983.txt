@@ -1,0 +1,4 @@
+title: Cut of piezoelectric oscillator, piezoelectric oscillator, and piezoelectric device
+
+abstract: 
+A cut of a piezoelectric resonator uses a quartz plate having an electric axis, mechanical axis, and optic axis on an X axis, Y axis, and Z axis, respectively. An X? axis is set by rotating the X axis with an angle of 3?30 degrees in a clockwise direction about the Z axis. A Z? axis is set by rotating the Z axis in the clockwise direction with an angle of 33?36 degrees about the X? axis. The quartz plate has sides parallel to the X? axis and Z? axis, respectively. Furthermore, the plate has sides parallel to X? axis and Z? axis, respectively, which have been rotated in the clockwise direction with angles of from ?35 degrees to ?2 degrees about a Y? axis that is the thickness direction of the cut of the piezoelectric resonator.

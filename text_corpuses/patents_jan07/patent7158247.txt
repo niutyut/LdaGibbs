@@ -1,0 +1,4 @@
+title: System and method for determining the time required to complete a print job
+
+abstract: 
+This invention relates to a Web-based imaging system that provides print job time estimates. Such systems of this type, generally, tell the user, prior to printing, how long it will take the target printer to print the print job, as expected.

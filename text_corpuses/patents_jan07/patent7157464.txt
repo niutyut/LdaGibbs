@@ -1,0 +1,4 @@
+title: Substituted piperazines
+
+abstract: 
+Compounds are provided that act as potent antagonists of the CCR1 receptor, and which have been further confirmed in animal testing for inflammation, one of the hallmark disease states for CCR1. The compounds are generally aryl piperazine derivatives and are useful in pharmaceutical compositions, methods for the treatment of CCR1-mediated diseases, and as controls in assays for the identification of competitive CCR1 antagonists.

@@ -1,0 +1,4 @@
+title: Method for producing molding compound resin tablet for wavelength conversion, and method for manufacturing white light emitting diode by using the production method
+
+abstract: 
+Disclosed herein is a method for producing a molding compound resin tablet for wavelength conversion. The method comprises the steps of wet-dispersing a phosphor powder in a translucent liquid resin to form a molding compound resin body in which the phosphor powder is dispersed, and grinding the molding compound resin body into a powder form and applying a predetermined pressure to the resin powder. Further disclosed is a method for manufacturing a white light emitting diode using the molding compound resin tablet by a transfer molding process.

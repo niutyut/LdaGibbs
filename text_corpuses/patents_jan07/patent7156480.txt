@@ -1,0 +1,4 @@
+title: Ink-jet head driving method and ink-jet recording apparatus
+
+abstract: 
+An ink-jet recording apparatus includes a pressure chamber that contains ink, a nozzle communicating with the pressure chamber, which ejects the ink from the pressure chamber, an ink-jet head having an actuator that increases and decreases the capacity of the pressure chamber, and a driving signal generation unit that supplies the actuator with a driving signal to eject an ink drop from the nozzle. When no ink is ejected from the nozzle, the actuator is supplied with a very low pressure driving signal to increase the capacity of the pressure chamber and then return the increased capacity to an original size. The pulse width of the very low pressure driving signal is about twice as long as a pressure propagation time period during which a pressure wave in the ink propagates through the pressure chamber.

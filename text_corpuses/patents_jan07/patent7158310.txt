@@ -1,0 +1,4 @@
+title: Objective lens system for microscope
+
+abstract: 
+An objective lens system for microscope which comprises first and second lens units or first through fourth lens units, and in which the second or third lens unit has a function to correct chromatic aberration within a range from a visible region to a near infrared region and aberrations are favorably corrected within the range from the visible region to the near infrared region.

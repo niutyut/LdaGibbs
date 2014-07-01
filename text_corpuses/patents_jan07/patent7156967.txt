@@ -1,0 +1,5 @@
+title: Gas sensor element containing a getter
+
+abstract: 
+The present invention provides a gas sensor element and its production method, in which poisons are trapped in a porous protective layer to prevent them from reaching a measured gas side electrode, thereby making it possible to maintain a stable sensor output over a long period of time.
+The gas sensor element of the present invention is composed of a solid electrolyte , and a measured gas side electrode  that contacts a measured gas and a reference gas side electrode  that contacts a reference gas provided on said solid electrolyte ; wherein, the above measured gas side electrode  is covered with a porous protective layer  composed of a heat-resistant metal oxide containing a getter, and the above getter is an alkaline silicate.

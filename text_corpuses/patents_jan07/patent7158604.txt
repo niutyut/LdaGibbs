@@ -1,0 +1,4 @@
+title: Method and apparatus for superimposing differential signals onto a set of binary signals to increase the information-carrying capacity of the original set of signals
+
+abstract: 
+A system and method for the superimposition of differential signals on binary signals in a memory system. The technique can be performed on busses, and in many kinds of storage media. It can be accomplished in many ways depending on the noise that is to be tolerated, and depending on the sophistication of the encoding means.

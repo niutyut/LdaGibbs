@@ -1,0 +1,4 @@
+title: Differential switching circuit and digital-to-analog converter
+
+abstract: 
+A differential switching circuit has a first transistor connected between a first output node and a common node and a second transistor connected between a second output node and the common node. A switching driver generates first and second driving signals in response to an input data signal so as to complementarily drive the first and second transistors. A voltage level of at least one of the first and second driving signals is maintained so as to cause at least one of the first and second transistors to operate in a saturation region regardless of a voltage variation of at least one of the first or second output nodes when the at least one of the first and second transistors is turned on. Output impedance of the device is enhanced because the first and second transistors operate in the saturation region.

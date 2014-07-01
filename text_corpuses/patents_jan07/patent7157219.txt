@@ -1,0 +1,4 @@
+title: Photothermographic materials containing silver halide sensitized with combination of compounds
+
+abstract: 
+Photothermographic materials are designed with increased photospeed by chemical sensitizing the photosensitive silver halide grains with a combination of compounds. A first chemical sensitizer is a specific gold(III)-containing compound and a second chemical sensitizer is a sulfur-containing compound that is a diphenylphosphine sulfide. The molar ratio of the gold(III)-containing compound to the sulfur-containing compound is at least 1:1.

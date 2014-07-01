@@ -1,0 +1,4 @@
+title: Method of timed shift to neutral in apparent stationary modes
+
+abstract: 
+A control for a transmission and a clutch monitors conditions to determine when a vehicle associated with the clutch and transmission is likely in a stationary state. If the vehicle appears to be stationary, with the transmission engaged and the clutch open, then the control determines that the transmission should be moved to a neutral position. Upon movement to the neutral position, the control then closes the clutch. It is preferable for a vehicle remaining stationary to have its clutch closed and its transmission in neutral than to have its transmission engaged and its clutch open. In a further aspect of this invention, the neutral state is verified by testing the ability to move one of the transmission shift components. If the transmission shift component can move beyond a predetermined amount, this is indicative that the transmission is in neutral.

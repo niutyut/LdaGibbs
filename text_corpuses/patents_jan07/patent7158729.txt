@@ -1,0 +1,4 @@
+title: Optical receiving device
+
+abstract: 
+Provided is an optical receiving device which can achieve a wide dynamic range while keeping a constant extinction ratio against the changes in the input amplitude. A signal current of a light receiving element is converted to a signal voltage by an amplifier and the gain of the amplifier is regulated by a transistor. A DC voltage corresponding to the peak value of the signal current detected by a current detection circuit is outputted to a dummy current generating circuit. The resistance value of the transistor is controlled by a control voltage, which is outputted from an amplitude control circuit according to the difference between the DC voltage and a reference voltage, thereby to set the amplitude of the signal voltage converted by the amplifier to be invariable.

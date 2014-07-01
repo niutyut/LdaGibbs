@@ -1,0 +1,4 @@
+title: Solid electrolytic capacitor
+
+abstract: 
+A solid electrolytic capacitor () comprises a capacitor element () which includes an anode foil () and a cathode foil () rolled with a separator () interposed therebetween, and a solid electrolyte layer or an electrically conductive polymer layer provided therein. The cathode foil () is coated with a film of a titanium-containing compound metal nitride. The compound metal nitride is aluminum titanium nitride, chromium titanium nitride, or zirconium titanium nitride.

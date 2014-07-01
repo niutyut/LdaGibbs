@@ -1,0 +1,4 @@
+title: Auto-calibrating surround system
+
+abstract: 
+A multi-channel surround sound system and method is described that allows automatic and independent calibration and adjustment of the frequency, amplitude and time response of each channel of the surround sound system. The disclosed auto-calibrating surround sound (ACSS) system includes a processor that generates a test signal represented by a temporal maximum length sequence (MLS) and supplies the test signal as part of an electric input signal to a loudspeaker. A microphone coupled to the processor receives the signal in a listening environment. The processor correlates the received sound signal with the test signal in the time domain and determines from the correlated signals a whitened response of the audio channel in the listening environment.

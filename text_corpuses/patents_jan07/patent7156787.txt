@@ -1,0 +1,4 @@
+title: Inflatable structure and method of manufacture
+
+abstract: 
+An inflatable structure includes a first side of a first material and a second side of a second material different from the first material. A sidewall connects the first and second sides, and a seam extends around the sidewall joining first and second portions of the sidewall. The first and second portions are secured to one another by thermoforming, and an inflation valve is positioned in the sidewall. The inflatable structure may be formed by heating the first and second sheets of material to a temperature above their glass transition temperature and below their melting point, compressing the first and second sheets of material together in a mold having an opposed pair of cavities such that the valve extends through the seal and is in fluid communication with an interior and exterior of the inflatable structure, and trimming excess material from the periphery of the inflatable structure.

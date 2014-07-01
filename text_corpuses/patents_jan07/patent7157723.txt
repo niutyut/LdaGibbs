@@ -1,0 +1,4 @@
+title: System and method for attenuating the effect of ambient light on an optical sensor
+
+abstract: 
+The present invention provides systems and methods for attenuating the effect of ambient light on optical sensors and for measuring and compensating quantitatively for the ambient light.

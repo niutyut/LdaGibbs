@@ -1,0 +1,4 @@
+title: Light gun for pistol and rifle
+
+abstract: 
+A light gun includes a trigger unit; a grip coupled to the trigger apparatus; and a barrel unit coupled with the trigger apparatus. The trigger unit has a trigger and a hammer, and the barrel unit includes a light emitting unit which emits a light bullet in response to generation of an impact by the hammer when a trigger operation is carried out by pulling the trigger.

@@ -1,0 +1,4 @@
+title: Programmable controller for condition air curtains
+
+abstract: 
+A programmable electronic controller that provides multiple command and control instruction for an air curtain being integrated therewith. The controller includes operational controls for fan speed, time adjustment duration including time delay, start time, stop time with internal selectable timer clock provisions. The temperature imputable parameters for on demand heat and a variety of remote sensing and actuation output and input provisions.

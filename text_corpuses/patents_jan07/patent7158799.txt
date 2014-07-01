@@ -1,0 +1,4 @@
+title: Wireless base station position setting method, wireless communication system, and program
+
+abstract: 
+To efficiently obtain and register the position of a base station in a database. A map or a drawing, such as a plan of a building, is read and displayed on display unit (). Then, on the basis of the real coordinates of a first reference position P on the display unit and a real distance per a unit of display, the real coordinates of a second reference position P set on the display unit () are obtained. Then, on the basis of the real coordinates of the second reference position and an offset from the second reference position to the base station (), the real coordinates indicating the position P where the base station is located are obtained, and these real coordinates indicating the position P are registered in the database.

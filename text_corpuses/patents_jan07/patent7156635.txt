@@ -1,0 +1,4 @@
+title: Multi-layer food product system and process
+
+abstract: 
+A system produces a multi-layer product by forming as many different ingredients as is required for the final product in steps that can be separate from each other and then combining these ingredients in an extrusion die that is formed to flow the separate ingredients in side-by-side flow paths and then combine them where necessary for the final product to be formed. Specifically, two of the flow paths are sandwiched by a third flow path whereby the final product is in the form of a sandwich with two ingredients in layers between two separate layers of a third ingredient. A specific example of the food product is an animal food treat in the form of a cheeseburger.

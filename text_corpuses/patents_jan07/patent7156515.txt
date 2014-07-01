@@ -1,0 +1,4 @@
+title: Liquid material discharging method, liquid material discharging apparatus, and electronic device manufactured thereby
+
+abstract: 
+A discharging apparatus has a substrate holding part  which holds a substrate S; an discharging head  which discharges a liquid material onto the substrate S; an ion producing device  which provides an ionized wind on the substrate S; an exhaust device  which is placed on a direction where the ionized wind from the ionized wind producing device  is blowing, and the ionized wind is provided toward the liquid material on the substrate S, at least, immediately after discharging the liquid material onto the substrate S.

@@ -1,0 +1,4 @@
+title: Semiconductor memory device having a plurality of memory areas with memory elements
+
+abstract: 
+A semiconductor memory device has a particularly space-saving configuration of the memory areas and, in particular, of the selection devices assigned to the memory areas. During operation, each selection device can be assigned in a controllable manner to a plurality of memory areas such that selectively each of the selection devices can carry out an addressing and selection in one of the assigned memory areas.

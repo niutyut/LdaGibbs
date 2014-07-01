@@ -1,0 +1,4 @@
+title: Breathing air filtration system
+
+abstract: 
+A nasal air filtration device includes a pair of concave-convex filters, and a support structure incorporating a pair of generally annular bases for supporting the filters, and a bridge that couples the bases, to maintain them in a desired spaced-apart relation and to determine a desired angular relationship between the bases and between the associated filters. The support structure is positionable against the anterior nares to direct the filters into their corresponding nasal cavities. The support structure maintains each of the filters in spaced-apart relation to the surrounding nasal wall. In alternative embodiments, an open frame is mounted to each base and positioned between its associated filter and the nasal wall.

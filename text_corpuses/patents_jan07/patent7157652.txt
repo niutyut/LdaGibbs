@@ -1,0 +1,4 @@
+title: In-line slide switch assembly for hot plugging
+
+abstract: 
+The present disclosure relates to switches and assemblies configured and adapted to enable ?hot plugging? of electrical components and/or elements. According to an embodiment, slide switch assembly includes a body portion configured and adapted to support a first and a second spaced apart contact pin therein; and a plunger slidably supported within the body portion. Each contact pin is electrically connectable to an electrical conduit. The plunger has a first position in electrical contact with one of the first and second contact pins, and a second position in electrical contact with both the first and second contact pins. In use, when the plunger is in the second condition electrical current is transmitted between the first and the second contact pins.

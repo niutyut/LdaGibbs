@@ -1,0 +1,4 @@
+title: Asymmetric static random access memory device having reduced bit line leakage
+
+abstract: 
+An SRAM device comprising a column having opposing bit lines, asymmetric memory cells spanning the opposing bit lines in alternating orientations, and a sense amplifier. The sense amplifier includes sensing circuitry configured to sense values stored in the cells and switching circuitry configured to apply signals to the sensing circuitry as a function of the orientations.

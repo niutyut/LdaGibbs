@@ -1,0 +1,4 @@
+title: Proxy platform integration system
+
+abstract: 
+A method and system is disclosed for adding or removing functionality to a website through a proxy platform by which a user views the website. One such functionality is a checkout button by which a cyber wallet is accessed, relaying purchase information to the website where the information is used automatically fill a merchant website purchase form.

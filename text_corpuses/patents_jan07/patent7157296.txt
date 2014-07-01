@@ -1,0 +1,4 @@
+title: Etchless fabrication of planar photonic crystal structures in high refractive index material
+
+abstract: 
+A planar photonic bandgap structure includes a substrate and a suspended membrane with holes. A waveguiding film is applied directly on and registered with the membrane so as to avoid the holes. The film has an index of refraction which is higher than an index of refraction of the membrane to allow a waveguiding function to occur within the film. A method of forming a planar photonic bandgap structure includes applying first and second films on a substrate and exposing a pattern of a plurality of holes on the second film. The exposed pattern is developed using a solvent where the dissolution rate of the first film is greater than a dissolution rate of the second film. A waveguiding layer is applied onto a top surface of a suspended membrane such that the layer has an index of refraction greater than an index of refraction of the suspended membrane.

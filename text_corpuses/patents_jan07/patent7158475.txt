@@ -1,0 +1,5 @@
+title: Transmitting apparatus and method and provision medium
+
+abstract: 
+Influence from an adjacent signal is prevented even if a guard band is not provided.
+A phase comparison unit  compares a reference window signal input to a PLL circuit  and a window signal supplied from a frequency division circuit  and outputs the comparison result to an LPF . The LPF  extracts a low frequency component from the input signal and outputs the same to a voltage controlled oscillator . The signal output from the voltage controlled oscillator  is supplied as a clock to units of an OFDM modulation circuit  and, at the same time, supplied to the frequency division circuit . The frequency division circuit  divides the frequency of the supplied signal to thereby generate a new window signal and supplies the same to an IFFT unit . Further, the generated window signal is supplied to a PLL circuit . The PLL circuit  generates a clock for controlling a frequency modulation circuit  based on the supplied window signal.

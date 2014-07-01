@@ -1,0 +1,4 @@
+title: Ramp member assembly including flying slider in recording disk drive
+
+abstract: 
+A ramp member is supported on a flying slider in a load/unload mechanism of a recording medium drive. The flying slider receives a lift at its air bearing surface based on airflow generated along the moving recording medium. The flying slider flies above the recording medium. The flying height of the flying slider can be controlled with a higher accuracy in the same manner as a flying head slider utilized to read and write data from and into the recording medium. The slope of the ramp member on the flying slider can accordingly be kept at a predetermined level above the recording medium with a higher accuracy. Even if the extent of the slope is reduced, the load bar is allowed to reliably contact the slope. This leads to expansion of the data zone on the recording medium.

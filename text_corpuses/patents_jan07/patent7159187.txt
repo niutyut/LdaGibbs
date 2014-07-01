@@ -1,0 +1,4 @@
+title: In-context creation and editing of masks and waveforms
+
+abstract: 
+A method of creation/editing masks/waveforms for an instrument invokes a mask editor from an application running on the instrument. A context or signal waveform displayed in the application is transferred as a reference to a mask editor graphic display together with an unrelated current mask, which may be a previously existing mask or a default mask. The current mask is edited with respect to the reference to define a new mask, such as by changing the positions of points, adding points or deleting points that define the current mask. Then the mask editor is exited and the application recalled, with the new mask being applied to the context in the application.

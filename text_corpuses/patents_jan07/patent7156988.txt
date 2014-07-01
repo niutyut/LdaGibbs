@@ -1,0 +1,4 @@
+title: Floating product removal
+
+abstract: 
+A system and method for removing floating product from an aquifer. The system includes a groundwater-depressing mechanism configured to create a depression in a groundwater surface that encourages migration of floating product to the depression. The system also includes a floating-product extraction mechanism configured to separate floating product from the groundwater at the depression.

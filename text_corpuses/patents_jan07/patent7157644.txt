@@ -1,0 +1,4 @@
+title: Reduced alien crosstalk electrical cable with filler element
+
+abstract: 
+An electrical cable includes a cable jacket defining a central longitudinal axis and a plurality of twisted pairs of insulated conductors oriented longitudinally within the cable jacket. Each of the twisted pairs of insulated conductors has a width. A filler element is disposed in the cable jacket and is located adjacent to at least one of the twisted pairs of insulated conductors. The filler element defines a width that is substantially larger than the width of each the twisted pairs of insulated conductors. The filler element has a central axis laterally offset from the central longitudinal axis of the cable jacket. The filler element reduces alien crosstalk from an adjacent cable.

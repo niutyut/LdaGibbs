@@ -1,0 +1,4 @@
+title: Method for producing electrode sheets for electrochemical elements
+
+abstract: 
+A method for producing electrode sheets for electrochemical elements which contain at least one lithium-intercalating electrode which is composed of a mixture of at least two copolymerized fluorized polymers in whose polymer matrix electrochemically active materials which are insoluble in the polymer are finely dispersed, the fluorized polymers are, having being dissolved as a solvent, mixed with electrochemically active materials, the resulting pasty substance is extruded to form a sheet and then laminated with a polyolefin separator, which is provided with a mixture of the two polymers, PVDF-HFP copolymers in each case being used as the polymer, and the proportion of HFP being less than about 8 percent by weight.

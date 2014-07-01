@@ -1,0 +1,4 @@
+title: Navigation apparatus and navigation server
+
+abstract: 
+The invention provides a navigation apparatus and a navigation server capable of providing information to the user enabling comparison between a route that the user is actually traveling and a different route. According to a car navigation apparatus , a route setup unit  sets up plural routes. An actual route recognition unit  recognizes an ?actual route? of the vehicle M. Further, a virtual route recognition unit  recognizes a ?virtual route? that differs from the actual route. Moreover, a virtual travel information recognition unit  recognizes a ?virtual travel information? containing a virtual position of the vehicle M on the virtual route. The actual travel information, the actual route, the virtual travel information and the virtual route are displayed on a liquid crystal panel 

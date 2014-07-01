@@ -1,0 +1,4 @@
+title: Thermoplastic elastomer resin
+
+abstract: 
+The present invention relates to a thermoplastic elastomer resin which has good melt viscosity, melt tension, and thermal resistance, wherein it is prepared by introducing a chain extender and a stabilizer for hydrolysis to a thermoplastic elastomer resin produced through melt polymerization in the presence of hydroxy carboxylic acid compound and subjecting the mixture to reactive extrusion to increase the molecular weight and crosslinking degree of the elastomer resin. The thermoplastic elastomer resin according to the present invention has good properties for automobile parts, particularly constant velocity joint boots and bellows.

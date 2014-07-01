@@ -1,0 +1,4 @@
+title: Obtaining tandem mass spectrometry data for multiple parent ions in an ion population
+
+abstract: 
+This invention relates to tandem mass spectrometry and, in particular, to tandem mass spectrometry using a linear ion trap and a time of flight detector to collect mass spectra to form a MS/MS experiment. The accepted standard is to store and mass analyze precursor ions in the ion trap before ejecting the ions axially to a collision cell for fragmentation before mass analysis of the fragments in the time of flight detector. This invention makes use of orthogonal ejection of ions with a narrow range of m/z values to produce a ribbon beam of ions that are injected into the collision cell. The shape of this beam and the high energy of the ions are accommodated by using a planar design of collision cell. Ions are retained in the ion trap during ejection so that successive narrow ranges may be stepped through consecutively to cover all precursor ions of interest.

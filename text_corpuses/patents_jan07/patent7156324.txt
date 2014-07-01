@@ -1,0 +1,4 @@
+title: Spraying device with interchangeable cartridge
+
+abstract: 
+A spraying device is provided that includes a cartridge containing a first fluid, the cartridge being removably connected to a sprayer body. The cartridge is oriented such that gravity exerts a downward force on the first fluid. The sprayer body includes a conduit for receiving a second fluid. A valve is coupled to the conduit. The valve allows the second fluid to flow through the valve, thus creating a Venturi vacuum that draws the first fluid out of the cartridge and into the valve to enable the first and second fluids to mix and form an outlet stream. An orifice meters a predetermined amount of the first fluid into the valve to achieve a predetermined ratio of the first fluid to the second fluid. The outlet stream is then dispensed from a spray nozzle.

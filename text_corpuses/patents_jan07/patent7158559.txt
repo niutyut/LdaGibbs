@@ -1,0 +1,4 @@
+title: Serial cancellation receiver design for a coded signal processing engine
+
+abstract: 
+A novel serial receiver for a wireless communication system is provided. The communication system comprises: a receiver for receiving a signal y having data parameters; a control processor; the control processor for receiving the signal y and the data parameters; at least two fingers, the control processor for determining which of the data parameters are sent to respective fingers, wherein the at least two fingers have at least a search finger and a tracking finger; and wherein the tracking finger comprises a correlator and a Coded Signal Processing Engine (CSPE), the CSPE for interference cancellation in the reception of the signal y. In addition, numerous other embodiments of the serial receiver are provided along with methods for using the serial receiver.

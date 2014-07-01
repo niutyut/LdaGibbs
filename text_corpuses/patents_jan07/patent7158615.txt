@@ -1,0 +1,4 @@
+title: External detection of optional telephone services on an unknown telephone line
+
+abstract: 
+Determining whether a call forward busy service is enabled on a telephone line includes placing a first test call across a network to the telephone line. First signaling data is received through the network in response to the first test call. The first signaling data is evaluated to determine whether the first test call is inspiring a ringing condition. A second test call is placed across the network conditioned on whether the first signaling data indicates that the first test call is determined to be inspiring a ringing condition. The second test call is placed while the first test call remains inspiring ringing. Second signaling data is received through the network in response to the second test call. A call forward busy service is concluded to be enabled on the telephone line based on whether the second test call is determined to be inspiring a ringing condition.

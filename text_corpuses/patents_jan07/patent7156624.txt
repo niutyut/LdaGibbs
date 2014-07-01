@@ -1,0 +1,4 @@
+title: Compressor sound suppression
+
+abstract: 
+A compressor has a housing. One or more working elements cooperate with the housing to define a compression path between suction and discharge locations. An intermediate port is located along the compression path. A branch path extends to the intermediate port. The compressor includes means for limiting pressure pulsations along the branch path.

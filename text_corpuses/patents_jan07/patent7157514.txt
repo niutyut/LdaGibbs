@@ -1,0 +1,4 @@
+title: Golf ball core compositions
+
+abstract: 
+Golf ball compositions including novel processing aids, e.g., metal salts of unsaturated fatty acids, high styrene resins, transpolyisoprene, and transpolybutadiene, for inclusion in rubber-based compositions that reduce safety risks, mixer down time, increase dispersion of the ingredients during processing, and increase component COR over that of a component formed with a conventional processing aid.

@@ -1,0 +1,4 @@
+title: Methods for modulation of the effects of aging on the primate brain
+
+abstract: 
+The invention provides a clinically useful protocol for delivery of recombinant nervous system growth factors into the aging mammalian brain. The invention is particularly useful in tempering and reversing the loss of neurological function in the aging mammalian brain, by (a) correlating loss of cortical fiber density to impairment of neurological function in the normal, aging brain; and (b) providing minimally invasive means by which such losses may be reversed. To these ends, a method is provided by which a growth factor-encoding transgene is delivered to, and expressed in, preselected sites within the brain, to stimulate growth of neurons at, and at a distance from, each delivery site.

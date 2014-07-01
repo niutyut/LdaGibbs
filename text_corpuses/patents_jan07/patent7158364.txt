@@ -1,0 +1,4 @@
+title: Multilayer ceramic capacitor and method of producing the same
+
+abstract: 
+The present invention relates to a multilayer ceramic capacitor comprising: an element main body in which a dielectric layer and an inner electrode layer are alternately laminated, the inner electrode layer comprises: a composite structure having an inner electrode main layer of a base metal; and ceramic particles buried in the inner electrode main layer, therefore the inner electrode layer can be prevented from being interrupted by spheroidizing during the forming of the inner electrode layer, that is, drop of an electrode effective area can be inhibited, and high electrostatic capacity is obtained.

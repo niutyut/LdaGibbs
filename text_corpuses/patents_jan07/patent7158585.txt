@@ -1,0 +1,4 @@
+title: OFDM channel estimation in the presence of interference
+
+abstract: 
+Systems and methods for estimating channel response in the presence of interference. Interference and/or noise present on received training symbols is estimated. Based on the measured noise and/or interference, a weighting among training symbols is developed. Channel response is then estimated based on a weighted least squares procedure.

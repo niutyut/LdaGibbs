@@ -1,0 +1,4 @@
+title: Optical shared protection ring for multiple spans
+
+abstract: 
+A communication network is arranged in a ring configuration of network elements () coupled by working spans () associated protection spans (), with multiple rings sharing network elements (and ). A shared protection span () is coupled between pairs of shared network elements (and ). A matrix  in a shared network element (or ) can couple any channel from one of the incoming working spans or protection spans to any channel of the shared protection span ().

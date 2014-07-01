@@ -1,0 +1,4 @@
+title: Extended semi-submersible vessel (ESEMI)
+
+abstract: 
+A semi-submersible vessel has a pair of vertically spaced pontoons with varied buoyancy. The lower pontoon is retained in a close vertical proximity to the upper pontoon when the vessel is in transit. The lower pontoon is ballasted at the deployment site, dropping the pontoon to a depth of about 32 meters below the first pontoon baseline. As a result, stability and motion characteristics of the vessel are significantly improved.

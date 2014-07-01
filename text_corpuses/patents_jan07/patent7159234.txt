@@ -1,0 +1,4 @@
+title: System and method for streaming media server single frame failover
+
+abstract: 
+Systems, methods, and computer readable media are provided for very fast failover of streaming media servers. Fast failover allows for better quality of service. If a first server that is streaming media to a customer fails, a second server can continue operations in its place. Single frame failover can be accomplished by simultaneously streaming a digital asset by a first server and a second server. The second server flags each frame of the asset for discard, and meanwhile monitors the first server to ensure the first server is operational. Upon detecting a failure in the first server, the second server stops flagging frames for discard.

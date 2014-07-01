@@ -1,0 +1,4 @@
+title: Storage system and data processing system
+
+abstract: 
+A storage system comprises a data set storage region for storing a data set containing data and update information for managing this data, and a control section. The data set storage region is divided into a plurality of storage regions including a first storage region and a second storage region. The control section generates a first data set containing first data and first update data which is update data for same, stores at least the first data of this first data set in the first storage region, generates a second data set containing second data and second update data which is update data for same, and stores at least the second data of this second data set in the second storage region, which is separate from the first storage region.

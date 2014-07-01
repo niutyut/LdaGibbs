@@ -1,0 +1,4 @@
+title: Electrical power source
+
+abstract: 
+An electrical power source is described. The electrical power source derives input power from a compressed gas which is fed into a transducer, generating electrical power. The compressed gas may be delivered to the unit by several means including manual pumps, thermal, chemical, or ammunition based sources, or connection to pressurized canisters. Optional power converting and feedback circuits and pneumatic valves serve to convert the raw output power into useful AC and DC output voltages, and to match the rate of power delivery to the applied electrical load.

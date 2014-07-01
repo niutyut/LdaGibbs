@@ -1,0 +1,4 @@
+title: Electric power steering device
+
+abstract: 
+An electric power steering device comprising a control unit capable of distinguishing a failure of a motor current detection device caused by a change in power voltage, an oxide film formed on the commutator of a motor or the contact point of a relay, etc. from a failure of the motor current detection device itself and judging a failure of the motor current detection device accurately. A motor current is sampled during which a predetermined constant voltage is supplied to the motor, and the detected motor current value is compared with a motor current estimated value to judge the failure of the motor current detection device.

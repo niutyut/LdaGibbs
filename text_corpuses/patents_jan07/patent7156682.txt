@@ -1,0 +1,4 @@
+title: Electric socket
+
+abstract: 
+An electric socket includes a rotation unit and a switching cap unit. The rotation unit abuts the conducting units inside the socket. The switching cap unit protrudes from the rest of the socket. The rotation unit may be moved along with the switching cap unit. When each of the two prongs of a plug is inserted into the two prong slots of the socket, a user may rotate switching cap unit by a certain angle so that the long sides of the rotation unit may press against the two conducting units of the socket; now, the two conducting units of the socket seize and lock the two prongs of the plug. To take out the plug, a user may rotate the switching cap unit in the reversed direction by a certain angle; now, the two long sides of the rotation unit no longer press against the two conducting units, and the plug may be taken out from the two slots.

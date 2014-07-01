@@ -1,0 +1,4 @@
+title: Method and apparatus for pixel filtering using shared filter resource between overlay and texture mapping engines
+
+abstract: 
+A configurable filter module for providing shared filter resource between an overlay engine and a texture mapping engine of a graphics system. The configurable filter may comprise a plurality of linear blend units each of which receives data input from one of the overlay engine and a mapping engine cache, and generates a linear blend filter output respectively; and a filter output multiplexer which receives data output from the linear blend units and selects a proper byte ordering output, wherein the linear blend units serve as an overlay interpolator filter to perform linear blending of the data input from the overlay engine during a linear blend mode, and serve as a texture bilinear filter to perform bilinear filtering of the data input from the mapping engine cache during a bilinear filtering mode.

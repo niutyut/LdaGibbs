@@ -1,0 +1,4 @@
+title: Electrode designs and methods of use for cardiovascular reflex control devices
+
+abstract: 
+Devices, systems and methods by which the blood pressure, nervous system activity, and neurohornonal activity may be selectively and controllably reduced by activating baroreceptors. A baroreceptor activation device is positioned near a baroreceptor, preferably in the carotid sinus. The baroreceptor activation device may utilize electrodes to activate the baroreceptors. The electrodes may be adapted for connection to the carotid arteries at or near the carotid sinus, and may be designed to minimize extraneous tissue stimulation.

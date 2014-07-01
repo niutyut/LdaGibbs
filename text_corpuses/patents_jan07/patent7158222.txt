@@ -1,0 +1,4 @@
+title: Method and device for evaluating spectacle lens or mold for molding spectacle lens, and method and system for manufacturing spectacle lens
+
+abstract: 
+A dioptric power distribution measuring device () measures the dioptric power distribution of a target lens. A computer () constructs a design lens spatial model in a virtual space, and calculates the dioptric power distribution of the design lens spatial model by performing simulation processing for incident/exit light for only the same point in the design lens spatial model as a measurement point on the target lens. The computer then compares the calculated dioptric power distribution with the dioptric power distribution of the target lens which is measured by the dioptric power distribution measuring device ().

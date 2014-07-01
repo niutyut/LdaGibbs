@@ -1,0 +1,4 @@
+title: Image-capturing lens and image-capturing apparatus
+
+abstract: 
+An image-capturing lens includes a plastic lens formed with use of a material in which particles each having the maximum length of 30 nanometer or less are dispersed in a plastic material.

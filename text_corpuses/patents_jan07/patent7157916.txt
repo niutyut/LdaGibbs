@@ -1,0 +1,4 @@
+title: Test apparatus for testing an electronic device
+
+abstract: 
+There is provided a test apparatus including: a test module operable to supply test patterns to the electronic device; a main signal source operable to generate a first timing signal in accordance with a phase of the supplied timing signal and supply it to the test module; and a sub-signal source operable to receive the timing signal from the main signal source, generate a second timing signal for controlling timing at which the test module supplies the test patterns to the electronic device, and supply it to the test module. The sub-signal source includes a phase adjustment circuit that substantially uniforms the timing at which the main signal source outputs the first timing signal and the timing at which the sub-signal source outputs the second timing signal by delaying the timing signal received from the main signal source.

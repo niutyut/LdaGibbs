@@ -1,0 +1,4 @@
+title: Active matrix substrate and method of fabricating the same
+
+abstract: 
+An active matrix substrate includes a substrate composed of resin, and a polysilicon thin film diode formed on the substrate. The polysilicon thin film diode may be a lateral diode centrally having a region into which impurity is doped. As an alternative, the polysilicon thin film diode may be comprised of two lateral diodes electrically connected in parallel to each other and arranged in opposite directions.

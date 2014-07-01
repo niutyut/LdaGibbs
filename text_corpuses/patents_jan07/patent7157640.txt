@@ -1,0 +1,4 @@
+title: Undersaddle pickup for stringed musical instrument
+
+abstract: 
+An undersaddle pickup for a musical instrument. The undersaddle pickup is constructed from a layer of sensor material or sensor element coupled at a first surface to an electrode. A second electrode is created by coupling a second surface of the sensor material or sensor element to a conductive overbraid surrounding the undersaddle pickup. Depending upon the way the undersaddle pickup is constructed, one or both of the surfaces of the sensor material or sensor element are capacitively coupled to their respective electrodes. A subassembly of the undersaddle pickup may be conveniently manufactured from a sheet of sensor material and an insulating base having a plurality of electrodes deposited on or attached to the base's surface. A sheet of sensor material may be laminated to the base using an adhesive and individual subassemblies may then be die-cut from the insulating base.

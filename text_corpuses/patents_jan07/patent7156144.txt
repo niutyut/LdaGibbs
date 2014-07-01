@@ -1,0 +1,4 @@
+title: Spray head for a mold spraying tool
+
+abstract: 
+A spray head for a spraying tool for spraying the halves of a casting tool is described, in which the connection is made to a traveling arm provided with the media-carrying passages through distributing blocks disposed one under the other, from which the connection is made to spray bars through cross connections. The new configuration is selected such that the connection of the spray bars can be made selectively to the one or other of the media passages. By arranging a plurality of distributing blocks together, the addition of spray bars can also be performed stack-wise at varying distances from the particular distributing block.

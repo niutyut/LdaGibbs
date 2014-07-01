@@ -1,0 +1,4 @@
+title: Transmission/reception integrated radio-frequency apparatus
+
+abstract: 
+There is provided a highly reliable transmission/reception integrated radio-frequency apparatus which can achieve a high communication quality in a cable modem. A reception RF signal is input to a reception system block via an input/output terminal, converted to an intermediate-frequency signal, and output from a terminal. An output terminal of a transmission processing section of a transmission system block is connected to the input/output terminal via an overvoltage protection circuit, a high-pass filter functioning as a countermeasure to overvoltage, and a low-pass filter for suppressing harmonics produced from the high-pass filter.

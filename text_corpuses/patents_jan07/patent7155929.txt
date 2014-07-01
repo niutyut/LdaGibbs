@@ -1,0 +1,4 @@
+title: Piping structure for air conditioner
+
+abstract: 
+A piping structure of an air conditioner causes a looped main piping connected to a compressor of an outdoor unit of the air conditioner to be branched into two or more branch pipings within a predetermined interval of the main piping and cause the branch pipings to be jointed at an arbitrary location. According to the piping structure, it is possible to reduce a vibration by an interference phenomenon, which is generated when either a refrigerant pulsation or a periodic vibration of the compressor is divided and then combined.

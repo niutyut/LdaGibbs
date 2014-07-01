@@ -1,0 +1,4 @@
+title: Anode assembly for an x-ray tube
+
+abstract: 
+A miniature x-ray tube has an anode assembly capable of transmitting x-rays through the anode and over a wide angular range. The anode is in the shape of a cone or truncated cone with an axis on the x-ray tube frame axis, formed of low-Z material with high thermal conductivity for heat dissipation. A target material on the anode body is in a thin layer, which may be approximately 0.5 to 5 microns thick. In one embodiment a tube evacuation exhaust port at the tail end of the anode assembly forms a cavity for a getter, with a pinched-off tubulation at the end of the cavity.

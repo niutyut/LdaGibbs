@@ -1,0 +1,4 @@
+title: Electromagnetic relay
+
+abstract: 
+For manufacturing a thin electromagnetic relay having desired attractive force, both arms as upstanding portions disposed at both ends of a barrel of a plate magnetic material which is punched to be substantially U-shaped as viewed from the front by press working are bended to form magnetic poles having magnetic-pole surfaces extending in a horizontal direction. A vertical face passing through the center of the barrel crosses the centers of the magnetic-pole surfaces at right angles. The width of the barrel is smaller than the height of the barrel.

@@ -1,0 +1,4 @@
+title: Reusable online survey engine
+
+abstract: 
+A computer system, method, and computer-readable medium for conducting an online survey including one or more questions are provided. A survey database contains the survey questions and data identifying the type of input field that should be provided for responding to each question. When a request is received for a network resource referencing the online survey, the contents of the survey database are utilized to generate the online survey. The survey questions are maintained in the survey database separately from the application code for displaying the survey questions. Only the questions in the survey database need to be modified to provide a new survey. The application code for generating the survey is generic to all surveys and does not need to be modified.

@@ -1,0 +1,4 @@
+title: Infrared chalcogenide glass
+
+abstract: 
+An infrared-transmitting glass material consists essentially of 35.3% wt. arsenic and 64.3% wt. selenium and has an expansion coefficient of 27?10/? C.

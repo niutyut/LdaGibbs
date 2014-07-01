@@ -1,0 +1,4 @@
+title: Method and circuits for inductive DC converters with current regulated output
+
+abstract: 
+A method and circuits for improving the inductive DC converter delivery of regulated current into the load(s), where the inductive DC converter provides the output voltage to an ensemble consisting of the load(s) and a current source or a current source circuit connected in series with the load. The load current is controlled by the current source or the current source circuit in series with the load and not by the inductive DC converter, which only provides the voltage and power required at the output, without directly controlling the load current. The inductive DC converter can operate under much more relaxed specs, while the load current regulation is much tighter, being current source controlled.

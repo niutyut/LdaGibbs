@@ -1,0 +1,4 @@
+title: Queue management
+
+abstract: 
+A method of managing queue entries includes storing addresses in a first queue entry as a linked list, each of the stored addresses including a cell count, retrieving a first address from the first queue entry, and modifying the linked list of addresses of the first queue entry based on the cell count of the first address retrieved.

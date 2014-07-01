@@ -1,0 +1,4 @@
+title: Postoperative adjuvant chemotherapy with UFT
+
+abstract: 
+The present invention provides an improved method for treating lung cancer, preferably non-small cell lung cancer, by orally administering UFT to postoperative lung cancer patients.

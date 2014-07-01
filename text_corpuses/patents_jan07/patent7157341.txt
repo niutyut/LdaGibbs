@@ -1,0 +1,4 @@
+title: Gate stacks
+
+abstract: 
+A structure and fabrication method for a gate stack used to define source/drain regions in a semiconductor substrate. The method comprises (a) forming a gate dielectric layer on top of the substrate, (b) forming a gate polysilicon layer on top of the gate dielectric layer, (c) implanting n-type dopants in a top layer of the gate polysilicon layer, (d) etching away portions of the gate polysilicon layer and the gate dielectric layer so as to form a gate stack on the substrate, and (e) thermally oxidizing side walls of the gate stack with the presence of a nitrogen-carrying gas. As a result, a diffusion barrier layer is formed at the same depth in the polysilicon material of the gate stack regardless of the doping concentration. Therefore, the n-type doped region of the gate stack has the same width as that of the undoped region of the gate stack.

@@ -1,0 +1,4 @@
+title: Wavelength tunable laser of small size
+
+abstract: 
+A wavelength tunable laser device includes: a pair of reflection mirrors; a semiconductor element disposed between the pair of reflection mirrors, the semiconductor element integrating a region for providing an optical gain, a region having a wavelength tunable filter function and a phase control region; and an optical filter disposed between the semiconductor element and one of the pair of reflection mirrors, the optical filter having periodical transmission wavelengths. A wavelength tunable laser device is provided which is easy to be controlled and can be made compact.

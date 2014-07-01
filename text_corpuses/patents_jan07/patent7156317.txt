@@ -1,0 +1,4 @@
+title: Recirculating fan thermostat
+
+abstract: 
+A programmable thermostat with a heat-cool switch, a temperature value input, and a fan switch with on, auto, and recirculating positions, and a microprocessor that superimposes a fan recirculating mode or cycle on the heat-cool or off modes or cycles by determining when the heat-cool or off cycles have been off for a user selectable time period; 2 hours, for example, and if so initiating a fan cycle for a predetermined time; 12 minutes for example, to provide a more uniform room temperature by mixing hotter and cooler air and cleaner air by running more space air through the heating and cooling system filter assembly.

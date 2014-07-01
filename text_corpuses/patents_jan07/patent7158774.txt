@@ -1,0 +1,4 @@
+title: Method for tuning a filter
+
+abstract: 
+The invention relates to a method for tuning a filter (). The filter has at least one variable time constant, by which the location of the pass band (pc) of said at least one filter can be changed. In the method, at least one reference signal is inputted in said filter (), and the frequency of said at least one reference signal is changed, and/or said at least one time constant of the filter () is changed. The method also comprises the steps of measuring the strength of the output signal of the filter () and determining, on the basis of the measurement on the strength of the output signal of the filter (), the location of the pass band of said filter ().

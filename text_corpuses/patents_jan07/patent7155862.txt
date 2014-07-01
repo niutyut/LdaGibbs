@@ -1,0 +1,4 @@
+title: Sliding closure panel assembly
+
+abstract: 
+A closure panel assembly () includes a fixed panel () defining an opening (), a pair of guide rails () disposed on opposite sides of the opening, and a sliding panel () supported by the guide rails for movement between a closed position over the opening and an open position. Cooperating surface features () on at least one guide rail and the sliding panel engage one another when the sliding panel is moved to the closed position, to laterally displace the sliding panel toward the fixed panel and thereby compress a seal () disposed therebetween. Additional surface features () on the guide rail similarly engage the sliding panel's surface features to displace the sliding panel toward the fixed panel when the sliding panel is in a partially-open position, to thereby at least partially compress the seal and create a frictional drag on the sliding panel resisting further movement.

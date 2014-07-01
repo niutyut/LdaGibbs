@@ -1,0 +1,4 @@
+title: Device for continuous or semi-continuous casting of metal material
+
+abstract: 
+The present invention relates to a device for continuous or semi-continuous casting of a metal material. The device comprises a first arrangement comprising a coil () having an extension around the casting mould () in an area, which is arranged to comprise molten metal material. The coil () is arranged to be fed with alternating current such that a varying magnetic field generated and is applied to the molten metal material in the casting mould (). The device also comprises a second arrangement comprising at least two magnetic poles (), which are provided at opposite sides of the casting mould (). The poles () are arranged to supply a static or periodic low-frequency magnetic field to the molten metal material in the casting area. The poles () comprise at least a portion () which comprises a plurality of material layers which are electrically insulated from each other.

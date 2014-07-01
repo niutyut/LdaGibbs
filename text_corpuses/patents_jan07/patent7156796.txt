@@ -1,0 +1,4 @@
+title: Ink roller
+
+abstract: 
+There is disclosed an ink roller having a base and an inked sleeve received about and in supported contact with the base, wherein the fit between the inked sleeve and the base is insufficient to prevent relative slippage or rotation between the base and the sleeve, and wherein one or more small ridges on the base engage the sleeve to help prevent such relative rotation.

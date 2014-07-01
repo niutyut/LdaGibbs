@@ -1,0 +1,5 @@
+title: Cyclic method for separating chemical elements present in an aqueous solution
+
+abstract: 
+The invention concerns a cyclic method for separating at least one chemical element E from at least one chemical element E from an aqueous solution containing said elements, which employs a mixture of two extractants operating in non-overlapping chemical fields.
+Each cycle of said method comprises: a) co-extracting elements E and E by means of an organic phase containing a first extractant suited to causing the migration of said elements into said organic phase; b) adding to the organic phase a second extractant suited to selectively retaining the element(s) E in said organic phase during step c): c) selectively stripping the element(s) E from the organic phase; d) selectively stripping the element(s) E from the organic phase; e) separating the first and second extractants present in said organic phase at the end of step d).

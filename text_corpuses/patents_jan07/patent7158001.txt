@@ -1,0 +1,4 @@
+title: Choke coil and electronic device using the same
+
+abstract: 
+A choke coil according to the invention is configured to include: a coil incorporated with terminals and/or intermediate tap, the coil configured of a metal plate being punched and folded; a magnetic material buried with the coil therein; and a radiator of a material with excellent thermal conductivity disposed on a surface of the magnetic material. A small-sized, low-profile choke coil structurally stable with excellent heat dissipation is to be provided.

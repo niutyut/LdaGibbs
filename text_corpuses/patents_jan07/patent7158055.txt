@@ -1,0 +1,4 @@
+title: Key input circuit, power supply control apparatus, and power supply control method
+
+abstract: 
+A key switch  formed by arranging a plurality of key contacts SW, SW, SW, SW, . . . at cross points of a key matrix is provided with a power supply control key (SW), and a key scan circuit  for detecting open/close states of the plural key contacts of the key switch  is independently arranged from a power supply control key state detecting means for detecting the open/close state of the contact SW of the power supply control key. The depression of the power supply control key (SW) is detected by the power supply control key state detecting means. When the operation is ended, or the power supply is turned OFF, the depression of the power supply control key is detected by the key scan circuit , and the supply of the electric power is stopped.

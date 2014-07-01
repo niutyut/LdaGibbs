@@ -1,0 +1,4 @@
+title: Semiconductor chip assembly with press-fit ground plane
+
+abstract: 
+A semiconductor chip assembly includes a semiconductor chip that includes a conductive pad, a conductive trace that includes a pillar and a routing line, and a ground plane. The pillar is press-fit into an opening in the ground plane, and the ground plane is electrically connected to the pad.

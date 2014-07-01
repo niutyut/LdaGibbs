@@ -1,0 +1,4 @@
+title: Method and apparatus for forming a dynamic magnetic seal using magnetorheological fluid
+
+abstract: 
+An arcuate, preferably cylindrical, magnetic shunt bar supports a plurality of pin magnets having alternate north and south orientations, defining a ring-shaped array of magnets of alternating orientation. The magnet free ends opposite the shunt bar are positioned to conform closely to the shape of a surface to be sealed, forming a narrow gap therebetween containing a multi-polar magnetic field extending beyond the free ends in a direction substantially orthogonal to the surface. The axes of the magnets may be disposed at any desired angular orientation to the surface. Magnetorheological fluid (MRF) in the gap is magnetically stiffened and held as a dynamic seal. The arrangement is useful as a shaft seal, wherein the seal surface passes axially through the array, and also as a wiper for MRF from a carrier surface wherein the surface passes by the array.

@@ -1,0 +1,4 @@
+title: Multimeric dye structures
+
+abstract: 
+The present invention is drawn to multimeric dyes, ink-jet inks, and systems that can be used to print images having good water fastness and humid fastness, as well as good color characteristics. Specifically, a multimeric dye for ink-jet printing can comprise a first dye molecule chemically coupled to a second dye molecule through a linker group, wherein the multimeric dye is stable in the presence of interfering metals. These multimeric dyes can be used to form ink-jet inks and can be used in printing systems in accordance with embodiments of the present invention.

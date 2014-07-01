@@ -1,0 +1,4 @@
+title: Heuristic detection and termination of fast spreading network worm attacks
+
+abstract: 
+Methods, apparati, and computer program products for detecting and responding to fast-spreading network worm attacks include a network monitoring module (), which observes () failed network connection attempts from multiple sources. A logging module () logs () the failed connection attempts. An analysis module () uses the logged data on the failed connection attempts to determine () whether a sources is infected with a worm using a set of threshold criteria. The threshold criteria indicate whether a source's failed connection attempts are non-normal. In one embodiment, a response module () responds () to the computer worm by, e.g., alerting a user or system administrator, terminating an infected process (), or terminating the infected source's network access.

@@ -1,0 +1,4 @@
+title: Object-oriented materialized views
+
+abstract: 
+Techniques are provided for creating object-oriented materialized views. The object-oriented materialized views may be object materialized views or object-relational materialized views. The base tables may be object tables, object relational tables, or relational tables. The object-oriented materialized views may be refreshed, fully or incrementally. When an object-oriented materialized view is created, refresh code is generated for it. Through the use of object-oriented materialized views, users gain both the efficiency of materialized views and the power of the object-oriented paradigm.

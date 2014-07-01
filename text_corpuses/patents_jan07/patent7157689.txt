@@ -1,0 +1,4 @@
+title: Optical edge sensing system with signal authentication
+
+abstract: 
+An optical safety edge and control system functions correctly despite changes in ambient conditions and/or deformation of the sensor. The optical safety edge and control system automatically compensates for changes in ambient conditions and/or deformation, thus providing a simple easy to use edge sensor which reduces false responses and system failures.

@@ -1,0 +1,4 @@
+title: Liquid crystal display apparatus containing image sensor and process for producing the same
+
+abstract: 
+A liquid crystal display apparatus containing an image sensor, which comprises a liquid crystal display part comprising an active matrix circuit, a peripheral driver circuit for driving the active matrix circuit, and a sensor part, integrated on one substrate, wherein the sensor part is sealed and protected with a sealing part and a counter substrate.

@@ -1,0 +1,4 @@
+title: Single-pass inkjet printing
+
+abstract: 
+A single-pass print head has multiple orifice plates each serving some but not all of the area to be printed.

@@ -1,0 +1,4 @@
+title: Methods of ameliorating symptoms of herpes infection using immunomodulatory polynucleotide sequences
+
+abstract: 
+The invention provides new methods of preventing and/or treating herpes virus infections, particularly reducing infection, one or more symptoms and recurrence of one or more symptoms of herpes simplex virus infection. A polynucleotide comprising an immunostimulatory sequence (an ?ISS?) is administered to an individual which is at risk of being posed to alphaherpesvirinae, has been exposed to alphaherpesvirinae or is infected with alphaherpesvirinae. The ISS is administered without any alphaherpesvirinae antigens. Administration of the ISS results in reduced incidence, recurrence, and severity of one or more symptoms of alphaherpesvirinae infection.

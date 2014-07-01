@@ -1,0 +1,4 @@
+title: Medical fluid warming system
+
+abstract: 
+An improved inline intravenous fluid warming device. In one embodiment, the device includes a resistive film heater that is thermally coupled to a body having a serpentine fluid path extending therethrough. The film heater is coupled to the body via a first layer that is a thermally conductive and electrically insulative and a second layer that is thermally conductive. In another embodiment first and second resistive film heaters are employed to support either line power or battery powered operation.

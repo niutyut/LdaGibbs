@@ -1,0 +1,4 @@
+title: Physical security system for wireless access points with cable security bracket and locking bracket
+
+abstract: 
+A physical security system for an access point that enables an installer to route a cable for the access point through a cable security bracket. The access point is installed onto a mounting bracket. A locking bracket is installed that engages the access point and the mounting bracket and locked while the access point is installed onto the mounting bracket. Once the bracket is installed and locked, the system does not allow for the access point or the cable to be removed.

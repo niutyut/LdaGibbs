@@ -1,0 +1,9 @@
+title: Method for synthesizing derivatives of (2S,3AS,7AS)-1-[(S)-alanyl]-octahydro,-1H-indole-2-carboxylic acid and the use thereof for perindopril synthesis
+
+abstract: 
+Process for the synthesis of compounds of formula (I):
+
+
+wherein Rrepresents hydrogen, alkyl or benzyl and Rrepresents a protecting group for the amine function.
+
+Application in the synthesis of perindopril and pharmaceutically acceptable salts thereof.

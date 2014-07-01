@@ -1,0 +1,4 @@
+title: Method and system for testing spas
+
+abstract: 
+A test system and method for testing a spa system which includes a spa tub for holding water, an electronic controller system which controls the spa system functions, and one or more controlled devices. The system and method exercises the controlled devices during a testing regime, and monitors electrical current drawn by the spa system during the testing regime. The electrical current drawn by the spa system during the testing regime can be compared with an expected current draw specification.

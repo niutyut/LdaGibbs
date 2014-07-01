@@ -1,0 +1,4 @@
+title: Equalizer/forward error correction automatic mode selector
+
+abstract: 
+An apparatus for automatically selecting one of a standard decision directed mode and a soft dd mode in a decision feedback equalizer for receiving a data signal includes an equalizer utilizing forward error correction for providing first and second output signals corresponding to a DFE automatic switching mode and a soft automatic switching mode, respectively, and a comparator for comparing byte error rates of the first and second output signals for selecting as a superior mode that mode associated with a lower ByER and outputting the output signal with the lower ByER. A lock detector provides a lock signal derived from the DFE output signal with the lower ByER and a mode switch selectively places the DFE outputs in one of the dd modes or a blind mode, depending on the lock signal.

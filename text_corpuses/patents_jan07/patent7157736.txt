@@ -1,0 +1,4 @@
+title: Multi-layer compensation film including stretchable barrier layers
+
+abstract: 
+A multilayer compensator has two or more first layers and one or more second layers. The overall in-plane retardation of the compensator is from 0 to 300 nm and the out-of-plane retardation is more negative than ?20 nm or more positive than +20 nm. The compensator may be fabricated by: coating at least one barrier layer on at least one first layer; coating at least one second layer from an organic coating solvent on the barrier layer to produce an intermediate compensator structure; and stretching the intermediate compensator structure in at least one direction by between 1% and 60%. The barrier layer contains a polymer that is water soluble or water dispersible in an amount sufficient to impede the diffusion of the organic solvent between the other first layers and the second layers. All layers have been stretched simultaneously.

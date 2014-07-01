@@ -1,0 +1,4 @@
+title: Motion transmitting apparatus
+
+abstract: 
+A motion transmitting apparatus wherein an electric motor, an engine or another prime mover rotates an axially fixed first part relative to a coaxial axially movable non-rotatable second part. The structure which serves to move the second part axially in response to clockwise or counterclockwise rotation of the first part includes a follower borne by the first part and a helical spring having end convolutions affixed to the first part. The follower extends between two intermediate convolutions of the helical spring. If the apparatus is utilized in the power train of a motor vehicle, the axially movable part can serve to engage or disengage or change the extent of engagement of the friction clutch between the output element of the engine and the input element of the change-speed transmission.

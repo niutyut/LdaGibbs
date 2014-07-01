@@ -1,0 +1,4 @@
+title: Cast iron alloy
+
+abstract: 
+The invention proposes a cast iron alloy for cast iron products which are highly thermally stable, the alloy containing, as nonferrous constituents, at least the elements C, Si, Mo, Al and, as admixtures, Ni, Mg and/or S, and the C content being less than 2.9% by weight. The alloy is used, for example, to produce exhaust manifolds or turbocharger casings.

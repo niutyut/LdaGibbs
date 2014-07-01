@@ -1,0 +1,4 @@
+title: Ink repellent coating on charge device to improve printer runability and printhead life
+
+abstract: 
+An ink jet printhead includes a drop generator having an attached orifice structure forming a jet array adapted to use ink jet fluids with a charge device disposed opposite the jet array forming a gap. The charge device includes a dimensionally stable, non-porous substrate layer having a high load to deflection ratio, one or more electrically conducting leads bonded to the substrate layer, an insulating protective layer disposed over the electrically conducting lead, and a non-wetting polymer coating compatible with the ink jet fluids disposed on the insulating protective layer. The coating reduces the capillary forces that hold liquid in the gap between the orifice structure and the charge device.

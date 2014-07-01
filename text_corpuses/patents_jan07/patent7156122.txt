@@ -1,0 +1,4 @@
+title: Rotary ball valve assembly
+
+abstract: 
+A method of forming a ball valve element for a rotary ball valve assembly, the method comprising the steps of: (a) inserting an impedance element through an insertion opening of a ball valve element into a bore; (b) forming a fluid opening in the ball valve element which is non-rectilinearly aligned with the insertion opening and which communicates with the bore; and (c) sealing the insertion opening. A ball valve element for a rotary ball valve assembly formed using such a method; and a rotary ball valve assembly comprising a ball valve element formed using such a method are also provided.

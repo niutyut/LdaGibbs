@@ -1,0 +1,4 @@
+title: Cache operation with non-cache memory
+
+abstract: 
+A system and method are provided for bypassing cache memory when reading data from system memory particularly when the primary memory could include memory types where the read operation mixes non-data with data. A system and method are provided for bypassing and invalidating cache memory when writing data to system memory particularly when the primary memory could include memory types where the write operation mixes non-data with data.

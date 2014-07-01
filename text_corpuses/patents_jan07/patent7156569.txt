@@ -1,0 +1,4 @@
+title: Wall-mounting image processing apparatus
+
+abstract: 
+A wall-mounting image processing apparatus (A) includes a machine housing () mounted on a substantially vertical wall surface (H), and an image reading/writing head (X) disposed in the machine housing. The image reading/writing head (X) includes a substrate () having one surface (A) on which a plurality of light receiving elements () are arranged in a row. Part of said one surface (A) forms an excess surface () projecting laterally from a head case (), and the printing elements () are arranged on the excess surface ().

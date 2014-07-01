@@ -1,0 +1,4 @@
+title: Scanning electrochemical potential microscope
+
+abstract: 
+An apparatus and method of determining a potential at a surface of a sample in a polar liquid, for example, across an electrical double layer, includes the step of immersing the sample in a polar solution to form a potential gradient at the surface. A tip of a scanning probe microscope probe is then positioned in the solution generally adjacent the surface. During operation, the method includes measuring a potential of the probe. Relative scanning movement between the sample and the probe may be provided, and, in one mode of operation, a feedback signal is generated based on the measured potential. In that case, the tip may be moved generally orthogonal to the surface in response to the feedback signal to maintain a generally constant separation therebetween. The polar solution may have an associated ionic concentration, and the ionic concentration can be modified to tune the operation of the SEPM.

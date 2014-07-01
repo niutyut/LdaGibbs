@@ -1,0 +1,4 @@
+title: Methods for fabricating thin film transistors
+
+abstract: 
+Fabrication methods for thin film transistors. A metal gate stack structure is formed on an insulating substrate. The substrate is performed using thermal annealing to create an oxide layer on the sidewalls of the metal gate stack structure. A gate insulating layer is formed on the substrate covering the metal gate stack structure. A semiconductor layer is formed on the gate insulating layer. A source/drain layer is formed on the semiconductor.

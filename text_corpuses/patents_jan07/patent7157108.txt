@@ -1,0 +1,4 @@
+title: Milk protein products and processes
+
+abstract: 
+The invention relates to dried milk protein concentrates and their use. In particular the invention relates to such dried concentrates which have been calcium-depleted to an extent which allows improvements in the use of dried milk protein concentrates in cheese manufacture. The invention includes a method of cheese manufacture comprising: (a) dispersing in milk a dried MPC or MPI having at least 70% dry matter as milk protein; (b) treating the resulting mixture with one or more coagulating enzymes to produce a curd; and (c) processing the curd to make cheese; wherein the dried MPC or MPI is a calcium-depleted MPCF or MPI and the extend of calcium depletion is sufficient to allow manufacture of substantially nugget-free cheese.

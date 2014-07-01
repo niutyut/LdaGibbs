@@ -1,0 +1,4 @@
+title: Electrical cable connector with grounding insert
+
+abstract: 
+The present invention provides a connector for an electrical cable comprising a grounding insert comprising: a bushing having a tapered forward end and a tapered rearward end, and a plurality of conductive fingers, wherein each conductive finger has a proximal end that is embedded in the tapered rearward end of the bushing and a distal end that extends from the tapered rearward end of the bushing to a contact site with a cable.

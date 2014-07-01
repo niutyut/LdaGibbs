@@ -1,0 +1,4 @@
+title: Memory control device and memory control method
+
+abstract: 
+There is provided memory control device and memory control method, which can prevent wiring complication by many crossing wirings, and reduction of yield and quality. When a memory control device CC selects a memory chip CC, an internal circuit of a select circuit  is changed by a switch signal SWS. In this case, the changeover is made so that a select signal S outputted from an internal circuit  is inputted to a predetermined memory terminal of the memory chip CC. The select signal S is inputted to the corresponding predetermined memory terminal of the memory chip CC, and thereby, the memory chip CC is activated, and set to a state capable of inputting and outputting control signals  to . The control signals  to  are assigned to control terminals P to P after being hanged by the select circuit  in signal sequence corresponding to terminal array sequence of memory terminals to of the memory chip CC

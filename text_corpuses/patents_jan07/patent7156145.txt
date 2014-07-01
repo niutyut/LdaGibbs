@@ -1,0 +1,4 @@
+title: Apparatus and method for inserting parts into a mold
+
+abstract: 
+A dispensing arrangement for inserting a part into a cast iron mold includes a dispenser apparatus configured to dispense a predetermined number of parts, a staging apparatus configured to position the parts in a selective orientation and a jig apparatus configured to grip and lift the parts from the staging apparatus and position the parts in a die of a mold. The apparatus may be located adjacent the mold in use.

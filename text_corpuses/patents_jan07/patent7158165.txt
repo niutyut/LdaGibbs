@@ -1,0 +1,4 @@
+title: Laser beam scanner
+
+abstract: 
+In a laser beam scanner according to the invention, L/LL/L is satisfied, where L/L is the lateral magnification in the sub-scanning direction in an optical path from a polygon mirror to a photosensitive drum, and L/L is the lateral magnification in the sub-scanning direction in an optical path from the polygon mirror to a beam detector. Accordingly, the light-receiving width of the beam detector can be reduced as compared with a conventional laser beam scanner where L/L=L/L

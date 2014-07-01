@@ -1,0 +1,4 @@
+title: RF receiver having improved signal-to-noise ratio and method of operation
+
+abstract: 
+There is disclosed, for use in a CDMA receiver, a noise reduction circuit for improving the signal-to-noise ratio of a received CDMA signal comprising a series of chip sequences. The noise reduction circuit comprises: 1) a sampling circuit for generating an original plurality of samples of the received signal; and 2) a controller for determining a first plurality of time slots containing chip samples equal to Logic 1, and a second plurality of time slots containing chip samples equal to Logic 0. The controller generates a reconstructed plurality of samples by at least one of: a) modifying an order of a first Logic 1 chip sample and a second Logic 1 chip sample; and b) modifying an order of a first Logic 0 chip sample and a second Logic 0 chip sample.

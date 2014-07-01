@@ -1,0 +1,4 @@
+title: Holographic imaging spectrometer
+
+abstract: 
+A holographic imaging spectrometer, apparatus, and/or method enables the projection of a two-dimensional (2D) slice (having spectral information) of a four-dimensional (4D) probing object. A 4D probing source object is illuminated to emit an optical field. A holographic element having one or more recorded holograms receives and diffracts the optical field into a diffracted plane beam having spectral information. Collector optics (e.g., an imaging lens) focuses the diffracted plane beam having spectral information to a 2D slice (having spectral information) of the 4D probing source object. The focused 2D slice having spectral information is projected onto a 2D detector array surface. In addition, the holographic element may have multiple multiplexed holograms that are arranged to diffract light from the corresponding slice of the 4D probing source object to a non-overlapping section of the detector.

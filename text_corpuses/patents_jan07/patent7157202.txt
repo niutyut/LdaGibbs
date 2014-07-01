@@ -1,0 +1,4 @@
+title: Method and apparatus for reducing densification of multiple component electrographic developer
+
+abstract: 
+The invention relates to the field of two component magnetic brush development of electrographic images. According to one aspect of the invention, a method of processing a developer is provided for developing an electrostatic image wherein a set developer is exercised with a blender prior to using the developer for developing the electrostatic image. According to a further aspect of the invention, the developer comprises ferromagnetic toner and hard magnetic carriers.

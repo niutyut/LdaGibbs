@@ -1,0 +1,4 @@
+title: Noise checking method and apparatus and computer-readable recording medium which records a noise checking program
+
+abstract: 
+The apparatus reduces the amount of correction for noise value error, so as to reduce work needed for correction to ensure error avoidance, and to improve the freedom of layout design, and to reduce load on DA. Based on a timing chart of signal transfer on each wire, the last edge appearance timing in the signal waveform of a victim whose noise value exceeds a limit value is compared with the last edge appearance timing in the signal waveform of an aggressor, to evaluate the noise value error in the victim. The apparatus is used in static noise checking of cell arrangement and inter-cell wiring after such cell arrangement and inter-cell wiring are performed at design of integrated circuits such as LSIs.

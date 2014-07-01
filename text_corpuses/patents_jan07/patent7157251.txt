@@ -1,0 +1,4 @@
+title: Process for the racemization of N-protected amino acids using racemase
+
+abstract: 
+The present invention relates to the processes of racemization and deprotection of special N-protected amino acids in the acylase/racemase system for the total conversion of special N-protected racemic amino acids into optically pure amino acids.

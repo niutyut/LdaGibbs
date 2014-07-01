@@ -1,0 +1,4 @@
+title: Multi-chamber installation for treating objects under vacuum, method for evacuating said installation and evacuation system therefor
+
+abstract: 
+A multi-chamber installation () treats objects under vacuum. An evacuation system () is connected to a plurality of chambers (). To reduce the complexity of the evacuation process, a forepump () has several stages (). Each of said stages is connected to one of the chambers ().

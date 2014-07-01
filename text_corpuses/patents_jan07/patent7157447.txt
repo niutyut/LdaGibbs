@@ -1,0 +1,5 @@
+title: Bicyclic heterocycles as HIV integrase inhibitors
+
+abstract: 
+The invention encompasses a series bicyclic pyrimidinone compounds of Formula I which inhibit HIV integrase and prevent viral integration into human DNA. This action makes the compounds useful for treating HIV infection and AIDS. The invention also encompasses pharmaceutical compositions and methods for treating those infected with HIV
+

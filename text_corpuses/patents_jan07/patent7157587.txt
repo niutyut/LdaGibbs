@@ -1,0 +1,4 @@
+title: Imide-extended liquid bismaleimide resin
+
+abstract: 
+The invention is based on the discovery that a remarkable improvement in the performance of bismaleimide thermosets can be achieved through the incorporation of an imide-extended liquid bismaleimide monomer. This imide-extended liquid bismaleimide monomer is readily prepared by the condensation of an appropriate dianhydride with two equivalents of an appropriate diamine to give an amine terminated compound. This compound is then condensed with an excess of maleic anhydride to yield an imide-extended liquid bismaleimide monomer.

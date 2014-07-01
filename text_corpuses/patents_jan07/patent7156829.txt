@@ -1,0 +1,4 @@
+title: Disposable diaper having elasticized wings and waistband
+
+abstract: 
+A disposable diaper is provided with elastically stretchable waist areas extending in a transverse direction along respective end portions of front and rear waist regions and a pair of elastically stretchable wing areas extending outward in the transverse direction from the side edge portions of the rear waist region. The side edge portions of the rear waist region are respectively interposed between the stretchable waist area and the stretchable wing areas. The stretchable wing areas have a transverse stretch stress higher than a transverse stretch stress of the stretchable waist area, so the tensile force exerted on the stretchable wing areas is segmentalized and restrained by the side edge portions of the rear waist region.

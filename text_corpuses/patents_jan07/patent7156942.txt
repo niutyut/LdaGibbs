@@ -1,0 +1,4 @@
+title: Organic electroluminescent device and encapsulation method
+
+abstract: 
+Organic electroluminescent devices and methods of preparing such devices are provided. The organic electroluminescent devices include a first electrode, a light emitting structure, a second electrode, a conductive layer, and a non-conductive material. The light emitting structure is disposed between the first and second electrodes. The conductive layer is disposed on at least a portion of the second electrode and is in electrical communication with the second electrode through an opening in the non-conductive material.

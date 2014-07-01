@@ -1,0 +1,6 @@
+title: Synchronization system and synchronization method of multisystem control apparatus
+
+abstract: 
+In a synchronization system adopted in a synchronous-multisystem control apparatus comprising a plurality of systems operating synchronously with each other at a fixed control period, the synchronous-multisystem control apparatus can be operated in a single-system mode in the event of failures occurring simultaneously in some of the systems.
+The synchronous-multisystem control apparatus employs a plurality of control circuits each provided for one of the systems. Any particular one of the control circuits comprises:
+

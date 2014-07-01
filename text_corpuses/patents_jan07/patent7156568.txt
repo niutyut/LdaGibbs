@@ -1,0 +1,4 @@
+title: Tape printing apparatus, method of manufacturing label, program, and memory medium
+
+abstract: 
+A tape made up of a base tape having a front printing surface and a rear adhesive surface, and a release tape covering the adhesive surface is mounted on a printing apparatus. A plurality of print images are printed on the printing surface in a manner arrayed in a longitudinal direction of the printing tape, and the printing tape is cut in the widthwise direction thereof. Connection cutting is performed such that at least a widthwise part of the release tape remains connected as a connection portion in a space between respective adjoining print images.

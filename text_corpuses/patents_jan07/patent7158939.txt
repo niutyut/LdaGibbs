@@ -1,0 +1,4 @@
+title: Method and system for improved reporting of issued travel tickets
+
+abstract: 
+A method and system that enables airlines to collect revenue when customers seek to exchange an existing ticket for a new ticket on a given airline or other travel provider. In one embodiment, the reporting of ticket sales is performed in real-time, and therefore, the travel agent facilitates collection of an airline-imposed change fee from the customer each time exchange of the existing ticket for a new ticket is required. Alternatively, the airlines may charge a void fee and permit the travel agent to void the existing airline ticket when real-time reporting of sales is performed. In another alternative embodiment, the travel agent may not be allowed to void the ticket.

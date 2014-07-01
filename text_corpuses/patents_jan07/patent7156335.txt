@@ -1,0 +1,4 @@
+title: Mam assembly process and features
+
+abstract: 
+A tape cartridge housing allowing for both pre-shell closure and post-shell closure insertion of an auxiliary memory unit is provided. A flexible tape cartridge housing allows a manufacturer of tape cartridges to select whether to incorporate an auxiliary memory unit into the tape cartridge during the manufacturing process while a tape cartridge is still not fully assembled, during the end of the manufacturing process when the tape cartridge top and bottom shells have been combined, or after the manufacturing process when the tape cartridge is ready for operation.

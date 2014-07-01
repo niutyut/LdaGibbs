@@ -1,0 +1,4 @@
+title: All optical extended ?depth-of field? imaging system
+
+abstract: 
+The instant invention is an optical imaging system that produces images of acceptable quality of objects which are located at a wide variety of distances from the optical imaging system. A preferred embodiment of the optical imaging system includes an object (), an auxiliary lens (), a composite phase marsk () and a detector () arranged along an optical axis (). Light from the object () is focused by the auxiliary lens () in tandem with the composite phase mark (), producing an image () which is incident th detector ().

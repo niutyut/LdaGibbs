@@ -1,0 +1,4 @@
+title: Current driver employing pulse-width modulation
+
+abstract: 
+A current driver capable of generating a controlled current in the form of a pulse-width modulation (PWM) signal suitable for controlling an electronic device such as a solenoid is disclosed. The current driver has a feedback loop incorporating a dual-slope integrator. During an integration phase, which has a duration of one or more PWM periods, the dual-slope integrator integrates a signal indicative of the current flowing through the device. During a de-integration phase, the time required for the integrated signal to discharge at a known rate is measured. The measured time and integration phase duration are used to determine average output current. Any error between the measured and desired average output current is corrected by way of a multiplicative corrective factor or an additive corrective factor. The integration and de-integration phases may occur during alternating PWM periods.

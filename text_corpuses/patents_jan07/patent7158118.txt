@@ -1,0 +1,4 @@
+title: 3D pointing devices with orientation compensation and improved usability
+
+abstract: 
+Systems and methods according to the present invention describe 3D pointing devices which enhance usability by transforming sensed motion data from a first frame of reference (e.g., the body of the 3D pointing device) into a second frame of reference (e.g., a user's frame of reference). One exemplary embodiment of the present invention removes effects associated with a tilt orientation in which the 3D pointing device is held by a user.

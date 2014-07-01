@@ -1,0 +1,4 @@
+title: Electronic card assembly
+
+abstract: 
+An electronic card assembly comprising a circuit board () interposed between two shells (), an insulative frame () supporting said circuit board and comprising a pair of protrusions () oppositely formed at a front end thereof, a connector () assembled to the insulative frame and comprising conductive contacts electrically connecting with the circuit board. A receiving section () is integrally disposed at the rear end of the insulative frame. The connector has a longitudinal base () and a pair of L-shaped arms () extend from opposite sides of the base. A pair of connecting blocks () are oppositely disposed at each arm and a slot () is provided between each block and the base. The slots receive respective protrusion therein to thereby secure the connector to the insulative frame.

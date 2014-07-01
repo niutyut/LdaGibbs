@@ -1,0 +1,4 @@
+title: Computerized simultaneous laser marking and targeting system
+
+abstract: 
+A novel method and system is provided for simultaneous, non-invasive and non-contact marking for processing of targeted objects. The viewing, selection, marking, processing and feed-back is substantially simultaneous and computerized.

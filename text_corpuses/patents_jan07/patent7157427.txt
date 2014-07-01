@@ -1,0 +1,4 @@
+title: Antimicrobial proteins from the SPO1 bacteriophage
+
+abstract: 
+Anti-bacterial peptides are provided which are derived from the bacteriophage SPO1.

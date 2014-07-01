@@ -1,0 +1,4 @@
+title: Method for heating an exhaust gas catalyst for an internal combustion engine operating with direct fuel injection
+
+abstract: 
+The invention relates to the heating of an exhaust gas catalyst arranged on an internal combustion engine with direct fuel injection, variable valve drive and a blower device, whereby, after recognition of a cold start for the internal combustion engine, by means of a device, the valve lift (VH) and the valve overlap (VO) for the gas exchange valves and the position of a throttle valve, arranged in the inlet tract of the internal combustion engine are adjusted to give a positive pressure drop between the inlet side and the exhaust side of the internal combustion engine such that at least a part of the air pumped by the blower device is pumped directly from the inlet to the outlet side of the internal combustion engine into the exhaust line as flushing air. Optimal reaction conditions are thus obtained in the exhaust gas catalyst.

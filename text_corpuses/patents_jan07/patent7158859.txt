@@ -1,0 +1,4 @@
+title: 5 degrees of freedom mobile robot
+
+abstract: 
+A robotic system that includes a remote controlled robot with at least five degrees of freedom and a teleconferencing function. The robot may include a camera, a monitor and a holonomic platform all attached to a robot housing. The robot may be controlled by a remote control station that also has a camera and a monitor. The remote control station may be linked to a base station that is wirelessly coupled to the robot. The cameras and monitors allow a care giver at the remote location to monitor and care for a patient through the robot. The holonomic platform provides three degrees of freedom to allow the robot to move about a home or facility to locate and/or follow a patient. The robot also has mechanisms to provide at least two degrees of freedom for the camera.

@@ -1,0 +1,4 @@
+title: State indicating information setting circuit and status bit setting circuit
+
+abstract: 
+A state indicating information setting circuit and a status bit setting circuit are responsive to detection of a predetermined state by a predetermined state detecting part for setting predetermined state indicating information and, then, appropriately resetting the detection state in the state detecting part.

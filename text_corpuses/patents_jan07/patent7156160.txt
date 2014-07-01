@@ -1,0 +1,4 @@
+title: Integrated liquid cooling system for electronic components
+
+abstract: 
+A liquid cooling system includes a container () defining communicable first and second chambers () therein, a pump () mounted on the container and having an entrance port () in flow communication with the second chamber, and an exit port () in flow communication with the first chamber so that the pump, the first chamber, and the second chamber together form a loop for circulation of coolant, and a heat dissipation unit () located at the loop for cooling the coolant.

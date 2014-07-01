@@ -1,0 +1,4 @@
+title: Arrangement of seats for an aircraft cabin
+
+abstract: 
+An arrangement of individual seats for passengers in an aircraft, comprising a plurality of seats which can be converted into beds and disposed in rows, and comprising two lateral groups () of two contiguous rows, each group being disposed along a wall () of the aircraft fuselage, and at least one central group () of two contiguous rows, the said central group being separated from each of the lateral groups by a gangway. Each lateral group comprising, between two consecutive groups in a first row, and a pitch (P1) able to allow transverse passage for the passengers in the other row. The at least one central group comprising, between two adjacent seats in the same row, and a pitch (P2) less than the pitch provided in the lateral groups.

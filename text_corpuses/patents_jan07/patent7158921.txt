@@ -1,0 +1,4 @@
+title: Electromagnetic field analyzer, electromagnetic field analyzing program and storage medium for recording the program
+
+abstract: 
+An electromagnetic field analyzer includes a division-into-element portion that divides form data as an analysis object into coarse elements and fine elements. A prolongation matrix forming portion forms a prolongation matrix defining an electromagnetic field vector of the coarse elements divided by the division-into-element portion related to an electromagnetic field vector of the fine elements. Then, an approximate value calculation portion and an approximate solution correction portion calculate an approximate solution of the electromagnetic field vector of the fine elements by applying an iteration method of simultaneous linear equations while referring to the prolongation matrix. Accordingly, it becomes possible to perform an electromagnetic field analysis at high speed by using a multi-grid method using a non-nested mesh.

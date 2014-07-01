@@ -1,0 +1,4 @@
+title: Method and system for locking multiple resources in a distributed environment
+
+abstract: 
+A method and system that creates and maintains lock properties for a resource or object in a distributed environment. The method and system creates and/or updates lock objects to relate to multiple locks, i.e., multiple resources. The method and system creates and maintains lock properties for a resource or object in a distributed environment.

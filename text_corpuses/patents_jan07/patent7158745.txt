@@ -1,0 +1,4 @@
+title: Method and device to regulate toner in an image forming device
+
+abstract: 
+A device to regulate toner within an image forming apparatus. The regulating member has a first section and a toner regulating edge with at least one gap. The regulating member controls the amount of toner that is distributed on the surface of the toner developer roller by contacting the toner developing roller in a contact region. The gap, having at least one upper edge, may regulate toner on the toner developer roller near the contact region. The toner regulating device may prevent inadvertent toner marks that may appear on printed media.

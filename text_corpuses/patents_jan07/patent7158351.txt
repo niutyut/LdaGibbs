@@ -1,0 +1,4 @@
+title: Magnetic recording and reproducing head restraining a side reading
+
+abstract: 
+A magnetic recording head includes an upper shield layer, a lower shield layer, a magnetoresistive film interposed between the upper shield layer and the lower shield layer, and a pair of leads electrically coupled to the magnetoresistive film, in which a pair of side shield layers constituted by portions of the upper shield layer is formed on both sides of the magnetoresistive film, and a spacing between each side shield layer and the magnetoresistive film is formed to be narrower than twice of a spacing between the upper shield layer and the lower shield layer, thereby a side reading amount can be made smaller than a conventional side reading value determined from the spacing between the upper and lower shield layers and a magnetic spacing between the head and a medium.

@@ -1,0 +1,4 @@
+title: Development of a detailed logical volume configuration from high-level user requirements
+
+abstract: 
+A method, system, language, and computer program product to enable a user to provide a high-level specification of storage requirements without having detailed knowledge of the underlying vendor-specific APIs and command line utilities for each possible storage device used to meet the storage requirements. The user does not specify how to implement the storage requirements. The system implements the high-level specification in hardware and/or software without further direction from the user.

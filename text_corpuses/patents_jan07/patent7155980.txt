@@ -1,0 +1,4 @@
+title: Resonating transducer
+
+abstract: 
+A resonating pressure transducer operable to measure an applied pressure by measuring changes in a resonant frequency is disclosed. The pressure transducer comprises a plurality of diaphragms formed in a wafer of semi-conducting material between two layers, wherein each of the diaphragms is divided into a plurality of electrically isolated sections; a cavity in one of the covering layers opposite a corresponding one of the diaphragms, a first via formed through a selected one of the layers enables application of a potential to selected ones of the diaphragm sections; and a second via formed through a selected one of the layers enables transmission of a measure from selected ones of the diaphragm sections.

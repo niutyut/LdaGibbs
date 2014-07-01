@@ -1,0 +1,4 @@
+title: Process for producing propylene chlorohydrin
+
+abstract: 
+A process of producing propylene chlorohydrin using a reactor having a one-way flow reaction area and a circulating flow reaction area which are connected in series. In this process, a propylene-containing gas is supplied to an aqueous solution of chlorine in the one-way flow reaction area to carry out at least part of a propylene chlorohydrin forming reaction so as to form a reaction mixture fluid containing propylene chlorohydrin and propylene and/or chlorine. The above reaction mixture fluid discharged from this reaction area is supplied to the circulating flow reaction area as at least part of a make-up medium, a propylene-containing gas and/or chlorine are/is supplied as required to continue the reaction in the circulating flow reaction area so as to obtain a reaction solution having a desired content of propylene chlorohydrin, and part of the reaction solution is extracted.

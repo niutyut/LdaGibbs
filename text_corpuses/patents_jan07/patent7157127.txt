@@ -1,0 +1,4 @@
+title: Label for stretch wrapped stack
+
+abstract: 
+A label for adhesive attachment to a stack of articles combined by an exterior substrate. The label includes a label material having a pair of outer label regions, a central label region, a signal surface having indications and an adhesive surface, the adhesive surface being provided with an adhesive. The label also includes a protective release cover, wherein the release cover is releasably attached to the adhesive surface of the label. The release cover also includes at least two separating lines, wherein the separating lines divide the release cover into two outer regions separated by a center region such that the regions of the release cover can be removed from the label material independently from each other.

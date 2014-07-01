@@ -1,0 +1,4 @@
+title: Method for supplying dressings to a cylinder of a printing machine
+
+abstract: 
+A device is provided for the storage of a blanket or a dressing that is to be supplied to a cylinder of a printing machine. A retainer is usable, in a first operating position, to retain the blanket in a first storage position. The blanket can leave the first storage position when it is disengaged from the retainer as the retainer is moved to a second operating position. A second storage position is situated below the first storage position and is vertically spaced from the first storage position along the length of the blanket to be supported. The second storage position stores the blanket that is detached from the retainer before it is supplied to the cylinder. The blankets are stored lengthwise without touching each other. Blankets to be applied to the cylinder are stored in the storage positions one on top of the other.

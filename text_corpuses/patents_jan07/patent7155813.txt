@@ -1,0 +1,4 @@
+title: Programmer systems
+
+abstract: 
+A micro device using assembly system for feeding, programming, and placing micro devices on circuit boards includes a robotic handling system capable of picking up and placing the micro devices on the circuit boards on a conveyor system. A control system controls the conveyor system and the robotic handling system. An input feeder provides the micro devices and a programming system is capable of programming a plurality of micro devices in sockets which are in line parallel with the input feeder. The input feeder responds to communication with the control system to feed the unprogrammed micro devices while the programming system programs the micro devices and communicates to the control system. The robotic handling system responds to communication of the programming system with the control system to pickup and places the programmed micro devices on the circuit boards at high speed.

@@ -1,0 +1,4 @@
+title: Ultraviolet blocking composition for protection of package or container contents
+
+abstract: 
+An ultraviolet absorption composition has been developed for the protection of packaging or container contents in the ultraviolet range of 290 nm to 390 nm, offering effective screening from all wavelengths of solar radiation. A combination of an optical brightener with an ultraviolet absorber has been found to provide effective screening without adding significant color to the polymer composition. This extended range of ultraviolet blocking over what can be achieved with ultraviolet absorbers alone is especially valuable in food and drink packaging applications where the contents of the packages need ultraviolet protection to prevent discoloration or development of undesirable flavors.

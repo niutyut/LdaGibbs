@@ -1,0 +1,4 @@
+title: Method and system for remotely monitoring garage door position
+
+abstract: 
+A method, system and computer program product for adaptively tracking the position of an entry portal, such as an automatic garage door. In accordance with the present invention a transmitter assembly senses and transmits the sensed position of the door position in a periodic manner at a predetermined transmit interval. A receiver assembly including a receiver module receives the transmitted door position signals and synchronizes the activation of the receiver module with the transmit interval such that the receiver receives the door position signals transmitted at the predetermined transmit interval. A receiver output indicator is then updated in accordance with the entry portal position determined by the received door position signal.

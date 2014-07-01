@@ -1,0 +1,4 @@
+title: Therapeutic agents and methods of use thereof for the modulation of angiogenesis
+
+abstract: 
+The present invention provides methods of treating an autoimmune disorder (e.g., lupus erythematosus, multiple sclerosis, myasthenia gravis, vasculitis and diabetes mellitus) in a subject by administering to the subject a therapeutically effective amount of one or more compounds of the invention.

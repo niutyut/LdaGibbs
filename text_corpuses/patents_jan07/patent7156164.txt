@@ -1,0 +1,4 @@
+title: Heat exchanger
+
+abstract: 
+The invention relates to a heat exchanger () with tubes () and a collector box (). Said collector box () has a tube-plate () with tube openings () and with angled or rounded lateral regions ().

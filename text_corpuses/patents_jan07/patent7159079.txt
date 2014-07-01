@@ -1,0 +1,5 @@
+title: Multiprocessor system
+
+abstract: 
+A splittable/connectible bus  and a network  for transmitting coherence transactions between CPUs are provided between the CPUs, and a directory  and a group setup register  for storing bus-splitting information are provided in a directory control circuit  that controls cache invalidation. The bus is dynamically set to a split or connected state to fit a particular execution form of a job, and the directory control circuit uses the directory in order to manage all inter-CPU coherence control sequences in response to the above setting, while at the same time, in accordance with information of the group setup register, omitting dynamically bus-connected CPU-to-CPU cache coherence control, and conducting only bus-split CPU-to-CPU cache coherence control through the network.
+Thus, decreases in performance scalability due to an inter-CPU coherence-processing overhead are relieved in a system having multiple CPUs and guaranteeing inter-CPU cache coherence by use of hardware.

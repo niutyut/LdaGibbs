@@ -1,0 +1,4 @@
+title: Structured document management system, structured document management method, search device and search method
+
+abstract: 
+A structured document inputted from a document input unit is decomposed into partial structures to be an editing unit in a document processing unit, and global structural information showing a relation between the partial structures is registered into a relational database. The decomposed partial structure is inputted to an editing unit processing unit, and information of elements as element information and a relation between elements in the partial structure as structural information are registered into the relational database. An ancestor-descendant relation between two elements can be determined easily and speedily by determining an ancestor-descendant relation between the partial structures of the global structural information and an ancestor-descendant relation of the structural information of the ancestor partial structure.

@@ -1,0 +1,5 @@
+title: Method for the production of olefin polymers and selected catalysts
+
+abstract: 
+A process for preparing olefin homopolymers or copolymers by polymerization of at least one olefin in a hydrocarbon (mixture) in the presence of a molar mass regulator, a mixed catalyst and a substance which increases the electrical conductivity of the hydrocarbon (mixture) and is soluble in the hydrocarbon or the mixture of hydrocarbons or which reacts with components of the mixed catalyst, wherein the mixed catalyst is obtainable by reaction of a magnesium alkoxide with titanium(IV) halide and comprises titanium in the oxidation states four and three and also an organic aluminum compound, where the molar ratio of Ti(IV) to Ti(III) is from 100:1 to 1:100.
+The process makes it possible to prepare, in particular, polyethylenes having an ultrahigh molecular weight. The formation of deposits on the walls during the polymerization is significantly reduced.

@@ -1,0 +1,4 @@
+title: Automatic scenario management for a policy-based storage system
+
+abstract: 
+A method for managing storage devices provides a function of automatically changing a scenario and automatically making a partial change to the scenario according to a change in the environment, which are made possible by executing an operation procedure according to an operation rule for storage devices and feeding back a result of execution of the scenario. A storage managing server contains a policy definition file, a scenario definition file, a priority definition file, an execution result value file, a feedback definition file, and a scenario parameter definition file, and also obtains performance information and executes scenarios. By using all those files and processes, the storage managing server implements automatic management of a policy-based storage system.

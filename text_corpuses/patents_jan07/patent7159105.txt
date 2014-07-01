@@ -1,0 +1,4 @@
+title: Platform-based optimization routines provided by firmware of a computer system
+
+abstract: 
+A method and system to provide platform-based optimization routines by firmware of a computer system. During a pre-boot phase of a computer system, the firmware identifies one or more hardware devices, such as a central processing unit (CPU) or chipset, of a computer system. The firmware determines an optimized routine library for the one or more hardware devices from a set of optimized routine libraries. The firmware advertises the optimized routine library corresponding to the one or more hardware devices to the computer system for use by an operating system or application. In one embodiment, the firmware of the computer system operates in accordance with the Extensible Firmware Interface (EFI) framework standard.

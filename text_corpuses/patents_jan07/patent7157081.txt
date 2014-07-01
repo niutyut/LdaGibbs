@@ -1,0 +1,4 @@
+title: Uses of aldose-1-epimerase (mutarotase) for diagnosis and therapy of inflammatory diseases and sepsis
+
+abstract: 
+Uses of aldose 1-epimerase (SEQ ID NO:3) from body fluids or body tissues in human and veterinary medicine as a marker peptide for diagnosis, for prognosis of the course and for monitoring of the course of inflammations and infections and/or as a target for therapeutically influencing the course of inflammations and/or infections.

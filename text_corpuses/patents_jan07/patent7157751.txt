@@ -1,0 +1,4 @@
+title: Display device
+
+abstract: 
+The present invention realizes a display device having C-MOS p-Si TFTs which enable the high integration by reducing spaces for P-MOS TFTs and N-MOS TFTs in driving circuit or the like thereof. The present invention adopts a self-aligned C-MOS process which uses a half tone mask as an exposure mask for manufacturing the C-MOS p-Si TFTs mounted on the display device. With the use of the half tone mask, the alignment or positioning at a bonding portion between a P-MOS portion and an N-MOS portion becomes unnecessary and hence, the number of photolithography steps can be reduced and the high integration of C-MOS TFT circuits can be realized.

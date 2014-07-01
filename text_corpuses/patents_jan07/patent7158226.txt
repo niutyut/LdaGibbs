@@ -1,0 +1,4 @@
+title: Optical system and method for exciting and measuring fluorescence on or in samples treated with fluorescent
+
+abstract: 
+An optical system and method of exciting and measuring fluorescence on or in samples treated using fluorescent pigments using such an optical system having at least one first laser (); a mirror (); a deflection element (); an optic (); and a unit (), which includes mirror () and optic () mounted fixed in relation to one another. The unit () is positioned so it is linearly movable back and forth along the optical axis () and is mechanically connected to an oscillating linear drive (). The optic () additionally acts as a collimator and the mirror () additionally acts to deflect the collimated light () parallel to the optical axis ().

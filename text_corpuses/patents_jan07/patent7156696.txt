@@ -1,0 +1,4 @@
+title: Connector for corrugated coaxial cable and method
+
+abstract: 
+An electrical connector is mounted on a corrugated coaxial cable. An electrical connection with the outer conductor of the cable is formed by compressing an elastomer body surrounding the end of the cable and flowing the body inwardly against the cable to hold a conductive member in electrical connection with the outer conductor.

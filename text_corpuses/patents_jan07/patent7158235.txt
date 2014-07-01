@@ -1,0 +1,4 @@
+title: System and method for inspection using white light interferometry
+
+abstract: 
+A system for inspecting components is provided. The system includes an image data system that generates image data of the component, such as from a position overlooking the top of a bumped wafer. An interferometry inspection system is connected to the image data system and receives the image data, and analyzes the image data to locate interference fringing that is used to determine the surface coordinates of the bump contacts.

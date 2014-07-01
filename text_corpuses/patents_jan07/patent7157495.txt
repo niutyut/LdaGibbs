@@ -1,0 +1,4 @@
+title: Hexahydrofuro[2,3-B]furan-3-YL-N-{3-[(1,3-benzodioxol-5-ylsulfonyl)(isobutyl)amino]-1-benzyl-2-hydroxypropyl}carbamate as retroviral protease inhibitor
+
+abstract: 
+Compositions comprising bis-tetrahydrofuran benzodioxyolyl sulfonamide compounds that are surprisingly effective protease inhibitors and a second antiretroviral compound are disclosed. Methods of inhibiting retrovirus proteases, in particular multi-drug resistant retrovirus proteases, methods of treating or preventing infection or disease associated with retrovirus infection in a mammal, and methods of inhibiting viral replication are also disclosed.

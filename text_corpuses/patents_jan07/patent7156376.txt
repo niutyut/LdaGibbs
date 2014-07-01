@@ -1,0 +1,4 @@
+title: Carburetor electronic control system
+
+abstract: 
+A carburetor electronic control system includes: transmission devices coupled to valves for opening and closing an intake path of a carburetor; electric motors that make the valves open and close via the transmission devices; and an electronic control unit for controlling the operation of the electric motors. The interior of a casing joined to one side face of the carburetor is divided by a partition plate into a transmission chamber on the carburetor side and a drive chamber on the opposite side. The transmission devices and the electric motors are housed and held in the transmission chamber and the drive chamber, respectively. Therefore, the transmission devices, the electric actuators, and the electronic control unit can be housed in a common casing, thereby reducing the dimensions of the carburetor electronic control system.

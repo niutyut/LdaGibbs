@@ -1,0 +1,4 @@
+title: Setting up calls over circuit and packet-switched resources on a network
+
+abstract: 
+A method of setting up calls over circuit-switched and packet-switched resources on a single network having the steps of receiving a request from a user for a call having one or more resources, and allocating the one or more resources among packet-switched, resources and circuit-switched resources associated with a communication network to set up the call. The call may be a multi-media call. Resources may be allocated based on one or more call characteristics that may be in a request for resources by the user.

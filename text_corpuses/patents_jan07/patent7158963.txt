@@ -1,0 +1,4 @@
+title: Validating multiple execution plans for database queries
+
+abstract: 
+Validation of large numbers of alternative execution plans for a database query, either an exhaustive enumeration of the complete space of alternatives, or else an unbiased random sample, is performed by efficiently constructing execution trees from a data structure having groups alternative operators that are ranked in a directory. Each global rank of a plan identifies that plan uniquely among all the alternative plans. The operators are unranked from the directory according to a specification that characterizes the desired plans.

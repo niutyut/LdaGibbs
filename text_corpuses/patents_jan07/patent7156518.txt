@@ -1,0 +1,4 @@
+title: Cataract imaging apparatus
+
+abstract: 
+A method is disclosed for quantifying the extent a cataract impairs vision in an eye having a pupil, an ocular lens, and a retina. The method includes illuminating a localized region of the retina such that light is reflected from the localized region and is transmitted through the ocular lens. A portion of the reflected light is scattered by the cataract associated with the ocular lens. Light reflected from the localized region of the retina is collected, and the amount of scatter is measured so as to quantify the extent the scatter impairs vision of the eye.

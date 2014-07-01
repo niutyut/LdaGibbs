@@ -1,0 +1,4 @@
+title: Battery monitoring system
+
+abstract: 
+A battery monitoring system including a first device powered by a first battery, a second device powered by a second battery and operated in conjunction with the first device, a first information generating portion that generates a first information indicating the state of the first battery, a second information generating portion that generates a second information indicating the state of the second battery, and an information selecting portion that selects and outputs at least one of the first information and the second information.

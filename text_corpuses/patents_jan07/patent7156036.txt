@@ -1,0 +1,4 @@
+title: Launch and recovery system
+
+abstract: 
+The launch and recovery system provides a dive wing and drogue assembly that is towed behind a ship by cables. The dive wing imparts a downward thrust to the drogue, so that the drogue is towed underwater, placing tension on the cables. The cables become stiff due to the speed of the ship and the weight and depth of the dive wing and drogue assembly, so that the cables take on the character of rails. The boat or watercraft to be launched is placed on a sling carriage that is slidably mounted on the cables, so that the sling slides down the cables, launching the watercraft in the stable wake of the ship. The watercraft is recovered by tying a winch cable or line to the watercraft, winching the watercraft back onto the sling, and winching the sling back onto the fantail of the ship.

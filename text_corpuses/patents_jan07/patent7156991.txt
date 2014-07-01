@@ -1,0 +1,4 @@
+title: Liquid additive slow-release apparatus driven by a filter pressure gradient
+
+abstract: 
+The present invention provides a filter assembly containing a filter element and a container as a depot for a liquid additive. The container can include an inlet and an outlet, which are configured to allow a liquid to flow into the container mix with the contained additive and then flow out into the system. It has been observed that a liquid flowing through a filter assembly exhibits a pressure gradient within the filter. Consequently, the inlets and outlets to the container can be positioned to take advantage of the pressure gradient to enhance the addition of the additive to the liquid in the filter assembly.

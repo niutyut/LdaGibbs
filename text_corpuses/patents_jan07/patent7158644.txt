@@ -1,0 +1,4 @@
+title: Active noise control system
+
+abstract: 
+A first rectifying net, a rectifying grid and a second rectifying net are attached, as a rectifying part upstream of a duct through which air for cooling flows. A noise detection microphone detects noise within the duct. An error detection microphone is placed in the downstream side of the noise to detect error noise. An arithmetic circuit inputs a noise signal of the noise detection microphone, carries out an arithmetic of a transfer function so that an output signal of the error detection microphone becomes minimum, and outputs a control signal to a control sound source. The control sound source radiates a control sound having approximately the same sound pressure as and an opposite phase of the noise within the duct. Thus, the coherence between the noise in the upstream and downstream parts increases, thereby enhancing a sound-muffling effect.

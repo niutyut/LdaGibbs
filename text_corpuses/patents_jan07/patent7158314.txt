@@ -1,0 +1,14 @@
+title: Imaging-optical system
+
+abstract: 
+An imaging-optical system includes a negative first lens group, a positive second lens group and a positive third lens group.
+A zooming operation is performed by moving the second and third lens groups while an object distance to the object is being varied without varying a distance from the most object-side surface of the first lens group to the imaging plane.
+An in-focus state is maintained while the focal length of the imaging-optical system is being varied through the zooming operation.
+The first lens group includes cemented lens elements, and the cemented lens elements are positioned at the most object-side of the first lens group.
+The cemented lens elements satisfy the following condition:
+
+0.9<2.0??(1)
+
+wherein
+Ra designates the radius of curvature of a bonding surface of the cemented lens elements of the first lens group; and
+fw designates the focal length of the imaging-optical system at the short focal length extremity.

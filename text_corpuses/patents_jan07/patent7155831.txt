@@ -1,0 +1,4 @@
+title: Ceramic cutting tool
+
+abstract: 
+A ceramic cutting tool () is for high speed cutting of light, thin and soft materials. The ceramic cutting tool includes an upper blade () and a lower blade () both made of ceramic material. The upper and lower blades therefore possess extremely high hardness, and excellent wear resistance and heat resistance. This increases an operating lifetime of the ceramic cutting tool. Furthermore, the lower blade can alternatively be a lower blade assembly (). The lower blade assembly includes a metal base (), and a ceramic edge insert () detachably mounted in the metal base. If the ceramic edge insert becomes worn or is damaged, it can be easily replaced by a new ceramic edge insert. There is no need to replace the metal base.

@@ -1,0 +1,4 @@
+title: Membrane, membrane plate and chamber plate for a filter press
+
+abstract: 
+In order to provide a filter press which operates especially reliably and free of wear, a membrane for a membrane plate has a membrane surface enclosed by a membrane margin which is free of perforations. Furthermore, a membrane plate has such a membrane. Moreover, a chamber plate has a number of sludge inflows, each with an inflow orifice spaced apart from the chamber plate margin. Finally, a plate stack has a number of membrane plates and/or a number of chamber plates and also a corresponding filter press.

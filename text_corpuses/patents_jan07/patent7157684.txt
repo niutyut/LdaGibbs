@@ -1,0 +1,4 @@
+title: Receiving circuit for free-space optical communication
+
+abstract: 
+An amplifier circuit amplifies the difference between an output voltage from a current voltage conversion circuit and a bias voltage. The current voltage conversion circuit converts a photocurrent of a photodiode which detect incoming light into a voltage. A gm-amp charges or discharges a capacity by a current corresponding to the difference between the output voltage from the amplifier circuit and a reference voltage. A field effect transistor supplies a drain current, which is controlled by voltages at the respective terminals of the capacity, to the photodiode, in order to prevent the output voltage of the amplifier circuit from being varied due to the influence of a DC photocurrent flowing in the photodiode. The gate of a field effect transistor, which is connected in parallel to a current voltage conversion resistor, has an identical voltage with the gate of the field effect transistor.

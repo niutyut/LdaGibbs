@@ -1,0 +1,4 @@
+title: Built-in self test system and method
+
+abstract: 
+External test equipment is used to simulate an internal BIST test, thus enabling the capture or generation of detailed test results. By simulating the BIST test sequence in real time during the test, the external tester may monitor an output from the BIST and determine the exact location of failures when they occur. The external tester may generate a bit fail map indicating whether each memory location passed or failed the BIST test.

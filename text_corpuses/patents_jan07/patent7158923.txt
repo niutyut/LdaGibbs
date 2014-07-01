@@ -1,0 +1,4 @@
+title: Method of integrating product information management with vehicle design
+
+abstract: 
+A method of integrating product information management with vehicle design includes the steps of selecting a vehicle program requirement from a library stored in a memory of a computer system, wherein the library is accessed through an information portal on the computer system. The method also includes the steps of selecting an information database containing information related to the design of the vehicle from the library, wherein the information database is accessed through the information portal, and determining if the information from the information database correlates with the program requirement. The method further includes the steps of using the information from the information database in the design of the vehicle, if the information from the information database correlates with the program requirement.

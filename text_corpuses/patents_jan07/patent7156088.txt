@@ -1,0 +1,4 @@
+title: Solar collector mounting array
+
+abstract: 
+A solar collector structural support system that affixes to a mounting surface without penetrating the mounting surface is disclosed. The invention in the preferred embodiment includes a junction element adapted to receive: a plurality of leg members; at least one footing adapted to engage frictionally a mounting surface; and a structural support member; wherein a first junction element of the plurality of junction elements receives: a proximal end of a first leg member and a first structural support member. In addition, the junction element may be adapted to receive a ballast element and the ballast element may be adapted to engage a leg member.

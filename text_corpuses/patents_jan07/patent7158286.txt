@@ -1,0 +1,4 @@
+title: Fiber optic transmission system using Raman effect amplification
+
+abstract: 
+An optical transmission system uses as its transmission medium a fiber having chromatic dispersion. A sender emits an optical signal to be transmitted into the fiber. A sender emits into the transmission medium pumping light constituting a first pump adapted to pump the optical signal by the Raman effect and pumping light constituting a second pump adapted to pump the first pumping light by the Raman effect. The first pump and the second pump are amplitude modulated and the envelopes of the first pump and the second pump are decorrelated in time. This decorrelation limits the efficiency of the Raman pumping of the first light by the second light on emission. Varying the decorrelation in time between the pump envelopes varies the region of the transmission system in which the signals are amplified.

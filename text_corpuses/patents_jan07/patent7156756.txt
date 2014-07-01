@@ -1,0 +1,4 @@
+title: Golf ball containing graphite nanosheets in a polymeric network
+
+abstract: 
+A golf ball containing a layer, which comprises nanosheets of exfoliated graphite dispersed in a polymeric matrix, is provided. Intercalated graphite is exfoliated by brief exposure to high heat to expand the thickness of the graphite. The expanded or exfoliated graphite is then mixed with monomers and polymerized in situ to form a polymer with a network of nanosheets of the exfoliated graphite dispersed therein. The exfoliated graphite advantageously retains its nanostructure during the polymerization process.

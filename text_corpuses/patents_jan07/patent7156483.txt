@@ -1,0 +1,4 @@
+title: Method for determining ink drop velocity of carrier-mounted printhead using an optical scanner
+
+abstract: 
+A method for determining ink drop velocity of a printhead located at a gap above a print medium. A first ink mark is printed at a first printhead velocity. A second ink mark is printed at a different (in magnitude and/or direction) second printhead velocity. The ink for the second ink mark is ejected from the printhead at the same print ejection position used for the first ink mark plus an offset distance (if any). An optical scan of at least a portion of the print medium is generated using a non-printhead-carrier-mounted optical scanner. The distance between the ink marks is measured using the optical scan. The ink drop velocity is calculated using the measured distance, the offset distance, the first and second printhead velocities, and the gap.

@@ -1,0 +1,4 @@
+title: Developing device for liquid electrophotographic image forming apparatus
+
+abstract: 
+A developing device for a liquid electrophotographic image forming apparatus is provided. The developing device may have a developing roller, which supplies ink to a photosensitive body on which an electrostatic latent image is formed and develops the electrostatic latent image. The apparatus may include an ink reservoir in which ink supplied to the developing roller is accommodated, and an ink removal unit, which removes ink remaining in the ink reservoir after a development operation is performed. The ink removal unit may comprise an ink removal member rotatably installed in the ink reservoir that exhausts ink through a through hole formed under the ink reservoir. A driving member rotates the ink removal member. An ink cartridge stores ink exhausted through the through hole.

@@ -1,0 +1,4 @@
+title: Inkjet printer cartridge with integral maintenance station
+
+abstract: 
+A printer cartridge for an inkjet printer including a printing fluid storage, a printhead in fluid communication with the printing fluid storage, and an assembly auxiliary to the printhead arranged to selectively blot cap or provide a platen for the printhead. A multi-function maintenance station allows the cartridge to be easily inserted and removed as single unit. With the printhead maintenance facility manufactured with and incorporated into the cartridge, the capping, blotting and printing gap between the nozzles and media is better controlled. Also disclosed is an ink refill system for the cartridge.

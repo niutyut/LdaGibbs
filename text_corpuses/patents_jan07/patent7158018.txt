@@ -1,0 +1,4 @@
+title: Pneumatic tire mountable on a wheel rim and sensor net, rotation measurement unit and vehicle monitoring system for such tire
+
+abstract: 
+A pneumatic tire mountable of the rim of a vehicle wheel has a toroidal structure including a pair of beads for receipt on the rim of a vehicle wheel such that the pneumatic tire is secured to the vehicle wheel for rotation therewith. The pneumatic tire also includes a tread band surface at the radially outermost location of the toroidal structure for contacting a surface along which the tire rolls. A plurality of sensor elements are disposed in the tire for sensing at least one operational parameter of the tire, with at least some of the sensor elements being in sensing arrangement with the tread band surface and the sensor elements being operable to permit reading of data concerning any tire operational parameter which is sensed by the sensor elements.

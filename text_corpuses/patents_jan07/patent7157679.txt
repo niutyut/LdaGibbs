@@ -1,0 +1,4 @@
+title: Scanned beam display having compensation for pattern dependant heating of a light source
+
+abstract: 
+A scanned beam display includes compensation for pattern-dependant heating of a light source. According to some embodiments, received image data is transformed to corrected data that compensates for pattern-dependent heating of one or more light sources.

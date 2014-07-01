@@ -1,0 +1,4 @@
+title: Projector
+
+abstract: 
+A manipulation button of a first attitude adjusting mechanism is located at a corner on a front side of a lower case. The manipulation button is operated with fingers of one hand while both corners of the front side of the lower case are supported with both hands in controlling the attitude of a projector. With the projector being stably supported it is unlikely for an inclination to occur in right and left directions approximately orthogonal with front and back direction of the projector. Workability during attitude adjustment processes of the projector are thus improved.

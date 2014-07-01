@@ -1,0 +1,4 @@
+title: Device and method for the multi-phase operation of a gas discharge or metal vapor lamp
+
+abstract: 
+The present invention describes an apparatus and methods for operating one or more gas arc lamps or metal vapor, wherein a rectified multiphase voltage is directly used by an electronic ballast device without intermittently connecting any active component, so as to achieve an efficient control of a gas arc lamp with a reduced interference radiation, wherein the power factor is inherently higher than 0.95.

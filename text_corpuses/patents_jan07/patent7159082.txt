@@ -1,0 +1,4 @@
+title: System and method for throttling memory accesses
+
+abstract: 
+A power throttling method and system for a memory controller. In one embodiment, a throttle value and a counter for controlling memory accesses by the memory controller to one or more memory devices are provided in the memory controller. Responsive to a throttle control signal indicative of an over-current state, on each clock cycle, the value of the counter is incremented by one, the counter value is compared to the throttle value, and if the counter value is greater than the throttle value, issuance of a memory operation cycle during the clock cycle is prevented.

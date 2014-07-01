@@ -1,0 +1,4 @@
+title: Method and apparatus for measuring shape of sheet
+
+abstract: 
+The method of making an online measurement of a shape of a conveyed sheet, the method comprises the steps of: imaging continuously at least two edge portions of entire the conveyed sheet in a widthwise direction of the conveyed sheet from a leading end to a trailing end of the conveyed sheet in a direction of conveyance of the conveyed sheet by means of a CCD line sensor; processing an image obtained in the imaging step to extract a sheet image portion corresponding to the conveyed sheet in the obtained image; and obtaining the shape of the conveyed sheet according to the sheet image portion extracted in the processing step.

@@ -1,0 +1,4 @@
+title: Power unit for jumping rope
+
+abstract: 
+An apparatus that moves a jumping element. The apparatus includes a motorized hub that is attached to a housing. The hub can rotate a jumping element, such as a jump rope, about a horizontal axis and/or a vertical axis. The hub is connected to a motor. The jump rope is coupled to the hub by a crank arm. The crank arm automatically releases from the arm in response to a threshold force. The apparatus includes a deactivation element that deactivates the motor when the jumping element is released from the hub. The jump rope can be coupled to the hub by a strap that limits the movement of the rope when decoupled from the hub. Deactivating the motor terminates rotation of the hub to prevent further movement of the crank arm and rope.

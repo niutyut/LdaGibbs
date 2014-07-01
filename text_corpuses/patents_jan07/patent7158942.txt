@@ -1,0 +1,4 @@
+title: Internet advertisement system
+
+abstract: 
+An Internet advertisement system which utilizes an advertisement server site and at least one partner web site. The partner web site provides to end-user terminals by e-mail a web page on which one or more banners that are provided from an advertisement server site are inserted. When a user clicks a browsed banner, content that is linked to the clicked-on banner is retrieved from a content database and delivered to the user by e-mail.

@@ -1,0 +1,4 @@
+title: Method of measuring attributes of personal care articles and compositions
+
+abstract: 
+Novel methods for measuring the soothing attributes of personal care compositions are disclosed. The methods disclosed are particularly suitable for measuring and comparing the soothing attributes of facial tissue to determine which facial tissue is most soothing to damaged skin. The methods include damaging the skin of a test subject to a predetermined amount, contacting a test facial tissue with the damage skin, and rating the soothing attributes of the facial tissue. In a preferred embodiment, the amount of skin damage on the skin is determined by the test subject.

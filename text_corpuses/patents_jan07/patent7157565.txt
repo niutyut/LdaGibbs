@@ -1,0 +1,4 @@
+title: Far red shifted fluorescent proteins
+
+abstract: 
+Nucleic acid compositions encoding Stichodactylidaen chromoproteins and fluorescent mutants thereof. The proteins of interest are proteins that are colored and/or fluorescent, where this feature arises from the interaction of two or more residues of the protein. Also of interest are proteins that are substantially similar to, or mutants of, the above specific proteins, including non-aggregating mutants and mutants with modulated oligomerization characteristics as compared to wild type. Also provided are fragments of the nucleic acids and the peptides encoded thereby, as well as antibodies to the subject proteins and transgenic cells and organisms. The subject protein and nucleic acid compositions find use in a variety of different applications. Finally, kits for use in such applications, e.g., that include the subject nucleic acid compositions, are provided.

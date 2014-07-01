@@ -1,0 +1,4 @@
+title: CrB and CrMoB as third underlayer to refine grains
+
+abstract: 
+The Hr and SNR of a magnetic recording medium are increased and the signal pulse narrowed by employing a tri-layer underlayer structure containing Cr or a Cr alloy wherein the second underlayer contains Cr and B, the first underlayer preferably contains substantially pure Cr, and the third underlayer preferably contains a ternary alloy of Cr.

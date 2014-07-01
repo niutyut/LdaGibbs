@@ -1,0 +1,4 @@
+title: Aeration tank control valve system
+
+abstract: 
+Mineral contaminants are removed from water in a system in which water is sprayed into an air head at the top of a tank through a diffuser and withdrawn through a pick-up tube. A solenoid valve operates to allows air from a compressor to flow into the top of the tank through a shuttle valve which is opened by the air pressure. Simultaneously a drain valve connected to the shuttle valve opens a drain, venting water and air from the tank. The shuttle valve, closed by the solenoid valve, closes the air supply line and connecting the shuttle valve to atmosphere, and pressure within the aeration tank can close the shuttle valve, which causes closing of the drain valve. The part of the valve which opens the drain is made responsive to excess pressure within the air tank to open the drain and so acts as a pressure relief valve.

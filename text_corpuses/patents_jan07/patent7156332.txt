@@ -1,0 +1,4 @@
+title: Product containment apparatus
+
+abstract: 
+Self contained filter backpurge systems useful for totally enclosed processing mills and for clean in place (CIP) processing material processing mills.

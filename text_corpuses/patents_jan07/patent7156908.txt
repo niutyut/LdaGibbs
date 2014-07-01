@@ -1,0 +1,5 @@
+title: Phthalocyanine compounds, ink compositions comprising said compounds, and printing process therewith
+
+abstract: 
+A process for forming an image on a substrate comprising applying a composition comprising: (a) a compound of Formula (1) and salts thereof, wherein: M is Cu or Ni; Pc represents a phthalocyanine nucleus of Formula (2); R, Rand Rindependently are H or optionally substituted Calkyl; Ris optionally substituted C-hydroxyalkyl; x is greater than 0 and less than 1.8; y and z are both greater than 0; and the sum of (x+y+z) is 2.4 to 4.5: and (b) a liquid medium: thereto by means of an ink jet printer. Also compositions, inks, compounds and ink jet printer cartridges
+

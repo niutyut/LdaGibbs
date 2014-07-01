@@ -1,0 +1,4 @@
+title: Optical system and image pickup apparatus including the same
+
+abstract: 
+Disclosed is an optical system in which an adhesive layer of a cemented lens is made of a mixture in which inorganic fine particles dispersed into a transparent medium. Therefore, there is realized an optical system capable of effectively correcting chromatic aberration while having a structure in which a manufacturing cost is low and an environmental resistance is high.

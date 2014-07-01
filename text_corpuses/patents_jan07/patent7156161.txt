@@ -1,0 +1,4 @@
+title: Lightweight thermal heat transfer apparatus
+
+abstract: 
+A lightweight thermal heat transfer apparatus, including a core section and a laminate composite section. The core section is substantially similar to a diamond shape. The laminate composite section has a plurality of thermally conductive fibers, which are disposed around the core section and oriented at a configuration similar to the core section.

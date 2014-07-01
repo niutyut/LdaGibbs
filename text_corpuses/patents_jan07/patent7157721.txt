@@ -1,0 +1,4 @@
+title: Coupled ionization apparatus and methods
+
+abstract: 
+Apparatus for generating ions in a gaseous medium, the apparatus including two electrodes separated by a dielectric material and a means for generating radio frequency pulses. The electrodes are of dissimilar size and are attached to opposite sides of the dielectric material. The smaller electrode shape and circumference is configured to control the quantity of plasma that is produced. Method of generating ions in a gaseous medium having the step of applying a radio frequency voltage between two electrodes separated by a dielectric material so as to generate a plasma ion source. Locating the plasma ion source in a confined area to yield NO3-ions. Locating the plasma ion source in an open configuration to yield predominantly CO3-ions with minor amounts of O2- and O3-ions.

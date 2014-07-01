@@ -1,0 +1,4 @@
+title: Automatic tray handling system for sorter
+
+abstract: 
+A method for handling trays for use with an article sorter includes providing a conveying surface along a plurality of sorter units and conveying empty trays along the conveying surface. The empty trays that are being conveyed along the conveying surface are stopped with a tray stopping device that is positioned at least partially below the conveying surface and operable to project a portion of the tray stopping device above the conveying surface to engage and stop an empty tray. The stopped empty trays are moved from the conveying surface to the tray support areas in a direction generally transverse to the conveying surface. The empty trays are at least partially filled at the tray support areas, and the partially filled trays are moved from the tray support area onto the conveying surface.

@@ -1,0 +1,4 @@
+title: Method for using a wet etch to manufacturing a semiconductor device having a silicided gate electrode and a method for manufacturing an integrated circuit including the same
+
+abstract: 
+The present invention provides a method for manufacturing a semiconductor device and a method for manufacturing an integrated circuit including the semiconductor device. The method for manufacturing the semiconductor device, among other possible steps, forming a polysilicon gate electrode () over a substrate () and forming a protective layer () over the polysilicon gate electrode () to provide a capped polysilicon gate electrode (). The method further includes forming a protective oxide () on a surface proximate the polysilicon gate electrode (), and removing the protective oxide () using a wet etch, the wet etch not having a substantial impact on the protective layer ().

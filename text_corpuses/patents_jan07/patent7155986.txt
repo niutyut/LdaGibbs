@@ -1,0 +1,4 @@
+title: Power fastening tool
+
+abstract: 
+In a power fastening tool for fastening a fastening member such as a screw or a fastening member, malfunction that driving of a motor is stopped before the fastening member is fastened completely can be prevented. A fastening judger judges that the fastening operation is completed when a value of an estimated torque T for fastening the fastening member becomes larger than a predetermined lower limit value T previously set by a user and a value of a torque variation ratio ??T varies from positive to negative. Thus, it is possible to prevent malfunction for stopping driving of a motor even when the value of the torque variation ratio ??T varies from positive to negative due to trouble before the vale of the estimated torque T becomes larger than the lower limit value T

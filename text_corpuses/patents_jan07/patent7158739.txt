@@ -1,0 +1,4 @@
+title: Image forming apparatus capable of stable wireless communication
+
+abstract: 
+In an image forming operation, communication with a non-contact type data storage circuit is established by a communication signal of a first percentage modulation, and when not in an image forming operation, communication with a non-contact type data storage circuit is established by a communication signal of a second percentage modulation smaller than the first percentage modulation.

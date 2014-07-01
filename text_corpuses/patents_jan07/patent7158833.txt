@@ -1,0 +1,4 @@
+title: Ferrule for cranial implant
+
+abstract: 
+A ferrule for removably retaining a self-contained implantable device within a cranial opening of a patient is set forth. The ferrule includes a shelf portion, a wall portion, and at least one supporting tab connected to the wall portion. The shelf portion has an inner surface and an outer surface. The inner surface of the shelf portion substantially conforms to an implantable device. The wall portion has an inner surface and an outer surface and encompasses the shelf portion. The inner surface of the wall portion substantially conforms to the implantable device and the outer surface of the wall portion substantially conforms to the cranial opening.

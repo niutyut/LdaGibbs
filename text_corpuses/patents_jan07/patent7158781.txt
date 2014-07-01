@@ -1,0 +1,4 @@
+title: System management
+
+abstract: 
+A method may be provided for establishing a service communication channel to a multi-server computer system comprising a plurality of modular units. At least selected modular units can have a wireless communication port. The method may comprise transmitting an existence request message to the wireless communication port of each modular unit provided therewith; and receiving at least one existence response message from at least one of the plurality of modular units. The existence response message may include an identifier of the modular unit.

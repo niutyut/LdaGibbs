@@ -1,0 +1,4 @@
+title: Flexible display
+
+abstract: 
+A display includes pixels having a magnetically controllable reflectivity. The pixels are formed between a pair of flexible non-conductive sheets. Each of the magnetically controllable pixels includes a flexible ring located between the flexible non-conductive sheets. Each of the magnetically controllable pixels also includes magnetic particles located within the flexible ring. The location of the magnetic particles with respect to the flexible non-conductive sheets determines the reflectivity of the pixel. The display is especially suitable for use in connection with portable electronic devices.

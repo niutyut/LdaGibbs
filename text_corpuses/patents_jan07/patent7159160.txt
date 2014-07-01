@@ -1,0 +1,4 @@
+title: Method and apparatus for measuring switching noise in integrated circuits
+
+abstract: 
+A simultaneous switching noise (SSN) test circuit and method are provided for measuring effects of SSN. Prior to testing for SSN, a signal is applied to the victim signal input pad and the rise and fall time delays associated with the victim signal are measured at the victim signal output pad. Then, one or more aggressor signals are simultaneously applied to respective input pads of one or more respective aggressor signal paths. The rise and fall time delays of the victim signal transmitted by the output pad are then measured and compared to the previously measured rise and fall time delays to determine effects of SSN on the victim signal caused by the aggressor signals.

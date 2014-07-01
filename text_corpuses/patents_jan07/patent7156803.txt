@@ -1,0 +1,4 @@
+title: Devices for controlling fluid flow through a medium
+
+abstract: 
+A fluid flow system for preparing an implantable substrate is provided having a fluid permeable container that is capable of retaining a biocompatible, implantable substrate, and a driver mechanism for subjecting fluid to a constant force to induce a selected, controlled flow rate of the fluid through a substrate disposed in the container. The system can include a fluid reservoir having an inlet and an outlet, and being effective to selectively retain a fluid. The reservoir is preferably disposed upstream of the container. The system can also optionally include a fluid recycling conduit that is effective to recirculate fluid from the container to the reservoir.

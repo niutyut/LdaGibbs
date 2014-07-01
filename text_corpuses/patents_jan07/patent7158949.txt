@@ -1,0 +1,4 @@
+title: Method for providing property rights based guarantees
+
+abstract: 
+There is disclosed a method of supporting a financial transaction involving an owner of IP rights. A potential guarantor evaluates the IP rights to determine a guarantee value thereof. The guarantor then provides a pledge to pay to a named party the determined guarantee value in exchange for the guarantor receiving ownership of the IP rights in the event of a default of the financial transaction. In one embodiment, a third party provides payment even prior to any such default occurring.

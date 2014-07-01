@@ -1,0 +1,4 @@
+title: Valve position monitor and method of use
+
+abstract: 
+A valve system includes a valve assembly, and an actuator for operating the valve assembly. The actuator includes a housing and a shaft extending through the housing. The shaft is moveable within a range of motion during operation of the valve assembly. The valve system also includes a valve position monitor for monitoring the position of the valve assembly. The valve position monitor includes at least one trigger and a corresponding stationary stop. The trigger is moveable with respect to the stationary stop within a range of motion. The range of motion of the trigger corresponds to at least a portion of the range of motion of the shaft. At least a portion of the range of motion of the trigger extends into the housing of the actuator.

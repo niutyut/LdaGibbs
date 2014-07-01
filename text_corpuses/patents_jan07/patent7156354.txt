@@ -1,0 +1,4 @@
+title: Apparatus and method for lifting aerial cables
+
+abstract: 
+A portable telescopic lifting apparatus () for lifting aerial cables (). The apparatus () comprises a tubular housing (), first and second telescopic members () extendible from and retractable into the housing (), a drive () for extending and retracting the telescopic members (), and a cable-engaging member () attached to the second telescopic member () for lifting one or more aerial cables (). The drive () comprises a chain lever block () and a pulley arrangement (). In use, the apparatus () is positioned below one or more aerial cables (), the chain lever block () is used to raise the first telescopic member (), the first telescopic member () extends from within the housing (), the second telescopic member () extends from within the first telescopic member (), and cable-engaging member () raises the cable/s ().

@@ -1,0 +1,4 @@
+title: Systems and methods for configuring a test setup
+
+abstract: 
+Methods for configuring a test setup that support reuse of previously defined sub-configuration parameter values without reference to individually-named sub-configuration files are provided. In these methods, each sub-configuration parameter value is automatically associated with a test case name within the test, and this association is represented in context data structures. During test configuration, for each set of sub-configuration parameter values, the user may reuse previously-defined values simply by specifying the name of the test associated with the previously-defined values. A system and a user interface for configuring a test setup are also described.

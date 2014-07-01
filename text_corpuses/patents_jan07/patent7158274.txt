@@ -1,0 +1,4 @@
+title: Pick-up apparatus for digital storage medium
+
+abstract: 
+In order to pick up a digital storage medium including a holographic storage medium and a reflective storage medium, a first and a second beam each of which has a different wavelength are used and a reflected beam and a reconstructed signal beam are propagated through a propagation path, wherein the first beam is reflected by the digital storage medium to generate the reflected beam and the second beam is diffracted by a holographic interference pattern in the holographic storage medium to generate the reconstructed signal beam. A polarizing beam splitter is used to split the reflected beam from the propagation path while a laser line mirror is used to separate the reconstructed signal beam from the propagation path.

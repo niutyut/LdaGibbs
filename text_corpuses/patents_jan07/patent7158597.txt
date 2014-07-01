@@ -1,0 +1,4 @@
+title: TFO resynchronization system
+
+abstract: 
+A method and apparatus is provided for use in an inband signaling system for quickly resynchronizing devices in the system after synchronization is lost. Synchronization is quickly established by continuing to apply a synchronization technique even while the devices are synchronized, as opposed to starting the synchronization technique only after synchronization is lost.

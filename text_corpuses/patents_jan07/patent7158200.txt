@@ -1,0 +1,4 @@
+title: Optical compensation sheet and liquid crystal display
+
+abstract: 
+An optical compensation film used for a liquid crystal display comprising a support and an optically anisotropic layer is disclosed. The optically anisotropic layer is a layer on which orientation of the liquid crystalline compound is fixed and the support is an optically biaxial cellulose ester film. A polarizing plate used for a liquid crystal display and a liquid crystal display employing the optical compensation film are also disclosed.

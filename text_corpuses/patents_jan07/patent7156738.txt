@@ -1,0 +1,4 @@
+title: Casino gambling machine with bonus round award redemption
+
+abstract: 
+An electronic gambling unit for allowing a user to play a main gambling game and a bonus round game, and for dispensing value to the user at the conclusion of the bonus round game, may generally include a display unit capable of generating color images or other display mechanism capable of displaying symbols associated with the main gambling game and the bonus round game. The electronic gambling unit may further include an input device that allows the user to make a plurality of input selections, a currency-accepting mechanism capable of allowing the user to deposit a medium of currency, a value-dispensing mechanism capable of dispensing value to the user, and a controller operatively coupled to the display unit, the input device, the currency-accepting mechanism, and the value-dispensing mechanism. The controller may include a processor and a memory operatively coupled to the processor.

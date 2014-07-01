@@ -1,0 +1,4 @@
+title: Treatment devices providing targeted antimicrobial action
+
+abstract: 
+A treatment device having an antimicrobial sheet material operably connected to an appliance. The antimicrobial material includes a first layer of polymeric material such as a gel composition containing a block copolymer and mineral oil, and a second layer that contains a bactericidal metal such as silver. The appliance retains the antimicrobial material in a selected position in the user's mouth, nose, or other body cavity; it may assume a variety of configurations depending on position and extent of the treatment site.

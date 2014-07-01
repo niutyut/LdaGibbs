@@ -1,0 +1,4 @@
+title: Hydrophilic additives
+
+abstract: 
+The invention relates to hydrophilic additives for synthetic fibres containing polyolefin; said additives are represented by general formula (I): A?B?C?B?A wherein A is a radical R?COO, wherein R represents a saturated, cross-linked or non-cross-linked alkyl radical having 7?21 C atoms, B represents a group (CHO), wherein n is a whole number from 2?4 and k can have a value of 1?15, C represents a linear or cross-linked alkylene radical having at least 2 and at the most 6 C atoms and the radical C can be, optionally, interrupted by oxygen atoms.

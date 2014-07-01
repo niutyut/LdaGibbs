@@ -1,0 +1,4 @@
+title: Device for a wind power station placed in deep water
+
+abstract: 
+A wind-driven power station mounted floating in deep water, comprising a machine house () including a generator (not s shown), regulating devices (not shown), rotor axle () and rotor blade (), in which the machine house () is mounted at a tower () that mainly is floating in an upright position, and where the stability of the tower () is provided by means of ballast () being placed in the lower part of the tower (). The power station is kept in position and stabilized by means of anchor systems (, alternatively ).

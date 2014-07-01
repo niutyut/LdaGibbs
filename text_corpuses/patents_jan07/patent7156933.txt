@@ -1,0 +1,4 @@
+title: Configuration and method for mounting a backing film to a polish head
+
+abstract: 
+By applying heat and pressure to a backing film with an adhesive layer while mounting it to a polish head used for chemical mechanical polishing, inhomogeneities inside the adhesive layer, e.g. thickness and compressibility variations or air bubbles can easily be removed. A corresponding configuration includes a device for exerting a uniform pressure force, which can be a roller made of silicone or rubber, or a plate. The configuration also includes a device for heating and a control unit for controlling the heat and the pressure force. After the backing film is installed using this configuration and method, the polish head can be used to uniformly remove material from a semiconductor wafer surface and therefore the wafer yield is advantageously increased.

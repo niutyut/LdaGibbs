@@ -1,0 +1,4 @@
+title: Apparatus for plasticating thermoplastic resin including polypropylene
+
+abstract: 
+Apparatus according to this invention for plasticating a resin polymer, especially polypropylene, includes a barrel having an inlet, outlet, and inner surface. A screw, located within and closely spaced from the inner surface of the barrel, has a longitudinal axis extending from the inlet toward the outlet, and includes length sections arranged in a series along the axis. The screw includes a core and a main flight located on and projecting radially from the core, extending in a helix along the axis, and having a push side and a trailing side. The screw sections include a feed section, a transition section following the feed section, a metering section following the transition section, and a barrier melting section following the metering section.

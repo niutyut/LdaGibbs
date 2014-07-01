@@ -1,0 +1,4 @@
+title: Polishing apparatus and method for forming an integrated circuit
+
+abstract: 
+In one embodiment, a dielectric layer () overlying a semiconductor substrate () is uniformly polished. During polishing, the perimeter () of the semiconductor substrate () overlies a peripheral region () of a polishing pad () and an edge portion () of the front surface of semiconductor substrate () is not in contact with the front surface () of the polishing pad (), in the peripheral region (). As a result, the polishing rate at the edge portion () of the semiconductor substrate () is reduced, and the semiconductor substrate () is polished with improved center to edge uniformity. Since the semiconductor substrate () is polished with improved center to edge uniformity, die yield is increased because die located within the edge portion () of the semiconductor substrate () are not over polished.

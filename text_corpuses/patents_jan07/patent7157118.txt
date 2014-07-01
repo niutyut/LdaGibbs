@@ -1,0 +1,4 @@
+title: Elastomeric material and process for preparation thereof
+
+abstract: 
+Process for preparing an elastomer material including a step in which a polyurethane is reacted with a polydialkylsiloxane in the presence of a solvent at a temperature below 100? C.

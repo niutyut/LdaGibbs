@@ -1,0 +1,4 @@
+title: Method and apparatus for selectively reducing the depth of digital data
+
+abstract: 
+The invention is directed to a method and apparatus for selectively reducing the depth of digital data. Multiple bit digital data is transmitted to a data receiving device on a plurality of data output lines. Each data output line corresponds, respectively, to a unique one of the bits of the data. A determination is made whether, in the data receiving device, a power saving mode of operation of the device is to be initiated. If so, one or more of the data output lines are selected as non-transmitting data lines, one or more remaining data input lines are driven with corresponding bits of the data, and the non-receiving data lines are placed in a neutral state.

@@ -1,0 +1,4 @@
+title: Rubber composition for magnetic encoder
+
+abstract: 
+A rubber composition for magnetic encoder, which comprises ethylene-methyl acrylate copolymeric rubber, magnetic powder and an amine-based vulcanizing agent, can give molding products with distinguished heat resistance, water resistance and saline water resistance and can be used as effective vulcanization molding materials for magnetic encoder, particularly in use for wheel speed sensor. A higher mixing proportion of the magnetic powder can be added to the rubber component, so the resulting magnetic encoder can have a distinguished magnetic force.

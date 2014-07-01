@@ -1,0 +1,4 @@
+title: POS system, network system, method of generating printing data for POS system, and method of managing sales and advertisement information in network system
+
+abstract: 
+A POS system is made up of: a POS terminal having a printing apparatus for printing on a receipt based on printing data, and a terminal apparatus for obtaining input information inputted by a user and for generating receipt printing information; a POS server connected to the POS terminal through a network, for controlling the POS terminal; a memory card for providing advertising information; and printing data generating part for generating printing data by adding the advertising information provided by the memory card to the receipt printing information obtained by the terminal apparatus. The printing data generating part is constituted by an additional apparatus connectable to the printing apparatus.

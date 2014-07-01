@@ -1,0 +1,5 @@
+title: Electronic instrument
+
+abstract: 
+An object of the present invention is to provide a novel hinge device and an electronic instrument using the hinge device which is extremely high in commercial value.
+A hinge device for pivoting a first member () and a second member (), in which a first coupling member () having a shaft portion () is provided in one of said first member () and said second member (), a second coupling member () having a bearing hole portion () for bearing said shaft portion () is provided in the other member, said first coupling member () and said second coupling member () are coupled with each other through the shaft portion () to be rotatable relative to each other so that the first member () may be rotated through the shaft portion () relative to the second member () in any direction of right and left directions, and an excessive rotation preventing mechanism () for preventing relative excessive rotation of the first member () in any direction of the right and left directions relative to the second member () is provided.

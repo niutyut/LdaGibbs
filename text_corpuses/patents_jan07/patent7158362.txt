@@ -1,0 +1,4 @@
+title: Less lethal weapons for multiple shots
+
+abstract: 
+An apparatus for interfering with locomotion by one or more targets being animal or human, uses a plurality of delivery circuits that each deliver current through any target of the one or more targets. The apparatus includes a capacitance, a switch, a trigger; and a control circuit that controls the switch. Each delivery circuit includes a respective transformer. The switch, in response to operation of the trigger, conducts energy discharged from the capacitance into the transformer of a first delivery circuit to enable operation of the first delivery circuit; and conducts energy discharged from the capacitance into the transformer of a second delivery circuit to enable operation of the second delivery circuit. The respective transformer provides the current causing contraction of skeletal muscles of the one or more targets, interfering with locomotion by the one or more targets.

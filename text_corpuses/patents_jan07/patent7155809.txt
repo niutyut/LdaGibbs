@@ -1,0 +1,4 @@
+title: Method of manufacturing thin-film magnetic head
+
+abstract: 
+A method of manufacturing a thin-film magnetic head comprises the steps of forming a first pole layer, forming a gap layer on a pole portion of the first pole layer, and forming a second pole layer on the gap layer. The second pole layer incorporates a first layer adjacent to the gap layer, and a second layer including a track width defining portion. The step of forming the second pole layer includes the steps of: forming a magnetic layer for forming the first layer on the gap layer; forming the second layer on the magnetic layer; and etching the magnetic layer to align with a width of the track width defining portion, so that the magnetic layer is formed into the first layer and the width of each of the first layer and the second layer taken in a medium facing surface is made equal to the track width.

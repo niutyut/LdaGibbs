@@ -1,0 +1,4 @@
+title: Wind shear inducing soil stability measuring device
+
+abstract: 
+An apparatus for measuring soil stability of a test surface comprising a housing defining an interior chamber, the housing having an open bottom wherein the housing is configured to be placed over the test surface proximate the open bottom. A means for generating wind shear disposed in the interior chamber, the wind shear generating means configured to generate wind shear proximate the test surface and at least one particle monitor in communication with the interior chamber.

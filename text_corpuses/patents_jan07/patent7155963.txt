@@ -1,0 +1,4 @@
+title: Cleaning evaluation method for a substrate
+
+abstract: 
+The present invention relates to a cleaning evaluation method for evaluating a surface cleanliness of a substrate which has been cleaned after being polished. This method includes preparing a dummy substrate having a metal film formed on a surface thereof and a monitor substrate on which a cleaning evaluation is performed, and polishing the dummy substrate. After polishing the dummy substrate, the monitor substrate is polished without dressing a polishing surface of a polishing table, the monitor substrate is cleaned, and the surface cleanliness of the monitor substrate which has been cleaned is evaluated.

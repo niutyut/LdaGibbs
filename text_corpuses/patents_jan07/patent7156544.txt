@@ -1,0 +1,4 @@
+title: Vehicle headlamp
+
+abstract: 
+A vehicle headlamp includes a projector-type lamp unit that performs two types of light distribution. The lamp unit is configured with a projection lens disposed on an optical axis Ax extending in an longitudinal direction of a vehicle, and a first light-source unit and a second light-source unit, both disposed to the rear of the projection lens. A low-beam light distribution pattern having sharp cut-off lines at an upper end portion is formed upon illumination of the first light-source unit. An additional high-beam light distribution pattern spreading upward from the cut-off lines is additionally formed upon illumination of the second light-source unit. Accordingly, a high-beam light distribution pattern is formed.

@@ -1,0 +1,4 @@
+title: Probe head
+
+abstract: 
+A probe head includes a housing and a probe element. The probe element has a longitudinal axis and stop faces and is able to shift from a rest position along the longitudinal axis into a stop position relative to the housing. The probe head further includes counter-support faces, which are arranged in a stationary manner relative to the housing. For limiting the path of the probe element, in a stop position, the stop faces of the probe element contact the counter-support faces at stop points. In the rest position, a geometric plane may be spanned orthogonally with respect to the longitudinal axis of the probe element. The stop points are arranged such that in the stop position, the longitudinal axis intersects the geometric plane at an oblique angle.

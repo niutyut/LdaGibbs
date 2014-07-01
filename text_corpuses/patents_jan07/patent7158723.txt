@@ -1,0 +1,4 @@
+title: Channel identification in communications networks
+
+abstract: 
+Channels in an optical WDM network are each identified by at least two dither tones with which the channel is modulated, the dither tones alternating with a predetermined periodicity so that at any instant each channel is modulated by only one dither tone. The dither tones are continuously generated at precise frequencies. Channel detection by detecting the dither tones, for channels having optical powers over a wide dynamic range, makes use of an FFT process which can detect dither tones for high power channels in a single operation. Coherent averaging of FFT results over time is used to detect dither tones for low power channels over multiple FFT operations.

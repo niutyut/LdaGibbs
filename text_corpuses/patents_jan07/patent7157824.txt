@@ -1,0 +1,4 @@
+title: Coin type vibrating motor
+
+abstract: 
+Disclosed is a coin type vibrating motor including: a rotor provided with an upper base including at least one wound coil placed on the upper surface thereof; a stator including a pair of brushes placed on the upper surface of a lower base, on which a magnet is mounted corresponding to the wound coil; and a shafting unit including a bearing member formed integrally with the upper base to surround the wound coil and the weight, and a shaft, of which the bearing member is installed on the outer periphery, wherein an oil scattering-preventing portion, which exposes an assembling region, and has an inner surface extended downwardly to a designated length while being spaced from the inner surface of the shaft, is formed integrally with the lower surface of an insulator exposed to the outside through an opening of the upper base.

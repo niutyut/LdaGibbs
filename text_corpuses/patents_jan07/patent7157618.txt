@@ -1,0 +1,4 @@
+title: Impartment of virus-resistance with the use of plant protein binding to plant virus transport protein
+
+abstract: 
+A method for conferring resistance to a plant virus to plants by introducing into the plant a polynucleotide encoding a protein capable of binding to a movement protein of the plant virus is provided. Also provided are transgenic plants having resistance to a plant virus.

@@ -1,0 +1,4 @@
+title: Semiconductor device having a dummy conductive via and a method of manufacture therefor
+
+abstract: 
+The present invention provides a semiconductor device, a method of manufacture therefor, and an integrated circuit including the same. In one aspect, the present invention provides a semiconductor device having a dielectric layer located over a conductive feature and a conductive via located within the dielectric layer and contacting the conductive feature. The semiconductor device, among other elements, may further include a dummy conductive via located proximate the conductive via and contacting the conductive feature. One of the intents of the dummy conductive via is to attempt to trap vacancies associated with the conductive feature or the conductive via.

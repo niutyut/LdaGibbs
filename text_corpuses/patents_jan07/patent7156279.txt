@@ -1,0 +1,4 @@
+title: System and method for mounting electronic components onto flexible substrates
+
+abstract: 
+A system and method for reflowing solder to interconnect a plurality of electronic components () to a substrate () is disclosed. The system includes an oven for preheating the substrate () and the plurality of electronic components () disposed thereon, a supplemental heat source disposed in the oven for providing additional heat energy to reflow the solder (), a pallet () for supporting the substrate (), wherein the pallet () has at least one internal cavity (), and a phase-transition material () disposed within the cavity () for absorbing heat from the pallet ().

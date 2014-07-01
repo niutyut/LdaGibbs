@@ -1,0 +1,4 @@
+title: Inflating aircraft flotation device
+
+abstract: 
+A flotation device for maintaining an aircraft in a floating and stable condition is provided. The flotation device comprises at least one flotation bladder mounted to the aircraft and an inflation mechanism for inflating the flotation bladder. A method for maintaining an aircraft in a floating condition is also provided.

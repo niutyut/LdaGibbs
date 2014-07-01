@@ -1,0 +1,4 @@
+title: Semiconductor constructions
+
+abstract: 
+The invention includes a semiconductor construction having a pair of channel regions that have sub-regions doped with indium and surrounded by boron. A pair of transistor constructions are located over the channel regions and are separated by an isolation region. The transistors have gates that are wider than the underlying subregions. The invention also includes a semiconductor construction that has transistor constructions with insulative spacers along gate sidewalls. Each transistor construction is between a pair source/drain regions that extend beneath the spacers. A source/drain extension extends the source/drain region farther beneath the transistor constructions on only one side of each of the transistor constructions. The invention also includes methods of forming semiconductor constructions.

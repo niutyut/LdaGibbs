@@ -1,0 +1,4 @@
+title: Reduced voltage pre-charge multiplexer
+
+abstract: 
+An electronic device selects one of a plurality of input signals for coupling to an output channel. Individual pulldowns provide a separate pathway for each input, and are coupled to a common node which is pre-charged to a voltage less than a system voltage. Each pulldown is coupled to a select line for gating an associated input signal.

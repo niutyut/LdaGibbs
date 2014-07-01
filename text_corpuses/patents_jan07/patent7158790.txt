@@ -1,0 +1,4 @@
+title: Determining service coverage for metropolitan wireless networks
+
+abstract: 
+A method is provided for determining service coverage for a wireless network using information indicating quality of service coverage for the wireless network, wherein the information is determined using wireless devices in conjunction with the wireless network. When the wireless device is coupled through an access point to the wireless network using a wireless communication channel, information indicating quality of service coverage for the wireless network may be received from the wireless device and gathered in a database. The quality of service coverage for the wireless network may then be monitored using the information in the database.

@@ -1,0 +1,4 @@
+title: Ring network element and the ring network architectures it enables
+
+abstract: 
+A ring network element and the ring network architectures it enables. According to one embodiment of the invention, a single network element includes a full TDM cross-connect and a multiple ring unit. The full TDM cross-connect is coupled to every line card slot in the single network element with the same amount of bandwidth connection. In addition, the full TDM cross-connect is programmable on an STS-1 basis. The multiple ring unit allows for the simultaneous support of multiple TDM rings.

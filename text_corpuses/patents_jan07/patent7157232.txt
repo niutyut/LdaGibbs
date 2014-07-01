@@ -1,0 +1,4 @@
+title: Method to detect the end-point for PCR DNA amplification using an ionically labeled probe and measuring impedance change
+
+abstract: 
+Impedance measurements are used to detect the end-point for PCR DNA amplification. A pair of spaced electrodes are located on a surface of a microfluidic channel and an AC or DC voltage is applied across the electrodes to produce an electric field. An ionically labeled probe will attach to a complementary DNA segment, and a polymerase enzyme will release the ionic label. This causes the conductivity of the solution in the area of the electrode to change. This change in conductivity is measured as a change in the impedance been the two electrodes.

@@ -1,0 +1,4 @@
+title: Method,device and bus manager for operating a device that is connected to a motor vehicle communications network
+
+abstract: 
+A method of operating a device which is connected to a vehicle communications network is described, a switched-off device being reactivated by the bus manager via a frequency pulse transmitted over a power supply line. The device may be switched off by the bus manager or by itself if there is no data communication with the device for a predetermined period of time. The frequency pulse is analyzed by an analyzer circuit of the switched-off device, the analyzer circuit having a frequency-selective filter and a threshold detector. The frequency pulse may be transmitted at a frequency which is valid for only one device or at a frequency for a group of devices or at a frequency for all devices. If the devices are arranged in branches, then all the devices downstream from a switched-off device are also switched off or reactivated.

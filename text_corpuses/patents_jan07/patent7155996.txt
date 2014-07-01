@@ -1,0 +1,4 @@
+title: Lubrication system for a transmission gear mechanism
+
+abstract: 
+By blocking off a partial passage opening in a lubricating oil supply passage of a transmission gear mechanism by attaching a transmission holder, an operation to block off the passage opening is omitted. Supply of lubricating oil to a main shaft and a counter shaft of a transmission gear mechanism is carried out using branched passages from a main gallery, and the branched passage constitutes a lubricating oil supply passage to the main shaft while the branched passage constitutes a lubricating oil supply passage to the counter shaft. A partial passage opening of the branched passage is then blocked up at the time of attaching a transmission holder to the transmission case, and in this way a lubricating oil supply passage to the counter shaft is formed.

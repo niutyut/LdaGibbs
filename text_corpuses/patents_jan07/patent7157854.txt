@@ -1,0 +1,4 @@
+title: Tubular PDP
+
+abstract: 
+There is disclosed a gas discharge plasma display device comprising one or more ionizable gas filled elongated tubes. In one embodiment, the device is operated as a positive column gas discharge display. In another embodiment, the display is a monolithic or single substrate display.

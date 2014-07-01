@@ -1,0 +1,4 @@
+title: Pulse output function for programmable logic controller
+
+abstract: 
+At least one exemplary embodiment of the present invention includes a method comprising obtaining a first frequency and a second frequency. The method also comprises creating a table of values comprising a plurality of target frequencies intermediate to the first and second frequencies, the table of values also comprising a pulse width, a pulse count, and a differential pulse width corresponding to each of the target frequencies from the plurality of target frequencies. The method further comprises outputting at least a portion of the values to a motion device.

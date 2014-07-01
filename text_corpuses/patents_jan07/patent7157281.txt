@@ -1,0 +1,4 @@
+title: High lysine maize compositions and event LY038 maize plants
+
+abstract: 
+Disclosed herein are novel DNA constructs encoding dihydrodipicolinic acid synthase that are useful for generating transgenic events. Also provided are transgenic plants harboring such DNA constructs, the expression of which results in increased lysine in the plant or plant product. Also provided are maize plants having LY038 Event and progeny thereof having this event. Additionally disclosed are assays for detecting the presence of a lysine-increasing transgenic event based on the DNA sequence of the exogenous DNA construct inserted into the maize genome and of genomic sequences flanking the insertion site.

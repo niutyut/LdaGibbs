@@ -1,0 +1,4 @@
+title: Optical wavelength interrogator
+
+abstract: 
+An optical wavelength readout system for application in optical sensing systems is disclosed. The system includes a Master unit including a wavelength swept optical source for launching light into a string of optical sensors, and a detection and processing unit for detecting and processing the light emitted by the source. The system also includes a Slave unit including a light coupling device for coupling light from the light source into the string of sensors and for coupling light reflected from the string of sensors to a detection and processing unit arranged to detect and process the reflected light. The Master unit includes a wavelength reference unit adapted to make a reference signal available to other parts of the sensing system. The reference signal represents a generally exact relation between the wavelength of the light emitted from the source and time.

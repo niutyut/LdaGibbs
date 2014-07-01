@@ -1,0 +1,4 @@
+title: Projection exposure apparatus
+
+abstract: 
+A projection exposure apparatus with a small size and low cost suitable for repeated pattern exposure. The apparatus includes an illumination system which irradiates light to a mask including plural columns of a mask pattern for repeated exposure to a member to form plural columns of an exposure pattern, a projection system which projects light from the mask onto the member, an exposure stage which moves the member, and a mask stage which moves the mask. The light irradiation and step driving of the exposure stage for moving the member by a movement amount equal to n times a pitch of the columns of the exposure pattern are alternately performed. The mask is moved by a movement amount equal to n times a pitch of the columns of the mask pattern with step driving of the exposure stage in early and later phases of the repeated exposure.

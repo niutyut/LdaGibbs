@@ -1,0 +1,4 @@
+title: Void free, silicon filled trenches in semiconductors
+
+abstract: 
+The present invention provides methods of producing substantially void-free trench structures. After deposition of an a-Si or polysilicon layer in a trench formed in a semiconductor, the a-Si or polysilicon is exposed to hydrogen at an elevated temperature.

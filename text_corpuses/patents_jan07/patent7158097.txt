@@ -1,0 +1,5 @@
+title: Gaze tracking system
+
+abstract: 
+A gaze tracking system () is provided which obtains images of an operator () and processes the images to associate the images with coordinates of where the operators gaze is directed towards.
+In order to identify images where an operator is looking in the same direction, images obtained by a camera () are first processed using the retinex algorithm. Image patches from the processed image are then compared with stored feature images and an initial classification based upon the correspondence between areas of the processed image and the stored feature images is determined. This initial classification is then further processed and each image is assigned a single classification. The areas identified by different classifications are then determined so that classifications assigned to adjacent images identify points closer together and classifications never assigned to an adjacent images identify points further apart.

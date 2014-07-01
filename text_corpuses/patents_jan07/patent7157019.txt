@@ -1,0 +1,4 @@
+title: Pitch-based carbon foam heat sink with phase change material
+
+abstract: 
+A process for producing a carbon foam heat sink is disclosed which obviates the need for conventional oxidative stabilization. The process employs mesophase or isotropic pitch and a simplified process using a single mold. The foam has a relatively uniform distribution of pore sizes and a highly aligned graphic structure in the struts. The foam material can be made into a composite which is useful in high temperature sandwich panels for both thermal and structural applications. The foam is encased and filled with a phase change material to provide a very efficient heat sink device.

@@ -1,0 +1,4 @@
+title: Waffle stud for insert molded plastic members
+
+abstract: 
+A fastener is configured for use in the manufacture of molded plastic components that will be subsequently attached to other components by the fastener. The low profile head portion of the fastener has a rounded contoured and convoluted top surface to facilitate the flow of plastic material around the head portion during the molding process. The underside of the head portion is formed with a square face surrounded circumferentially by circumferential land surfaces that provides a high pull-out force resistance for the fastener. The square face on the underside and convoluted top surface of the head portion provides a high spin-out torque resistance without sacrificing the pull-out force resistance. The rounded edges of the head portion are compatible with molding processes to allow the flow of plastic material to fully encapsulate the head portion within the molded plastic component.

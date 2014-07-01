@@ -1,0 +1,4 @@
+title: Image evaluating method and apparatus
+
+abstract: 
+An input of an evaluation object image signal representing an evaluation object image with respect to a pattern composed of a plurality of evaluating regions, in each of which at least one signal area is located at a predetermined position, is accepted. The evaluating regions have been set such that a size and contrast of the signal area vary by stages for different evaluating regions. The positions of the signal areas, which are located in all of the evaluating regions in the evaluation object image, are detected in accordance with a reference image signal, which represents a reference image with respect to the pattern, and the evaluation object image signal. The evaluation object image is evaluated in accordance with the results of the detection of the positions of the signal areas.

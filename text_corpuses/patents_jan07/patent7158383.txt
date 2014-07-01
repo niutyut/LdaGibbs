@@ -1,0 +1,4 @@
+title: Techniques for fabricating a resistor on a flexible base material
+
+abstract: 
+A technique for fabricating a resistor on a flexible substrate. Specifically, at least a portion of a polyimide substrate is activated by exposure to a ion sputter etch techniques. A metal layer is disposed over the activated portion of the substrate, thereby resulting in the formation of a highly resistive metal-carbide region. Interconnect layers are disposed over the metal-carbide region and patterned to form terminals at opposite ends of the metal carbide region. The metal-carbide region is patterned to form a resistor between the terminals. Alternatively, only a selected area of the polyimide substrate is activated. The selected area forms the area in which the metal-carbide region is formed. Interconnect layers are disposed over the metal-carbide region and patterned to form terminals at opposite ends of the metal-carbide region.

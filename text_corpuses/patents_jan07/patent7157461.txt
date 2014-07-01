@@ -1,0 +1,7 @@
+title: Substituted dihydropyrimidine inhibitors of calcium channel function
+
+abstract: 
+The present invention relates to substituted dihydropyrimidine inhibitors of calcium channel function having formula I
+
+
+where A, a, J, R, RR, R, and R, are defined herein; pharmaceutical compositions comprising said compounds; and methods of treating calcium channel-dependent disorders, including hypertension.

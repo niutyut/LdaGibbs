@@ -1,0 +1,4 @@
+title: Gas diffusion plate for use in ICP etcher
+
+abstract: 
+A gas diffusion plate supplying process gases into a chamber of an ICP (inductively coupled plasma) etcher is provided in the present invention. The gas diffusion plate includes a porous plate comprised of a plurality of balls and formed by compressing and curing the plurality of balls, the porous plate having a circular planar shape; a plurality of gas flow grooves formed on an upper surface of the porous plate; and a gas distribution plate having a plurality of gas-feed holes at the bottom thereof and a plurality of gas-feed passages in the side portion thereof, the gas distribution plate surrounding lower and side portions of the porous plate.

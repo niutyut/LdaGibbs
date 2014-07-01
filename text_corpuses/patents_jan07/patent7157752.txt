@@ -1,0 +1,4 @@
+title: Semiconductor device
+
+abstract: 
+A semiconductor device capable of effectively eliminating noise on multilayered power lines with a bypass capacitor. A first power line is connected to the bypass capacitor. A second power line is a line from which a part located above the bypass capacitor is removed. Contacts connect the first and second power lines. Therefore, noise appearing on the second power line travels to the first power line, resulting in effectively eliminating the noise with the bypass capacitor.

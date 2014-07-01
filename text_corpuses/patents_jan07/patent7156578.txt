@@ -1,0 +1,4 @@
+title: Aquifer recharge valve and method
+
+abstract: 
+An aquifer recharge valve assembly comprises a valve movable along the interior of a pipe section to open and close aquifer recharge openings through the pipe section. The position of the valve controls the extent to which the recharge openings are available for delivery of recharge water into the aquifer. The valve may be a seamless resilient cylinder which expands due to well head pressure to assist in sealing the recharge openings when the valve is closed.

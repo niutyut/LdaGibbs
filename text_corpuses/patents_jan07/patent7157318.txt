@@ -1,0 +1,4 @@
+title: Method of fabricating SRAM device
+
+abstract: 
+A method of fabricating an SRAM device is provided, by which a junction node area is stably secured in a 1T type SRAM device. The method includes forming first and second conductor patterns on a cell area of a semiconductor substrate and a third conductor pattern on a periphery area of the semiconductor substrate, stacking first to third insulating layers over the substrate, forming a spacer on a sidewall of the third conductor pattern in the exposed periphery area, removing the third insulating layer, and forming first and second spacers on sidewalls of the first and second conductor patterns.

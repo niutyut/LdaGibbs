@@ -1,0 +1,4 @@
+title: Drum drive with damping device for damping vibrations
+
+abstract: 
+The invention relates to a drum drive that delimits an interior space intended for receiving an electromotor for producing a rotating movement of the drum. The electromotor comprises a stator, shell and stator cap. The stator is turnably journalled about the shaft (), wherein the drive comprises at least one damping device () connected to the shaft () and to the stator, and extending radially from the shaft in a plane that is essentially at right angles thereto; and wherein the damping device () is configured for absorbing forces that strive to rotate the stator about the shaft.

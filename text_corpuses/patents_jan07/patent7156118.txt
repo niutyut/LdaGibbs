@@ -1,0 +1,4 @@
+title: Microfluidic system with high aspect ratio
+
+abstract: 
+The invention relates to the technical field of microfluidic channel structures. The invention discloses a microfluidic channel system with a high aspect ratio as well as a process for producing the microfluidic system. The process according to the invention enables the production of channel structures with aspect ratios of any magnitude without the process being limited by the manufacturing conditions to certain materials for the channel system. The channel system can thus be optimally adapted to a desired field of application.

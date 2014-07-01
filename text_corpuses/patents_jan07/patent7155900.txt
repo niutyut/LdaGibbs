@@ -1,0 +1,4 @@
+title: Support system for the maintenance of a particle filter fitted in an exhaust system on a motor vehicle engine
+
+abstract: 
+This system for assisting the maintenance of a particle filter integrated into an exhaust line of a motor vehicle diesel engine is characterized in that it comprises means () for calculating the volume of ash from the engine lubricating oil, means () for calculating the volume of ash from the engine fuel, means () for calculating the usable volume (V.u) of the particle filter from a total volume of said filter when new (V.new) and the previously calculated volumes of ash, and means () for calculating a degree of clogging of the particle filter (d.c.) from the total volume of the filter when new (V.new) and the previously calculated usable volume (V.u) to trigger a maintenance request (Maint.Req.) if the degree of clogging (d.c.) exceeds a predetermined threshold (threshold).

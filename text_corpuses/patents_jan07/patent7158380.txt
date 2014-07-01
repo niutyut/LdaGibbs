@@ -1,0 +1,4 @@
+title: Heatsink for digital video recorder
+
+abstract: 
+A heat sink assembly for cooling a DVR enabled set-top box. A heat sink is coupled to a chassis of the set-top box as well as to a storage device within the chassis. Heat is transferred from the storage device to the exterior of the chassis to be vented to the exterior environment surrounding the set-top box.

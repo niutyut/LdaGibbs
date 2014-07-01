@@ -1,0 +1,4 @@
+title: Cardioprotective therapies based on enzymatic elimination of lipid peroxides by allene oxide synthase
+
+abstract: 
+The present invention relates to methods and compositions related to the use of enzymes of the allene oxide synthase family for reducing myocardial ischemia reperfusion injury associated with myocardial infarction, thrombolysis, angioplasty and coronary bypass surgery. The methods of the invention comprise administration of allene oxide synthases, which are capable of eliminating lipid hydroperoxides, as a potent cardioprotective agent. The invention is based on the discovery that administration of allene oxide synthase following severe global ischemia stimulates cardiac recovery.

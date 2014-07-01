@@ -1,0 +1,4 @@
+title: Optical fiber coupler and manufacturing apparatus and method thereof
+
+abstract: 
+An optical fiber coupler and manufacturing apparatus and method thereof aim to provide a loading fixture and a clamping device to fabricate 1?4, 2?4 and 4?4 optical fiber couplers, and also improve driving mechanisms and operation of the packaging station and the entire manufacturing equipment. The 1?4 optical fiber coupler fabricated by means of the invention can split an optical signal more evenly and has a higher production yield. The total size of the equipment is smaller and the structure is less complicated, and the construction cost is lower.

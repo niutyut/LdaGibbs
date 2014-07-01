@@ -1,0 +1,4 @@
+title: CD-ROM drive capable of rapidly detaching and installing
+
+abstract: 
+The present invention is to provide a CD-ROM drive capable of rapidly detaching and installing, which comprises a frame mounted in a case of a computer. The frame comprises a side opening, an interior cavity in communication with the side opening so that the CD-ROM drive can be mounted in the cavity through the side opening, and an elongated fastening assembly at a side of the cavity. The fastening assembly comprises an elongated sliding member capable of moving toward or away from the side opening, and an elongated fastening member capable of moving toward or away from the CD-ROM drive. After mounting the CD-ROM drive in the cavity, it is possible of manipulating the sliding member to move the fastening member for fastening or detaching the CD-ROM drive to or from the frame.

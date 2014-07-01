@@ -1,0 +1,4 @@
+title: Printhead assembly with clamped printhead integrated circuits
+
+abstract: 
+A printhead assembly is provided, comprising at least one printhead module comprising at least two printhead integrated circuits, each of which has nozzles formed therein for delivering printing fluid onto the surface of print media, and a support member supporting and carrying the printing fluid for the at least two printhead integrated circuits, and a casing in which the at least one printhead module is removably mounted by having a first side thereof slidably received in a longitudinally extending groove of the casing and a second side thereof clamped to the casing by a clamping arrangement.

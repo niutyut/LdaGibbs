@@ -1,0 +1,5 @@
+title: Organic electroluminescence element and an exposure unit and image-forming apparatus both using the element
+
+abstract: 
+Providing an exposure unit using an organic electroluminescence element with a large emitted light quantity.
+The organic electroluminescence element has, on a substrate , an anode  acting as a hole injection electrode, a cathode  acting as an electron injection electrode, a first and second emission layers  and  each having a light emission region, and a charge generation layer  injecting electrons into the light emission layer  lying close to the anode  and injecting holes into the light emission layer  lying close to the cathode , these layers being arranged between the anode  and the cathode 

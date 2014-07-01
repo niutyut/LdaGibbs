@@ -1,0 +1,4 @@
+title: Adsorber station and the use thereof
+
+abstract: 
+The invention relates to an adsorber station with a first adsorber (A) and a second adsorber (B). A first closed loop pipeline () is connected to the adsorbers (A, B) and is provided with product gas feed line valves (A, B) and regeneration gas discharge line valves (A, B). A second closed loop pipeline () that is connected to the adsorbers (A, B) has product gas discharge line valves (A, B) and regeneration gas feed line valves (A, B).

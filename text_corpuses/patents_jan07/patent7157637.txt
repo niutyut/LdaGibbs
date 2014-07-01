@@ -1,0 +1,4 @@
+title: Tambourine
+
+abstract: 
+The present application is directed to a percussion musical instrument such as a tambourine, riq, pandiero and the like having non-rectangular windows within which the jingles are supported. The configuration of the window affords a greater range of pitch motion for the jingles than otherwise afforded in similar conventional instruments. As such, the pitch motion of the jingles may equal or exceed the range of roll motion of the jingles. In another aspect, the present invention is directed to an instrument having an ovoid shaped shell to provide distinct rotational moments of inertia along a major axis and a minor axis.

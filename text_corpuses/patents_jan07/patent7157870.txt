@@ -1,0 +1,4 @@
+title: Drive method for brushless motor and drive control apparatus therefor
+
+abstract: 
+A drive method for a brushless motor and a drive control apparatus therefor, in which control parameters are calculated by motor current control means ( in FIG. ) in accordance with the deviation between a target motor current value and an actual motor current value, a manipulated variable is computed by phase control means () on the basis of the calculated control parameters, an advance angle magnitude is computed from the relationship between a manipulated variable and an advance angle magnitude as designed and created beforehand, on the basis of the computed manipulated variable, and the value of the conduction phase angle of a drive circuit () as set on the basis of a motor current signal is corrected with the information of the computed advance angle magnitude.

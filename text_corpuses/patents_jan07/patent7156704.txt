@@ -1,0 +1,4 @@
+title: Terminal fitting and a connector using such a terminal fitting
+
+abstract: 
+A female terminal fitting () has tube () for receiving a male terminal fitting (). A main spring () is cantilevered forwardly from the tube () and an auxiliary spring () is cantilevered forwardly at the outer side of the main spring piece (). Stoppers () bulge out from the opposite sides of the auxiliary spring () for preventing the auxiliary spring () from being displaced up when the free end of the auxiliary spring () is thrust up from the outer side. Receiving portions () are left in the tube () during the forming of the auxiliary spring () and contact the stoppers (). Thus, even if an external matter strikes against the auxiliary spring (), the auxiliary spring () will not deform excessively in thrust-up direction.

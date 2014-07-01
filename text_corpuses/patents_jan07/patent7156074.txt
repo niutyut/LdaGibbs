@@ -1,0 +1,4 @@
+title: Throttle device
+
+abstract: 
+With the throttle apparatus of the present invention having a throttle valve  disposed at an intake passage, a throttle shaft  to open and close the throttle valve , a DC motor  to drive the throttle shaft , and so on, a second drive means  is disposed to exert return force to the throttle shaft  only for returning the throttle valve  to the rest position. With this structure, since return force is not exerted with a normal operation, load to the DC motor  is decreased, and an open-close operation can be preformed smoothly. By returning the throttle valve to the rest position utilizing other means than spring force, load to the motor is decreased, and open-close operation is smoothed.

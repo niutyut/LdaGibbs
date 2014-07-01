@@ -1,0 +1,4 @@
+title: Heat-sensitive recording material
+
+abstract: 
+The present invention relates to a heat-sensitive recording material including a support containing a paper substrate, and a recording layer, in which a base paper of the support is made from pulp slurry containing at least (1) one kind of polyacrylamide or cationic starch and (2) at least one kind of alkyl ketene dimer and epoxydized fatty acid amide as a sizing agent, and is produced by coating or impregnating at least one face thereof with (3) at least one kind of softening agent. The softening agent is preferably a reaction product of a polyamine and a fatty acid having 8 to 40 carbon atoms, a polyhydric alcohol type nonionic surfactant, a cationic surfactant, or a polyamine-based compound.

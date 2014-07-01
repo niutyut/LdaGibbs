@@ -1,0 +1,4 @@
+title: Process for producing an amino composition
+
+abstract: 
+The process for producing an amino composition of the present invention by addition reaction of a polyamine with an alkenyl group-containing compound wherein said polyamine is reacted preliminarily with a strongly basic catalyst to produce a reaction mixture comprising a reaction intermediate and then an alkenyl group-containing compound is added to the reaction mixture to proceed the addition reaction provides an amino composition having stable properties.

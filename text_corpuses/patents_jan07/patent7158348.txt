@@ -1,0 +1,4 @@
+title: Integrated lead suspension for use in a disk drive using a tri-metal laminate and method for fabrication
+
+abstract: 
+An example of a multi-layer structure which may be used for supporting a transducer includes a support layer and an etch stop layer formed from a refractory metal on the support layer. A first electrically conducting layer of copper may be positioned on the etch stop layer. A dielectric layer may be provided on the first electrically conducting layer. A second electrically conducting layer of copper may be provided on the dielectric layer. The dielectric layer is positioned between the first electrically conducting layer and the second electrically conducting layer. The second electrically conducting layer may include a plurality of separate electrically conducting lines.

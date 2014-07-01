@@ -1,0 +1,4 @@
+title: Optically active substrates
+
+abstract: 
+A device for optical examination of biological materials using radiation of a selected wavelength includes a substrate having a first surface and a second surface opposite to the first surface. The first surface includes a dense array of micro-optical elements arranged to provide increased intensity radiation or evanescent radiation. The first surface is in close proximity to the biological material being examined.

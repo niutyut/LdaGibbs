@@ -1,0 +1,4 @@
+title: Package assembly for piperazine-based membranes
+
+abstract: 
+A package assembly comprising a sealed water-impermeable bag enclosing: a spiral wound filtration element comprising a piperazine-based membrane, and an aqueous solution comprises a substantially non-oxidizable buffer having capacity to sequester at least 0.0025 moles per liter of hydrogen ions. The assembly preferably further includes a reducing agent. The assembly provides improved preservation for piperazine-based membranes and elements incorporating such membranes.

@@ -1,0 +1,4 @@
+title: Method and apparatus for performing multi connections at point-to-point protocol
+
+abstract: 
+Methods for performing multi connections at point-to-point protocol are disclosed. One method for transmitting a datagram in an apparatus having point-to-point protocol sessions which transmits datagrams received from a physical layer of a communication network to a network layer, includes the steps of: a) establishing a least two PPP sessions; b) classifying the datagrams received from a physical layer based on the PPP session and transmitting the datagram to a corresponding PPP session; c) processing the datagram received by the PPP in the PPP session; and d) selecting one of the processed datagrams and transmitting the selected datagram to the network layer.

@@ -1,0 +1,4 @@
+title: Method and system for limiting content diffusion to local receivers
+
+abstract: 
+Content is distributed from a source to a sink only if the sink is within a predetemined distance from a source. In one embodiment, a control signal is sent over a limited range channel to the sink and the content is then sent only if the control signal is received properly by the sink. In another embodiment, the content is encrypted and the encryption key is sent over the limited range channel. The content is also sent to the sink, but the sink cannot decode the content unless it has a proper copy of the decoding key. The control signal can be sent over a wireless channel, an IR channel, or an AC line. The content is sent over the Internet, either using a standard wired channel or over a wireless channel.

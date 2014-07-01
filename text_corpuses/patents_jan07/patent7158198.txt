@@ -1,0 +1,4 @@
+title: Transflective color liquid crystal display including color filters on transparent resists and method of fabricating a substrate therefor
+
+abstract: 
+A transparent resist  having a certain thickness is provided on a full reflection film 11at light reflection portions , and light reflection portions  are formed as holes having a certain depth, when one of the substrates  has an inner surface provided with the light reflection portions  made of the full reflection film and the light transmission portions  formed as openings without the full reflection layer, and a color filter  is provided on each paired light reflection portion  and light transmission portion 

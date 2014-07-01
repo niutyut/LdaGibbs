@@ -1,0 +1,4 @@
+title: Image forming material, color filter master plate, and color filter
+
+abstract: 
+An image recording material provided with an image recording layer including a polymer compound which contains a functional group with a hydrophilic/hydrophobic character thereof being changeable by heat, acid, or irradiation and which is directly chemically bonded to the substrate, wherein the image recording layer is heated, treated with acid, or irradiated to change the hydrophilic/hydrophobic character of a surface of the image recording layer and organic or inorganic molecules for forming a visible image are adsorbed at regions thereof where the hydrophilic/hydrophobic character has been changed.

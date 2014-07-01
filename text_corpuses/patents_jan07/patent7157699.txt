@@ -1,0 +1,4 @@
+title: Multiplexed mass spectrometer
+
+abstract: 
+A multiplexed mass spectrometer system includes an array of mass analyzers and a data acquisition system. Each mass analyzer is associated with one or more data channels, and the data acquisition system selectively reduces the number of data channels through combinations of particular channels to define data acquisition modes for the molecular characterization of the samples. The selective reduction in channels can be achieved, for example by software manipulation of the acquired data or by combining the detected signals.

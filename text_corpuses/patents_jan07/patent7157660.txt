@@ -1,0 +1,4 @@
+title: Laser scanning apparatus and methods for thermal processing
+
+abstract: 
+Apparatus and methods for thermally processing a substrate with scanned laser radiation are disclosed. The apparatus includes a continuous radiation source and an optical system that forms an image on a substrate. The image is scanned relative to the substrate surface so that each point in the process region receives a pulse of radiation sufficient to thermally process the region.

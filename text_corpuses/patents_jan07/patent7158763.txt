@@ -1,0 +1,4 @@
+title: Multi-IDT SAW hybrid communication system
+
+abstract: 
+A SAW communication device has a main IDT mounted on an SAW substrate to receive an RF signal received by an antenna and convert the RF signal to an acoustic wave which travels along the SAW substrate in opposite directions from the main IDT. At least two secondary IDTs are mounted on the SAW substrate on opposite sides of and spaced from the main IDT to receive and reflect the acoustic wave in a modulated form such that the modulated acoustic wave from one secondary IDT is delayed relatively to the modulated acoustic wave from a secondary IDT on the opposite side of the main IDT to the one secondary IDT. The main IDT is also operable to receive and convert the reflected modulated acoustic waves to a further RF signal with a concatenated waveform corresponding to the two modulated acoustic waves and transmit the further RF signal from the antenna.

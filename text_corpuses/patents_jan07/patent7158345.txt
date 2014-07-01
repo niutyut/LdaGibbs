@@ -1,0 +1,4 @@
+title: Thin-film magnetic head appropriately suppressing side fringing and method for fabricating the same
+
+abstract: 
+A thin-film magnetic head includes a lower core layer; a recording core formed on the lower core layer and exposed at a face surface facing a recording medium, the recording core including a gap layer, an upper pole layer, and optionally, a lower pole layer; an upper core layer magnetically coupled to the upper pole layer; and a coil. A tip surface of the upper core layer at the face surface is set back from the face surface in the height direction, and the tip surface is an inclined surface or a curved surface in which the depth gradually increases from the track width direction. A method for fabricating a thin-film magnetic head is also disclosed.

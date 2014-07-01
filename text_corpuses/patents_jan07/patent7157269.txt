@@ -1,0 +1,4 @@
+title: On-spot hydrophilic enhanced slide and preparation thereof
+
+abstract: 
+The invention discloses an on-spot hydrophilic enhanced slide/microarray. The preparation method relates to a hydrophobic copolymer prepared by blending, grafting or co-polymerization of a hydrophobic material and a compound bearing functional groups such as anhydride, imide, cyclic amide, and cyclic ester, and application of the hydrophobic copolymer onto an organic or inorganic substrate. The resulting slide has the properties of on-spot hydrophilic/hydrophobic dynamic conversion, as well as on-spot hydrophilic enhancement for the preparation of high-density and high-efficiency bio-chip/microarray.

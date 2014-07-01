@@ -1,0 +1,4 @@
+title: Electromagnetic driver for a planar diaphragm loudspeaker
+
+abstract: 
+The invention relates to an electromagnetic driver comprising a soft magnetic core in the form of an E with three legs and a back, an alternating field driver, magnetically coupled to the soft magnetic core, for generating an alternating magnetic field in the soft magnetic core, depending upon a sound signal, a constant field driver magnetically coupled to the soft magnetic core for generation of a constant magnetic field in the soft magnetic core, a soft magnetic element for coupling to the plate of the planar diaphragm loudspeaker, lying opposite the back and magnetically closing the legs across at least one small induction gap, whereby the constant field and the alternating field are asymmetrically superimposed such that a resulting force, or a resulting torque on the soft magnetic element, is proportional to the sound signal.

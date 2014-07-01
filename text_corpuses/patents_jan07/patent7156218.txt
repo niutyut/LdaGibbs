@@ -1,0 +1,4 @@
+title: Parking device for vehicle
+
+abstract: 
+A parking device for vehicles in which when an engine is brought into a halt, a clutch is disconnected and the revolution of an input shaft of a transmission cannot be controlled by frictional force of the engine, the parking device comprising a parking gear provided on the input shaft, a parking lock mechanism which selectively engages with the parking gear, a parking actuator for actuating the parking lock mechanism, a parking instruction device for instructing the parking, a speed-change actuator for shifting the transmission to each gear, and a control device. The control operates the speed-change actuator based on a signal from the parking instruction device to bring the transmission into engagement with a predetermined gear position and, thereafter, operates the parking actuator to bring the parking lock mechanism into engagement with the parking gear.

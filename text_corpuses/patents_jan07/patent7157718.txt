@@ -1,0 +1,4 @@
+title: Microfabricated radiation detector assemblies methods of making and using same and interface circuit for use therewith
+
+abstract: 
+Microfabricated, gas-filled radiation detector assemblies, methods of making and using same and interface circuit for use therewith are provided. The assembly includes a micromachined radiation detector including a set of spaced-apart electrodes and an ionization gas between the electrodes. A housing has a chamber for housing the detector including the gas. The housing of the assembly also includes a window which allows passage of charged particles therethrough to ionize the gas to create electrons which, in turn, create an electron cascade in the gas between the electrodes when the set of electrodes is biased.

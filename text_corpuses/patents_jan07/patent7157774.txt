@@ -1,0 +1,4 @@
+title: Strained silicon-on-insulator transistors with mesa isolation
+
+abstract: 
+A silicon-on-insulator semiconductor device which includes a substrate; and insulator layer overlying the substrate; a plurality of strained silicon islands overlying the insulator layer, the strained silicon islands are isolated from each other by mesa isolation; and a plurality of transistors formed on the strained silicon islands. A method for fabricating the silicon-on-insulator semiconductor device is further disclosed.

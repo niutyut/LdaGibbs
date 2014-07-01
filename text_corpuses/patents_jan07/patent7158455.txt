@@ -1,0 +1,4 @@
+title: Servo error detecting device for optical disk
+
+abstract: 
+Servo error signal circuitry apparatus and methods are described. The difference between two bottom envelope signals SEbtm and SFbtm is calculated by a subtracter () to generate a difference signal (SEbtm?SFbtm). The difference signal (SEbtm?SFbtm) is input as an alignment signal (AL) to an equalizer () and as a basic tracking error signal to the positive input terminal of a second subtracter (). On the other hand, the difference between two top envelope signals SEtop and SFtop is calculated by a third subtracter () to generate a difference signal (SEtop?SFtop). The signal K(SEtop?SFtop) obtained by multiplying a coefficient K with the difference signal using a coefficient multiplier () is input to the negative input terminal of the second subtracter (). The difference signal {(SEbtm?SFbtm)?K(SEtop?SFtop)} output from the second subtracter () is used as an offset corrected tracking error signal.

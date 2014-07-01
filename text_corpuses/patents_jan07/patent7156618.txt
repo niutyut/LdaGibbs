@@ -1,0 +1,4 @@
+title: Low cost diffuser assembly for gas turbine engine
+
+abstract: 
+A gas turbine diffuser assembly and a method for assembling same, includes providing a loose fit between the diffuser body and the diffuser pipes. Damper members provide a snug attachment.

@@ -1,0 +1,4 @@
+title: Heat recovery using fluidized spray tower
+
+abstract: 
+A fluidized spray vessel. A vessel design is provided for recovering heat from gaseous heat streams. The vessel utilizes a semi-fluidized bed for obtaining desirable liquid/vapor contact times. A spray section is provided in which liquid is sprayed through nozzles designed to provide a mean droplet size having a terminal velocity of from about sixty percent to about ninety five percent of the superficial upward gas velocity. These spray tower design criteria enhance spray tower performance, and thus enables more efficient heat recovery to be practiced, particularly in systems where relatively low grade heat sources are encountered.

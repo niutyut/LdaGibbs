@@ -1,0 +1,4 @@
+title: Sampling management for a process analysis tool to minimize sample usage and decrease sampling time
+
+abstract: 
+A method and system for analysis of additives in electrolysis plating solutions, using a flow management system that minimizes loss of plating solutions and decreases sampling time. The system includes at least one analysis chamber, a sampling duct connected to processing tool, a four-way valve positioned between the processing tool and the sampling duct, at least one carrier fluid duct connected to the analysis chamber, at least one actuatable multi-port valve that provides a transference platform between the sampling duct and the at least one carrier fluid duct, and a flow sensor connected to the sampling duct and positioned downstream from the at least one actuatable multi-port valve.

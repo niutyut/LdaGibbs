@@ -1,0 +1,4 @@
+title: Concrete block mold with moveable liner
+
+abstract: 
+One aspect of the present invention provides a mold assembly for manufacturing concrete blocks that is adapted for use in a concrete block machine. The mold assembly comprises a plurality of liner plates and a gear drive assembly. Each liner plate has a major surface and the liner plates are configured such that the major surfaces form a mold cavity, wherein at least one of the liner plates is moveable. The gear drive assembly is selectively coupled to the at least one moveable liner plate and is configured to move the at least one moveable liner plate in a first direction toward an interior of the mold cavity by applying a force in a second direction different from the first direction, and to move the liner plate in a direction away from the interior of the mold cavity by applying a force in a direction opposite the second direction.

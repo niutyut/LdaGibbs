@@ -1,0 +1,4 @@
+title: Wind turbine with floating foundation
+
+abstract: 
+A floating foundation for wind turbines is disclosed, where the foundation essentially comprises at least three submerged buoyancy bodies connected to the lower end of the tower of the wind turbine at a common node member situated well above the surface of the sea. The buoyancy bodies are connected to the node member by means of relatively thin leg sections, whereby wave load on the foundation is reduced. By applying the foundation according to the present invention, stress concentrations and torques in the node member are reduced, whereby it becomes possible to apply a relatively lightweight and hence cheap node member. The overall weight of the construction is thereby reduced and hence the volume of the buoyancy bodies necessary to counteract the overall weight of the construction.

@@ -1,0 +1,4 @@
+title: Apparatus and method for buffering instructions and late-generated related information using history of previous load/shifts
+
+abstract: 
+An instruction buffering apparatus is disclosed. The apparatus includes an early queue and a late queue. The early queue receives an instruction generated during a first clock cycle. The late queue receives information related to the instruction during a second clock cycle subsequent to the first clock cycle. The early queue receives load/shift control signals for loading/shifting the early queue. Registers receive the early queue load/shift signals and provide delayed versions of the signals to the late queue for controlling loading/shifting the related information in the late queue. The late queue is configured such that when the apparatus is empty, the related information may be provided during the second clock cycle, i.e., in the same clock cycle that its related instruction is provided from the early queue.

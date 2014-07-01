@@ -1,0 +1,7 @@
+title: Method for applying colored information on an object
+
+abstract: 
+A description is given of a method for applying colored information to an object (), the object having at least two different chromophoric particles, at least in a layer (A) close to the surface, which change the color of this layer (A) under the influence of laser radiation,
+
+
+According to the invention, at least one beam guiding means () is provided in order to guide a first laser beam () having the wavelength (?) and at least one further laser beam () having a wavelength (?), which is different from the wavelength of the first laser beam, via the two-coordinate beam deflection device () and the focusing device () onto the layer (A) of the object ().

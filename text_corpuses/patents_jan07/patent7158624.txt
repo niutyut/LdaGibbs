@@ -1,0 +1,4 @@
+title: Methods and apparatus for selectively including an audio signal component within an audio output signal
+
+abstract: 
+An apparatus and method selectively includes an audio signal component, such as hold music or a hold tone, within an audio output signal, such as a composite audio signal from a multi-party teleconference, based upon a condition of an audio delivery system. In one arrangement, the condition is based upon a presence characteristic, indicating the number of active endpoint devices in the audio delivery system and upon an endpoint signal, indicating non-participation of one of the active endpoint devices. Based upon the condition of the audio delivery system, the audio delivery system either omits the audio signal component from the audio output signal or includes the audio signal component with the audio output signal distributed within the system.

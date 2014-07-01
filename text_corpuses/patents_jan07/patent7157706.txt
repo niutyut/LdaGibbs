@@ -1,0 +1,4 @@
+title: Cryogenically cooled adjustable apertures for infrared cameras
+
+abstract: 
+A continuously variable diaphragm or swappable fixed aperture for use in thermal infrared cameras, which aperture or diaphragm can be cooled to cryogenic temperatures. The invention contemplates mounting aperture control means, if necessary, in a vacuum or extending the control mechanism through a vacuum in a thermally isolated manner to avoid radiation load on the photocell. The inventive method implements such a diaphragm and control system. The invention makes possible the object of using a single thermal infrared camera under a wide variety of target-scene radiation conditions that may be rapidly changing, with interchangeable or zoom camera lenses requiring matching or different size cold stops, and under other such dynamic situations.

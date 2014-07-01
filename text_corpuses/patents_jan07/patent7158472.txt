@@ -1,0 +1,4 @@
+title: Record carrier and apparatus for scanning the record carrier
+
+abstract: 
+A record carrier has a servo track () indicating an information track () intended for recording information blocks. The servo track () has a periodic variation of a physical parameter at a predetermined frequency and modulated parts for encoding position information at regular intervals. The modulated parts start with a bit sync element and are of a data type having a data bit element or of a word sync type having a word sync element. The bit sync element, word sync element and the data bit element being modulated according to a same predetermined type of modulation of the periodic variation. All distances between two adjacent of the elements constituting the modulated parts are unique.

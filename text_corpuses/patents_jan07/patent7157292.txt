@@ -1,0 +1,4 @@
+title: Leadframe for a multi-chip package and method for manufacturing the same
+
+abstract: 
+A leadframe for multi-chip package (MCP) including a die pad and a plurality of leads. A dielectric layer is formed on the lower surface of the die pad, so that the die pad is etched to form an interconnecting conductor with a bonding region. An insulation layer is formed on the interconnecting conductor and exposes the bonding region, so that a chip or a passive component can be electrically connected to the leads via the interconnecting conductor.

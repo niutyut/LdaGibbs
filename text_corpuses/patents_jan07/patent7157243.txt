@@ -1,0 +1,4 @@
+title: DNA encoding mammalian T-type calcium channels
+
+abstract: 
+Sequences and partial sequences for three types of mammalian (human and rat sequences identified) T-type calcium channel subunits which we have labeled as the ?, ?and ?subunits are provided. Knowledge of the sequence of these calcium channel permits the localization and recovery of the complete sequence from human cells, and the development of cell lines which express the novel calcium channels of the invention. These cells may be used for identifying compounds capable of acting as agonists or antagonists to the calcium channels.

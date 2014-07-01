@@ -1,0 +1,4 @@
+title: Computational data processing system and computational process implemented by means of such a system
+
+abstract: 
+This computational data processing system comprises an assembly of networked computers () in each of which is stored at least one computational application, and a machine () for storing computational data which is linked to the network and in communication with the computers, at least one of the computers () operating as master computer and at least some of the other computers () operating as slave computer. At least one of the computers comprises, stored in memory an algorithm for configuring the other computers of the network as slave computers and an executable master application for managing the tasks of each slave computer () as a function of their availability for the assignment, to each of them, of computational tasks and of corresponding computational data which are stored in the storage machine ().

@@ -1,0 +1,4 @@
+title: Ultrasonic rod waveguide-radiator
+
+abstract: 
+The present invention comprises an ultrasonic resonant rod waveguide-radiator with at least three cylindrical sections, one of which is an entrance section having a planar entrance surface and another of which is an exit section having a planar exit surface, and at least two sections having a variable cross-section. The cylindrical sections and sections of variable cross-section are arranged in alternating fashion and connected to each other acoustically rigidly. The dimensions of the cylindrical sections and the sections of variable cross-section are selected so that the gain of the waveguide-radiator is significantly greater than unity and the strain created by passage of ultrasonic waves through the waveguide-radiator is minimized, increasing the operational life of the waveguide-radiator and maximizing the amount of useful energy transmitted by the waveguide-radiator.

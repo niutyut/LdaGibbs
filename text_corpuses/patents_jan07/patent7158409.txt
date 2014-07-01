@@ -1,0 +1,4 @@
+title: Segmented metal bitlines
+
+abstract: 
+An array of memory cells of an integrated circuit are organized so metal bitlines are segmented. The memory cells may be nonvolatile memory cells such as floating gate, Flash, EEPROM, and EPROM cells. The bitlines for the memory cells are strapped to metal, and the metal bitline is segmented. The individual segments may be selectively connected to voltages as desired to allow configuring (e.g., programming) or reading of the memory cells. The programming voltage may be a high voltage, above the VCC of the integrated circuit. By dividing the metal bitlines into segments, this reduces noise between bitlines and improve the performance and reliability, and reduce power consumption because the parasitic capacitances are reduced compared to a long metal bitline (i.e., where all the segments are connected together and operated as one).

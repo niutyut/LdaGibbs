@@ -1,0 +1,4 @@
+title: Photothermographic material
+
+abstract: 
+A photothermographic material contains a support having thereon an image forming layer containing a photosensitive silver halide, a non-photosensitive organic silver salt, a reducing agent and a binder, and a non-photosensitive outermost layer on a side of the support where the image forming layer is provided, The photosensitive silver halide contains silver iodide in an amount of from 40 to 100% by mole, and a binder contained in the outermost layer contains at least one of a latex polymer and a water soluble polymer that is not derived from an animal protein in an amount of 50% by mass or more.

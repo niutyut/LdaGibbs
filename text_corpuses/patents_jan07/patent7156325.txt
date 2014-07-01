@@ -1,0 +1,4 @@
+title: Spraying gun
+
+abstract: 
+A spraying gun includes a water guide pipe, a control unit, and an injection unit. The injection unit includes a water guide member, a water control plate, a water injection ring, and a shade. Thus, the control unit can control the water to flow into different water channels of the water guide pipe, and the injection unit has corresponding water inlet hole, water outlet hole, water filling hole and nozzle to align with the respective water channel of the water guide pipe, so that different kinds of water flow are injected outward from the nozzles of the injection unit so as to change the sprinkling manner of the spraying gun.

@@ -1,0 +1,4 @@
+title: Mechanism for preventing closure of automobile doors
+
+abstract: 
+A linkage mechanism operably associated with the front and rear doors of an automotive vehicle that pivots a bumper device into an interfering position with respect to the closing of the front door against the B-pillar of the vehicle when the rear door remains opened. The linkage mechanism includes a spring-loaded actuation lever that moves in response to the opening of the rear door to cause through connecting links the pivotal movement of the bumper device from a retracted position to an interfering position to interfere with the closing of the front door. The closing of the rear door causes the retraction of the pivoted bumper device to enable the closing of the front door. A manually activated stop lever is pivotally movable against the bumper device to prevent the pivotal movement thereof out of the retracted position even when the rear door is opened.

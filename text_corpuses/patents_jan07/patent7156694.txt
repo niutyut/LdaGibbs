@@ -1,0 +1,4 @@
+title: Electrical outlet plug strip
+
+abstract: 
+An electrical outlet plug strip comprising an elongated horizontally disposed housing having a horizontally disposed upper wall member, a vertically disposed inner wall member, a horizontally disposed bottom wall member, and an angularly disposed outer wall member which extends between the outer end of the upper wall member and the outer end of the bottom wall member. The outer wall member extends downwardly and inwardly from its upper end to its lower end and has a plurality of horizontally spaced-apart electrical outlets positioned in the angularly disposed outer wall member. The angularly disposed outer wall member may also have a low voltage receptacle provided therein which enables low voltage lights to be powered thereby.

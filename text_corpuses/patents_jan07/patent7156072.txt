@@ -1,0 +1,4 @@
+title: Computer controlled engine valve operation
+
+abstract: 
+An electronic valve actuation system and control method is described. The valve timing is changed between early and late intake valve closing depending on engine operating conditions. Further, valve timing is adjusted to control engine airflow or engine torque. Finally, air-fuel ratio is adjusted based on feedback from an exhaust gas oxygen sensor as well as an estimate of air, fuel, and residual exhausted from cylinders operating with late valve closing (after bottom dead center) timing.

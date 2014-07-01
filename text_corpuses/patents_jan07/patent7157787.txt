@@ -1,0 +1,4 @@
+title: Process of vertically stacking multiple wafers supporting different active integrated circuit (IC) devices
+
+abstract: 
+A method of vertically stacking wafers is provided to form three-dimensional (3D) wafer stack. Such method comprising: selectively depositing a plurality of metallic lines on opposing surfaces of adjacent wafers; bonding the adjacent wafers, via the metallic lines, to establish electrical connections between active devices on vertically stacked wafers; and forming one or more vias to establish electrical connections between the active devices on the vertically stacked wafers and an external interconnect. Metal bonding areas on opposing surfaces of the adjacent wafers can be increased by using one or more dummy vias, tapered vias, or incorporating an existing copper (Cu) dual damascene process.

@@ -1,0 +1,4 @@
+title: Secondary touch contextual sub-menu navigation for touch screen interface
+
+abstract: 
+A touch sensitive user interface of the type having a display screen for displaying images representative of menus and selectable list objects, for example; control logic responsive to the touch sensitive user interface for determining the contact position of a first probe and a second probe, such as two separate fingers, thereon, displaying menus including list objects representing primary and secondary features or functions respectively, so that a user may touch a selection on the primary menu with the first probe and subsequently touch an area on the display screen where a contextually related secondary menu is displayed for selection of contextually related features or functions.

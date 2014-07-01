@@ -1,0 +1,4 @@
+title: Print queue managing method and printer
+
+abstract: 
+A method of managing a queue of print jobs in a printer is disclosed, wherein the jobs are created by specifying print data and print parameters for each job, and the jobs are put into the print queue, and wherein, before print processing of a job in the queue begins, a start condition for the job is checked and printing is started only when the start condition is fulfilled. The method includes steps of checking a status of mode indicator specifying whether the printer is in a ?keep going? mode or a ?keep sequence? mode; and, when a job in the queue is reached for which the start condition is not fulfilled, postponing print processing of this job and proceeding with a next job, if any, for which the start condition is fulfilled, if the printer is in the ?keep going? mode, or stopping print processing, if the printer is in the ?keep sequence? mode.

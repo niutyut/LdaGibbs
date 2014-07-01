@@ -1,0 +1,4 @@
+title: Display contrast adjustment method and device having display contrast adjustment function
+
+abstract: 
+An information processing apparatus controls display contrast of a display screen based on a stored display contrast value. The information processing apparatus includes a display screen, an input unit for inputting data, a storage unit for storing a display contrast value, a unit for adjusting the display contrast of the display screen based on the stored display contrast value, a measuring unit for measuring the time after the completion of data input from the input unit while the display contrast is being adjusted, a value changing unit for changing the stored display contrast value stored in the storage unit after a first predetermined period of the time measured by the measuring unit elapses, and a changing unit for changing the display contrast of the display screen based on the display contrast changed by the value changing unit.

@@ -1,0 +1,4 @@
+title: Fluidized bed pulverizing and classifying apparatus, and method of pulverizing and classifying solids
+
+abstract: 
+A fluidized bed pulverizing and classifying apparatus is disclosed having a vessel that includes a pulverizing section having a pulverizing nozzle spraying compressed air to pulverize a powder, a classifying section located over the pulverizing section, including a classifying rotor classifying the powder, and a fluidized bed. The vessel also contains a supply of secondary air.

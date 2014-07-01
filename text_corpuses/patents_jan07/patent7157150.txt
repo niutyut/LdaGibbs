@@ -1,0 +1,4 @@
+title: Brazing titanium to stainless steel using layered particulate
+
+abstract: 
+A method of bonding a stainless steel part to a titanium part by heating a component assembly comprised of the titanium part, the stainless steel part, and a compact titanium-nickel filler material placed between the two parts and heated at a temperature that is less than the melting point of either the stainless steel part or the titanium part. The compact filler material is made of particles, preferably spheres, of discrete layers of nickel and titanium metal that react with each other and with the stainless and titanium parts to form a strong assembly when thermally processed. The component assembly is held in intimate contact at temperature in a non-reactive atmosphere for a sufficient time to develop a hermetic and strong bond between the stainless steel part and the titanium part.

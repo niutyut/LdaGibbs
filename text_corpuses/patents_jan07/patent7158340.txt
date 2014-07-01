@@ -1,0 +1,4 @@
+title: Magnetic recording and reproducing apparatus and magnetic recording medium
+
+abstract: 
+The burst pattern shape in a discrete medium is set to a shape (truncated quadrangular pyramid shape) having substantially trapezoidal shapes in a track width direction and in a track circumferential direction, respectively, and a predetermined relationship is satisfied among W W Tp, and Wr where W represents an upper side corresponding to the surface of a convex magnetic recording layer and W a lower side corresponding to the lower surface of the convex magnetic recording layer in the trapezoidal shape in the track width direction, Tp represents a data track pitch of a data information recording portion, and Wr represents a read width of a magnetic head. Therefore, the burst pattern shape makes it possible to largely reduce a production load in processing and still to obtain an accurate position error signal.

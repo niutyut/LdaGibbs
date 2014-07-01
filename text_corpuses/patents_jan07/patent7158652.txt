@@ -1,0 +1,4 @@
+title: Method of using plural watermarks to prevent unauthorized image copying
+
+abstract: 
+An increasing number of people are employing a variety of methods of editing and processing digital content in an effort to illegally copy the content. It is difficult to develop digital watermark technology that is able to withstand all types of editing and processing. The present invention addresses the foregoing problems by providing a digital content processing method comprising performing a plurality of copyright protection processes on digital content, each copyright protection process differing in difficulty of being analyzing, and distributing the processed digital content.

@@ -1,0 +1,4 @@
+title: Torque measuring apparatus for rotating body
+
+abstract: 
+To achieve the improvement in workability of attachment or detachment of a light receiving fiber for receiving a torque optical signal from a rotor, as well as the improvement in the light receiving efficiency of optical signals, a torque measuring apparatus comprises a rotor having a hollow body portion formed between a drive-side flange portion and a load-side flange portion; light emitting elements disposed on a periphery of the rotor for emitting optical signals based on an output from a torque detection unit arranged on a hollow portion of the hollow body portion; a diffusion means for diffusing the optical signals; and a light receiving fiber attached to a chassis disposed outside the rotor for receiving the optical signals via the diffusion portion.

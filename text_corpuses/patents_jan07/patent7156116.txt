@@ -1,0 +1,4 @@
+title: Apparatus and method for operating a valve using a cushion filter
+
+abstract: 
+A method, system, and computer program are provided for operating a valve using a cushion filter. The method, system, and computer program receive a process variable signal associated with operation of a valve. The method, system, and computer program filter the process variable signal to produce a filtered process variable signal using a cushion filter. The cushion filter implements a cushion in a bias used by the cushion filter. The method, system, and computer program generate an output signal for adjusting the valve based at least partially on the filtered process variable signal.

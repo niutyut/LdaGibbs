@@ -1,0 +1,4 @@
+title: Laminated disc envelope with postcard appearance
+
+abstract: 
+An envelope formed of top, bottom and center sheets. An aperture is cut in and intersects one end of the center sheet. The sheets are adhesively laminated to attach the center sheet's front surface to the top sheet's rear surface and attach the center sheet's rear surface to the bottom sheet's front surface. The aperture then forms an open-ended pocket between the top and bottom sheets. A flat article such as a compact disc can be slidably inserted into the pocket. A closure flap formed on an end of the bottom sheet adjacent the pocket opening is then folded over the opening and adhesively attached to the top sheet's front surface. The envelope is opened by severing a perforated tear strip which extends across the closure flap, between the closure flap's attachment to the top sheet and the closure flap's foldable junction with the bottom sheet.

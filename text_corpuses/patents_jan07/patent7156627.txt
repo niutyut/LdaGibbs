@@ -1,0 +1,4 @@
+title: Compressor unit comprising a centrifugal compressor and an electric motor
+
+abstract: 
+A compressor unit comprises a centrifugal compressor () for compressing a gas, having a rotor () with one or more compressor impellers (), and an electric motor () having a stator () and a rotor (), for driving the rotor () of the compressor. The compressor and the electric motor are accommodated in a common gas-tight housing () which is provided with a gas inlet () and a gas outlet (). The rotor of the compressor and the rotor of the electric motor are arranged on a common rotor shaft () which is mounted in magnetic bearings (). The rotor shaft () comprises a single unit and is mounted in two radial magnetic bearings (), each in the vicinity of one end of the common rotor shaft, and one axial magnetic bearing (), which is arranged in the vicinity of one () of the radial bearings.

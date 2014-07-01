@@ -1,0 +1,4 @@
+title: Enhancing the resolution of measurement systems employing image capturing systems to measure lengths
+
+abstract: 
+Two scales having unequal pitches are used to measure lengths with a greater resolution than that offered by an image capturing system operating alone. In an embodiment, the different pitches are attained by having bands of unequal width in the two scales. Images representing the overlapping patterns of the two bands are captured in a digital format before and after a move. The bit patterns resulting from such capturing are examined to determine the length of the move with a high resolution according to Vernier principles. The length of the move can in turn be used to measure the length of an object with high resolution.

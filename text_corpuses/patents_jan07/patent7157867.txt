@@ -1,0 +1,4 @@
+title: Operating method, electronic ballast and system for resonant operation of high pressure lamps in the longitudinal mode
+
+abstract: 
+The operating method is based on the simultaneous use of FM and AM and is distinguished by passing through a number of steps which are used to find an optimum frequency for the AM and, in addition, to define an optimum AM level. An electronic ballast which has a memory module which can be overwritten is used for implementation.

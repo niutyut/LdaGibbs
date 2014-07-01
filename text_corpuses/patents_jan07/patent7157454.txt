@@ -1,0 +1,7 @@
+title: Derivatives of n-(arylsulfonyl)beta-aminoacids comprising a substituted aminomethyl group, the preparation method thereof and the pharmaceutical compositions containing same
+
+abstract: 
+The invention relates to compounds of formula:
+
+
+These compounds show affinity for the bradykinin receptors with selectivity towards the Breceptors; they may be used for the preparation of medicinal products intended for treating or preventing inflammation pathologies and persistent or chronic inflammatory diseases.

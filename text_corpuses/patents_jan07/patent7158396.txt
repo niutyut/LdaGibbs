@@ -1,0 +1,4 @@
+title: CAM (content addressable memory) apparatus
+
+abstract: 
+The present invention provides a CAM (content addressable memory) apparatus having: a first memory device () with a word line input (WL) and at least one storage node () for storing a first bit of a data word; a second memory device () with a word line input (WL) and at least one storage node () for storing a second bit of a data word; and a comparator device () for comparing the first and second stored bits with two precoded comparison bits fed via four inputs () and for driving a hit node () in the event of the first stored bit corresponding to the first comparison bit and the second stored bit corresponding to the second comparison bit.

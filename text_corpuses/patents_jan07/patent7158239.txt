@@ -1,0 +1,4 @@
+title: Optical method of examining reliefs on a structure
+
+abstract: 
+A method for studying a surface provided with relief features, wherein a measurement spectrum is taken and then compared with test spectra representative of arbitrary structures that are adjusted stepwise. A correlation over representative points of the spectra is selected while optimizing the determination by a hierarchized adjustment of the parameters.

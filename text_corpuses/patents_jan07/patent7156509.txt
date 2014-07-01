@@ -1,0 +1,8 @@
+title: Image forming apparatus
+
+abstract: 
+An image forming apparatus includes an ink tank; and an ink supplying path for supplying the ink from the ink tank to a print head, wherein the ink supplying path therein includes a filter, which generates negative pressure when the ink is supplied, the negative pressure being smaller than ink absorbing pressure of a nozzle of the print head. Further, the ink tank therein includes, for example, a porous ink absorbing body for retaining ink. The image forming apparatus satisfies:
+
+?<1/()
+
+where F(m) expresses a filtration accuracy of the filter; N (cells/m) expresses a cell density of the ink absorbing body before the ink absorbing body is contained in the ink tank; and R expresses a compressibility, which is a volume ratio of the ink absorbing body when the ink absorbing body is contained in a compressed state in the ink tank to the ink absorbing body before the ink absorbing body is contained in the ink tank, on condition that: F?=F when an opening of the filter is circle; F?=?{square root over ( )}2?F in other cases.

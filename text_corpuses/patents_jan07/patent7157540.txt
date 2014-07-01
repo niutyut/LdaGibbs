@@ -1,0 +1,4 @@
+title: Olefinic polymer and process for producing the same
+
+abstract: 
+The olefinic polymer characterised in that the n-decane-soluble content thereof is 10% by weight or less and the content of a ligand having a cyclopentadienyl structure is 5 ppb by weight or less. The process for producing an olefinic polymer is a process of producing an olefinic polymer by (co)polymerizing olefins in a gas phase using a fluidized-bed reactor, the process comprising: a polymerization step of (co)polymerizing the olefins with allowing a saturated aliphatic hydrocarbon to exist in a concentration of 2 to 30 mol % in the fluidized-bed reactor and a ligand removing step involving a step of bringing the resulting (co)polymer into contact with a ligand-remover and a step of heating said (co)polymer which has been brought into contact with the ligand-remover.

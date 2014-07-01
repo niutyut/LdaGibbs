@@ -1,0 +1,4 @@
+title: Re-configurable induction coil for metal detection
+
+abstract: 
+A device in which the receiver coil of a pulse inductive metal detector is capable of switching between a differential configuration (i.e., gradiometer configuration) to a non-differential or summing configuration under control of the operator or computer.

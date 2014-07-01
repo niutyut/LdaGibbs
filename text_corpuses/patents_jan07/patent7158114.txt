@@ -1,0 +1,4 @@
+title: Force-feedback input device
+
+abstract: 
+A force-feedback input device includes an operating unit to be operated by an operator, a position detector for detecting an operating state of the operating unit, a torque generator for applying a force to the operating unit, a controller for controlling the driving of the torque generator so that a force in accordance with the operating state is applied to the operating unit, an ambient thermometer for detecting the ambient temperature of the torque generator, a storage unit, and a power supply. The controller calculates a new estimated temperature of the torque generator based on higher one of the ambient temperature, and an estimated temperature immediately before the power stoppage, which is read from the storage unit, and reduces the current supplied to the torque generator to cool the torque generator when the new estimated temperature exceeds a predetermined value.

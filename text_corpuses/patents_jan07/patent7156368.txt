@@ -1,0 +1,4 @@
+title: Solenoid actuated flow controller valve
+
+abstract: 
+A flow control valve for controlling the flow of fuel in a fuel system including a housing with a fuel passage, a valve device movable to close the fuel passage to block fuel flow through the fuel passage, and to open the fuel passage to permit fuel flow through the fuel passage, a valve plunger engaging the valve device, an actuator for reciprocally moving the valve plunger, an armature overtravel feature for permitting continued movement of the armature relative to the valve plunger from an engaged position into a disengaged position when the valve plunger reaches the extended position, and an armature stop for stopping overtravel of the armature.

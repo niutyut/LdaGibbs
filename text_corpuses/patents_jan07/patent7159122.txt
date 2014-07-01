@@ -1,0 +1,4 @@
+title: Message digest instructions
+
+abstract: 
+A method, system and computer program product for digesting data in storage of a computing environment. The digesting computes a condensed representation of a message or data stored in the computer storage. A COMPUTE INTERMEDIATE MESSAGE DIGEST (KIMD) and a COMPUTE LAST MESSAGE DIGEST (KLMD) instruction are disclosed which specify a unit of storage to be digested by a secure hashing algorithm.

@@ -1,0 +1,4 @@
+title: Method of evaluating useful cattle
+
+abstract: 
+A method that comprises analyzing codon types encoding amino acids at positions 127 and/or 172 of the amino acid sequence of the bovine growth hormone, and evaluating the growth ability and/or the ability to accumulate fat in the muscle of cattle based on the analytical results.

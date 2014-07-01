@@ -1,0 +1,4 @@
+title: Method for removing a cap from the gate of an embedded silicon germanium semiconductor device
+
+abstract: 
+A method of removing the cap from a gate of an embedded SiGe semiconductor device includes the formation of the embedded SiGe semiconductor device with the cap consisting of a cap material on top of the gate, first sidewall spacers on side surfaces of the gate, and embedded SiGe in source and drain regions. Second sidewall spacers are formed on the first sidewall spacers, these second sidewall spacers consisting of a material different from the cap material. The cap is stripped from the top of the gate with an etchant that selectively etches the cap material and not the second sidewall spacer material.

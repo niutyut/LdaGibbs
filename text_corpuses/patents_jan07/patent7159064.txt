@@ -1,0 +1,4 @@
+title: Method and device for increasing data transfer in multi-media card
+
+abstract: 
+An electronic device having a MultiMediaCard host connected to a MultiMediaCard card via a bus system having a plurality of signal lines and a plurality of data lines, wherein the host is operable in a number of data modes. At least in one of the data modes the number of data lines used to convey data between the host and card is smaller than the number of data lines available on the bus system, leaving some unused data lines. An embedded module in the card is used to generate a clock signal, a command signal and further data to be conveyed between the host and the card on some or all of the unused data lines. When the electronic device is operable in an SPI mode, the CS line can be used for sending a command signal from the card to the host.

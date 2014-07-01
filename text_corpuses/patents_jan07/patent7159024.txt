@@ -1,0 +1,4 @@
+title: Storage system and method for controlling the same
+
+abstract: 
+A storage system storing data sending/receiving data to/from a plurality of external devices via a common network. The storage system controls access from the plurality of external devices. The storage system accepts accesses according to different protocols from the plurality of external devices via the common network. The storage system analyzes the protocol from the external devices which accessed through the external interface. The storage system sends/receives data based on the analysis result.

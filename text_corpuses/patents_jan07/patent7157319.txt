@@ -1,0 +1,4 @@
+title: Method of patterning a thin film transistor that includes simultaneously forming a gate electrode and a pixel electrode
+
+abstract: 
+A high-precision patterning is conducted with a half-tone resist thickness being prevented from varying due to the presence/absence of a base film. A transmitting portion and two kinds of semi-transmitting portions, providing different quantities of transmitted light, are provided in a photomask for exposing a resist, and a smaller-transimitting-light-quantity semi-transmitting portion is used in a base film-present area and a large-transmitting light-quantity semi-transmitting portion is used in a base-film-free area to regulate luminous exposure while exposing, thereby forming a half-tone resist having uniform thickness.

@@ -1,0 +1,4 @@
+title: Method for transferring a coating onto articles with warped surfaces
+
+abstract: 
+The method of transferring a coating onto articles having skew surfaces comprises the steps of applying a coating on the articles, which coating is carried by a transfer support that has a pyrolysis temperature lower than a melting temperature of the coating, the coating itself having a sealing temperature lower than the pyrolysis temperature of the transfer support, and then of subjecting articles coated in this way to the melting temperature of the coating.

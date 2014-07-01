@@ -1,0 +1,4 @@
+title: Medical assistance and tracking system and method employing smart tags
+
+abstract: 
+A medication tracking and/or medical assistance device and method comprises an RFID tag coder for reading from and/or writing to an RFID tag. A processor and a memory process information read from an RFID tag to provide a message based thereon by a visual and/or an audible message.

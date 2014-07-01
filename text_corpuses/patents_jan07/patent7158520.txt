@@ -1,0 +1,4 @@
+title: Mailbox registers for synchronizing header processing execution
+
+abstract: 
+A packet header processing engine includes a level 2 (L2) header generation unit and a level 3 (L3) header generation unit. The L2 and L3 header generation units are implemented in parallel with one another. Mailbox registers allow the L2 and L3 header generation units to communicate with one another. The L2 header generation unit may write to a specified mailbox register only when a valid bit corresponding to the mailbox register indicates that the register does not contain valid data. After writing to the mailbox register, the L2 header generation unit changes the state of the valid bit. The L3 register then reads from the mailbox register and changes the state of the valid bit. A similar implementation of the mailbox registers allows data to flow from the L3 header generation unit to the L2 header generation unit.

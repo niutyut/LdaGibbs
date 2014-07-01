@@ -1,0 +1,4 @@
+title: Gain control in wireless LAN devices
+
+abstract: 
+A signal pre-processing device particularly in wireless LAN devices is provided that comprises an AGC (Automatic Gain Control) unit, an ADC (Analog-to-Digital Converting) unit and a normalization unit. The AGC unit amplifies a received analog input signal and outputs an amplified analog signal. Further, it automatically controls an amplification gain when amplifying the analog input signal. The ADC unit receives the amplified analog signal, converts it into a digital signal and outputs the digital signal. The normalization unit is receives the digital signal, applies a normalization function to the digital signal and outputs the normalized digital signal. Thus, less precise AGC units can be used, thereby reducing production costs as well as the size and complexity of the AGC unit. Further, shorter circuit development times are obtainable.

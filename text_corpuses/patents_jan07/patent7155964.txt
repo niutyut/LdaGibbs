@@ -1,0 +1,4 @@
+title: Method and apparatus for measuring electrical properties in torsional resonance mode
+
+abstract: 
+The preferred embodiments are directed to a method and apparatus of operating a scanning probe microscope (SPM) including oscillating a probe of the SPM at a torsional resonance of the probe, and generally simultaneously measuring an electrical property, e.g., a current, capacitance, impedance, etc., between a probe of the SPM and a sample at a separation controlled by the torsional resonance mode. Preferably, the measuring step is performed while using torsional resonance feedback to maintain a set-point of SPM operation.

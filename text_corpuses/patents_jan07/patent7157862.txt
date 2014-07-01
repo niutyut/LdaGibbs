@@ -1,0 +1,5 @@
+title: Protection device for a chopping supply and a vehicle lighting device
+
+abstract: 
+The invention concerns a protection device for a chopping supply of the type comprising a voltage converter whose secondary is connected to a load such as a light source of the xenon lamp type, and whose primary is connected to an energy source and is controlled by a power switch possibly controlled by a control unit, characterised in that it comprises:
+

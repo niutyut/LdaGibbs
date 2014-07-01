@@ -1,0 +1,4 @@
+title: Simple device and method to return a user to a location
+
+abstract: 
+A location apparatus for returning to a user to a location including a system unit configured to compute a location using radio signals, a user interface unit having a display area and first and second buttons, a memory unit, and a computational unit configured to interact with the first and second buttons. The computation unit retrieves a first location from the system unit and stores the first location in the memory unit upon selection of the first button by the user. Further, the computation unit retrieves a second location from the system unit and calculates a relative three-dimensional direction from the second location to the first location upon selection of the second button by the user. The relative three-dimensional direction is graphically represented on the display area of the user interface unit.

@@ -1,0 +1,4 @@
+title: Method of making thin film magnetic head
+
+abstract: 
+A thin-film magnetic head comprises at least one of a magnetoresistive device and an electromagnetic transducer, and a heater adapted to generate heat upon energization. A method of making this thin-film magnetic head comprises a heater forming step of forming the heater, and an annealing step of annealing the heater formed by the heater forming step.

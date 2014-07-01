@@ -1,0 +1,4 @@
+title: Apparatus for generating homogeneous magnetic field
+
+abstract: 
+At least one superconducting shim coil is wound around a cylinder member disposed approximately coaxially with a group of superconducting main coils, and the positions in the winding center locus in an axial direction change approximately in accordance with a function where a sine or cosine function with a cycle of (360/m) degrees (m; an integer of one or more) in a circumferential direction is mixed with a sine or cosine function with a cycle of (360/(m+2)) degrees.

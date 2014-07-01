@@ -1,0 +1,4 @@
+title: Titanium substituted pyridyl amine complexes, catalysts and processes for polymerizing ethylene and stryene
+
+abstract: 
+New compositions, titanium-ligand complexes and arrays with pyridyl-amine ligands are disclosed that catalyze the polymerization of monomers into polymers. These catalysts with titanium metal centers have high performance characteristics, including high styrene incorporation into ethylene/styrene copolymers.

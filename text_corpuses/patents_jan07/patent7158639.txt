@@ -1,0 +1,4 @@
+title: Key generation
+
+abstract: 
+Described herein is one or more implementations that generate a single key from a set of encrypted keys, which set is associated with a unique data subset of a database.

@@ -1,0 +1,4 @@
+title: Navigation system
+
+abstract: 
+A navigation system for use in a motor vehicle receives starting position data and destination position data and computes driving directions between the starting and destination positions. The navigation system includes a first memory unit that stores a basic navigation database including road map information, and a receiver that receives supplemental navigation data including digital road maps, and provides received supplemental navigation data that is stored in a second memory unit. A navigation computer computes driving directions between the starting position and the destination position using information from the basic navigation database and the received supplemental navigation data, and outputs driving directions for presentation to a user.

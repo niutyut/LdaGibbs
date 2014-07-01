@@ -1,0 +1,4 @@
+title: Method for providing whisker-free aluminum metal lines or aluminum alloy lines in integrated circuits
+
+abstract: 
+A method for providing whisker-free aluminum metal lines or aluminum alloy lines in integrated circuits includes the following steps: providing a substrate; providing a whisker-containing layer made of aluminum metal or an aluminum alloy on the substrate; back-etching and/or resputtering the whisker-containing layer such that the whiskers are essentially removed; and structuring the whisker-free layer into the lines.

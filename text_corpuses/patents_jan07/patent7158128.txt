@@ -1,0 +1,4 @@
+title: Drive unit and display module including same
+
+abstract: 
+A data latch circuit in a source driver has delayed flip-flops (DFFs) which receive display data signals R?G?B, in synchronism with respective rising and falling edges of a clock signal SCK having a half frequency of the display data signals R?G?B. Furthermore, the OFFs independently output to a sampling memory circuit the display data signals R?G?B received in synchronism with the rising edge of the clock signal SCK and the display data signals received in synchronism with the falling edge of the clock signal SCK.

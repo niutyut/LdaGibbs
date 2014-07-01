@@ -1,0 +1,4 @@
+title: Intermittent drive control apparatus of motor
+
+abstract: 
+Rotation of a capstan motor is detected by a frequency detector, and supplied to a CPU as a rotation detection signal CFG. The CPU derives a period of the rotation detection signal CFG, calculates an average rotational speed of the capstan motor on the basis of the derived period, derives an attenuation value of the rotational speed on the basis of the calculated average speed, and thereby sets a braking time interval. As a result, calculation of the braking time using a highly accurate zero point detection with a frequency detector of one system becomes possible. The apparatus scale can be reduced.

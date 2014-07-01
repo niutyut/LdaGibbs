@@ -1,0 +1,4 @@
+title: Nucleotide sequences of HIV-1 type (or subtype) O retrovirus antigens
+
+abstract: 
+An HIV-1 type (or subtype) O retrovirus protein, or a natural or synthetic polypeptide or peptide including at least a part of said protein, which is capable of being recognised by antibodies isolated from a serum resulting from infection by an HIV-1 type O VAU strain or an HIV-1 type (or subtype) O DUR strain.

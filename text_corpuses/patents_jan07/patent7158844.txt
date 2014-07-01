@@ -1,0 +1,4 @@
+title: Configurable surround sound system
+
+abstract: 
+A configurable surround sound system for the creation of true 3D acoustic spatial effects. The configurable surround sound system includes a computer processing unit including a user interface means including a keyboard and a mouse, and a conventional controller unit which triggers data messages or a series of data messages to the control processing unit, and further includes a sound producing member having eight output channels such as a sound card. Sound signals are transmitted from the sound producing member to the control producing unit which is directed either by the controller unit or the user to transmit the sound signals to a mixer board and then to an amplifier which amplifies the sound signals to a plurality of speakers. Compatible computer software directs the control processing unit to send sound signals as desired.

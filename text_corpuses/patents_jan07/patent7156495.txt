@@ -1,0 +1,4 @@
+title: Ink jet printhead having nozzle arrangement with flexible wall actuator
+
+abstract: 
+An ink jet printhead comprises a substrate having a plurality of nozzle arrangements formed therein. For each nozzle arrangement, an ink chamber is formed in the substrate. A rim disposed over the chamber defines an ink ejection port and a wall extending over said chamber and including a flexible portion defines an actuator. When actuated the wall moves independently of the rim and into said ink chamber forcing ink therein, out through the said ink ejection port. The flexible portion of said wall is made from material having a thermal expansion suitable to cause the wall to move into said ink chamber upon uneven heating of the flexible portion of the wall.

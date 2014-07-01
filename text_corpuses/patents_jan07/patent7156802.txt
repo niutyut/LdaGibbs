@@ -1,0 +1,4 @@
+title: Rotary pump with hydrodynamically suspended impeller
+
+abstract: 
+This invention relates to rotary pumps adapted, but not exclusively, for use as artificial hearts or ventricular assist devices and, in particular, discloses in preferred forms a seal-less shaft-less pump featuring open or closed (shrouded) impeller blades with the edges of the blades used as hydrodynamic thrust bearings and with electromagnetic torque provided by the interaction between magnets embedded in the blades and a rotating current pattern generated in coils fixed relative to the pump housing.

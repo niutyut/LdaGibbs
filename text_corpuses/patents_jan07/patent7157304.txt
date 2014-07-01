@@ -1,0 +1,4 @@
+title: Single level metal memory cell using chalcogenide cladding
+
+abstract: 
+An apparatus including a volume of phase change material disposed between a first conductor and a second conductor on a substrate, and a plurality of electrodes coupled to the volume of phase change material and the first conductor. A method including introducing, over a first conductor on a substrate, a plurality of electrodes coupled to the first conductor, introducing a phase change material over the plurality of electrodes and in electrical communication with the plurality of electrodes, and introducing a second conductor over the phase change material and coupled to the phase change material.

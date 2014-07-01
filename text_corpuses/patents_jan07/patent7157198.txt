@@ -1,0 +1,4 @@
+title: Toner for electrostatic latent image development and an image forming method
+
+abstract: 
+Toner for electrostatic latent image development includes at least a resin, a coloring agent and a crystalline compound, wherein the toner particle has sea-island structure and the crystalline compound is n-paraffin of particular structure.

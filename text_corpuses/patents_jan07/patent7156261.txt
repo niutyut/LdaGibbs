@@ -1,0 +1,4 @@
+title: High-speed liquid dispensing modules
+
+abstract: 
+Liquid dispensing module and methods for dispensing a heated liquid onto a substrate. The dispensing module includes a dispenser body receiving liquid from a heated liquid distribution manifold and an actuator having a housing with an air piston movable in an air cavity and a solenoid valve for pressurizing the air cavity. Movement of the air piston controls a flow-regulating mechanism for selectively dispensing liquid from the dispenser body. A thermally insulating shield may be provided for reducing heat transfer from the manifold and/or dispenser body to the actuator so that the solenoid valve can be mounted directly to the housing and the effective volume of the air cavity can be reduced. The cycle time of the liquid dispensing module may be specified by selecting an initial volume of the air cavity and an effective valve flow coefficient for the actuator that characterizes the air flow to the air cavity.

@@ -1,0 +1,4 @@
+title: Source side injection storage device and method therefor
+
+abstract: 
+A memory charge storage device has regions of sacrificial material overlying a substrate (). For each memory cell a first doped region () and a second doped region () are formed within the substrate and on opposite sides of one () of the regions of sacrificial material. A discrete charge storage layer () overlies the substrate and is between the regions of sacrificial material. In one form a control electrode () is formed per memory cell overlying the substrate with an underlying substrate diffusion and laterally adjacent one of the regions of sacrificial material. A third substrate diffusion () is positioned between the two control electrodes. In another form two control electrodes are formed per memory cell with a substrate diffusion underlying each control electrode. In both forms a select electrode () overlies and is between both of the two control electrodes.

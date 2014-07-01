@@ -1,0 +1,4 @@
+title: Direct contact semiconductor cooling
+
+abstract: 
+Thermal spreading resistance, associated with small geometry electronic features that generate heat on a semiconductor, may be reduced through the addition of a thermally conductive fluid. For example, a dielectric fluid may be used within a volume between a semiconductor package and the semiconductor substrate. Therefore, direct thermal cooling may be employed to reduce the thermal spreading resistance often encountered in MMIC power amplifier devices. Furthermore, exemplary methods to achieve this sealing are described herein.

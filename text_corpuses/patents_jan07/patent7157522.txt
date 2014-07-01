@@ -1,0 +1,4 @@
+title: Alpha-olefin/propylene copolymers and their use
+
+abstract: 
+Improved thermoplastic polymer blend compositions comprising an isotactic polypropylene component and an alpha-olefin and propylene copolymer component, said copolymer comprising crystallizable alpha-olefin sequences. In a preferred embodiment, improved thermoplastic polymer blends are provided comprising from about 35% to about 85% isotactic polypropylene and from about 30% to about 70% of an ethylene and propylene copolymer, wherein said copolymer comprises isotactically crystallizable propylene sequences and is predominately propylene. The resultant blends manifest unexpected compatibility characteristics, increased tensile strength, and improved process characteristics, e.g., a single melting point.

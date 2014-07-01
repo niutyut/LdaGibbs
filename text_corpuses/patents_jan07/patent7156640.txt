@@ -1,0 +1,4 @@
+title: Insert dies, molds, and methods for fabricating the same
+
+abstract: 
+A method for manufacturing an insert die with a pattern region to be transferred onto a molding part is provided. The method includes (a) adhering a first base member having the pattern region and a second base member with an adhesive material, and (b) sealing an exposed portion of the adhesive material by a metal film.

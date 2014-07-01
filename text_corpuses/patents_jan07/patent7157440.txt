@@ -1,0 +1,4 @@
+title: Partial and full agonists of A1 adenosine receptors
+
+abstract: 
+Disclosed are novel compounds that are partial and full Aadenosine receptor agonists, useful for treating various disease states, in particular tachycardia and atrial flutter, angina, and myocardial infarction.

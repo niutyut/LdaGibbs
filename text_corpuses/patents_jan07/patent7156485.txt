@@ -1,0 +1,4 @@
+title: Liquid discharge head, cleaning method thereof, and liquid discharge apparatus
+
+abstract: 
+On a liquid discharge head including an ink discharge surface () having rows of ink discharge holes () each for discharging different colors of ink, a cleaning roller () formed of a cylindrical elastic material touching the ink discharge surface () is moved relative to the ink discharge surface (). This movement causes the pressure inside the ink discharge holes () to change and, as a result, the ink () inside the ink discharge holes () is absorbed. In this way, a ink discharge head, a method for cleaning thereof, and a ink discharge apparatus that do not damage the ink discharge surface () with the ink discharge holes () and that have improved effectiveness of cleaning the vicinity of the ink discharge holes () are provided.

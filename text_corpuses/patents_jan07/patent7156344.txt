@@ -1,0 +1,4 @@
+title: Long-haul airplane
+
+abstract: 
+A long-haul airplane has a private cabin for the pilots within a storage compartment disposed on a floor below the flight deck. The private cabin is in communication with the flight deck through an opening in the floor.

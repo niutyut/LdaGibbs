@@ -1,0 +1,4 @@
+title: Mold, molding system and molding machine for making ophthalmic devices
+
+abstract: 
+This invention provides a mold comprising a first mold half which works in conjunction with a second mold half for forming ophthalmic devices wherein said first mold half comprises at least one changeable cassette comprising inserts for forming said ophthalmic devices. The mold is particularly well-suited for use in an injection molding machine.

@@ -1,0 +1,4 @@
+title: Elimination of electric-pop noise in a MR device
+
+abstract: 
+The invention relates to a magnetic recording head comprising: a bottom shield; a top shield; and AMR device with MR and SAL separated by a thin insulating layer; a first insulting gap layer between said bottom shield and said AMR; a second insulating gap layer between said AMR and said top shield; a conductive layer contact at one end region of said MR and SAL. Furthermore, magnetic recording heads with GMR device free of electric-pop noise also are disclosed.

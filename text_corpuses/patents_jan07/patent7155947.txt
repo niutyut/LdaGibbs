@@ -1,0 +1,4 @@
+title: Locking control knob
+
+abstract: 
+A control knob having a locking mechanism that can be pressure-activated and controlled from the outside by the operator. When activated, the locking mechanism engages a structure on which the knob is mounted, preventing the rotation of the knob. The locking mechanism includes a keylock having a latch that can be turned with a key so as to engage a catch of the knob-housing seat of the locking mechanism.

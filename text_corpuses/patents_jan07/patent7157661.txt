@@ -1,0 +1,4 @@
+title: Method and apparatus for laser machining
+
+abstract: 
+A laser-machining method is provided in which a laser beam is generated with an energy intensity distribution that is a Gaussian distribution. The laser beam is shaped by applying a phase modulation based on a phase distribution expressed by a first order function having a negative gradient, then by applying a phase modulation based on a phase distribution expressed by an n-th order function having a positive gradient (n is a natural number no less than 2), and the laser beam, whose energy intensity distribution has been made substantially flat through the above processes, is led to irradiate a machined body, thereby machining the machined body.

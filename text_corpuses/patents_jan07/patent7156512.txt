@@ -1,0 +1,5 @@
+title: Casing for an ink cartridge
+
+abstract: 
+A casing () for a cartridge () which is adapted for supplying print media () and an ink to an inkjet printhead with which the cartridge () is engaged, the casing () including:
+

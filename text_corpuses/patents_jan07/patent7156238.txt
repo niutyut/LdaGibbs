@@ -1,0 +1,4 @@
+title: Apparatus for inspecting sealed packages
+
+abstract: 
+An apparatus for inspecting sealed packages having volumetric dimensions includes a frame having an inlet and an outlet side, conveyor means for conveying packages along a path of transport from the inlet side through said frame towards said outlet side, and first inspection means disposed adjacent to said conveyor means and pivotally connected to said frame, such that upon being contacted by a package located on said conveyor means said first inspection means are pivoted around at least a first pivoting point. The first inspection means includes first counteracting means for applying a first load on said package urging said first inspection means against said package to be tested, and means for generating a first indication of the volumetric dimensions of said package.

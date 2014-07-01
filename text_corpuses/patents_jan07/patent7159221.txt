@@ -1,0 +1,4 @@
+title: Computer OS dispatcher operation with user controllable dedication
+
+abstract: 
+Regardless of the switching queue organization, enhanced multiprocessor factor performance for software application group is accomplished via allocation of cache neighborhoods to software application groups that share memory space as identified by a user. Certain user requirements may be refused as unavailable to protect overall performance. Exclusivity and priority requirements of a user can also be honored by the operating system. Load balancing and dynamic reconfiguration features respect software application group dedications to the extent feasible.

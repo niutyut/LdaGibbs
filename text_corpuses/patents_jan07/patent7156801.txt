@@ -1,0 +1,4 @@
+title: Decanter centrifuge with a screw conveyor having a varying pitch
+
+abstract: 
+The decanter centrifuge comprises a screw conveyor having a body (), which carries a screw comprising one or more flights (?) and having a nominal transport speed varying along the longitudinal axis. An inlet () is provided in the screw conveyor for the material to be separated. The screw conveyor is provided with a baffle (?) dividing the separation chamber in a substantially cylindrical separation part () and an at least partially conical discharge part (). Immediately upstream of the baffle (?) a transition part () is provided between the separation part () and the discharge part (), the screw conveyor () having a bigger nominal transport speed in the transition part () than in the separation part () immediately before the transition part (), the change of the nominal transport speed being established by a change () of the screw pitch.

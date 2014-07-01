@@ -1,0 +1,5 @@
+title: Audio enhancement communication techniques
+
+abstract: 
+A communication system () receives a communication signal comprising first and second data with different compression levels, such as highly compressed and weakly compressed levels. A mode detector () detects the level of compression. One or more signal decoders () decode the highly compressed data. An analyzer () determines the type of enhancement required. One or more processors () enhance the data as required. An encoder () reencodes the enhanced decoded data. Metrics () may aid the operation of the analyzer ().
+The communication system may include telephones (). Processors () enhance signals in opposite first and second directions between pairs of the telephones. A path () connects the processors in tandem. One or more switches () disable signal enhancement for one of the processors depending on the compression level of the signals to avoid degrading call quality.

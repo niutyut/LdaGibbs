@@ -1,0 +1,4 @@
+title: Surfer lift system
+
+abstract: 
+A rider is suspended a distance beneath a lift cable and moved over a region of water with incoming waves. The distance that the rider is suspended beneath the lift cable is controllably increased and, thereafter, the rider enters the water, such as to surf the waves. The rider can control the increase in distance individually, lowering himself or herself at will after spotting a desirable place to enter the water, e.g., just after the crest of an incoming wave. The initial distance, i.e., the distance below the cable before the rider is lowered toward the water, can be set to carry the rider high enough to pass over the crests of the waves. Various other aspects, apparatus, and variations are also disclosed.

@@ -1,0 +1,5 @@
+title: Parabolic concentrator
+
+abstract: 
+The present invention discloses a parabolic dish-shaped electromagnetic wave front concentrator composed of a plurality of petal like identical interchangeable segments. The segment are comprised of an anterior concave layer made of a reflective material, an anterior skin made of ferrous material, an inner core made of a low density foam material and a posterior skin made of ferrous material covered by a protective coating such as zinc.
+The present invention further discloses a method of manufacturing the segments, by means of sandwich construction, of the parabolic dish-shaped electromagnetic wave front concentrator. The manufacturing method applies predetermined amount of uniformly distributed pressure by means of a vacuum membrane placed on the posterior surface of the segment which is positioned on an exact male mold surface. The components constituting the sandwich construction are mutually affixed by means of adhesive coats.

@@ -1,0 +1,4 @@
+title: Filter for broadcast receiver tuner
+
+abstract: 
+A Gaussian family filter (e.g. an equiripple filter) comprises a first pole, a second pole, a third pole and a signal combiner. The first pole has a biquadratic low pass characteristic and is configured to provide a first low pass signal. The second pole is coupled to the first low pass signal, the second pole having a first-order low pass characteristic, and providing a second low pass signal and a high pass signal. The third pole is coupled to the second low pass signal and has a biquadratic low pass characteristic for generating a third low pass signal. The signal combiner is configured to combine the third low pass signal and the high pass signal to provide a combined signal.

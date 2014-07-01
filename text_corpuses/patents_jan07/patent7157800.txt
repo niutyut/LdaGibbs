@@ -1,0 +1,4 @@
+title: Bonded structure using conductive adhesives, and a manufacturing method thereof
+
+abstract: 
+A disclosed bonded structure includes a first electric structure having a first electrode, a second electric structure having a second electrode, and a middle section for electrically and mechanically bonding the first electrode and the second electrode. The middle section consists of conductive adhesives, wherein fusion bonding of metal particles is provided to at least one of the first electrode and the second electrode. The metal particles are capable of fusion bonding at a temperature lower than a thermal hardening temperature of the conductive adhesives. The conductive adhesives contain conductive filler pieces that have a particle size at which fusion bonding does not take place at a temperature lower than the thermal hardening temperature of the conductive adhesives.

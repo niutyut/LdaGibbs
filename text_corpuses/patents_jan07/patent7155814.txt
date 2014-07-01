@@ -1,0 +1,4 @@
+title: Method for assembling a magnetic tape cartridge
+
+abstract: 
+A method of assembling a magnetic tape cartridge where an opening, through which a magnetic tape is drawn out, is provided in part of a sidewall of a cartridge case across a lower half and an upper half of the cartridge case. A slide door that opens and closes the opening is mounted between guide portions provided in the cartridge lower and upper halves, while stressing the slide door with a spring member toward a position in which the opening is closed. During mounting, the slide door is stressed with the spring member toward the position in which the opening is closed by fitting a lower edge of the slide door into the guide portion of the lower half A mounting position of the slide door is retained by holding an end of the slide door facing a direction in which the slide door moves to close the opening.

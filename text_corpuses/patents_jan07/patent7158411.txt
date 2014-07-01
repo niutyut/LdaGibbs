@@ -1,0 +1,4 @@
+title: Integrated code and data flash memory
+
+abstract: 
+A memory architecture for an integrated circuit comprises a first memory array configured to store data for one pattern of data usage and a second memory array configured to store data for another pattern of data usage. The first and second memory arrays comprise charge storage based nonvolatile memory cells having substantially the same structure in both arrays. A first operation algorithm adapted for example for data flash applications is used for programming, erasing and reading data in the first memory array. A second operation algorithm adapted for example for code flash applications is used for programming, erasing and reading data in the second memory array, wherein the second operation algorithm is different than the first operation algorithm. Thus, one die with memory for both code flash and data flash applications can be easily manufactured using a simple process, at low cost and high yield.

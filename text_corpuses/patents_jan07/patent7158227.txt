@@ -1,0 +1,4 @@
+title: Laser-induced fluorescence analysis device and separation apparatus comprising same
+
+abstract: 
+A laser-induced fluorescence analysis device (), comprising a tube () including a channel, elements projecting an excitation light (), optical collecting member (), optical measurement elements () and a processing member () for producing an analysis result, the collecting member being mechanically coupled to one end of the channel, the tube being integrally made of a material with refractive index either lower than that of water, or higher than both that of water and that of ambient air so as to guide the fluorescence light along the channel in the channel and/or its wall up to the collecting member, which is designed to collect the fluorescence light propagated along the longitudinal direction of the channel.

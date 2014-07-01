@@ -1,0 +1,4 @@
+title: Vehicle radar apparatus
+
+abstract: 
+A radar apparatus for a vehicle radiates laser beams and integrates a plurality of received signals corresponding to the same plurality of successively radiated laser beams. Thus, the sensitivity to detect a beam-reflecting body is improved. Further, a sampling start timing of the received signals is delayed as a delay time relative to a radiation timing of the laser beam corresponding to the received signal. By changing the delay time, beam-reflecting bodies throughout all detection distances can be detected even when the number of sampling points is made smaller than the number of sampling points required to cover all the detection distances in order to reduce the integration processing load.

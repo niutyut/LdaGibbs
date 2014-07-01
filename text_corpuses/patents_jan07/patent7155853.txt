@@ -1,0 +1,4 @@
+title: Merchandise labels for merchandiser units and method and labeling system using same
+
+abstract: 
+The application discloses a friction coated label and labeling sheet for use in labeling a label holder of a merchandiser unit that supports merchandise in which the label holder has means for supporting one or more labels without an adhesive bond. The labeling sheet comprises a plurality of friction coated labels removably secured to the release liner. The friction-coated labels include a face stock and a friction coating integrally connected to the face stock. The face stock has printed indicia thereon relating to the merchandise. The friction coating may comprise a weak adhesive that is adapted to inhibit migration of the friction coated labels but is not strong enough to provide a self supporting reliable adhesive bond for retail applications.

@@ -1,0 +1,4 @@
+title: Device for cooling and thermal conditioning of a tubular object
+
+abstract: 
+A device () for cooling and/or thermal conditioning of hot preforms or parisons (), in particular of parisons for the production of blow-moulded bottles made of plastic material, limits and/or reduces the deformations of said parisons during cooling by containing the transverse deformations of the end close to the opening () of the parison. The device is provided with a tubular portion of prolongation which wraps totally around the parison that rests on its internal surface with one of its sections (). Described herein is the corresponding method for cooling the parison ().

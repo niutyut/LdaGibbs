@@ -1,0 +1,4 @@
+title: Compositions containing a buffer and a peroxide or peracid useful for treating wells
+
+abstract: 
+Compositions containing a peroxide or peracid and an organic acid salt buffer are provided. Also provided is a method for utilizing such compositions for removing polymers from oil and gas wells, while simultaneously dissolving encountered calcium carbonate deposits.

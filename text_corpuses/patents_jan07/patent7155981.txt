@@ -1,0 +1,4 @@
+title: Strain sensor with fixing members
+
+abstract: 
+A strain sensor improved in detection accuracy without variation of bending stresses applied to the strain detecting element. The sensor substrate has a first fixing hole at one end and a second fixing hole at the other end, a detecting hole at the center, and at least one strain detecting element on the upper surface or lower surface thereof. The first fixing member is press-fitted into the first fixing hole. The second fixing member is press-fitted into the second fixing hole. The detecting member is press-fitted into the detecting hole. Further, when an external force is applied to the detecting member, strain generated due to the positional shift of the detecting member is detected by the strain detecting element with respect to the first fixing member and the second fixing member.

@@ -1,0 +1,4 @@
+title: Method of fabricating a connector
+
+abstract: 
+In an electrically shielded connector, conductive material covers an outer surface of said body and is spaced away from a conductive structure included in the connector to create electrical isolation therebetween. A channel in which the connector is situated is either plugged when conductive material is applied to the connector during manufacturing or is counter bored to create the electrical isolation.

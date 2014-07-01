@@ -1,0 +1,4 @@
+title: Controller
+
+abstract: 
+A controller which is capable of maintaining stability of a control system even if the dynamic characteristic of a controlled object temporarily changes sharply in the case where a controlled object model is used. An ECU of the controller calculates a first disturbance estimate by carrying out a low-pass filtering process and a rate limiting process on a first estimation error as the difference between a fuel pressure estimate calculated with an estimation algorithm and a fuel pressure. Then, the ECU calculates a second disturbance estimate based on a second estimation error as the difference between the first estimation error and the first disturbance estimate, with a predetermined disturbance estimation algorithm. Further, the ECU calculates a fuel pressure control input based on the fuel pressure and the first and second disturbance estimates, with a predetermined control algorithm.

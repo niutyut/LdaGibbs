@@ -1,0 +1,4 @@
+title: Regulator
+
+abstract: 
+A back pressure chamber is defined at an end of a rod for acting in a direction to cancel out a pressure applied to a valve head, and an aspirator chamber is defined closely to the valve head for developing a pressure lower than a secondary pressure due to a suction caused by a nozzle. The rod has a first communication hole and a second communication hole that are defined therein which provides fluid communication between the back pressure chamber and the aspirator chamber.

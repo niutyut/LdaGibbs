@@ -1,0 +1,4 @@
+title: Method for encapsulation of an inorganic component in a wax, a wax particle prepared by the method and the use thereof
+
+abstract: 
+The present invention relates to a method for encapsulating an inorganic component in a wax, wherein the method comprises the following steps: i) subjecting the inorganic component to shearing forces such that deagglomeration of the inorganic component takes place, which step is carried out in the presence of the wax, with the wax functioning as a spacer to prevent reagglomeration, ii) subsequently increasing the temperature of the mixture from step i) to a value above the melting temperature of the wax, iii) quickly cooling the mixture obtained in step ii), and finally iv) reducing the solidified mixture from step iii) so as to obtain a wax comprising an inorganic component. The invention further relates to a wax particle obtained by the method and to the use of such wax particles in water-based protection systems.

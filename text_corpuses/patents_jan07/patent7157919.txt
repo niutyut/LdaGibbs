@@ -1,0 +1,4 @@
+title: Method and system for detecting soot and ash concentrations in a filter
+
+abstract: 
+A system and method for detecting soot and or ash loading within a filter is provided. The method comprises the steps of transmitting a source RF signal through a filter, measuring a reflected RF signal, measuring a transmitted RF signal, calculating reflected power by comparing the source RF signal with the reflected RF signal, calculating attenuated power by comparing the source RF signal with the transmitted RF signal, and determining soot loading based on reflected power and transmitted power. The system and method may also determine ash loading.

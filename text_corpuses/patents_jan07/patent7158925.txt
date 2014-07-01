@@ -1,0 +1,4 @@
+title: Facilitating simulation of a model within a distributed environment
+
+abstract: 
+Simulation of models within a distributed environment is facilitated. A model is partitioned based on clock domains, and communication between partitions on different processors is performed on synchronous clock boundaries. Further, data is exchanged across the network on latch boundaries. Thus, management aspects of the simulation, such as management associated with the global simulation time, are simplified.

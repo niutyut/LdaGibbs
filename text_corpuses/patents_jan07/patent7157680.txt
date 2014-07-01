@@ -1,0 +1,4 @@
+title: Photon arrival time detection
+
+abstract: 
+A photon arrival time detector has the form of a photocathode  from which a photoelectron is ejected by an incident photon. The photoelectron is accelerated by an applied voltage to a CCD sensor . The voltage between the photocathode  and the CCD sensor  is time varying such that the arrival energy of the electron at the CCD sensor  depends upon the time of its arrival at the photocathode . Thus, the arrival time of the photon is represented by the intensity of the pixel event recorded by the CCD sensor 

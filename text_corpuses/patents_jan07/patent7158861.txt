@@ -1,0 +1,4 @@
+title: Tele-robotic system used to provide remote consultation services
+
+abstract: 
+A robotic system that allows a consultant to provide remote consulting services through a remotely controlled robot. The robot provides a video image to a remote station that is manned by the consultant. The video image may include a therapist performing a therapeutic routine on a patient. The consultant can view the therapeutic routine and provide consultant information such as instructions to modify or otherwise change the routine. The consultant information is transmitted to the robot and conveyed to the therapist. The system allows a consultant to provide consulting services without have to be physically present at the site of the patient. The remote station also allows the consultant to control movement of the robot so that the video image tracks movement of the therapist and/or patient.

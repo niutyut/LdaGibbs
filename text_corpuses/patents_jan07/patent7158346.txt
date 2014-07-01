@@ -1,0 +1,4 @@
+title: Heat assisted magnetic recording film including superparamagnetic nanoparticles dispersed in an antiferromagnetic or ferrimagnetic matrix
+
+abstract: 
+Heat assisted magnetic recording systems with composite recording films are disclosed. The magnetic recording films include superparamagnetic nanoparticles dispersed in an antiferromagnetic or ferrimagnetic matrix. The matrix provides antiferromagnetic coupling with the superparamagnetic nanoparticles, and minimizes exchange interactions between adjacent nanoparticles.

@@ -1,0 +1,4 @@
+title: Strip continuous supply apparatus and method
+
+abstract: 
+A feeding apparatus comprises a rotatably supported turret arm for supporting a new web roll and an old web roll, and a turret arm turning motor for rotating the turret arm, and splices a web of the new web roll to a web of the old web roll, thereby continuously supplying a web. The feeding apparatus further comprises a web roll diameter measuring distance meter, provided at a position opposed to the circumferential surface of the new web roll when the new web roll stops at a diameter measuring position, for measuring the distance to the new web roll; and a control device for determining the diameter of the new web roll in accordance with an output from the distance meter, and driving the turret arm turning motor in accordance with the determined diameter of the new web roll to move the new web roll to a splicing standby position.

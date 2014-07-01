@@ -1,0 +1,4 @@
+title: Recording medium, recording method, reproduction method, recording apparatus and reproduction apparatus
+
+abstract: 
+A recording medium comprising a recording area, the recording area includes a first area and a second area, the first area includes a frame area, the frame area includes an area in which a second synchronization code sequence and at least a portion of data are to be recorded, and the second area includes an area in which a third synchronization code sequence and a fourth synchronization code sequence are to be recorded.

@@ -1,0 +1,4 @@
+title: Filter for processing blood and process for producing the same
+
+abstract: 
+A filter for reducing leukocytes and platelets from an erythrocyte preparation or a whole blood preparation which is characterized by having a filter base coated with a polymer, the content of the polymer being from 0.5 to 10 mg/mper unit area of the total surface of the filter base, and the polymer containing 20% or less of low-molecular weight components having a molecular weight not more than ? of the peak top molecular weight in the gel permeation chromatogram.

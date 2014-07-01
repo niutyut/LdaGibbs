@@ -1,0 +1,4 @@
+title: Lever drive for a cryogenic valve
+
+abstract: 
+A valve assembly for controlling flow of cryogenic fluids is disclosed. In an embodiment, the valve assembly includes a valve housing and a valve member supported at the valve housing for movement between a valve opened and a valve closing position. A pneumatic cylinder is disposed laterally spaced from the valve member and thermally isolated with respect to cryogenic fluids controlled by the valve member. A lever operatively connects the pneumatic cylinder with the valve member and a linkage is pivotally connected with the lever at a position spaced from the valve member. The valve member is a needle valve member supported for axial movement at the housing.

@@ -1,0 +1,4 @@
+title: Test method, test system, and program therefor
+
+abstract: 
+In a test system, a test method, and a program for use in verifying states in a target, a predetermined state is previously defined as an intermediate state among states which can be taken by the target. On causing a transition to occur in the target from a previous state to a next following state, the transition is caused to occur in the target from a previous state to the intermediate state. Then, the target makes the transition from the intermediate state to the next following state. For this purpose, the test system stores intermediate state transition procedures from the previous state to the intermediate one and a self-state transition procedure from the intermediate state to the next following state.

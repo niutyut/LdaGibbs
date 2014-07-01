@@ -1,0 +1,4 @@
+title: Error rate control apparatus
+
+abstract: 
+An error rate of a TFCI of a transmission data format, and when an error rate of the TFCI becomes worse, a request to increase only the power of the TFCI is issued to the transmitter. The error rate of the TFCI is computed from the error detection result of a TrCH. Especially when the data length of the TrCH is relatively short, this method is not applied, but wasteful power consumption increases. When the data length of the TrCH is long, this method is applied to realize error rate control with the wasteful power consumption minimized.

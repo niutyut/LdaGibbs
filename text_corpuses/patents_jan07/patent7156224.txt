@@ -1,0 +1,4 @@
+title: Circulating mechanism, and method of operating such a circulating mechanism
+
+abstract: 
+A circulating mechanism includes a moving member, e.g. a chain or a belt, which travels along a circulating path and is looped about at least one deflecting member for reversing a travel direction of the moving member. Disposed in a section of the circulating path is a guide assembly for guiding the moving member. A magnetic field generating device is provided for applying a magnetic force upon the moving member at least in an area of the guide assembly so as to draw the moving member against the guide assembly and thereby enhance the travel behavior of the moving member.

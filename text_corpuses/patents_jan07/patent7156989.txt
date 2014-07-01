@@ -1,0 +1,4 @@
+title: Separating agent including polysaccharide derivative having a polycyclic structure
+
+abstract: 
+The present invention provides a separating agent for enantiomeric isomers, which has an excellent ability to identify asymmetry. That is, the present invention relates to a separating agent for enantiomeric isomers which includes as an effective component a polysaccharide derivative having a bicyclic or more structure having an aromatic, alicyclic, or heterocyclic ring.

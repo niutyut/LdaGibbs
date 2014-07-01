@@ -1,0 +1,4 @@
+title: Electrode arrangement for use in a medical instrument
+
+abstract: 
+A medical instrument is disclosed. The medical instrument includes a pair of spaced apart and electrically isolated elongated wire electrodes positioned adjacent one another on a working member. The wire electrodes are arranged for sensing electrical activity of biological tissues inside the body of the patient. The medical instrument also includes a pair of electrically isolated electrode wires that extend through the working member. Each of the electrode wires are electrically coupled to an associated wire electrode.

@@ -1,0 +1,4 @@
+title: Spigot arrangement for a split impeller
+
+abstract: 
+A spigot arrangement for split impeller (inducer and exducer) includes a recess of the exducer and means for reducing exducer blade root stresses and localized contact stresses between inducer and exducer.

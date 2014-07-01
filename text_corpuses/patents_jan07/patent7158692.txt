@@ -1,0 +1,4 @@
+title: System and method for mining quantitive information from medical images
+
+abstract: 
+A system for image registration and quantitative feature extraction for multiple image sets. The system includes an imaging workstation having a data processor and memory in communication with a database server in communication. The a data processor capable of inputting and outputting data and instructions to peripheral devices and operating pursuant to a software product and accepts instructions from a graphical user interface capable of interfacing with and navigating the imaging software product. The imaging software product is capable of instructing the data processor, to register images, segment images and to extract features from images and provide instructions to store and retrieve one or more registered images, segmented images, quantitative image features and quantitative image data and from the database server.

@@ -1,0 +1,4 @@
+title: Network packet buffer allocation optimization in memory bank systems
+
+abstract: 
+An arrangement of buffer in a memory unit including a plurality of memory banks may store information in rows that span the memory banks. Moreover, a processor may be adapted to (i) establish a plurality of buffers to be associated with the memory unit, wherein the size of each buffer is less than the width of a memory bank, and (ii) arrange for a selected buffer to begin in a memory bank other than a memory bank in which a previously selected buffer begins.

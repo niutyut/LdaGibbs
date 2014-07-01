@@ -1,0 +1,4 @@
+title: Raster engine with hardware cursor
+
+abstract: 
+An improved raster engine adapted to render video data from a frame buffer to one of a plurality of disparate displays is disclosed which comprises an integral bounded video signature analyzer, a hardware cursor apparatus supporting dual scanned displays, programmatic support for multiple disparate display types, multi-mode programmable hardware blinking, programmable multiple color depth digital display interface, and programmable matrix controlled grayscale generation.

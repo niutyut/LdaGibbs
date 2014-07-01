@@ -1,0 +1,11 @@
+title: Alkylated urea and triaminotriazine compounds and phase change inks containing same
+
+abstract: 
+Compounds of the formulae
+
+
+wherein Z is ?OR, ?SR, ?NRR, Y is ?OR, ?SR, or ?NRR, at least one of R, R, R, R, R, and Ris hydrogen, at least one of R, R, R, R, R, and Ris other than hydrogen, at least one Z or Y within the compound is ?NRRor ?NRR, R, R, R, R, R, R, and Reach, independently of the others, is hydrogen, alkyl, aryl, arylalkyl, or alkylaryl, and wherein Rcan also be alkoxy, aryloxy, arylalkyloxy, alkylaryloxy, polyalkyleneoxy, polyaryleneoxy, polyarylalkyleneoxy, polyalkylaryleneoxy, silyl, siloxane, polysilylene, polysiloxane, or
+
+
+
+wherein X is a direct bond, oxygen, sulfur, ?NR? wherein Ris hydrogen, alkyl, aryl, arylalkyl, alkylaryl, or ?CRR? wherein Rand Reach, independently of the other, is hydrogen, alkyl, aryl, arylalkyl, or alkylaryl.

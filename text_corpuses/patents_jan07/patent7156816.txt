@@ -1,0 +1,4 @@
+title: Ultrasound pulmonary vein isolation
+
+abstract: 
+A catheter introduction apparatus provides an ultrasound assembly for emission of ultrasound energy. In one application the catheter and the ultrasound assembly are introduced percutaneously, and transseptally advanced to the ostium of a pulmonary vein. An anchoring balloon is expanded to center an acoustic lens in the lumen of the pulmonary vein, such that energy is converged circumferentially onto the wall of the pulmonary vein when a transducer is energized. A circumferential ablation lesion is produced in the myocardial sleeve of the pulmonary vein, which effectively blocks electrical propagation between the pulmonary vein and the left atrium.

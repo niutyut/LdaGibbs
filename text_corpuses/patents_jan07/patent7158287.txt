@@ -1,0 +1,4 @@
+title: Distributed and discrete amplification of optical signals
+
+abstract: 
+An optical amplifier system is disclosed comprising a discrete amplifier system and a distributed amplifier system. The discrete amplifier system receives optical signals and amplifies the optical signals having wavelengths in a target wavelength band. The target wavelength band has a bandwidth of at least 80 nm. The distributed amplifier system amplifies the optical signals having wavelengths in a longer wavelength band of the target wavelength band, a shorter wavelength band of the target wavelength band, or both.

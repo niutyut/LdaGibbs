@@ -1,0 +1,4 @@
+title: Machine performance monitoring system and billing method
+
+abstract: 
+A system for monitoring the performance of beverage preparation equipment includes a device, such as a data collector, for monitoring the use of the equipment. Information regarding one or more inputs to the equipment is provided to the data collector which uses the information to monitor the performance of the equipment. The information may include information relating to voltage, current, phase angle, and time. The information may be used by a supplier to time delivery of product to the end user of the apparatus or servicing of the equipment in response to use, inferred information, and other alerts. A method of billing based on the results of the monitoring includes a method of billing the use of the apparatus and product in relation to the quantity of water, product, or both used by the apparatus.

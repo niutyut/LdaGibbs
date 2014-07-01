@@ -1,0 +1,4 @@
+title: Magnetic detection apparatus
+
+abstract: 
+A magnetic detection apparatus is able to make a selection between AC coupling and DC coupling thereby to improve the accuracy of a final output signal corresponding to a magnetic movable element, thus making it possible to ensure excellent detection performance. The magnetic detection apparatus with a sensor composed of magnetoresistive elements () for detecting the strength of a magnetic field includes a first comparison circuit () that has a first comparison level (VR), and waveform shapes the amplitude of a detection signal (C) from the magnetoresistive elements () through DC coupling, a second comparison circuit () that has a second comparison level (VR), and waveform shapes the amplitude of the detection signal C through DC coupling, and a third comparison circuit () that has a third comparison level VR, and waveform shapes the amplitude of the detection signal C after AC coupling.

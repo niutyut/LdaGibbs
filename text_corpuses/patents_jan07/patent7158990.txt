@@ -1,0 +1,4 @@
+title: Methods and apparatus for data conversion
+
+abstract: 
+A data format description from which encoders and decoders can be automatically generated. The data format description includes data components that represent a field of the data object as a description of the field and a tag. On decoding, the decoder decodes the field's value and produces an XML element that contains the value and the tag from the data component. On encoding, the encoder uses the tag to locate the XML element and encodes the value in the data object. Also included in the data format description are attributes and control statements An object, its XML representation, and the encoders and decoders may be combined to produce self-describing data objects in which a modification of the XML representation automatically results in a modification of the data object.

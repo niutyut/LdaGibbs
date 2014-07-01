@@ -1,0 +1,4 @@
+title: Blink plasma backlight system for liquid crystal display
+
+abstract: 
+A blink plasma backlight system for a liquid crystal display comprises a first substrate; a second substrate arranged substantially in parallel with and spaced-apart from the first substrate, forming a gas discharge space therebetween; at least one electrode pair disposed on an inner surface of the second substrate, the electrode pair containing a first electrode and a second electrode approximately parallel to each other; a control unit coupled to the electrode pair, for periodically providing an energy to ignite a gas discharge between the first and second substrates; a dielectric layer disposed on the inner surface of the second substrate covering the electrode pairs; and a first fluorescent layer disposed on the inner surface of the first substrate.

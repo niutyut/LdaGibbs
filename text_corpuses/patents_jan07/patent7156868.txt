@@ -1,0 +1,4 @@
+title: Heat transfer devices
+
+abstract: 
+A catheter having a heat transfer device at or near its distal end, wherein the heat transfer device is layered or coated onto or into the catheter wall is described. The heat transfer device is preferably a flexible film having one or more electrical resistor flow paths thereon or therethrough, or is disposed directly onto the catheter wall by a deposition process. The heat transfer device may alternatively be formed by a length of the catheter wall being formed wholly, substantially of partly from doped material able to act as a heat transfer device upon application of power therethrough. The heat transfer device is preferably powered by one or more metal wires co-extruded within the catheter body.

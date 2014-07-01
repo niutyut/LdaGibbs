@@ -1,0 +1,4 @@
+title: Test structure for speeding a stress-induced voiding test and method of using same
+
+abstract: 
+A test structure, having: a first member having: a roughly a rectangular shape; a first width dimension; and a first length dimension that is greater than the first width dimension; and a second member having: a roughly a rectangular shape; a second width dimension; and a second length dimension that is greater than the second width dimension combined with the first member to form a roughly symmetrical cross-shaped test structure. Also a method of using the test structure to test for voids.

@@ -1,0 +1,4 @@
+title: Fuel cell system with improved startability
+
+abstract: 
+A fuel cell system is provided which includes a fluid pump such as an ejector pump. The fluid pump is designed to be driven by energy of air flowing within an air line through which air is supplied to a fuel cell. The fluid pump works to suck a fluid containing drops of water and residual gasses from the hydrogen line, thereby ensuring desired startability and stability of operation of the fuel cell.

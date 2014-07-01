@@ -1,0 +1,4 @@
+title: Information distribution system for use in an elevator
+
+abstract: 
+The invention features a system for displaying video information to passengers of an elevator in accordance with a play list defining a sequence of messages. The video information messages can include combinations of digital advertising, ?real-time? general information, as well as, building-related information. The system includes an elevator display unit having a display monitor for displaying video information to the passengers, and a local server which, receives scheduling information associated with the video information over a data communication path and, in accordance with the scheduling information, generates a play list used to display at the elevator display unit.

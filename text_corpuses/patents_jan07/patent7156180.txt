@@ -1,0 +1,4 @@
+title: Expandable tubing and method
+
+abstract: 
+An apparatus suitable for use in a wellbore comprises an expandable bistable device. An exemplary device has a plurality of bistable cells formed into a tubular shape. Each bistable cell comprises at least two elongated members that are connected to each other at their ends. The device is stable in a first configuration and a second configuration.

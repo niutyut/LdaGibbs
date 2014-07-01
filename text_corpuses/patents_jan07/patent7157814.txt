@@ -1,0 +1,4 @@
+title: Stator for reciprocating motor and manufacturing method thereof
+
+abstract: 
+Disclosed are a stator for a reciprocating motor and a manufacturing method thereof which are able to simplify assembling processes, to reduce assembling time, and thereby to improve productivity by laminating an inner stator to be a straight line shape and bending to be a cylindrical shape. The stator is fabricated by laminating lamination sheets as a straight line and bending it to be a cylindrical shape, and a mounting band is fixed on inner circumferential surface of the lamination sheets so as to maintain the lamination sheets connected when the lamination sheets are bent to be the cylindrical shape.

@@ -1,0 +1,4 @@
+title: Support and organic electroluminescence element comprising the support
+
+abstract: 
+Disclosed is a support which comprises a flexible substrate and provided thereon, one or two or more polymer layers and one or two or more sealing layers, wherein at least one of the polymer layers and the sealing layers is formed by a process comprising the steps of exciting a reactive gas at a space between opposed electrodes at atmospheric pressure or approximately atmospheric pressure by electric discharge to be in the plasma state, and exposing the flexible substrate, the polymer layer or the sealing layer to the reactive gas in the plasma state.

@@ -1,0 +1,4 @@
+title: Liquid ejection head
+
+abstract: 
+A metallic cavity unit is formed with liquid flow passages respectively continued from a common liquid reservoir to nozzle orifices via pressure chambers. In an actuator unit, a plurality of piezoelectric elements are supported on a fixation plate in a cantilevered manner. A resin casing is formed with a first face onto which the cavity unit is bonded, and an actuator chamber which accommodates the actuator unit therein such that free ends of the piezoelectric elements are abutted onto the cavity unit. A metallic reinforcement member is integrally molded with the casing such that at least a part thereof is buried in the casing at the vicinity of the first face.

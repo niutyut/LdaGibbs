@@ -1,0 +1,4 @@
+title: Ink cartridge component
+
+abstract: 
+An ink cartridge component comprises a body member having a sump portion for supporting a print head and a peripheral wall portion extending from the sump portion. The peripheral wall portion and the sump portion define a volume forming an ink chamber of the ink cartridge. A recessed region is defined at a junction between the peripheral wall portion and the sump portion, the recessed region, in use, underlying a carrier carrying the print head. The recessed region facilitates flexing of the carrier when an ink cartridge including the component is inserted into a cradle of an ink cartridge carriage.

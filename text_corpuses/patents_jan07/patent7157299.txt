@@ -1,0 +1,4 @@
+title: Nanofabrication of InAs/A1Sb heterostructures
+
+abstract: 
+A heterostructure comprising: a buffer layer; a bottom barrier layer formed on the buffer layer; a quantum well layer formed on the bottom barrier layer; a top barrier layer formed on the quantum well layer; and a p-doped cap layer formed on the top barrier layer; wherein a portion of the cap layer is etched to form conducting electrons in the quantum well layer below the etched portion of the cap layer. A method of etching comprising the steps of: providing a heterostructure; providing an etchant solution comprising acetic acid, hydrogen peroxide, and water; and contacting the etchant solution to the heterostructure to etch the heterostructure.

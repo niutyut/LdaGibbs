@@ -1,0 +1,4 @@
+title: Semiconductor device and the method of producing the same
+
+abstract: 
+A SiP type semiconductor device and a method of producing the same is provided wherein curvature of a wafer is suppressed in the production steps, workability does not decline, and high throughput can be attained. An insulation layer is formed by stacking a plurality of resin layers on a semiconductor substrate, wiring layers are formed by being buried in the insulation layer so as to be connected to an electronic circuit, an insulating buffer layer for buffering a stress generated at the time of being mounted on a board is formed on the insulation layer, a conductive post is formed through the buffer layer and connected to the wiring layer, and a projecting electrode is formed projecting from a surface of the buffer layer and connected to the conductive post.

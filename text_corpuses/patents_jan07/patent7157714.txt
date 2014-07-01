@@ -1,0 +1,4 @@
+title: Thermal imaging method to detect subsurface objects
+
+abstract: 
+A thermal imaging method to detect heat flows from naturally-heated subsurface objects. The method uniquely combines precise, emissivity-corrected temperature maps, thermal inertia maps, temperature simulations, and automatic target recognition to display clear, clutter-free, three-dimensional images of contained hollow objects or structures, at depths to 20 times their diameter. Temperature scans are corrected using two different infrared bands. Co-registered object-site temperature scans image daily and seasonal temperature-spread differences, which vary inversely as the object's and surrounding host material's thermal inertias. Thermal inertia (resistance to temperature change) is the square root of the product (k?C), for thermal conductivity, k, density, ? and heat capacity, C.

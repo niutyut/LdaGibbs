@@ -1,0 +1,4 @@
+title: Ergonomic contact element for holding a hand or a foot
+
+abstract: 
+A contact element designed to hold a foot or hand is capable of being attached to various devices and structures that require a contact element or elements. The contact element includes a contoured, shaped piece of material and is configured to be attached. In the preferred embodiment, the contoured, shaped piece of material is ergonomically designed and has the approximate shape of a portion of a hyperbolic paraboloid with a surface that is convex in one direction and concave in the perpendicular direction, thereby optimizing comfort, support, and contact with a person's foot or hand.

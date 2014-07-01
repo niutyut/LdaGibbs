@@ -1,0 +1,4 @@
+title: Method of efficiently handling multiple page sizes in an effective to real address translation (ERAT) table
+
+abstract: 
+A method and apparatus for efficiently storing an effective address (EA) in an effective to real address translation (ERAT) table supporting multiple page sizes by adding PSI fields, based on the number of unique page sizes supported, to each ERAT entry and using one ERAT entry to store an EA for a memory page, regardless of page size, by setting the PSI fields to indicate the page size.

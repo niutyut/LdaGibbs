@@ -1,0 +1,4 @@
+title: Frequency synthesizer with selectable preconfigured synthesizer characteristics
+
+abstract: 
+A system and method are disclosed for configuring a frequency synthesizer in a transceiver. Configuring a frequency synthesizer in a transceiver includes specifying a selection bit sequence wherein the selection bit sequence corresponds to a predetermined combination of transceiver characteristics; determining a plurality of synthesizer configuration parameters using the selection bit sequence; and configuring the frequency synthesizer using the plurality of synthesizer configuration parameters.

@@ -1,0 +1,4 @@
+title: Method and apparatus for flow control
+
+abstract: 
+A flow control system () is provided in which a flow control valve () is controlled by a control system (). The control system () measures a flow rate or temperature of a fluid flowing through the flow control valve () and adjusts the flow control valve () to achieve a desired flow rate. The flow control valve () includes an electromagnetically adjustable spool ().

@@ -1,0 +1,4 @@
+title: Method of producing ferroelectric capacitor
+
+abstract: 
+A method of producing a ferroelectric capacitor includes the steps of: preparing a semiconductor substrate; forming a first insulating layer on the semiconductor substrate; laminating sequentially a metal layer, a first conductive layer, a ferroelectric layer, and a second conductive layer on the first insulating layer to form a capacitor forming laminated layer; forming an etching mask forming layer with strontium tantalate or strontium niobate; forming a silicon oxide layer on the etching mask forming layer for covering a ferroelectric capacitor forming area; forming an etching mask through wet etching of the etching mask forming layer with the silicon oxide layer; and forming a lamination formed of a barrier metal, a lower electrode, a ferroelectric layer, and an upper electrode through dry etching of the capacitor forming laminated layer with the etching mask.

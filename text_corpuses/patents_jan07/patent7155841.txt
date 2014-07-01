@@ -1,0 +1,4 @@
+title: Rotary impinging stream dryer
+
+abstract: 
+An improved rotary shell or drum dryer () is provided having an elongated, horizontally disposed, axially rotatable shell () with product and air inlets () and an outlet () at opposite ends of the shell. Internally, the dryer () includes axially spaced apart first and second drying sections () each having a turbulator () and a downstream serpentine flow section (). The turbulators () are designed to divert portions of a product/airstream in different directions respectively to achieve the intense mixing similar to that obtained in an impingement dryer.

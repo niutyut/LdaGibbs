@@ -1,0 +1,4 @@
+title: Open frames for providing structural support and related methods
+
+abstract: 
+Open frames are disclosed by which structural support is provided, each frame comprising an array of slender members formed into a plurality of zig zag frame elements defining apexes, where the slender members of different zig zag frame elements integrally intersect each other at non-midpoint locations. A linear member bridges between and is integrated with some or all of the asymmetrical points of intersection, in some embodiments. The apexes so formed may comprise two slender members in some cases and four in others.

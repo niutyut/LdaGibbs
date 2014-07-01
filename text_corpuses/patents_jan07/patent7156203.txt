@@ -1,0 +1,4 @@
+title: Device and method for evacuating persons, for example from a multi-storey building on fire
+
+abstract: 
+Device for evacuating persons, for example from a multi-storey building on fire, from an evacuating location to a secure location, comprising: a balloon provided to be filled with a gas lighter than air for moving the balloon between the secure location and the evacuating location; guide means connected to the balloon for guiding the balloon between the secure location and the evacuating location; and transport means connected to the balloon for transporting persons from the evacuating location to the secure location; wherein the device further comprises a cable provided to be connected between the secure location and the evacuating location and that the balloon is provided to be movably mounted on the cable between the secure location and the evacuating location.

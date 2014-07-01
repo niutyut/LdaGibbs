@@ -1,0 +1,4 @@
+title: Method of making complex twisted blades with hollow airfoil cross section and the turbines based on such
+
+abstract: 
+A reactive turbine, each blade of which approximates a helical shape that is constructed with readily available conventional manufacturing techniques. The blades are constructed in discrete straight sections that, when joined, approximate a helix or any other efficient turbine shape. Each section is manufactured with the well known and readily available machine shop techniques of shaping, forming, and joining with welds or fasteners.

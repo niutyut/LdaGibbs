@@ -1,0 +1,4 @@
+title: Load balancing in telecommunications system supporting mobile IP
+
+abstract: 
+A method for load balancing in a telecommunications system supporting Mobile IP, the system including at least one mobile node and at least one home agent. The home agent mainly supporting the mobility of the mobile node is defined as the primary home agent and one or more secondary home agents are added to the telecommunications system. Packets destined for the mobile node are transmitted, when needed, via one or more secondary home agents.

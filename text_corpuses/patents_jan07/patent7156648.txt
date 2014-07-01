@@ -1,0 +1,4 @@
+title: Injection nozzle with planar heater
+
+abstract: 
+A system and method for making molded parts that include one or more planar heaters coupled, secured, or releaseably secured to one or more sides of each of the one or more nozzles. The releasably secure coupling allows heater device to be visually inspected, tested, removed, and/or replaced. The planar heater device can have a support device patterned with an electrical resistive path. The electrical resistive path can include any pitch or number of electrical resistance lines, such that a longitudinal uniform heat profile is generated along a melt flow channel of the one or more nozzles when the nozzles are in use.

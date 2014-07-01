@@ -1,0 +1,4 @@
+title: MID 4460, a human tyrosine phosphatase family member and uses therefor
+
+abstract: 
+The invention provides isolated nucleic acids molecules, designated MID 4460 nucleic acid molecules, which encode novel tyrosine phosphatase family members. The invention also provides antisense nucleic acid molecules, recombinant expression vectors containing MID 4460 nucleic acid molecules, host cells into which the expression vectors have been introduced, and nonhuman transgenic animals in which a MID 4460 gene has been introduced or disrupted. The invention still further provides isolated MID 4460 proteins, fusion proteins, antigenic peptides and anti-MID 4460 antibodies. Diagnostic and therapeutic methods utilizing compositions of the invention are also provided.

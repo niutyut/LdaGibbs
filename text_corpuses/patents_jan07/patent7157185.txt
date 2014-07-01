@@ -1,0 +1,4 @@
+title: Nonaqueous electrochemical cell with improved energy density
+
+abstract: 
+This invention relates to a nonaqueous cell comprising a lithium metallic foil anode and a cathode coating comprising iron disulfide as the active material wherein the coating is applied to at least one surface of a metallic substrate that functions as the cathode current collector. In particular, the cell of the within invention has improved performance on high rate discharge and is achieved, surprisingly, with an anode underbalance. The cell of the within invention has an anode to cathode input that is less than or equal to 1.0. We have discovered, unexpectedly, that the energy density for the cell both volumetrically and gravimetrically can be improved by approximately 20 to 25% while only increasing the volume of the cathode coating solids by approximately 10% through a unique and novel cathode coating formulation used in conjunction with a lithium foil anode.

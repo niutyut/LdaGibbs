@@ -1,0 +1,4 @@
+title: Printing couple in a printing machine with a pivotable transfer cylinder
+
+abstract: 
+A printing couple in a printing machine is comprised of at least three cylinders, a forme cylinder, a transfer cylinder and a counter-pressure cylinder. The counter-pressure cylinder forms a printing location or point in cooperation with the transfer cylinder. The transfer cylinder is mounted in at least one lever which can be pivoted about an eccentrically pivoting axis in relation to the rotational axis of the forme cylinder. When the three cylinders are in a print position, a connecting plane through the axis of rotation of the forme cylinder and the pivoting axis of the lever forms an angle of between 25? and 65? with a plane through the axis of rotation of the cylinder forming the printing point.

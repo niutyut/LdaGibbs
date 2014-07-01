@@ -1,0 +1,4 @@
+title: Magnesium-base alloy and method for the production thereof
+
+abstract: 
+The invention relates to magnesium-based alloy and, more specifically, to a magnesium alloy composition and methods of producing the same. The alloy has finer grain size, which results in improving mechanical properties of the alloy. Those mechanical properties make the alloy suitable for high-pressure casting. The alloy comprises aluminium, zinc, manganese, silicon, and calcium. A method for producing said alloy consists of loading the alloying components, pouring the molten magnesium, introducing a titanium-containing fusion cake with a flux agent and continuously agitating. The alloy is then soaked and cast.

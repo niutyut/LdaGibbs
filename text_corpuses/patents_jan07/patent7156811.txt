@@ -1,0 +1,4 @@
+title: Ultrasonic imaging method and apparatus
+
+abstract: 
+An ultrasonic imaging method is described, wherein a back propagation processing method is used. The invention provides a limited number of channels for processing the received signals, such that the which number of processing channels is a submultiple of the number of receiving transducers. During the imaging process, different groups of receiving transducers are connected to the transmitting channels such that the groups of receiving transducers include as many receiving transducers as the number of processing channels in use.

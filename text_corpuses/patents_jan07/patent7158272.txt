@@ -1,0 +1,4 @@
+title: Image sensor and image reading apparatus
+
+abstract: 
+An object of this invention is to provide a structure which meets a high-quality reading requirement and realize high-speed color reading when the reading section of a color image forming apparatus adopts a color contact image sensor using CCDs as reading elements. In order to achieve this object, the image sensor of a color image reading section uses a color contact image sensor in which a plurality of CCDs are aligned as reading elements in the main scanning direction. In this case, each CCD has one analog shift register for RGB time-division reading, and three R, G, and B reading apertures arranged parallel to each other at a pitch corresponding to the reading resolution. The pixel pitch in the main scanning direction is constant.

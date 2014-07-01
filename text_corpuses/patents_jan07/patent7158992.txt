@@ -1,0 +1,4 @@
+title: Method for comparative visual rendering of data
+
+abstract: 
+Method for the interactive graphical presentation of multidimensional data to a user. Data is extracted from multidimensional database, in which it is arranged and stored according to predetermined attributes, representing different measures for each dimension. A data processing means having user interface is coupled to the database, so as to extract data for presentation. Upon receiving a request for presentation from the user, data which is relevant to the request is extracted from the corresponding dimension(s) in the database, processed by the processing means and displayed in two or more separate windows linked to each other. Each window corresponds to a single dimension and contains colored bars or other means of representation for comparative presentation of the data related to this single dimension.

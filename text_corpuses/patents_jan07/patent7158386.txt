@@ -1,0 +1,4 @@
+title: Balanced radio frequency power amplifier with temperature compensation
+
+abstract: 
+A radio frequency power amplifier has first and second amplifier transistors. The first and second amplifier transistors have a common element thereof electrically interconnected with a common bus. A forked conductor having two legs thereof electrically connected to the common bus, each leg having a distal end proximate one of the first and second amplifier transistors. The common bus and the forked conductor are generally symmetric about an axis about which the first and second amplifier transistors are symmetrically disposed.

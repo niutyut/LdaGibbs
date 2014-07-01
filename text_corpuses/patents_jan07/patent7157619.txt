@@ -1,0 +1,4 @@
+title: Plant sterol acyltransferases
+
+abstract: 
+The present invention is directed to lecithin:cholesterol acyltransferase-like polypeptides (LCAT) and acyl CoA:cholesterol acyltransferases-like polypeptides (ACAT). The invention provides polynucleotides encoding such cholesterol:acyltansferases-like polypeptides, polypeptides encoded by such polynucleotides, and the use of such polynucleotides to alter sterol composition and oil production in plants and host cells. Also provided are oils produced by the plants and host cells containing the polynucleotides and food products, nutritional supplements, and pharmaceutical composition containing plants or oils of the present invention. The polynucleotides of the present invention include those derived from plant sources.

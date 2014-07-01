@@ -1,0 +1,4 @@
+title: Multi-channel speech enhancement system and method based on psychoacoustic masking effects
+
+abstract: 
+The present invention is generally directed to a system and method for enhancing speech using a multi-channel noise filtering process that is based on psychoacoustic masking effects. A speech enhancement/noise reduction scheme according to the present invention is designed to satisfy the psychoacoustic masking principle and to minimize the signal total distortion by exploiting multiple microphone signals to enhance the useful speech signal at reduced level of artifacts.

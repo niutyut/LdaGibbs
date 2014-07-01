@@ -1,0 +1,4 @@
+title: System and method of securely installing a terminal master key on an automated banking machine
+
+abstract: 
+An automated banking machine () is provided. The machine may be operative to install a terminal master key (TK) therein in response to at least one input from a single operator. The machine may include an EPP () that is operative to remotely receive an encrypted terminal master key from a host system (). The machine may authenticate and decrypt the terminal master key prior to accepting the terminal master key. The machine may further output through a display device () of the machine a one-way hash of at least one public key associated with the host system. The machine may continue with the installation of the terminal master key in response to an operator confirming that the one-way hash of the public key corresponds to a value independently known by the operator to correspond to the host system.

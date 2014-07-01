@@ -1,0 +1,4 @@
+title: Plasma CVD apparatus
+
+abstract: 
+A plasma CVD apparatus in which microwave power is supplied into a reaction chamber provided inside an annular waveguide through an antenna provided on the inner peripheral part of the waveguide to produce a plasma inside the reaction chamber and to form a film by a vapor growth synthesizing method. A cooler is disposed between the annular waveguide and the reaction chamber to maintain the low temperature of the annular waveguide.

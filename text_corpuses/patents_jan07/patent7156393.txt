@@ -1,0 +1,4 @@
+title: Fishing board game
+
+abstract: 
+A fishing board game to assist in anglers learning the fishing requiremtns in various areas of fishing, such as local fishing regulations, legal sizes, legal limits, boating safety.

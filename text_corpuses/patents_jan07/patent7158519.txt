@@ -1,0 +1,4 @@
+title: Packet transfer apparatus, transfer information management method used therfor and transfer information search method thereof
+
+abstract: 
+To provide a packet transfer apparatus capable of making a competition problem among entries avoidable, reducing entry management costs and improving entry setting processing ability. If an IP packet is inputted, a search process circuit sends packet search information and performs a search of a CAM of a packet search table. In the search of the CAM of the packet search table, a registration position of the entry that was hit is outputted. Address information of each table in which transfer information is set is obtained from a transfer information address table, and the transfer information is read from a policer information table, an application transfer information table, an in-system common transfer information table and an output information table based on the address information respectively.

@@ -1,0 +1,4 @@
+title: Low-distortion differential circuit
+
+abstract: 
+A differential feedback system that minimizes even order distortion of a differential circuit. The feedback system includes a feedback circuit for use with a differential circuit to reduce even-order distortion and dc offset of a difference output signal produced by the differential circuit. The feedback circuit includes an integrator coupled to receive the difference output signal from the differential circuit and produce an integrator output signal. The feedback circuit also includes a control circuit coupled to the integrator to receive the integrator output signal to produce a control signal that is coupled to the differential circuit, wherein the control signal controls the differential circuit to reduce the even-order distortion and the DC offset.

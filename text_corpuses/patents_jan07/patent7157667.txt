@@ -1,0 +1,4 @@
+title: Cooking device
+
+abstract: 
+A cooking device including a cooking area, a door for closing the cooking area and a lighting system for lighting the cooking area. The lighting system includes a light source and at least one reflector arranged in the internal space of the door, which reflects light from the light source into the cooking area. In order to reduce mechanical strain applied to the light source, it is arranged outside the door and emits light towards the reflector inside the door to be reflected into the cooking area.

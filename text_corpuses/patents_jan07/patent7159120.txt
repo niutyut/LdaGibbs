@@ -1,0 +1,4 @@
+title: Method and system for protecting data within portable electronic devices
+
+abstract: 
+A system and method for protecting data within a portable electronic device to prevent unauthorized access to that data. Encryption of data within the portable electronic device and automatic erasure of data upon unauthorized attempted access is provided. A limited number of attempts to access the portable electronic device are allowed, and if exceeded, the data is automatically erased without notification. Data transfer functions of the portable electronic device are also disabled when the device is locked. Erasing of data is also provided if the portable electronic device is not synced with another device during a predetermined time period.

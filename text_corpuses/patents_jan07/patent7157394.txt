@@ -1,0 +1,4 @@
+title: Stoichiometrically balanced silicon nitride ceramic for high performance cutting tools
+
+abstract: 
+A silicon nitride based ceramic, that is highly effective for use as a cutting tool for the high speed machining of cast irons, that is essentially a homogeneous mixture consisting of both crystalline and whisker forms of beta silicon nitride that are interstitially bonded by a stoichiometrically balanced glass mixture of magnesia, silica, yttria and zirconia, where the ratios of each have been controlled to increase the eutectic point and refractoriness of the mixed glass.

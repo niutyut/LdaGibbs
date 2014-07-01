@@ -1,0 +1,4 @@
+title: Use of depth filtration in series with continuous centrifugation to clarify mammalian cell cultures
+
+abstract: 
+Methods for clarification of cell samples using centrifugation in combination with depth filtration.

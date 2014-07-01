@@ -1,0 +1,4 @@
+title: Process for fabricating semiconductor device
+
+abstract: 
+A semiconductor device comprising: a first insulation film  formed above a base substrate ; a second insulation film  formed on the first insulation film and having different etching characteristics from the first insulation film; and a capacitor  including a storage electrode  formed on the second insulation film, projected therefrom, the storage electrode being formed, extended downward from side surfaces of the second insulation film. The lower ends of the storage electrodes are formed partially below the etching stopper film, whereby the storage electrodes are fixed by the etching stopper film. Accordingly, the storage electrodes are prevented from peeling off in processing, such as wet etching, etc. The semiconductor device can be fabricated at high yields.

@@ -1,0 +1,4 @@
+title: Method and apparatus for non-interrupted grinding of railroad crossing and main line track
+
+abstract: 
+A system for the grinding of unencumbered and encumbered sections of rail includes a locomotive that pulls a first and a second grinding module. The first grinding module is movable between a first and a second position. In the first position, the first grinding module is presented at angle enabling grinding of unencumbered section of rail while in the second position, the first grinding module is presented at an able enabling grinding of the encumbered section of rail. The locomotive continues in non-stop forward motion while the first grinding module is moved back and forth between its first and second positions. The second grinding module is generally used only for grinding of encumbered rail sections and is used simultaneously with the first grinding module in its second position.

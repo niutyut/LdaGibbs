@@ -1,0 +1,4 @@
+title: Interlock apparatus and method for supplying gas to a semiconductor manufacturing device
+
+abstract: 
+A gas supplying apparatus for a semiconductor manufacturing device has an interlock apparatus that includes at least one solenoid valve that controls the gas supply from a gas source to the semiconductor manufacturing device, a main controller configured to ouput a control signal for the semiconductor manufacturing device and a driver signal, a driver configured to apply a driving voltage to the at least one solenoid valve in response to the driver signal, and an interlocker configured to sense the open/shut state of the solenoid valves and configured to transmit an interlock signal to the main controller.

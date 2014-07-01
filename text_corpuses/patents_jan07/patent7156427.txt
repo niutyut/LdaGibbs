@@ -1,0 +1,4 @@
+title: Safety locking device for a container in a vehicle
+
+abstract: 
+A safety locking mechanism () for a receptacle () in a vehicle includes a moveable mass () which is held in a home position by a snap-in device () and which is deflected when acted upon by high acceleration or deceleration as occurs in an accident. A snap-in device () also holds the mass () in the deflected position. In the deflected position, the mass () locks the receptacle ().

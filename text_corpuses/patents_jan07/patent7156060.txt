@@ -1,0 +1,4 @@
+title: Cam drive gear and valve operating system drive gear for engine
+
+abstract: 
+A cam drive gear for an engine is described where the distance between the axes of a crankshaft and an idle shaft bearing an idle gear thereon can be made smaller, thereby contributing to a reduction in the size of the engine. In addition, a valve-operating system drive gear for an engine is also described where it is possible to restrain a cam chain from chattering at its portion wrapped around a drive sprocket.

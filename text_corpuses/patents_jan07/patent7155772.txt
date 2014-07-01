@@ -1,0 +1,4 @@
+title: Fixing device for attaching/detaching dust receptacle of cyclone-type vacuum cleaner and vacuum cleaner having the same
+
+abstract: 
+A fixing device for attaching and detaching a dust receptacle to and from a cyclone unit, which comprises a cyclone body and the dust receptacle and mounted in a mounting portion of a cleaner body. The fixing device comprises a dust receptacle comprising a sliding groove formed with a predetermined depth and height extended backward from a center of a bottom side of the dust receptacle that is opposite to a bottom side of the mounting portion. A guide member is disposed in the sliding groove for guiding attachment and detachment of the dust receptacle. An operation lever with a cam part having a cam projection for insertion into the cam guider, is rotated and counter-rotated to thereby move the guide member upward and downward at a height according to an eccentricity of the cam part.

@@ -1,0 +1,4 @@
+title: Production of high-purity niobium monoxide and capacitor production therefrom
+
+abstract: 
+The present invention relates to high-purity niobium monoxide powder (NbO) produced by a process of combining a mixture of higher niobium oxides and niobium metal powder or granules; heating and reacting the compacted mixture under controlled atmosphere to achieve temperatures greater than about 1800? C., at which temperature the NbO is liquid; solidifying the liquid NbO to form a body of material; and fragmenting the body to form NbO particles suitable for application as e.g., capacitor anodes. The NbO product is unusually pure in composition and crystallography, highly dense, and can be used for capacitors and for other electronic applications. The method of production of the NbO is robust, does not require high-purity feedstock, and can reclaim value from waste streams associated with the processing of NbO electronic components.

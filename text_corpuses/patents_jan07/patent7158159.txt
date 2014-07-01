@@ -1,0 +1,4 @@
+title: Micro-machined nozzles
+
+abstract: 
+A micro-machined nozzle includes a substrate having a hole formed on a first side that extends partially through a thickness dimension of the substrate and a nozzle orifice formed on a second opposite side that communicates with the hole. The nozzle orifice has at least a portion of its interior wall serrated. A method of fabricating a micro-machined nozzle includes the steps of etching a first side of a silicon substrate to form a hole that extends partially through a thickness dimension of the substrate and etching a second opposite side of the silicon substrate to form a serrated nozzle orifice that communicates with the hole.

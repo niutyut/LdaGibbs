@@ -1,0 +1,4 @@
+title: Error correction method, error correction circuit and information-recording/reproduction apparatus
+
+abstract: 
+An error correction method is provided as follows: handling a 2-event error generated very frequently as an object of correction; sequentially finding CRC data for a generated event of an error handled as the defined object of correction at any arbitrary bit position of reproduced data by implementation of a cyclic-replacement process; carrying out an exclusive-addition process of the CRC data to CRC data of the reproduced data in order to virtually carry out a tentative-correction process on a 1-event error at a first bit position; further finding CRC data generated after the tentative-correction process in order to detect a 1-event error at a second bit position; and correcting the 1-event error completing the tentative-correction process at the first position and the 1-event error at the second bit position.

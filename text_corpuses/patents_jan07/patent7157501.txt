@@ -1,0 +1,4 @@
+title: Fischer-tropsch process using a fischer-tropsch catalyst and a zeolite-containing catalyst
+
+abstract: 
+Fischer-Tropsch process for the conversion of carbon monoxide and hydrogen to C hydrocarbon mixtures in which process use is made of Fischer-Tropsch catalyst particles and fluid catalytic cracking (FCC) catalyst particles. The FCC catalyst can be a fresh FCC catalyst, or an equilibrium catalysts (E-cat).

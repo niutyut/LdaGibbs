@@ -1,0 +1,4 @@
+title: Database query system and method
+
+abstract: 
+The invention provides a data visualization system comprising a data value memory in which is maintained a finite set of data values; a retrieval component configured to retrieve a set of data values from the data value memory; a display component configured to display a representation of each of the set of the retrieved data values centered on respective data points; and a contour generator configured to generate and display a contoured representation around each data point, such that each data point is displayed as a local maximum. The invention further provides a data visualization system in which a display component is configured to display a graphical representation of a set of retrieved data values based at least partly on display parameters included in a database query expression. The invention also provides related methods and computer programs.

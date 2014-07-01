@@ -1,0 +1,4 @@
+title: Anvil driving assembly
+
+abstract: 
+An anvil driving assembly, anvil driving tool, and method for installing rivetless floating nut plates in workpieces. The tool and method are capable of pulling a rivetless nut plate sleeve into a countersunk hole in the workpiece simultaneously with flaring the open end of the nut plate sleeve.

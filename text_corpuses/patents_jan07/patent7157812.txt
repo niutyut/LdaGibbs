@@ -1,0 +1,4 @@
+title: Apparatus and method for modifying a power flow in a section of an electric power line
+
+abstract: 
+The invention concerns an apparatus and a method for modifying a power flux in an electrical transmission line section (), each section including phase lines having n conductors () electrically insulated from one another and shorted at the ends () of the section. The apparatus comprises a power exchange unit including a power converter () for power conversion between first and second pairs of terminals (), the first pair of terminals () being connected in series to at least one conductor of the section; and an electrical element () connected to the second pair of terminals () and adapted to circulate power through the power converter to modify said power flux.

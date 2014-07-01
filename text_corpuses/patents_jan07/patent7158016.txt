@@ -1,0 +1,4 @@
+title: Crash notification system for an automotive vehicle
+
+abstract: 
+A crash notification system () for an automotive vehicle () is used to communicate with a communication network () and ultimately to a response center (). The system () within vehicle () includes an occupant sensor () that generates an occupant sensor status signal. A crash sensor () a vehicle identification number memory (), or a vertical acceleration sensor () may also be used to provide information to the controller (). The controller () generates a communication signal that corresponds to the occupant sensor status signal and the other information so that appropriate emergency personnel may be deployed.

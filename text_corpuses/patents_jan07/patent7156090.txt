@@ -1,0 +1,4 @@
+title: Tracheostomy tube
+
+abstract: 
+A tracheostomy tube that enables speech. The tube is provided with an inside tube portion to be set in a trachea, an outside tube portion connected to a ventilator, and a balloon provided on the outer circumference of the inside tube portion. The balloon is connected to the inside tube portion so that the inside and outside of the balloon cannot communicate with each other and the inside tube portion has a hole for communicating the inside of the interior of the inside tube portion with the inside of the balloon.

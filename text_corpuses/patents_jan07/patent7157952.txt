@@ -1,0 +1,4 @@
+title: Systems and methods for implementing delay line circuitry
+
+abstract: 
+Memory devices used to control delay line circuitry, and that may be implemented in one embodiment to provide a self-tuning delay line device using empirical calibration technique/s to achieve a desired signal delay. The memory control device may be implemented to store electrical characteristics of the delay line circuitry during testing to enable self-calibration of the delay line circuitry.

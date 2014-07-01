@@ -1,0 +1,4 @@
+title: Storage apparatus and control method therefor
+
+abstract: 
+A storage apparatus comprises at least one housing A in which a storage device and a controller are provided, at least one housing B in which a storage device and a peripheral device are provided, and a transmission path for connecting the storage device and the controller of the housing A, and the storage device of the housing B to enable communication therebetween. The storage apparatus is capable of controlling operation of the storage device of the housing B according to an operating state of the storage device of the housing A through communication via the transmission path; and controlling operation of the peripheral device according to an operating state of the storage device of the housing B.

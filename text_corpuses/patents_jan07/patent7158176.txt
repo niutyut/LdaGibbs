@@ -1,0 +1,4 @@
+title: Prioritization of files in a memory
+
+abstract: 
+A mobile electronic apparatus including a memory and a system for prioritizing the user stored files in the memory relative to one another. The memory includes user stored files therein. Each user stored file has more than one different prioritization parameter associated therewith. The system for prioritizing the user stored files in the memory relative to one another includes a system for prioritizing the user stored files relative to each other based upon at least two of the different prioritization parameters.

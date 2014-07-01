@@ -1,0 +1,4 @@
+title: Method of forming a respiratory conduit
+
+abstract: 
+The present invention relates to delivery conduits used in systems that provide positive pressure ventilation therapy. In particular, the present invention relates to a sleeve that allows flexible conduits to be joined and sealed to a thermoplastic connector, allowing for gases to be supplied to the conduit. The sleeve is used in the over moulding of an end connector onto the conduit. The sleeve and method of attaching a connector to a conduit of the present invention has the advantage that it prevents the connector from loosening or breaking when the conduit is bent, pulled or stressed, which can occur in some cases where the connector is attached to the conduit using a bond, such as glue. Furthermore, the occurrences of flashing of plastic across the conduit walls will be prevented during moulding, ensuring that no air or water leakages occur within the conduit walls.

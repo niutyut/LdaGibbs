@@ -1,0 +1,4 @@
+title: Semiconductor integrated circuit
+
+abstract: 
+A semiconductor integrated circuit in which multiphase clock signals having the same phase difference are supplied from a multi-stage differential ring oscillator to other circuits, the multiphase clock signals can be prevented from being degraded in waveform due to electrostatic coupling between wirings of the multiphase clock signals and also wired in as small an area as possible. The semiconductor integrated circuit includes: multiple stages of amplifier circuits, connected in a ring form, for performing oscillating operation; a logic circuit for performing logic operation on the basis of predetermined ones of output signals of the multiple stages of amplifier circuits to output a plurality of clock signals having different phases from each other and duties not equal to 0.5; and a plurality of wirings for transmitting the plurality of clock signals output from the logic circuit.

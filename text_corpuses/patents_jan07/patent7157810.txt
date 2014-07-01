@@ -1,0 +1,4 @@
+title: Backup power supply
+
+abstract: 
+The present invention reduces the capacity of the AC-DC converter for the peak load and realizes low price and reduction in the volume of the power unit. The apparatus built-in backup power supply has the peak cut function for sharing a part of the load current at the time of peak load from the secondary battery. The two-way DC-DC converter  and the secondary battery  are installed on the DC output side of the AC-DC converter  and a current larger than a predetermined peak cut level is discharged from the secondary battery  at the time of peak load. Further, when the load is less than the predetermined cut level, the secondary battery  is charged from the AC-DC converter  via the two-way DC-DC converter . Furthermore, a most suitable peak cut level according to the SOC of the secondary battery and load pattern is automatically set and dynamically changed.

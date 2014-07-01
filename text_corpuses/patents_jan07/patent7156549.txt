@@ -1,0 +1,4 @@
+title: Direct type backlight unit
+
+abstract: 
+A direct type backlight unit includes a metal housing having a base, at least one metal supporting pin and a buffer element. The metal supporting pin is formed integrally on the base and protrudes upwardly therefrom for supporting an optical film disposed upon the backlight unit, and the buffer element is disposed between the metal supporting pin and the optical film so as to prevent the metal supporting pin from damaging the optical film.

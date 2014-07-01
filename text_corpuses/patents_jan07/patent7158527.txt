@@ -1,0 +1,4 @@
+title: Protocol multiplexing
+
+abstract: 
+Example embodiments of protocol multiplexing systems comprise a multiplexer which receives multiplexed packet(s) and which uses contents of the multiplexed packets to form carrying packets which are stored in an output buffer. Some of the multiplexed packets belong to differing ones of plural virtual channels, but the multiplexer uses multiplexed packet(s) belonging to only one virtual channel to form a given carrying packet. The multiplexing systems accommodate transmission on a same virtual path of numerous connections belonging to differing virtual channels, balancing both payload efficiency and delay considerations.

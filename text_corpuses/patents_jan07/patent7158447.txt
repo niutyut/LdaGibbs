@@ -1,0 +1,4 @@
+title: Sonar transmitter
+
+abstract: 
+Provided is a sonar transmitter in which the structure is simplified and the power loss is decreased. A sonar transmitter comprises: a load unit having a transformer constituted with a primary wiring and a secondary wiring, and a wave transmitter to which the secondary voltage generated in the secondary wiring is applied; a control unit for outputting a PWM signal which originally has no offset voltage; and a transmission circuit unit which amplifies the PWM signal outputted from the control unit and applies it to the primary wiring as the primary voltage. The control unit comprises a memory circuit formed by ROM or RAM which stores a transmission signal waveform and a control circuit formed by a microcomputer or DSP, for example. With the present invention, a conventional feedback circuit, an adder and the like become unnecessary by outputting the PWM which originally contains no offset voltage.

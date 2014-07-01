@@ -1,0 +1,5 @@
+title: Methods of downstream microwave photoresist removal and via clean, particularly following Stop-On TiN etching
+
+abstract: 
+A process for photoresist layer removal from a semiconductor wafer comprises exposing at relatively high temperature the wafer to an RIE-free microwave-energy-generated plasma of a primary gas mixture, the exposing causing photoresist removal such as by ashing. The method also comprises determining an endpoint to the removal by a determined change in the visible light emanating from a chamber containing the wafer.
+A multi-step process of the present invention comprises the above method and a preliminary RIE-free microwave-energy-generated plasma that solubilizes polymer on walls of vias of the wafer. This multi-step process also comprises, following the exposing step, a cooling step, a cooling step with a temperature check, and a deglazing step. The deglazing step also uses an RIE-free microwave-energy-generated plasma. Specific gas mixtures for the respective plasmas are exemplified. Other embodiments of methods of the present invention are comprised of less steps, or a consolidation of such steps.

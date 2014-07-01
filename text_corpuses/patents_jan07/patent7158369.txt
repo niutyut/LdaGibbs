@@ -1,0 +1,4 @@
+title: Single phase or polyphase switchgear in an enveloping housing
+
+abstract: 
+Single phase or polyphase switchgear having one or more switches which are mounted with the aid of solid insulation such that they are insulated, as well as associated live components such as rail systems, connectors and the like. Both the switches and the associated live components are housed in a housing enveloping the switches and live components. The enveloping housing is filled with air having a low moisture content and the interior space thereof is sealed with respect to the exterior space around the enveloping housing in such a way that the air present in the housing is not contaminated and will not reach the dew point.

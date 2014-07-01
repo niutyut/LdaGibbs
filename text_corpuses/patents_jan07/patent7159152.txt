@@ -1,0 +1,4 @@
+title: System with a monitoring device that monitors the proper functioning of the system, and method of operating such a system
+
+abstract: 
+A system and a method are distinguished by the fact that, if it is determined that the system is not operating properly, a control device is stopped and it is ensured that the control device, when operation is continued, begins with the execution of the operation whose faulty execution may be the cause for the fault registered, or which was being executed when the fault was registered. This makes it possible, with little effort and without noticeable disruption to the operation of the system, to determine whether improper operation of the system is of only a temporary nature or of a permanent nature, and for the system or parts of the same to be deactivated or reset only when the fault that has occurred is not a temporary fault.

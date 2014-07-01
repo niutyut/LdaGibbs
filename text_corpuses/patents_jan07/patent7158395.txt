@@ -1,0 +1,4 @@
+title: Method and apparatus for tracking maximum power point for inverters, for example, in photovoltaic applications
+
+abstract: 
+A power system employs an outer voltage feedback loop and an inner current feedback loop to control a power converter, such as a DC to AC inverter for transferring electrical power between a power source, for example a photovoltaic array, and a load, for example a power grid. The outer loop accommodates variations in the output of the power source, for example accommodating anomalies in IV characteristics such as IV droop characteristic associated with photovoltaic cells. The outer loop may employ a first control regime or a second control regime, for example, dependent on whether a DC bus voltage or power is smaller than a value corresponding to measurement resolution or expected noise.

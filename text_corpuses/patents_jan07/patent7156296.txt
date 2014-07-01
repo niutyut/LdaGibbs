@@ -1,0 +1,4 @@
+title: Cash dispensing automated banking machine with uniform transaction ergonomic patterns
+
+abstract: 
+An automated banking machine () is provided. The automated banking machine may include a fascia () in operative connection with a frame (). The machine may include a plurality of hardware devices which are accessible through the fascia. The hardware devices may include a cash dispenser (), receipt printer (), and a card reader (). The fascia may include replaceable bezels () with apertures therein for providing access to hardware devices. The bezels may be operative to float with respect to the fascia and hardware devices to automatically align hardware devices with the bezels. In addition the hardware devices may include movable portions which are operative to automatically align with the bezels. The bezels may include ramps, ribs, or other angled surfaces which guide the hardware devices into alignment with the openings in the bezels.

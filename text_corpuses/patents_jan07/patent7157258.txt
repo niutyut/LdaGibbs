@@ -1,0 +1,4 @@
+title: Particles containing coated living micro-organisms, and method for producing same
+
+abstract: 
+Particles containing dehydrated living micro-organisms are coated with a homogeneous layer of hydrophobic substance selected to reduce the risks of degradation of the micro-organisms by physico-chemical stresses such as heat, humidity, gastric acid, or compression. A method for producing such particles includes injecting a melting hydrophobic substance into the mass of the dehydrated micro-organisms placed in a chamber swept by an air stream at controlled temperature, where the base is rotating.

@@ -1,0 +1,4 @@
+title: Alteration of oil traits in plants
+
+abstract: 
+The preparation and use of nucleic acid fragments useful in altering the oil phenotype in plants are disclosed. Chimeric construct incorporating such nucleic acid fragments and suitable regulatory sequences can be used to create transgenic plants having altered lipid profiles. Methods for altering the oil phenotype in plants using such nucleic acid fragments also are disclosed.

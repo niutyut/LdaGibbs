@@ -1,0 +1,4 @@
+title: Phased activated sludge system
+
+abstract: 
+The inventions describe a phased activated sludge treatment system that incorporates elements of batch treatment technology into a flow-through treatment process. Control of mixing and aeration systems are independent to facilitate the operation of the main reactor vessel in alternating aerated and anoxic conditions. Conditioning vessels in communication with the main reactor are employed to preferentially control the distribution and balance of nitrogen and phosphorus compounds in the reactor and to remove such biological nutrients concurrently with BOD and TSS in the wastewater. The inventions provide the beneficial results of providing greater operator control of flow-through treatment processes, power saving and reduced operation and maintenance costs in comparison to conventional flow-through treatment technologies.

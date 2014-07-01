@@ -1,0 +1,4 @@
+title: Circuitry and methods for high speed data encoding
+
+abstract: 
+An unpartitioned high-speed 8B/10B encoder and corresponding methods use only one edge or level of the clock signal per clock cycle to encode a set of 8B to a corresponding set of 10B data, and thus is not limited to a 50% clock duty cycle. The encoder includes an unpartitioned encoding circuit that receives 8B data and a special character signal and generates 10B intermediate data, a disparity control that receives the 8B data and the special character sign in parallel with that information being received by the encoding circuit, and also receives a clock signal, and generates two control signals; and logic circuitry that receives the intermediate output data and the two control signals and generates the 10B output data. The encoder may be embodied in a high-speed encoding system in which the processing speed of the encoder is greater than 250 MHz.

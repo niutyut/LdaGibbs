@@ -1,0 +1,4 @@
+title: Proton exchange membrane fuel cell
+
+abstract: 
+A fuel cell system with a proton exchange membrane. There is a cathode catalyst layer overlying the first face of the proton exchange membrane, and a cathode diffusion layer overlying the cathode catalyst layer. There is an anode catalyst layer overlying the second face of the proton exchange membrane, and an anode diffusion layer overlying the anode catalyst layer. The cathode diffusion layer has a water vapor permeance of less than about 3?10g/(Pa s m) at 80? C. and 1 atmosphere. The invention also relates to cathode diffusion layers for fuel cell systems.

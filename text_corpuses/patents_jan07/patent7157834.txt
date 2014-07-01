@@ -1,0 +1,4 @@
+title: Rotation/displacement converting actuator
+
+abstract: 
+A rotation/displacement converting actuator has an actuator unit constituted by a displacing body and an actuator in which the displacing body can be linearly displaced. The actuator has a pair of plate-shaped bases, a rotor, a vibrating element that rotates the rotor, and a cam mechanism for converting rotary motion of the rotor to linear motion of the displacing body. The rotor is fixed to a shaft to which the rotor (cam rotor) is fixed. An outer circumferential surface of the rotor constitutes a cam surface of the cam mechanism. A roller is provided at a tip portion of the displacing body. The roller abuts on the outer circumferential surface (cam surface) of the rotor.

@@ -1,0 +1,4 @@
+title: Modular software definable pre-amplifier
+
+abstract: 
+Pre-amplifier apparatus, for use for example in a home hi-fi system, compoosed of one or a plurality of reconfigurable circuits used to configure the apparatus to implement the desired audio processing functions and audio protocols for use in different audio systems. The reconfigurable circuits are configured and reconfigured in real time. The apparatus is also modular allowing expansion through the use of mezzanine and or PC cards, which contain, amongst other things, signal processing logic and programmable logic. All signal processing is performed in the digital domain so any analogue input signals are first converted to digital signals using an analogue to digital converter. Remote audio feedback to the apparatus allows the apparatus to adapt in real time to the desired acoustic settings.

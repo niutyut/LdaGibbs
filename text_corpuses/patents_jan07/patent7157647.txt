@@ -1,0 +1,4 @@
+title: Circuitized substrate with filled isolation border, method of making same, electrical assembly utilizing same, and information handling system utilizing same
+
+abstract: 
+A circuitized substrate which includes a plurality of contiguous open segments along a side edge portion of the at least one electrically conductive layer thereof, these open segments isolated by a barrier of dielectric material which substantially fills the open segments, e.g., during a lamination process which bonds two dielectric layers of the substrate to the conductive layer. A method of making the substrate, an electrical assembly utilizing the substrate, a multilayered circuitized assembly also utilizing the substrate and an information handling system, e.g., a mainframe computer, are also provided.

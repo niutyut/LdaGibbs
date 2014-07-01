@@ -1,0 +1,4 @@
+title: Cooling mechanism
+
+abstract: 
+A cooling mechanism according to the present invention comprises a heat conductive unit having a plurality of heat radiating fins extended outward in the radial direction thereof and a fan. The heat radiating fins and the air gaps among the heat radiating fins define a circular attachment face, on which the fan is attached. The fan further comprises a fan bracket and a fan wheel mounted within the fan bracket. The fan wheel further includes a wheel hub and a plurality of blades arranged around the wheel hub. The radial distance over which the blades of the fan extend significantly exceeds the outer rim of the attachment face of the heat conductive unit, so that air flow driven by the fan can pass through the air gaps of the heat conductive unit as well as the outer wall of the rim of the heat conductive unit.

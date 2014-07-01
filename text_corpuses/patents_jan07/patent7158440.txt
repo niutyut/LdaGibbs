@@ -1,0 +1,4 @@
+title: FIFO memory devices having write and read control circuits that support x4N, x2N and xN data widths during DDR and SDR modes of operation
+
+abstract: 
+First-in first-out (FIFO) memory devices are configured to support all four of the following FIFO memory modes: (1) DDR write with DDR read, (2) DDR write with SDR read, (3) SDR write with DDR read and (4) SDR write with SDR read. These FIFO memory devices provide flexible x4N, x2N and xN bus matching on both read and write ports and enable data to be written and read on both rising and falling edges of the write and read clock signals. Custom flag generation and retransmit circuitry is also provided that can efficiently handle any width DDR write mode with any width SDR read mode or any width SDR write mode with any width DDR read mode.

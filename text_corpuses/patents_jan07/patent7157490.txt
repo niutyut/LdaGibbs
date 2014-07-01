@@ -1,0 +1,4 @@
+title: Phenylalanine derivatives as dipeptidyl peptidase inhibitors for the treatment or prevention of diabetes
+
+abstract: 
+The present invention is directed to phenylalanine derivatives which are inhibitors of the dipeptidyl peptidase-IV enzyme (?DP-IV inhibitors?) and which are useful in the treatment or prevention of diseases in which the dipeptidyl peptidase-IV enzyme is involved, such as diabetes and particularly type 2 diabetes. The invention is also directed to pharmaceutical compositions comprising these compounds and the use of these compounds and compositions in the prevention or treatment of such diseases in which the dipeptidyl peptidase-IV enzyme is involved.

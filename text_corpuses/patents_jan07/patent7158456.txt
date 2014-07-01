@@ -1,0 +1,4 @@
+title: Optical disc player and method for reproducing thereof
+
+abstract: 
+An optical disc player discriminates an attribution of tracks recorded onto a disc inserted in the player, and normally reproduces MP3 tracks recorded onto discs inserted into a plurality of disc drivers using an MP3 decoder. Also, according to a method of reproducing an optical disc, the optical disc player discriminates a kind of an inserted disc as an audio file disc, an MP3 file disc, or a general data file disc and normally performs a reproducing operation for the files or music recorded onto the inserted disc.

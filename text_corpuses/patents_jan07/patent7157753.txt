@@ -1,0 +1,4 @@
+title: Semiconductor device and method of fabricating same
+
+abstract: 
+There are disclosed TFTs that have excellent characteristics and can be fabricated with a high yield. The TFTs are fabricated, using an active layer crystallized by making use of nickel. Gate electrodes are comprising tantalum. Phosphorus is introduced into source/drain regions. Then, a heat treatment is performed to getter nickel element in the active layer and to drive it into the source/drain regions. At the same time, the source/drain regions can be annealed out. The gate electrodes of tantalum can withstand this heat treatment.

@@ -1,0 +1,4 @@
+title: Implant and process of modifying an implant surface
+
+abstract: 
+An implant and a process of modifying an implant surface, which implant is in particular a hip implant, a tooth implant, a bone screw, fixation pin or a fixation nail (pin-fixation), comprising a metallic base body, which implant has a surface modified by a material containing a tissue-friendly metal, such as tantalum or niobium, for the formation of a surface modification where at least the tissue-friendly metal is alloyed with the surface and constitutes a uniform, diffusion-tight outer zone on the body, which outer zone has a higher ductility than the metallic base body in order to obtain a tissue-friendly implant with increased fatigue strength.

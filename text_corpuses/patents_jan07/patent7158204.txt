@@ -1,0 +1,4 @@
+title: Method and apparatus of fabricating liquid crystal display panel
+
+abstract: 
+A method and an apparatus that can fabricate a liquid crystal display panel capable of selectively forming a spacer at a desired area. The inventive apparatus includes a sprayer to spray adhesive spacers over a substrate having at least one metal pattern, a dryer to dry the adhesive spacers, and a blower to selectively remove the adhesive spacers located at a region non-overlapping the metal pattern.

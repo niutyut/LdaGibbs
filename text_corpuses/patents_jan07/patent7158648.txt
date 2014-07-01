@@ -1,0 +1,4 @@
+title: Loudspeaker system with extended bass response
+
+abstract: 
+A loudspeaker system has an extended bass or low frequency response. The loudspeaker system integrates a passive radiator with a transducer. The loudspeaker system also mechanically isolates the passive radiator and the transducer. A support mechanism mechanically grounds vibrations or other forces from the transducer and passive radiator that may interfere or affect the operation of the loudspeaker.

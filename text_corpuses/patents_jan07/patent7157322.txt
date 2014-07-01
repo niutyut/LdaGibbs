@@ -1,0 +1,4 @@
+title: Semiconductor device and method for manufacturing same
+
+abstract: 
+A semiconductor device including an NMOSFET which has an n-type source/drain main region containing arsenic and an n-type source/drain buffer region having arsenic and phosphorous of which a concentration is lower than that of the source/drain main region, and the concentration of the phosphorous in the source/drain buffer region is smaller than the concentration of the arsenic therein. The semiconductor device has a suppressed reverse short channel effect and reduced p-n junction leakage current. Further, the semiconductor device has a larger margin to a certain gate length and a specified threshold voltage to elevate a production yield.

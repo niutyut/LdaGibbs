@@ -1,0 +1,4 @@
+title: Polymerization process for producing copolymers
+
+abstract: 
+The invention provides a process for the preparation of a propylene polymer in which propylene and a comonomer copolymerizable therewith and of greater molecular weight than propylene are polymerized in a single site catalyst catalized polymerization reaction, characterised in that said polymerization reaction is effected at least in part at a temperature of at least 70? C.

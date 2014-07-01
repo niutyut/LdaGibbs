@@ -1,0 +1,4 @@
+title: Method and system for predicting problematic situations in a automated dialog
+
+abstract: 
+The invention concerns a system and method of predicting problematic dialogs in an automated dialog system based on the user's input communications. The method may include determining whether a probability of conducting a successful dialog with the user exceeds a first threshold. The successful dialog may be defined as a dialog exchange between an automated dialog system and the user that results in at least one of processing of the user's input communication and routing the user's input communication. The method may further operate such that if the first threshold is exceeded, further dialog is conducted with the user. Otherwise, the user may be directed to a human for assistance.

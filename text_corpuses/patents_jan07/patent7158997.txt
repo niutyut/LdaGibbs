@@ -1,0 +1,4 @@
+title: Application service provider model for manufacturers product specification data
+
+abstract: 
+A business model is described in which one entity hosts, maintains, and provides a uniform interface for entering data into, a database of manufacturers product specification on behalf of a plurality of manufacturers. The entity then serves as an application service provider (ASP) with respect to that database, by allowing the manufacturers to access their respective product specification data in the database for any of a variety of uses outside of the database in exchange for some form of remuneration from those manufacturers.

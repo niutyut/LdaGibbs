@@ -1,0 +1,4 @@
+title: Wobblestick with helix
+
+abstract: 
+A wobblestick with driving teeth with a helix which is equal to or less than 1? of the running angle of the wobblestick.

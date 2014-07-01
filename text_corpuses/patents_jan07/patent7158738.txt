@@ -1,0 +1,4 @@
+title: Image reader apparatus and cylinder shaped lamp used for the same
+
+abstract: 
+An image reader apparatus for lighting a manuscript surface of a manuscript in a line state, and for image-forming a reflection light from a reading part of the manuscript surface lighted in the line state, to an image sensor, by an image forming lens which forms a part of a scaled down optical system so that an image of the manuscript is read, includes an irradiation opening part and an optical element. The irradiation opening part is for irradiating a lighting light to an outside part, which is formed at the light source. The optical element for attenuating a light amount so as to be permeated, which is provided between the irradiation opening part and the manuscript stand.

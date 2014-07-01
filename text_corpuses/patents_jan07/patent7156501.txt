@@ -1,0 +1,4 @@
+title: Inkjet head
+
+abstract: 
+Pressure chambers arranged in the form of a matrix along a plane form first and second pressure chamber columns arranged alternately in the plane and having nozzles connected on opposite sides respectively. Two adjacent pressure chamber columns constituted by a first pressure chamber column and a second pressure chamber column are arranged opposite to each common ink path. First connection holes formed in the pressure chambers of the first pressure chamber column and connected to nozzles and second connection holes formed in the pressure chambers of the second pressure chamber column and connected to nozzles are arranged side by side on opposite sides of a corresponding common ink path. Between two adjacent common ink paths, first connection holes and second connection holes are arranged on a column.

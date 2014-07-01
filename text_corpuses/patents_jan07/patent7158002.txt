@@ -1,0 +1,4 @@
+title: Primary wire winding having optimized package dimensions for a pencil-style ignition coil
+
+abstract: 
+To optimize the package dimensions of pencil-style ignition coils, a structural component including a primary wire and a primary bobbin is constructed in such manner that this structural component is also used as the encapsulation layer of the ignition coil.

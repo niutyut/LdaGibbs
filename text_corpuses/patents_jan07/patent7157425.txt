@@ -1,0 +1,4 @@
+title: Apolipoprotein A-I agonists and their use to treat dyslipidemic disorders
+
+abstract: 
+The present invention provides peptides and peptide analogues that mimic the structural and pharmacological properties of human ApoA-I. The peptides and peptide analogues are useful to treat a variety of disorders associated with dyslipidemia.

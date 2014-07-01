@@ -1,0 +1,4 @@
+title: Multicast routing method and apparatus for routing multicast packet
+
+abstract: 
+A communications apparatus for converting an IPv4 multicast packet transmit from an IPv4 terminal into an IPv6 multicast packet and transmitting the converted IPv6 multicast packet to one of a plurality of IPv6 networks. The communications apparatus has information indicating to which IPv6 network the IPv4 multicast packet to undergo conversion processing is to be transmitted. The communications apparatus then converts the received IPv4 multicast packet into an IPv6 multicast packet and transmits the converted IPv6 multicast packet to an IPv6 network where it is required to be sent.

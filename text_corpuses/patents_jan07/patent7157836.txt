@@ -1,0 +1,4 @@
+title: Piezoelectric device
+
+abstract: 
+A piezoelectric device including an IC chip mounted on an inner bottom surface of a package, and a piezoelectric vibrating reed electrically and mechanically connected onto a TAB tape in which a lead is provided on a surface of a resin tape. The TAB tape to which the piezoelectric vibrating reed has been joined is mounted in the package, whereby the piezoelectric vibrating reed is arranged above the IC chip.

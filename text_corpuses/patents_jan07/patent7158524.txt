@@ -1,0 +1,4 @@
+title: Integrating switching and facility networks
+
+abstract: 
+A method and apparatus is provided for setting up an IP session from a first node, across a network that uses direct virtual path routing, to a second node. The first node receives a request to set up the session. The second node is identified as the destination of the session, based on the request. A first stack of labels is obtained that defines a first path. A second stack of labels is obtained that defines a second path. A first label identifier is selected that identifies the session in a first direction. A second label identifier is selected that identifies the session in a second direction. Finally the data is transmitted from the first node to the second node and from the second node to the first node using the first stack and second stack of labels and label identifiers, respectively.

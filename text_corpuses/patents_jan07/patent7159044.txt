@@ -1,0 +1,4 @@
+title: Input/output device disable control for PC-based consumer electronics device
+
+abstract: 
+An electronic system that includes control logic that causes input and output ports to be disabled during the interruption windows of the initialization process, and subsequently to be selectively disabled or enabled after completion of the initialization process. The input and output ports are disabled during initialization of the electronic system to prevent interruption of the initialization process by the user. The input and output ports are disabled or enabled, after completion of the initialization process, to control access to content stored on, or made available by, the electronic system.

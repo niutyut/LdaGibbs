@@ -1,0 +1,4 @@
+title: Intermediate layer composition for multilayer resist process, pattern-forming process using the same, and laminate
+
+abstract: 
+An intermediate layer composition having a silicon-containing polymer(A) having a specific structure and a pattern-forming process using the same.

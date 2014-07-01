@@ -1,0 +1,4 @@
+title: Movable goalie
+
+abstract: 
+An automated goalkeeper assembly includes a track having a length; a goalie structure; and a base that supports the goalie structure on top of the track. The base has wheels and a motor cooperating with at least one of the wheels for moving the goalie structure along the length of the track. A player, for example, a hockey player or a soccer player, can practice scoring goals against the goalie structure. The goalie structure is preferably inflatable, and the track is preferably constructed from a plurality of track sections. The track preferably has grooves and the base preferably has flanges that cooperate with the grooves to keep the base secured in the track when the player bumps into the goalie structure. All of the components of the goalkeeper assembly can be provided as a kit that can be assembled and disassembled as desired.

@@ -1,0 +1,4 @@
+title: Efficient scenery object rendering
+
+abstract: 
+The number of graphic objects in a visual tile rendered varies as a function of distance between the tile and a viewpoint in a simulation. Fewer objects are rendered when the tile is far from the viewpoint, and vise versa. A level of detail (LOD) value is pseudo-randomly selected and associated with each object, indicating the maximum distance at which the object will be visible. A current LOD value is determined for the tile. An object is rendered if its LOD value is equal or greater than the current LOD value of the tile. Objects are faded into and out of view by modulating an opacity value as the current LOD value changes. Texture values of an object are adjusted as a function of ambient and direct components of light on the object, to achieve lighting corresponding to time of day, current season, and/or region in the simulated world.

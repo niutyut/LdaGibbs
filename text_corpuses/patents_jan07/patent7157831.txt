@@ -1,0 +1,4 @@
+title: Energy efficient vibration driven motor
+
+abstract: 
+A motor includes a resonator and a vibration source coupled to the resonator. The vibration source can be a piezoelectric vibration source. A drive shaft is coupled to the resonator via a linkage. The vibration source(s) impart a vibration along the resonator such that a lateral displacement of the resonator is focused at a location coupled to the linkage. The lateral displacement is coupled to the drive shaft to provide rotational motion of the drive shaft.

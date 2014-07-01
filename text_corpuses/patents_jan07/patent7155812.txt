@@ -1,0 +1,4 @@
+title: Method for producing a tube
+
+abstract: 
+A method is described for producing tubular substrates having parallel spaced concentric rings of electrical conductors that can be used as the drift tube of an Ion Mobility Spectrometer (IMS). The invention comprises providing electrodes on the inside of a tube that are electrically connected to the outside of the tube through conductors that extend between adjacent plies of substrate that are combined to form the tube. Tubular substrates are formed from flexible polymeric printed wiring board materials, ceramic materials and material compositions of glass and ceramic, commonly known as Low Temperature Co-Fired Ceramic (LTCC). The adjacent plies are sealed together around the electrode.

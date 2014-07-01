@@ -1,0 +1,4 @@
+title: Wireless communication circuit
+
+abstract: 
+The invention includes a wireless communication circuit and a method of communicating with wireless signals that feature a tank circuit having an inductor connected in parallel with a capacitor circuit. The capacitor circuit includes a pair of capacitors coupled in series. Each of the capacitors is connected in common to ground and has a capacitive value associated. A feedback network is connected to selectively bias the tank circuit to produce a signal having an amplitude. The amplitude of the signal is a function of a ratio of the capacitive values associated with the capacitor circuit. The frequency of the signal is defined by the inductor and the capacitor circuit. The tank circuit is multifunctional in that it may be biased to function as a transmitter and a receiver.

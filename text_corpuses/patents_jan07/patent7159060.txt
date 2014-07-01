@@ -1,0 +1,4 @@
+title: PCI standard hot-plug controller (SHPC) with user programmable command execution timing
+
+abstract: 
+According to embodiments of the present invention, a peripheral component interconnect (PCI) standard hot-plug controller (SHPC) includes a command register to store PCI slot operation commands for one or more target PCI slots and a programmable register that may be programmed with one timing parameter value (e.g., Tpccc, Tpece, Tcebe, Tbkrk, etc.) for a signal sequence for execution of one PCI slot operation command and another timing parameter value for a signal sequence for execution of another PCI slot operation command depending on the particular target PCI slot, the particular PCI slot operation command loaded into the command register, and/or the number of times a particular PCI slot operation command has been loaded into the command register, for example.

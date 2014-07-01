@@ -1,0 +1,4 @@
+title: Method of calculating effective power relating to capacitor, method of measuring effective power consumed by capacitor, capacitor selection method, calculation apparatus for calculating effective power relating to capacitor, and recording medium storing the calculation program therefor
+
+abstract: 
+In a method of calculating effective power relating to a capacitor, the waveform of a periodic voltage applied to a capacitor is set. The capacitance of a desired capacitor is input. The waveform of the periodic voltage applied to both ends of the capacitor is subjected to Fourier expansion. More specifically, the periodic voltage is Fourier-expanded in terms of sine and cosine-wave series of high-order frequency components. Further, an effective power consumed by the capacitor is calculated using data regarding temperature characteristics, voltage characteristics and a frequency characteristic of the capacitance and dielectric tangent of the capacitor.

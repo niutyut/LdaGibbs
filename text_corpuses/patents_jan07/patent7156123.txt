@@ -1,0 +1,4 @@
+title: Pressure reduction system for quick-connects
+
+abstract: 
+When sample collection cylinders get full, they need to be switched out with empty sample collection cylinders. The connection between the sample cylinder and a piping system is often a quick-connect which typically has a high pressure rating when closed and a lower pressure rating when opened. The bleeder valve of the present invention, when installed in the piping system between the quick-connect and the sample cylinder can be used to reduce the pressure in the system and the quick-connect to rated pressures before the quick-connect is opened. In an alternative embodiment intended for service with hazardous materials, the bleeder valve and seals are formed from resistant materials and the vent is connected to a flare or other suitable point of disposal.

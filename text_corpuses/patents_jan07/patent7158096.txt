@@ -1,0 +1,4 @@
+title: Compact, head-mountable display device with suspended eyepiece assembly
+
+abstract: 
+A compact, lightweight, head-mountable display device is provided for transmitting an image to a user's eye. The device includes a projection system including a display attached at one end to a head-mountable support fixture. An eyepiece assembly is attached to a second end of the support fixture. The support fixture maintains the projection system and the eyepiece assembly in alignment along an optical path through free space between the projection system and the eyepiece assembly, with the projection system disposed to transmit the image on the optical path and the eyepiece assembly disposed to receive the image from the projection system and to direct the image to the user's eye.

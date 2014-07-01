@@ -1,0 +1,4 @@
+title: Transient compensation voltage estimation for feedforward sinusoidal brushless motor control
+
+abstract: 
+A method for controlling a voltage mode controlled electric machine comprising: receiving a torque value representative of a desired torque; obtaining a speed value indicative of a rotational velocity of the electric machine; acquiring a phase advance value indicative of a desired phase advance angle; generating a voltage command responsive to the torque value, the position value; the generating is responsive to the torque value, the speed value, and the phase advance value.

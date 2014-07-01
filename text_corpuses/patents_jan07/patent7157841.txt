@@ -1,0 +1,4 @@
+title: Electron tube having linear damper
+
+abstract: 
+An electron tube includes a vessel, a primary linear member installed in the vessel, an electrode disposed in the vessel, a first auxiliary linear member and a second auxiliary linear member disposed at different heights to interpose the primary linear member therebetween, and a plurality of fixing members. The fixing members are formed at a single substrate for constituting a part of the vessel, for fixing end portions of the first auxiliary and the second auxiliary linear member thereto.

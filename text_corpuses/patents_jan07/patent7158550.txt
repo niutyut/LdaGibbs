@@ -1,0 +1,4 @@
+title: Optical element module package and method for manufacturing the same
+
+abstract: 
+An optical element module package with a TO-can structure is disclosed. The module includes a laser diode for projecting optical signals and a photo diode for monitoring the optical signals projected from the laser diode. The package includes a stem having a first through-hole formed in a long-hole shape parallel to the diametrical direction of the stem, the first through-hole extending through the stem from one side to the other; and a plurality of leads arranged in a row through the first through-hole. The first through-hole is filled with a sealant of a glass material so that the stem and the leads are fixed.

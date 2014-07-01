@@ -1,0 +1,4 @@
+title: Quick-release connector structure for an air tank
+
+abstract: 
+A quick-release connector structure for an air tank includes a connector body incorporated with an air tank and a seat block. The seat block is secured to the air tank and comprises a valve having a post extending forwardly. The valve is acting as a switch to turn the air tank on and off. The connector body comprises a first passage and a second passage. The first passage comprises an air release hole and a through hole. A thimble is disposed in the first passage. A quick-release wrench is provided in a recess disposed on the connector body. The quick-release wrench corresponds to the through hole and is secured by a fastener. By turning the quick-release wrench, the high-pressure air remaining in the pipe is released.

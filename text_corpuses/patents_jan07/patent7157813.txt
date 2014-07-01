@@ -1,0 +1,4 @@
+title: Method and apparatus for mode selection for high voltage integrated circuits
+
+abstract: 
+A method is disclosed to add functionality to a terminal of a high voltage integrated circuit without the penalty of additional high voltage circuitry. The benefit is that alternative modes of operation can be selected for testing, trimming parameters of the integrated circuit, or any other purpose without the cost of an additional terminal. In one embodiment, ordinary low voltage circuitry monitors the voltage on the terminal that normally is exposed to high voltage. The configuration of a simple voltage detector and an ordinary latch allows easy entry into the test and trimming mode when the integrated circuit is not in the intended application, but prohibits entry into the test and trimming mode when the integrated circuit operates in the intended application.

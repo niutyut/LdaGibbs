@@ -1,0 +1,4 @@
+title: Printed circuit connector assembly
+
+abstract: 
+A connector assembly includes a connector portion and a frame. The connector portion includes a connector body, a shield member, and a plurality of signal contacts. The connector body is configured for receiving a plurality of cables. The conductive shield member is attached to the connector body and is configured for connection to ground conductors of the plurality of cables. The plurality of signal contacts each have a terminal end configured for connection to a signal conductor of a corresponding cable. The frame is configured for mounting on a printed circuit, and includes at least one conductive portion configured for connection to a ground of the printed circuit. The frame is configured to direct the connector portion into a receiving space at an oblique insertion angle with respect to the printed circuit.

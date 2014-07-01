@@ -1,0 +1,4 @@
+title: Image forming apparatus to which attachment unit can be connected
+
+abstract: 
+A plurality of sheet feed units , . . . have the same circuit structure with each other. One ends of sensors  through  which detect whether there is a sheet and the size of the sheet are connected in parallel with sensors which are disposed to other units via communication lines, and also with input ports of a CPU  of a main printer section . On the other hand, the other ends of the sensors are connected with a transistor which is disposed to the main printer section . For instance, as the CPU  switches a port SELL to the H level, the transistor turns on and voltages at the input ports of the CPU  change in accordance with the states of the sensors  through , i.e., the state of sheet feed unit 

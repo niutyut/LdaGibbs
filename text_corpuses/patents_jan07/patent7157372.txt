@@ -1,0 +1,4 @@
+title: Coaxial through chip connection
+
+abstract: 
+A method performed on a wafer having multiple chips, each including a doped semiconductor and substrate, involves etching an annulus trench partially into the substrate, metalizing the annulus trench with a metal, etching a via trench within the periphery of the annulus trench, making a length of the via trench electrically conductive, and thinning the substrate to expose the metal and the electrically conductive material.

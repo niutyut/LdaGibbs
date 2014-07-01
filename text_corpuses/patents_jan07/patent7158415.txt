@@ -1,0 +1,4 @@
+title: System for performing fast testing during flash reference cell setting
+
+abstract: 
+An embedded circuit in a memory device is used in place of an external test device to perform time-consuming tasks such as voltage verification during the setting of reference cells. An external test device programs at least one reference cell to a predetermined value. The embedded circuit uses the cell programmed by the external device as a comparative reference to program additional reference cells.

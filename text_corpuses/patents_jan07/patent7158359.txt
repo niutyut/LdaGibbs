@@ -1,0 +1,4 @@
+title: Circuit configuration having a semiconductor switch and a protection circuit
+
+abstract: 
+A circuit configuration has a first semiconductor switch and a first protection circuit. The protection circuit has a second semiconductor switch whose load path is connected between a control terminal and a load path terminal of the first semiconductor switch. The second semiconductor switch is switched on by a comparator circuit, in each case for a predefined time period, in dependence on a comparison between a load path voltage and a reference voltage, or between a load path current and a reference current.

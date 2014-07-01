@@ -1,0 +1,4 @@
+title: Self-charging organic electroluminescent display device
+
+abstract: 
+A self-charging organic electroluminescent display is disclosed. A solar cell and an organic electroluminescent device are installed on a same substrate or different substrates. Using the photoelectric conversion property of the solar cell, the solar energy is converted into electrical energy and stored in a battery. Therefore, the electrical energy converted from the solar energy can be provided for the organic electroluminescent device to emit light, forming a self-charging organic electroluminescent display module.

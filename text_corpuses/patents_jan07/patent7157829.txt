@@ -1,0 +1,4 @@
+title: Axial flux permanent magnet generator/motor
+
+abstract: 
+The present invention is related to a permanent magnet electrical generator/motor comprising a stator, a rotor, a rotational axis and an air gap between stator and rotor so that the magnetic flux across said air gap is essentially oriented along said rotational axis, said rotor preferably comprising a plurality of permanent magnets to form rotor poles, said generator/motor being characterised in that said stator comprises a disc (), and a plurality of magnetic cores (), said cores () being attached to said disc () by attachment means, said cores comprising coils () wound round the legs of said cores. Furthermore, said machine comprises means for distributing the flux across the air gap between rotor and stator. Preferably, this takes on the form of flux distribution plates (), placed between rotor and stator.

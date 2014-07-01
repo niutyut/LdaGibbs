@@ -1,0 +1,4 @@
+title: Homogeneous preparations of IL-28 and IL-29
+
+abstract: 
+Homogeneous preparations of IL-28A, IL-28B, and IL-29 have been produced by mutating one or more of the cysteine residues in the polynucleotide sequences encoding the mature proteins. The cysteine mutant proteins can be shown to either bind to their cognate receptor or exhibit biological activity. One type of biological activity that is shown is an antiviral activity.

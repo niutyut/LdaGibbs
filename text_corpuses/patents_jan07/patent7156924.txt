@@ -1,0 +1,4 @@
+title: System and method for heating and cooling wafer at accelerated rates
+
+abstract: 
+A highly dynamic heating and/or chilling chamber for processing semiconductor wafers. The chamber has uniform heat and gas flow distribution in order to minimize the temperature gradient at different points of the wafer.

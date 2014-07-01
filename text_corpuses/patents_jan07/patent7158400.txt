@@ -1,0 +1,4 @@
+title: Method of operating dynamic random access memory
+
+abstract: 
+A method of operating a dynamic random access memory (DRAM) using a bit line and a bit line bar is disclosed. The DRAM stores data by using a charge storage device, which is coupled to the bit line via a switch device. A voltage drop occurs when the switch device is turned on. The method programs the charge storage device with a first voltage or a zero voltage in response to a power voltage reduction due to the voltage drop. For accessing the data, the bit line and the bit line bar are charged to the power voltage, the switch device is turned on and the data stored in the charge storage device is determined according to a voltage difference between the bit line and the bit line bar.

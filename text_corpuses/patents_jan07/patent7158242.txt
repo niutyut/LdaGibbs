@@ -1,0 +1,5 @@
+title: Method to determine the volume of small, spherical moving objects
+
+abstract: 
+The invention relates to a method to determine the volume of small, spherical moving objects in which the objects move through the optical path of a photo electric sensor that comprises at least one light beam transmitter and one light beam receiver, and the change in the light intensity at the light beam receiver caused by objects passing through the optical path is registered and converted into an electrical measurement signal by means of an evaluation unit.
+The invention is distinguished by the fact that before a measurement process, the amplitude of the electric measurement signal is calibrated to a previously determined average standard volume of the objects and during the measurement process, the volume of each measured object is determined using the change in amplitude of the measurement signal.

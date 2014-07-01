@@ -1,0 +1,4 @@
+title: Monitoring optically powered actuators
+
+abstract: 
+Operation of a power-by-light valve () by a source () along an optical fibre () is monitored by means of optical sensors () from which light passes back along fibre () to monitoring and processing units (). The sensors () include fibre bragg gratings () for detecting differential pressure across diaphragms () and for detecting temperature. At the input end, an optical coupler () supplies sensor signals to units () which can control source () via a signal ().

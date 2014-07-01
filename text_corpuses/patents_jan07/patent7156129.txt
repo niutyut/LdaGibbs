@@ -1,0 +1,4 @@
+title: Transportable container including an internal environment monitor
+
+abstract: 
+A system is disclosed allowing non-invasive, continuous local and remote sensing of the internal environmental characteristics of transportable containers. The system utilizes a variety of sensors inside the container to sense internal environmental conditions.

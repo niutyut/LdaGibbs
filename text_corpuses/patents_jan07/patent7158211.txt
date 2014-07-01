@@ -1,0 +1,4 @@
+title: Lithographic apparatus and device manufacturing method
+
+abstract: 
+A table configured to support a substrate has one or more projections which support the substrate. In an embodiment, the table also has a raised perimeter defining a space which is configured to be filled with a liquid. A pump is configured to remove liquid from the space via outlet passages to an optional inlet. The removal of liquid can create a pressure differential across the substrate which then clamps it in place. Liquid circulated to the inlet may be filtered by a filter to remove contaminants.

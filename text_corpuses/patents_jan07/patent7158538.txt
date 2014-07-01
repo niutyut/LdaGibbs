@@ -1,0 +1,6 @@
+title: Transmitting apparatus, transmitting method, receiving apparatus, receiving method, and transmitting and receiving system
+
+abstract: 
+The present invention provides a transmitting apparatus, a transmitting method, a receiving apparatus, a receiving method, and a transmitting and receiving system that allow the maximum waiting time for the beginning of a content to be shortened in a near-on-demand transmission.
+When the length of a content is denoted by L seconds, the number of channels on which the content is transmitted is denoted by K, and the beginning detecting time of the content on the reception side is denoted by ?, if L satisfies the relation of ?*(2) (where L and K are contents), the beginning detecting time ? can be decreased to L/(2) against L/K as the conventional value.
+In reality, the transmission side divides L by the ratio of (2) and repeatedly transmits each divided portion (section) on a discrete channel. The reception side connects each divided-portion (section) transmitted on each channel through a buffer memory, with which the maximum waiting time of the minimum divided portion (section) placed at the beginning of the content is used.

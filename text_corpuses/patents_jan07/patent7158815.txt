@@ -1,0 +1,4 @@
+title: Apparatus and method for charging a mobile device from another mobile device
+
+abstract: 
+An apparatus and method for allowing a mobile device with a dead battery to be charged by another mobile device with a charged battery. The apparatus and method further provide for the prevention of damage to the batteries due to overcurrents that may occur due to battery voltage differences. Light emitting diodes are also provided to indicate the state of the charging device.

@@ -1,0 +1,4 @@
+title: Semiconductor type two phase locked loop filter
+
+abstract: 
+There is described a semiconductor Type Two phased locked loop filter having a passive capacitor part and a variable active resistor part, the variable active resistor part being integrated with the passive capacitor part. Integrating an active variable resistor will apply the same change to both poles and has no effect on the loop gain. The variable active resistor part is controlled by a resistor regulator circuit operating from a voltage that follows the type two phased locked loop voltage. The resistor regulator circuit is bootstrapped to the phased locked loop voltage using a voltage follower configured op-amp.

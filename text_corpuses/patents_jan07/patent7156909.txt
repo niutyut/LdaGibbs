@@ -1,0 +1,4 @@
+title: Oily ink composition for ink-jet recording, and ink-jet recording method
+
+abstract: 
+An oil based ink composition for ink jet recording containing, as an organic solvent, a mixture of a diethylene glycol compound that is liquid at ordinary temperature under atmospheric pressure and a dipropylene glycol compound that is liquid at ordinary temperature under atmospheric pressure at a diethylene glycol compound to dipropylene glycol compound weight ratio of 20:80 to 80:20, and an ink jet recording method using the oil based ink composition are disclosed. The oil based ink composition for ink jet recording provides high quality images with high gloss, excellent abrasion resistance and water resistance, and freedom from blur or bleeding.

@@ -1,0 +1,4 @@
+title: Semiconductor memory element, semiconductor memory arrangement, method for fabricating a semiconductor memory element and method for operating a semiconductor memory element
+
+abstract: 
+A semiconductor memory element has a substrate, in which a source region and a drain region are formed, a floating gate electrically insulated from the substrate, and a tunnel barrier arrangement, via which charging or discharging of the floating gate can be performed. It is possible to alter the conductivity of a channel between source and drain regions by charging or discharging the floating gate. A source line is electrically conductively connected to the source region and controls the charge transmission of the tunnel barrier arrangement.

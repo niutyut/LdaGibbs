@@ -1,0 +1,4 @@
+title: Valve unit for filling machines
+
+abstract: 
+The present invention relates to a valve unit for container filling machines, particularly for bottle fillers. More particularly, the present invention relates to a valve unit (), particularly for machines for filling containers (), comprising a hollow body () in which a plug () is slidably housed and a guide means () for the said plug (), a passage () being formed in the said hollow () for a fluid () for filling the said container (), characterized in that the said passage () for the said filling fluid () is separated from the said guide means () and from the said plug () by an isolating and sealing membrane (), the said membrane being open at the bottom in such a way as to allow a tip () of the to protrude downwards.

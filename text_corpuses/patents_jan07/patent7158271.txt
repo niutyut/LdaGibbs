@@ -1,0 +1,4 @@
+title: Image processing apparatus
+
+abstract: 
+R, G and B signals read by a 4-line color CCD sensor are converted into C, M and Y color signals. A black-and-white signal is generated from a luminance signal read by the 4-line color CCD sensor. Densities of the C, M and Y color signals are converted on the basis of the black-and-white signal.

@@ -1,0 +1,4 @@
+title: Method and apparatus for monitoring the quantity of differential data in a storage system
+
+abstract: 
+Copy-on-write snapshot processing is performed on a storage system in order to produce snapshots of one or more logical volumes in the storage system. The write I/O operations made to the storage system are observed for a certain period of time. Based on the observations an estimate of the size of the storage space required to preserve the snapshot data can be computed. The information can be used to provide sufficient storage space for the snapshot process.

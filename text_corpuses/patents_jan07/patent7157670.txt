@@ -1,0 +1,4 @@
+title: Adhesive system for attaching PTC heater to a wax motor
+
+abstract: 
+Improved adhesion, electrical connection, and thermal connection between an electrical heater and a wax motor element are obtained by using multiple zones of different adhesives optimized for different properties. The location of the zones and the area of the zones may be a controlled to effect a trade off between different properties and to limit the expression of the conductive adhesive.

@@ -1,0 +1,4 @@
+title: Post collision restraints control module
+
+abstract: 
+A restraints control module (RCM) for a vehicle is provided including a memory device. The memory device stores a deployment time of a deployment event. A controller is electrically coupled to the memory device and deploys a restraint in response to a collision signal and stores the deployment time in the memory device. A method of time stamping and indicating a deployment event within an automotive vehicle, having a RCM, is also provided.

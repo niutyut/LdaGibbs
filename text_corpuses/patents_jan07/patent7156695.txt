@@ -1,0 +1,4 @@
+title: Adapter for coaxial cable with interchangeable color bands
+
+abstract: 
+A termination assembly for a coaxial cable is made up of an extension tip which receives the inner conductor pin on the cable, and an adapter having a slotted end surrounds an outer jacket as well as an exposed end of the outer conductor and is compressed into firm engagement with the jacket, all as a preliminary to inserting the assembly into a standard sized connector body and avoid creating impedance which will downgrade the signal passing through the cable into the connector. Color bands are utilized to signify the intended application of the connector to a particular application as well as to represent the cable size for which the connector body is designed.

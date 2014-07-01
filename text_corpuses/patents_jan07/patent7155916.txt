@@ -1,0 +1,4 @@
+title: Supply unit cooling
+
+abstract: 
+A feed gas supply unit for a fuel cell system uses a feed gas supply and/or cooling fluid passages to cool the control unit, bearings, and motor of the feed gas supply device.

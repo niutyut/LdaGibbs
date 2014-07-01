@@ -1,0 +1,4 @@
+title: Using supercritical fluids to clean lenses and monitor defects
+
+abstract: 
+Disclosed are immersion lithography methods involving irradiating a first photoresist through a lens and an immersion liquid, the immersion liquid contacting the lens and the first photoresist in a first apparatus; contacting the lens with a supercritical fluid in a second apparatus; and irradiating a second photoresist through the lens and an immersion liquid, the immersion liquid contacting the lens and the second photoresist in the first apparatus.

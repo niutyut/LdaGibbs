@@ -1,0 +1,4 @@
+title: Techniques to create low K ILD for BEOL
+
+abstract: 
+One aspect of the present subject matter relates to a method for forming an interlayer dielectric (ILD). In various embodiments of the method, an insulator layer is formed, at least one trench is formed in the insulator layer, and a metal layer is formed in the at least one trench. After the metal layer is formed, voids are formed in the insulator layer. One aspect of the present subject matter relates to an integrated circuit. In various embodiments, the integrated circuit includes an insulator structure having a plurality of voids that have a maximum size, and a metal layer formed in the insulator structure. The maximum size of the voids is larger than the minimum photo dimension of the metal layer such that a maximum-sized void is capable of extending between a first and second metal line in the metal layer. Other aspects are provided herein.

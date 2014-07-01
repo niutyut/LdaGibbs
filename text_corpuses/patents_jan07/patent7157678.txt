@@ -1,0 +1,4 @@
+title: Optical radiation intensity sensor
+
+abstract: 
+A radiation intensity directional sensor includes a housing having an opening covered by a transparent or translucent lens element, an array of sensor elements sensitive to radiation, preferably to electromagnetic radiation in the visible and/or infrared range, and a shading element separating at least two of the sensor elements. The shading element at least partly blocks light from impinging directly on one of two sensing elements separated by the shading element. The array of sensor elements is thereby arranged for producing output signals from the at least two separated sensor elements having different amplitudes whereby the difference in amplitude is used for estimating the position of a light source in relation to the sensor housing.

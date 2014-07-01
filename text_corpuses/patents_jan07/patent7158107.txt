@@ -1,0 +1,4 @@
+title: Display device for displaying video data
+
+abstract: 
+The present invention includes: a liquid crystal panel  on which is formed a matrix of a plurality of image elements; a correction circuit  that receives a video data gradation signal input, generates a correction signal for correcting luminance using a relationship defined by the gradation level from an input gradation for an (N?1)-th frame and the gradation level from an input gradation for an N-th frame, and corrects the input gradation signal for the N-th frame using the correction signal; a data driver  generating a write potential based on the corrected input gradation signal for the N-th frame and applies the potential to an image element; and a scan driver selecting an image element to which the write potential is applied.

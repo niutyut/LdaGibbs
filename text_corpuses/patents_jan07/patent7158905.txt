@@ -1,0 +1,4 @@
+title: Field replaceable sensor module and methods of use thereof
+
+abstract: 
+A field replaceable sensor module having a housing, that is capable of being ready connected and disconnected to a multipurpose device The housing includes one or more input ports and one or more electtical interface connectors. One or more sensors are operatively connected to the one or more input ports and attached to a surface of the housing. An electrical subsystem capable of receiving one or more signals from the one or more sensors provides one or more digitized output signals. A computer readable memory is also included to store sensor calibration data.

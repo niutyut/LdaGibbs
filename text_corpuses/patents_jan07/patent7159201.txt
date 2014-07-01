@@ -1,0 +1,4 @@
+title: Method and apparatus for cut-point frontier selection and for counter-example generation in formal equivalence verification
+
+abstract: 
+An approach for cut-point frontier selection and/or counter-example generation. Both a lazy and an eager cut-point frontier are identified. A reconvergence (or non-reconvergence) ratio is then computed for each of the frontiers and the one with the smaller (larger) reconvergence (non-reconvergence) ratio is selected as the next cut-point frontier. For another aspect, to generate a counter-example, in response to identifying a difference in output signals for a given cut-point frontier, values of eigenvariables and reconverging primary inputs are used to compute the corresponding values of the non-reconverging primary inputs. These corresponding values are then computed to be compatible with the internal signal values implied by the cut-point frontier selections that were made to expose the difference in the outputs.

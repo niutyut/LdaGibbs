@@ -1,0 +1,4 @@
+title: Molecular detection using an optical waveguide fixed to a cantilever
+
+abstract: 
+The invention relates to devices and methods for detecting a ligand in a liquid, based on deflection of one or more microscopic cantilevers. Each cantilever has an optical waveguide fixed thereto or integral therewith. Deflection of the cantilever is detected by assessing coupling of light between the optical waveguide on the cantilever and an optical waveguide fixed distally thereto.

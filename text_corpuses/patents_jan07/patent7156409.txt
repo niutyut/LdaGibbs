@@ -1,0 +1,4 @@
+title: Collapsible bicycle
+
+abstract: 
+A collapsible bicycle includes a collapsible frame and a retaining device. The collapsible frame can be switched between an extended position and a collapsed position in a longitudinal direction. The wheels of the collapsible bicycle can still roll on the ground when the collapsible frame is in the collapsed position. The retaining device includes a trigger. The trigger can be operated in order to switch the retaining device between a retaining position and a releasing position. In the locking position, the retaining device retains the collapsible frame in the extended position. In the releasing position, the retaining device allows the collapsible frame to be switched to the collapsed position.

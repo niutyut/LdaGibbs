@@ -1,0 +1,4 @@
+title: Doped silica glass articles and methods of forming doped silica glass boules and articles
+
+abstract: 
+The present invention provides doped titania-doped silica glass articles having low thermal expansions and low variations in thermal expansion. According to one embodiment of the invention, a titania-doped silica glass article has a titania content of between about 5 wt % and about 9 wt %; a coefficient of thermal expansion of between about ?30 ppb/? C. and about +30 ppb/? C. at a temperature between 15? C. and 30? C.; and a variation in coefficient of thermal expansion of less than about 5 ppb/? C. at a temperature between 15? C. and 30? C.

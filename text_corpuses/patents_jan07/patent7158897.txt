@@ -1,0 +1,4 @@
+title: Integrated circuitry for controlling analysis of a fluid
+
+abstract: 
+Circuitry for processing signals used to determine characteristics of a fluid under-test is provided. The circuitry includes a compensation device and integrated circuitry for interfacing with a tuning fork that is capable of being in contact with the fluid under-test and the compensation device. The compensation device is configured to differentially process a signal output of the tuning fork, and the differential processing of the compensation device is actively controlled by the integrated circuitry so as to produce a processed signal. The processed signal defines the characteristics of the fluid under-test, and the compensation device includes capacitive matching circuitry. Also provided are systems that incorporate the circuitry.

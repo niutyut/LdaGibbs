@@ -1,0 +1,4 @@
+title: Cleaning head for floor cleaning device
+
+abstract: 
+An overload coupling is provided for the limited transfer of torque in a floor cleaning device. A drive element and a driven element are arranged concentrically to one another, thereby forming an intermediate space. The intermediate space accommodates at least one coupling element which transfers torque and can be moved from the intermediate space into an alternative space contrary to the action of an elastic restoring force when an overload occurs. The overload coupling has an overload element which is spring-loaded in the direction of rotation of the coupling element and releases the alternative space for the coupling element when an overload occurs.

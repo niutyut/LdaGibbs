@@ -1,0 +1,4 @@
+title: Scan flip flop, semiconductor device, and production method of semiconductor device
+
+abstract: 
+There is provided a flip flop circuit with a scan structure which is formed by an input section of a dynamic circuit and an output section of a static circuit wherein data is taken in within an interval of a short pulse width as compared with a clock cycle. In the dynamic circuit of the input section, the number of serially-connected MOS transistors to which a data signal is input is smaller than the number of serially-connected MOS transistors to which a test input signal is input. With this structure, the speed of operation is increased at the time of data storage for a data signal input, and the number of MOS transistors is reduced.

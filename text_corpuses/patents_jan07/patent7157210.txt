@@ -1,0 +1,4 @@
+title: Plate-making method, plate-making apparatus used in such plate-making method, and image recording material
+
+abstract: 
+A plate-making method is capable of recording a sharp image on a photosensitive plate, and is applicable to a process operation executed in a light room, while adverse influences caused by laser flares can be hardly received. Ultra-short pulse laser light emitted from a Ti:AlOlaser light source is modulated by an AOM (acousto-optic modulating element). The modulated laser light is focused by a collective lens onto a high-sensitive photopolymer layer of a photosensitive plate-making material. The focused ultra-short pulse laser light may cause a photopolymerization reaction in a laser-light-irradiated portion of the high-sensitive photopolymer layer by way of a multiple photon absorption phenomenon, so as to form a hardened portion.

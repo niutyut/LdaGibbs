@@ -1,0 +1,4 @@
+title: Bit line sense amplifier control circuit
+
+abstract: 
+A bit line sense amplifier control circuit includes a driving signal generating unit adapted and configured to generate first through third driving signals in response to a bit line sense amplifier enable signal and an overdrive enable signal for setting an overdrive period, and to disable a first driving signal which is enabled for an overdrive period in response to a refresh signal which is enabled at a refresh mode, and a bit line sense amplifier control signal generating unit adapted and configured to generate first and second bit line sense amplifier control signals in response to the first through third driving signals. As a result, an overdrive pulse is not generated at a refresh mode to remove an overdriving period, thereby reducing current consumption at a refresh mode.

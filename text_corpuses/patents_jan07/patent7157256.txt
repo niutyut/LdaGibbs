@@ -1,0 +1,4 @@
+title: Method for producing para-hydroxystyrene and other multifunctional aromatic compounds using two-phase extractive fermentation
+
+abstract: 
+Methods are provided for the production and recovery of multifunctional aromatic compounds from a fermentation medium. Preferred multifunctional aromatic compounds include para-hydroxycinnamic acid (pHCA), cinnamic acid (CA), and para-hydroxystyrene (pHS). The multifunctional aromatic compounds may be produced in a biphasic growth medium comprising a fermentation medium having a specified volume of an extractant. The multifunctional aromatic compounds are extracted into the extractant and recovered by standard means.

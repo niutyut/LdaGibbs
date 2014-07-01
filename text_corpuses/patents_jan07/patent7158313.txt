@@ -1,0 +1,4 @@
+title: Zoom lens
+
+abstract: 
+The present invention provides a miniature zoom lens having a first, a second, a third, a fourth, and a fifth lens group from object side to image side in order. The powers of those lens groups in same order are positive, negative, positive, positive, and positive. The first lens group for receiving light and the third lens group are fixedly positioned. The second lens group for zooming, the fourth lens group for compensating aberration and the fifth lens group for focusing are movably positioned. When the zoom lens is zoomed from wide status to telephoto status, the second lens group is moved toward the third lens group, the fourth lens group is moved close to the third lens group. The sensitivity of the zoom lens is determined by second lens group to simplify the adjusting and proofing procedures of other lens groups.

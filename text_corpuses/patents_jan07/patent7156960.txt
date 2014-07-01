@@ -1,0 +1,4 @@
+title: Method and device for continuous cold plasma deposition of metal coatings
+
+abstract: 
+A method for the deposition of a metal layer on a substrate () uses a cold plasma inside an enclosure () heated to avoid the formation of a metal deposit at its surface. The enclosure has an inlet () and an outlet () for the substrate with a source of metal vapor between them, made up of an electrode to form a plasma () with the substrate or a separate electrically conducting element as a counter-electrode. The deposition metal is introduced in the liquid state in a retention tank () and is maintained as a liquid at an essentially constant level during the formation of the metal layer on the substrate. An Independent claim is included for the device used to put this method of coating a substrate into service.

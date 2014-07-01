@@ -1,0 +1,4 @@
+title: Contained micro-particles for use in well bore operations
+
+abstract: 
+The present invention relates to well bore operations, and more particularly, to contained micro-particles, and methods for using such contained micro-particles in cementing operations. An exemplary method of facilitating the use of micro-particles in a well bore fluid comprises the steps of providing contained micro-particles, and adding the contained micro-particles to the well bore fluid. In an exemplary embodiment, the well bore fluids of the present invention comprise encapsulated micro-particles. In another exemplary embodiment, the well bore fluids of the present invention comprise pelletized micro-particles.

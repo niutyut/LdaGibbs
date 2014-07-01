@@ -1,0 +1,4 @@
+title: Method and apparatus for locating position of a mobile receiver
+
+abstract: 
+A method and apparatus for locating position of a mobile receiver is described. In one example, sets of satellite measurements are determined with respect to a plurality of satellites over a period of time. A determination is made as to whether the mobile receiver is in a stationary condition over the period of time. A position of the mobile receiver is then computed using the sets of satellite measurements in response to detection of the stationary condition.

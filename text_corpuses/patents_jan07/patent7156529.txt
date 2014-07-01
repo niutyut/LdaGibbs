@@ -1,0 +1,4 @@
+title: Contrast enhancement filter and display provided with such filter
+
+abstract: 
+A contrast enhancement filter for a display device includes a plurality of connected sloping surfaces acting as a plurality of beam splitters, and a plurality of light absorbers, each arranged between adjacent beam splitters, so that light incident into an area on the side of the absorber is partly reflected by the beam splitters into adjacent absorbers. Light entering from the opposite side is partially reflected towards the absorbing walls located on either side of the pointed shape. The remaining light is transmitted through the filter.

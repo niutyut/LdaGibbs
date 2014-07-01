@@ -1,0 +1,4 @@
+title: Staphylococcus aureus exopolysaccharide and process
+
+abstract: 
+A high molecular weight polysaccharide intracellular adhesin (SAE) antigen having the general structure of poly-1,6,?-2-amidoglucopyranoside, which is variable substituted with N-acetyl and O-succinyl substituents is described. Also, a method is given for isolating this antigen from . The SAE can be used in a vaccine, either alone, conjugated to an immunogenic protein, and/or with an immunogenic adjuvant.

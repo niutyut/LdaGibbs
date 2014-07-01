@@ -1,0 +1,4 @@
+title: Lighting fixture including two reflectors
+
+abstract: 
+A luminaire optical system () for an indirect light source including a tubular lamp () having a longitudinal axis (), a first reflector assembly () extending parallel to and radially spaced directly above said lamp and a second reflector assembly () parallel to and radially spaced from said lamp directly below the lamp. Each of the assemblies includes symmetrical reflectors () joining in an apex () directly below and above the lamp. The bottom reflector () further may include two segments () on each reflecting surface, the segments marking a sharp change in reflecting angle. Most such luminaires will typically also include perforations to maintain useful light profiles. The luminaire according to the present configuration increases the lighting efficiency by minimising any reflections passing back into the tube and ensuring an even spread of light throughout an area being illuminated.

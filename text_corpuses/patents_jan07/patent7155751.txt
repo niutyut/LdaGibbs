@@ -1,0 +1,4 @@
+title: Toilet tank valve
+
+abstract: 
+A hollow, open-ended closure for the tank valve which enables a large cross-section area of discharge port to be used, and which can pass bowl-refill water during the flushing sequence. It is especially useful as part of a valve in which it can be tilted to open the tank valve with reduced physical effort.

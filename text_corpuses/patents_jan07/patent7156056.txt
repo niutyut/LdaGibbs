@@ -1,0 +1,4 @@
+title: Two-cycle, opposed-piston internal combustion engine
+
+abstract: 
+In a two-cycle, opposed-piston internal combustion engine with optimized cooling and no engine block, the opposed pistons are coupled to a pair of crankshafts by connecting rods that are subject to substantially tensile forces acting between the pistons and the crankshafts.

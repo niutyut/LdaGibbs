@@ -1,0 +1,4 @@
+title: Buckle device and method for assembling the same
+
+abstract: 
+A buckle device includes a buckle body that includes a bottom plate and a pair of side walls with a tongue plate being inserted and retained between the side walls, and a release button that includes an operation portion that is push-operated along the insertion direction to release the retention of the tongue plate. Elongated holes along the insertion direction of the tongue plate are formed in the pair of side walls of the buckle body. The release button also includes a pair of arm portions that extend in the insertion direction from both width-direction ends of the operation portion, a pair of extension portions that have a predetermined elasticity and extend from width-direction ends of the pair of arm portions toward the bottom plate, and pawl portions that protrude from ends of the pair of extension portions toward the side walls and movably fit into the elongated holes.

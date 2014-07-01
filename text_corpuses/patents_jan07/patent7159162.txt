@@ -1,0 +1,4 @@
+title: Semi-reliable ARQ method and device thereof
+
+abstract: 
+A method and device for handling received data units at the receiving peer of a predetermined data unit exchange protocol at a given layer is described, where said method and device carry out a limited ARQ mechanism for received data units, and are characterised by providing the possibility of storing corrupted copies of received data units, and providing a data unit to an upward release handler on the basis of one or more stored corrupted copies of a given data unit after a triggering event terminating the operation of the retransmission request procedure for the given data unit.

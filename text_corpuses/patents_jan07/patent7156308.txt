@@ -1,0 +1,4 @@
+title: Double-sided bar code doubling as a single bar code
+
+abstract: 
+A bar code including a first linear bar code portion, and portions with two-dimensional bar codes at the ends of the first bar code portion. A separation through the first portion. The two-dimensional bar code at each end is inverted from the other end, and in an embodiment is also rotated 180?, which enable the two-dimensional bar codes on separated parts of the single bar code to be identical.

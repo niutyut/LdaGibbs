@@ -1,0 +1,4 @@
+title: Golf ball with improved flight performance
+
+abstract: 
+A golf ball with aerodynamic coefficient magnitude and aerodynamic force angle, resulting in improved flight performance, such as increased carry and flight consistency regardless of ball orientation. In particular, the present invention is directed to a golf ball having increased flight distance as defined by a set of aerodynamic requirements at certain spin ratios and Reynolds Numbers, and more particularly the golf ball has a low lift coefficient at a high Reynolds Number.

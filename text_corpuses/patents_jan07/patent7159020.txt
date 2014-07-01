@@ -1,0 +1,4 @@
+title: Priority determination apparatus, priority determination method, and priority determination program
+
+abstract: 
+A communication control unit in an electronic apparatus judges the priorities and the types of connected other electronic apparatus or apparatuses by communicating with the other electronic apparatus or apparatuses in response to the change in the connected state with the other electronic apparatus or apparatuses, and feeds to a speech recognition operation inhibition setting unit information as to whether or not the electronic apparatus itself has the highest priority. The speech recognition operation inhibition setting unit sets the allowance or the inhibition of a speech recognition operation in a speech recognition operation judgment unit on the basis of judgment whether or not the electronic apparatus itself has the highest priority.

@@ -1,0 +1,4 @@
+title: Display auto-locking structure
+
+abstract: 
+A display auto-locking structure includes a base member, an open frame pivoted to the base member and rotatable relative to the base member, a display pivotally mounted within the open frame and rotatable relative to the open frame, and a spring-supported cam rod mounted inside the open frame for locking the display to the open frame after the display has been set in one of two reversed positions within the open frame and for enabling the display to be rotated relative to the open frame after the open frame has been rotated relative to the base frame to a predetermined angle.

@@ -1,0 +1,4 @@
+title: Method and apparatus for separating composite
+
+abstract: 
+A first rigid body has a horizontal surface on which a composite is to be placed and a non-horizontal surface on which the composite is not to be placed, with the horizontal surface and the non-horizontal surface forming a continuous horizontal linear edge. The continuous horizontal linear edge has a first portion, which is an edge of the non-horizontal surface, and a second portion, which is an edge of the horizontal surface, and the composite has a first region provided with a first member and a second region provided without the first member. While the composite is placed so that the first portion corresponds to the first region or the first region and a part of the second region and that the second portion corresponds to the remaining second region, the composite is separated by moving down a second rigid body from above the substrate.

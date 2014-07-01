@@ -1,0 +1,4 @@
+title: Non-volatile memory device capable of changing increment of program voltage to mode of operation
+
+abstract: 
+A non-volatile memory device includes a word line voltage generator circuit for generating a word line voltage to be supplied to a selected row in response to step control signals, and a program controller for generating the step control signals so that an increment of the word line voltage is varied according to the mode of operation, namely, a test mode or normal mode. Thus test time can be shortened.

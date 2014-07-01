@@ -1,0 +1,4 @@
+title: Electronic circuit unit and method of fabricating the same
+
+abstract: 
+An electronic circuit unit contains electrodes to which bumps of a semiconductor chip are adhered. The electrodes are arranged on an upper surface of a circuit board. Land units to which chip parts is soldered are arranged on a rear surface of the circuit board. such that an insulating plate which is on the rear surface of the circuit board is supported by a supporting jig during a mounting process of the semiconductor chip, and the circuit board is not tilted. Therefore, an electronic circuit unit ensuring that the semiconductor chip is mounted with a reliable mounting capability can be obtained.

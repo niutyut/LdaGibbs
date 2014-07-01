@@ -1,0 +1,4 @@
+title: Attaching structure for a seatbelt apparatus
+
+abstract: 
+An attaching structure for a seatbelt apparatus of a vehicle equipped with a seat, which is supported by a vehicle body through a weight sensor. The seatbelt apparatus includes a buckle, a seatbelt, and a tang. The buckle is fixed to one side of the seat of the vehicle. One end of the seatbelt is fixed at the vehicle so that it allows a length adjustment of the seatbelt, and the other end of the seatbelt is connected to an anchor that is fixed to the other side of the seat. The tang is provided at the seatbelt and is engaged with the buckle so as to hold an occupant to the seat. Here, the anchor and the buckle are fixed at a position higher than the weight sensor.

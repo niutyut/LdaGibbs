@@ -1,0 +1,4 @@
+title: Double variable reluctance resolver for a multiple speed resolver system
+
+abstract: 
+A double variable reluctance resolver in which a redundancy is given to a variable reluctance resolver to improve reliability. The double variable reluctance resolver also functions as a multiple speed resolver system.

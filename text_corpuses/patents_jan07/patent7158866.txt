@@ -1,0 +1,4 @@
+title: Adaptive filter model for motor vehicle sensor signals
+
+abstract: 
+A sensor system for combining first and second sensor signals, and generating a physical parameter values dependent on said sensor signals used in autocalibrating sensors improving the performance and quality of existing sensor signals and virtual sensors realizing new sensors by combining and integrating in adaptive filter models sensor signals representing same or different types of physical parameters.

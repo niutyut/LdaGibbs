@@ -1,0 +1,4 @@
+title: Receivers for controlled frequency signals
+
+abstract: 
+In some embodiments, a receiver includes a first conductor to carry a magnitude encoded controlled frequency signal (CFS) and a second conductor to carry a complementary magnitude encoded controlled frequency signal (CCFS). The receiver further includes circuitry to receive the CFS and CCFS from the first and second conductors and to decode them to produce an output signal. Other embodiments are described and claimed.

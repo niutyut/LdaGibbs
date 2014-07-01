@@ -1,0 +1,4 @@
+title: Bioreactor system having improved temperature control
+
+abstract: 
+A bioreactor system having improved temperature control wherein heat is directly removed from the bioreactor liquid to maintain temperature balance in the bioreactor. The present invention also relates to a method for maintaining a desired temperature range of thermophilic and mesophilic bioreactors wherein ambient air is brought into direct contact with droplets of bioreactor liquid. Heat is transferred from the droplets of bioreactor liquid to the air, which is then evacuated from the bioreactor.

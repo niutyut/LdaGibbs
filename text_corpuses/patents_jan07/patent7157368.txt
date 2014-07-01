@@ -1,0 +1,4 @@
+title: Method of accelerating test of semiconductor device
+
+abstract: 
+Semiconductor elements composing a semiconductor device are formed on a semiconductor substrate. Wirings composed of copper or an alloy mainly composed of copper are formed in wiring layers through interlayer insulation films to connect the semiconductor elements to each other. When the wirings are formed, a temperature of the wirings is held in a first temperature zone covering ?40? C. of a temperature at which a stress migration is most accelerated.

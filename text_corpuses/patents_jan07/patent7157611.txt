@@ -1,0 +1,4 @@
+title: Pyrazinoporphyrazines as markers for liquid hydrocarbons
+
+abstract: 
+A method for marking a liquid petroleum hydrocarbon. The method comprises adding to the liquid petroleum hydrocarbon a pyrazinoporphyrazine dye having an absorption maximum from 700 nm to 900 nm.

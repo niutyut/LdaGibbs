@@ -1,0 +1,4 @@
+title: System and method for detecting biological and chemical material
+
+abstract: 
+A system and method are provided for detecting biological and chemical material. To measure biological materials such as genes easily at low costs, the device for implementing a small-sized, high sensitive, economical measurement apparatus is provided. Probes appropriate for target biological materials are fixed on a chip, on which a sensor, identification number, and radio communication function are implemented, the captured targets are detected by the sensors, and the result of sensing are transferred to an external control unit by the radio communication function. The small-sized, high sensitivity measurement apparatus for detecting biological and chemical materials such as genes and measuring physical and chemical amounts such as temperature, pressure, pH, and the like can be implemented.

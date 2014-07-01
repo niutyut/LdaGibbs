@@ -1,0 +1,4 @@
+title: Method for controlling the tilt position of a marine propulsion device
+
+abstract: 
+The calibration procedure allows an upward maximum limit of tilt to be automatically determined and stored as an operator rotates a marine propulsion device relative to a marine vessel with a particular indication present. That indication can be a grounded circuit point which informs a microprocessor that at calibration procedure is occurring in relation to an upward trim limit. When the ground wire is removed or disconnected from the circuit point, the microprocessor knows that the calibration process is complete. During the rotation of the outboard motor or marine propulsion device in an upward direction, both the angular position of the outboard motor and the direction of change of a signal from a trim sensor are stored.

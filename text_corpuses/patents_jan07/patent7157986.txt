@@ -1,0 +1,4 @@
+title: Three-dimensional balun
+
+abstract: 
+A three-dimensional balun is disclosed by laminating alternate layers of conductor and dielectric substrate on top of each other to create a microwave circuit. The laminated layers are constructed in a transmission line configuration, corresponding to an equivalent circuit, wherein the first and third transmission lines, the fifth and seventh transmission lines, the second and fourth transmission lines, and the sixth and eighth transmission lines are pairs of coupling lines; one end of the sixth transmission line is defined as an input; one end of the seventh transmission line is defined as a first output; one end of the eighth transmission line is defined as a second output. When signals close to the center frequency of the operating balun are input from the unbalanced side, the signals are converted and then output through the first and second outputs having the same amplitude and producing 180-degree phase shifts.

@@ -1,0 +1,4 @@
+title: Text analysis technique
+
+abstract: 
+One embodiment of the present invention includes means determining a concept representation for a set of text documents based on partial order analysis and modifying this representation if it is determined to be unidentifiable. Furthermore, the embodiment includes means for labeling the representation, mapping documents to it to provide a corresponding document representation, generating a number of document signatures each of a different type, and performing several data processing applications each with a different one of the document signatures of differing types.

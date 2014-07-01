@@ -1,0 +1,4 @@
+title: Surface mount package and method for forming multi-chip microsensor device
+
+abstract: 
+A surface mount package for a multi-chip device has a leadframe formed with first and second die pads and readouts from the respective die pads. An environmentally responsive sensor chip is secured to the first die pad and an environmentally isolated chip is secured to the second die pad. The chips are electrically coupled through the lead frame. A body formed with an over molded portion encases the isolated chip and an open molded portion formed with a recess receives the environmentally sensitive chip. An apertured cover is secured in the recess to form a protective covering over the sensor chip and for allowing communication of the sensor chip externally of the package.

@@ -1,0 +1,4 @@
+title: Portable terminal
+
+abstract: 
+This portable terminal comprises, a first panel at least having a display, a second panel at least having a keyboard and a hinge unit attached on both the first panel and the second panel, wherein the hinge unit comprises both rotating mechanism around a center axis of said hinge unit and sliding mechanism in the longitudinal direction along the center axis of the hinge unit. The panels are electrically connected by interconnection scheme having both sliding contacts and rotating contacts. The scheme saving net numbers of keys is realized by the introduction of a convertible key concept corresponding to state of either that the portable terminal is used in a slid form as a wireless voice telephone or that it is used in a rotated form as a terminal making text data like a personal computer.

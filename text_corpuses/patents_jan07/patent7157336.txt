@@ -1,0 +1,4 @@
+title: Method of manufacturing semiconductor device
+
+abstract: 
+The method of manufacturing a semiconductor device comprises the steps of: forming a gate electrode on a semiconductor substrate through a gate insulated film; forming source/drain regions to be adjacent to the gate electrode forming an Al wiring through an interlayer insulating film covering the gate electrode; and implanting impurity ions into a surface of the semiconductor substrate using as a mask the Al wiring and a photoresist formed thereon, thereby writing information into each of elements constituting a mask ROM and changing an outputting manner at an output port.

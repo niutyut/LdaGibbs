@@ -1,0 +1,4 @@
+title: Map data transmitting method, map data transmitting apparatus, information device and map data transmitting system
+
+abstract: 
+A map data transmitting method for transmitting a map through communication comprises steps of setting a specific route, specifying map data contained in a slicing range within a predetermined distance from the route having been set based upon map data that include road data and background data, newly creating new polygon data if an original polygon data contained in the background data included in the specified map data is partially contained in the slicing range and another portion of the polygon is outside the slicing range, by removing polygon data corresponding to the portion outside the slicing range from the original polygon data and transmitting a road map specified in conformance to the map data and background data containing the new polygon data.

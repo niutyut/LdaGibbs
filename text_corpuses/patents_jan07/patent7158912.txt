@@ -1,0 +1,4 @@
+title: Mobile GPS systems for providing location mapping and/or performance data
+
+abstract: 
+A location measurement system comprises: a GPS receiver for attachment to a person and for determining earth location of the person; a display for attachment to the person; memory for storing map data; a processor configured to process earth location and the map data to instruct display the person's current location with a map on the display. Other GPS systems for example determine speed with or without map capability or altimeters.

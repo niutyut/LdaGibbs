@@ -1,0 +1,4 @@
+title: Small vibration motor and method of manufacturing the same
+
+abstract: 
+A driver IC and passive parts, which convert a direct current voltage into a three-phase voltage, and an FP coil for cyclically generating a magnetic field through the driver IC are mounted on a flexible substrate, which constitutes a small vibration motor. The driver IC is a so-called bare chip in which a circuit section is exposed and is not molded with resin and the like. Magnets and an unbalance weight are installed on a yoke having a shaft. The FP coil and the magnet are placed so as to face each other. A cover is caulked to fixed to a bottom plate. Thus, the vibration motor can be miniaturized and thinned. Moreover, the vibration motor can be automatically manufactured, and installing them to an electronic apparatus can be automatically performed.

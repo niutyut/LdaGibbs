@@ -1,0 +1,4 @@
+title: Combination nickel foam expanded nickel screen electrical connection supports for solid oxide fuel cells
+
+abstract: 
+A solid oxide fuel assembly is made, wherein rows () of fuel cells (), each having an outer interconnection () and an outer electrode (), are disposed next to each other with corrugated, electrically conducting expanded metal mesh member () between each row of cells, the corrugated mesh () having top crown portions and bottom portions, where the top crown portion () have a top bonded open cell nickel foam () which contacts outer interconnections () of the fuel cells, said mesh and nickel foam electrically connecting each row of fuel cells, and where there are no more metal felt connections between any fuel cells.

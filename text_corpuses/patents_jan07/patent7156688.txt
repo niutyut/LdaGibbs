@@ -1,0 +1,4 @@
+title: Insulation displacement connector
+
+abstract: 
+An IDT connector () is provided which includes: a base housing () having a terminal () to which a wire () is press-fit; a cover housing () mounted to the base housing () and having a wire insertion hole () into which the wire () is inserted; a wire holder () which is provided to the cover housing, for pressing the wire that is to be press-fitted to the terminal; and an IDT contact slot extending orthogonal to the wire insertion hole and formed adjacent to the wire holder with respect to the longitudinal direction of the wire insertion hole.

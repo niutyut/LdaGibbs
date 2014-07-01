@@ -1,0 +1,4 @@
+title: Surface mount package for a high power light emitting diode
+
+abstract: 
+A package for a light emitting diode (LED) including an electrically insulating substrate layer, a non-conductive layer disposed on the electrically insulating substrate layer, and a reflector layer disposed on the non-conductive layer. The electrically insulating layer includes metallized portions for coupling a light emitting diode thereto.

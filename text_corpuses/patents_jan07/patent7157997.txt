@@ -1,0 +1,4 @@
+title: Electromagnetic contactor
+
+abstract: 
+An electromagnetic contactor in which neighboring main contact points have an interphase barrier between them. A concave section is provided at the inner wall face of the interphase barrier at the middle of the emission path of the arc gas that is generated from the opening and closing of a main contact point. The concave section allows the arc gas passing from an arc generation point to an emission window to be accumulated in the concave section, which acts as a container, thus reducing the rate at which the arc gas is emitted. As a result, the amount of heat dispersed from the arc gas to the interphase barrier due to heat transfer is increased, thus reducing the temperature of the arc gas flowing from the emission window, which suppresses damage to the wiring cable that would otherwise occur due to excessive heating of the main terminal onto which the arc gas flows, and fusion of the interphase barrier.

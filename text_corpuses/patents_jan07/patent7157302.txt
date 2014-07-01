@@ -1,0 +1,4 @@
+title: Imaging device and method of manufacture
+
+abstract: 
+An imaging chip is packaged in transparent injection molded material. The chip may have photosensitive elements arranged in a two-dimensional array on semiconductor material. Each element corresponds to a pixel of an image. The package may be formed of epoxy resin. In one aspect of the invention, the transparent plastic material provides a color filter. Second and third packages with complementary color filters may be used to provide signals for a color imaging system. In another aspect of the invention, a lens is integrated into the plastic package. In another aspect of the invention, a semiconductor chip is applied to a pre-formed plastic package by bump bonding.

@@ -1,0 +1,4 @@
+title: Therapeutically useful synthetic oligonucleotides
+
+abstract: 
+The present invention provides a composition and method comprising a 2?20 base 3?-OH, 5?-OH synthetic oligonucleotide (sequence) selected from the group consisting of (GT), (TG), a(GT), a(TG), (GT)b, (TG)b, a(GT)b, a(TG)b, wherein x and y is an integer between 1 and 7, n is an integer between 1 and 12, a and b are one or more As, Cs, Gs or Ts and wherein the sequence induces a response selected from the group consisting of induction of cell cycle arrest, inhibition of proliferation, activation of caspases and induction of apoptosis in cancer cells and production of cytokines by immune system cells.

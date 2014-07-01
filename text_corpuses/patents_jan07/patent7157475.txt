@@ -1,0 +1,5 @@
+title: Diamide invertebrate pest control agents
+
+abstract: 
+Compounds of Formula (I), and their N-oxides and suitable slats, are disclosed which are useful as invertebrate pest control agents, wherein A and B are independently O or S; E is C or N; J is a phenyl ring, a naphthyl ring system, a 5- or 6-membered heteroaromatic ring or an aromatic 8-, 9- or 10-membered fused heterobicyclic ring system wherein each ring or ring system is optionally substituted with 1 to 4 R; K is taken together with the two contiguous linking carbon atoms to form a 5- or 6-membered nanoaromatic carbocyclic or heterocyclic ring optionally including one or two ring members selected from the group consisting of C(?O), SO or S(O), each ring optionally substituted with 1 to 4 R; and R, R, R, Rand Rare as defined in the disclosure. Also disclosed are compositions containing the compounds of Formula (I) and a method for controlling an invertebrate pests which involves contacting the pest or its environment with an effective amount of a compound of Formula (I)
+

@@ -1,0 +1,4 @@
+title: Recirculating vertical wind tunnel skydiving simulator
+
+abstract: 
+A vertical wind tunnel flight simulator comprises a flight chamber wherein a flier may experience a freefall simulation. Airflow to support the flier is induced by fans connected above the flight chamber through a duct. A staging area having openings to the flight chamber is adjacent to the flight chamber. One or two return air ducts are used to return air from the fans outlet to the fans inlet. Opposed louvers are included on at least one duct segment thereby regulating the temperature via forcing ambient air into the simulator. The use of many duct segments having diverging walls adds commercial value to the system by lowering the height. Mounting components on the roof and behind walls creates a spectacular pedestrian viewing scene of people in flight.

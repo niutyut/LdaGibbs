@@ -1,0 +1,4 @@
+title: IC card with display panel but without batteries
+
+abstract: 
+An IC card with a display panel but without batteries includes a contact/contactless communication interface, a microprocessor, an EEPROM, a rectifier/voltage regulator, a display driver, a charge-pump () disposed therein, and a display panel disposed thereon. The microprocessor receives the external data, and displays the data on the display panel so that users can look up the external data. The display panel exhibits a double steady-state function having the characteristic that once the data are displayed, no persistent power supply for the display panel is needed, and thus the displayed data will be preserved persistently until the next time the data are updated. In this way, users are not required to use batteries and can avoid being disturbed by the service life of the batteries.

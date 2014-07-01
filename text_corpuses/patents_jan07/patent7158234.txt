@@ -1,0 +1,4 @@
+title: Optical scanning observation apparatus
+
+abstract: 
+Before performing observation with an optical scanning probe using a low-coherence light source and the like, a shutter is inserted in a reference light side optical path to create a state wherein interference light does not occur, in which state a reference member is set to a focal position of a converging optical system such that the output of a light detector is maximal by moving the reference member by a driving device at an observation light optical path side of an optical scanning probe, following which the shutter is opened, and the position of a mirror at the reference light side is moved and set such that the output of the light detecting means is maximal, thereby enabling the optical scanning observation apparatus to be set to a state of suitable optical properties, easily and smoothly.

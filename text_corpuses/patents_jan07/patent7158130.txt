@@ -1,0 +1,4 @@
+title: Method and apparatus for preventing residual image in liquid crystal display
+
+abstract: 
+An adaptive method and apparatus prevents the formation of residual images in a liquid crystal display caused by a discharge of liquid crystal cells upon power-off. When an off-time of a ramp voltage is sensed, a white data signal may be generated. The white data signal is then displayed on a liquid crystal display panel until a power supply for the liquid crystal module is turned off.

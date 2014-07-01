@@ -1,0 +1,4 @@
+title: Fluids chain-of-custody
+
+abstract: 
+A method of assuring the collection of reliable and quality fluid sample includes the steps of acquiring a fluid sample at a point of acquisition, analyzing physical and chemical properties of the fluid sample at the point of acquisition; recording the point of acquisition sample properties in an electronic database archive, analyzing physical and chemical properties of the fluid sample at a location remote from the point of acquisition, recording the remote location sample properties in the archive, validating the fluid sample through comparison of the point of acquisition sample properties and the remote location sample properties and recording the validated sample properties in the archive.

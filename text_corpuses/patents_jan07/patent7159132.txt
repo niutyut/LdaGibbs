@@ -1,0 +1,4 @@
+title: USB device that provides power that is different from power prescribed in the USB standard
+
+abstract: 
+A USB device for performing communications with a second device through a USB interface while supplying electric power to the second device through a power-source supplying line in the USB interface. The USB device includes a communication unit for communicating with the second device, a power source capable of outputting electric power of a voltage being different from a standard power voltage prescribed in the standards of the USB interface. The power source supplies the electric power to the second device through the power-source supplying line. The second device includes a low load unit and a high load unit The power source supplies the electric power having a power voltage higher than the standard power voltage to the high load unit through the power-source supplying line.

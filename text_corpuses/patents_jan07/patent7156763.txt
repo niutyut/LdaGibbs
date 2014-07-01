@@ -1,0 +1,4 @@
+title: Ping pong table with folding protection mechanism
+
+abstract: 
+A ping pong table with folding protection mechanism is disclosed. At least a pair of folding protection mechanisms is installed underneath the table, one on each side. Each folding protection mechanism is composed of at least one guide roller, one steel cable, and one pneumatic cylinder. The two halves of the ping pong table are folded and supported by an under carriage that is pivotally attached onto the underside of the table. The pneumatic cylinder on each side has one end connected to a cross bar under the table, and the other end connected to a steel cable, which then, through guide rollers, is further connected to the bottom beam of the undercarriage. This folding protection mechanism makes the folding/unfolding of the ping pong table easier and more user-friendly, so even one person is able to handle the table set up without difficulty.

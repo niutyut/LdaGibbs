@@ -1,0 +1,4 @@
+title: Operating system upgrades in a trusted operating system environment
+
+abstract: 
+Operating system upgrades in a trusted operating system environment allow a current trusted core of an operating system installed on a computing device to be upgraded to a new trusted core. The new trusted core is allowed to access application data previously securely stored by the current trusted core only if it can be verified that the new trusted core is the new trusted core expected by the current trusted core. In accordance with one implementation, the new trusted core is allowed to access only selected application data previously securely stored by the current trusted core.

@@ -1,0 +1,4 @@
+title: Method and apparatus for parallel decoding of turbo encoded data
+
+abstract: 
+A method and apparatus for parallel decoding of turbo encoded data. The method includes multiple Soft In Soft Out (SISO) modules arranged in parallel such that each module supplies an input to one SISO and takes an input from another SISO data encoded for multiple parallel SISOs is received by a receiver and decoded in the abovementioned parallel configuration.

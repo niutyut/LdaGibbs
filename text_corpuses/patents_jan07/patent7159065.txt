@@ -1,0 +1,4 @@
+title: Method for issuing vendor specific requests for accessing ASIC configuration and descriptor memory while still using a mass storage class driver
+
+abstract: 
+A bridge-chip may interface a Universal Serial Bus to a mass storage device. Communications of the universal serial bus may be examined to determine a command block wrapper (CBW) of a bulk transport protocol and if a configuration command block (CFGCB) of the CBW may include a signature associated with the bridge-chip. A command of the CFGCB might then be performed by the bridge-chip upon determining the signature. This procedure might be used to get or set configuration or descriptor data of the bridge-chip separate from other USB configurations operations.

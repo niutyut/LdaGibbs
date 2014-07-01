@@ -1,0 +1,4 @@
+title: Focus control for optical disk unit
+
+abstract: 
+An optical disc unit  comprises: reflective surface detection means  for detecting a reflective surface; focus control means ( and ) for performing focus control to a reflective surface so that the distance between the focal point of an optical beam applied to an optical disc and the reflective surface is within a predetermined error limit; shift means  for shifting the focal point of the optical beam in a direction perpendicular to the optical disc; and control means  for controlling the focus control means and the shift means.

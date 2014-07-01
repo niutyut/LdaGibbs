@@ -1,0 +1,4 @@
+title: Remote subscription unit for GPS information
+
+abstract: 
+A GPS information service system for providing supplemental GPS correction and signal acquisition information to subscribers. A GPS information server broadcasts GPS aiding information encrypted with subscription keys. A remote GPS subscription unit receives the key enablers for the subscription keys in service activation (SAM) messages for the services for which they have subscribed and then uses the subscription keys to decrypt the GPS aiding information. In order to prevent unauthorized access to the information, unsymmetrical signature generation and authentication algorithms are used for generating and authenticating signatures for the SAM messages.

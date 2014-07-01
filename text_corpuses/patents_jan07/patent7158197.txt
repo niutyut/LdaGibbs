@@ -1,0 +1,4 @@
+title: Reflective type color liquid crystal device and an electronic apparatus using this
+
+abstract: 
+The invention comprises a pair of substrates having electrodes on the opposing inner surfaces and forming a matrix-patterned dot group, liquid crystals sandwiched between said substrates, at least two colors of color filters, at least one polarizing plate, and a reflective plate. Also, of said color filters, at least one color of color filters has a transmissivity of 50% or more for the light of all the wavelengths in the range of 450 nm to 660 nm.

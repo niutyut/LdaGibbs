@@ -1,0 +1,4 @@
+title: Polyhedral puzzle
+
+abstract: 
+A polyhedral puzzle has basic pieces that connect and form polyhedrons. The present invention serves as a puzzle solved by the geometric relationship between the pieces. The pieces have four triangular members and each member has a primary and a secondary form. The members connect with positioners interlocking with notches on adjacent members. The positioners include slots that allow members to connect at three angles with each other. A primary member connects to a secondary member in an alternating fashion. The members assemble into polyhedrons such as a cube, sphere, cylinder, or combination thereof that lead to sculptures, including humanoid forms, at various scales or buildings at larger scales.

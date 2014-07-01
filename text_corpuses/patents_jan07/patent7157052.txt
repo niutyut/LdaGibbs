@@ -1,0 +1,6 @@
+title: Linear chemoselective carbosilane polymers and methods for use in analytical and purification applications
+
+abstract: 
+This invention relates generally to a new class of chemoselective polymer materials. In particular, the invention relates to linear polycarbosilane compounds for use in various analytical applications involving sorbent polymer materials, including chromatoghraphy, chemical trapping, analyte collection, and chemical sensor applications. These polymers have pendant and terminal aryl, alkyl, alkenyl, and alkynyl groups that are functionalized with halogen substituted alcohol or phenol groups, having the general structure:
+
+

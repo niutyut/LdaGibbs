@@ -1,0 +1,4 @@
+title: Circuit and method for adding parametric test capability to digital boundary scan
+
+abstract: 
+A boundary scan cell for use in a circuit having a boundary scan shift register (BSSR) having boundary scan cells associated with pins of the circuit, the cell having a single-bit shift register element and an associated update latch, comprises a logic circuit for controlling the logic state of an associated pin, analog switches connecting the associated pin to analog test buses, and logic circuitry for selectively configuring the cell in a parametric test mode in which the cell shift register element controls the analog switches, and in a digital test mode in which the cell shift register element controls the logic state of the associated pin.

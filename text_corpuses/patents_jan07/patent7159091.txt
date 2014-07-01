@@ -1,0 +1,4 @@
+title: Dynamic relocation of execute in place applications
+
+abstract: 
+Briefly, in accordance with one embodiment of the invention, applications may be dynamically relocated from one flash memory device to another flash memory device based on application usage data. Monitoring of application usage may be continuous, and the application usage data may be updated as application usage changes over time.

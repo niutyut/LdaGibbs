@@ -1,0 +1,4 @@
+title: Method for providing extended precision in SIMD vector arithmetic operations
+
+abstract: 
+The present invention provides extended precision in SIMD arithmetic operations in a processor having a register file and an accumulator. A first set of data elements and a second set of data elements are loaded into a first vector register and a second vector register, respectively. Each data element comprises N bits. Next, an arithmetic instruction is fetched from memory. The arithmetic instruction is decoded. Then, a first vector register and a second vector register are read from the register file. The present invention then executes the arithmetic instruction on corresponding data elements in the first and second vector registers. The result of the execution is then written into the accumulator. Then, each element in the accumulator is transformed into an N-bit width element and stored into the memory.

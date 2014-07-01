@@ -1,0 +1,4 @@
+title: Sidewall sealing of porous dielectric materials
+
+abstract: 
+A semiconductor device and method of manufacture thereof. A porous dielectric material is deposited over a workpiece. The porous dielectric material is patterned, and a photosensitive material is spun-on over the patterned porous dielectric material. A portion of the photosensitive material is formed over, and/or soaks into sidewalls of the porous dielectric material pattern, forming a barrier region of photosensitive material. The photosensitive material is developed, leaving the sidewalls of the porous dielectric material pattern sealed by the barrier region of photosensitive material. A liner is deposited over the porous dielectric material, and a conductive material such as copper is used to fill the pattern in the porous dielectric material. Diffusion of copper into the pores of the porous dielectric material is prevented by the barrier region.

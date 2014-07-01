@@ -1,0 +1,4 @@
+title: UV excitable energy transfer reagents
+
+abstract: 
+Novel energy transfer dyes which can be used with shorter wavelength light sources are provided. These dyes include a donor dye with an absorption maxima at a wavelength between about 250 to 450 nm and an acceptor dye which is capable of absorbing energy emitted from the donor dye. One of the energy transfer dyes has a donor dye which is a member of a class of dyes having a coumarin or pyrene ring structure and an acceptor dye which is capable of absorbing energy emitted from the donor dye, wherein the donor dye has an absorption maxima between about 250 and 450 nm and the acceptor dye has an emission maxima at a wavelength greater than about 500 nm.

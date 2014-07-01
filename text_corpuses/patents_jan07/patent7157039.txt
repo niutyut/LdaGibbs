@@ -1,0 +1,4 @@
+title: Method and apparatus for producing a curly puff extrudate
+
+abstract: 
+A process and apparatus for the production of a spiral or coil shaped puffed extrudate. A tube or other peripheral containment vessel is placed at the exit end of an extruder die. A force or resistance is then applied on the extrudate downstream of the glass transition point, thereby causing the extrudate to back up and coil in the containment vessel.

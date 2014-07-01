@@ -1,0 +1,4 @@
+title: Channel estimation apparatus and method
+
+abstract: 
+There is provided a channel estimation apparatus for estimating a radio channel environment by multiplying a currently received bit signal of a pilot signal and previously received bit signals by weights, and summing the weighted currently received bit signal and the weighted previously received bit signals in a CDMA mobile communication system receiving the pilot signal comprised of a stream of bits having given bit values, and a power control signal comprised of power control bits. In the channel estimation, a predictor predicts a next bit signal succeeding the currently received bit signal, multiplies the predicted next bit signal by a weight, and generates a weighted next bit signal. A summer sums the weighted next bit signal from the predictor, the weighted currently received bit signal and the previously received bit signals.

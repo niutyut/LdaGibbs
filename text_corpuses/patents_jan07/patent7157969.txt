@@ -1,0 +1,4 @@
+title: Low distortion class D amplifier using a controlled delay
+
+abstract: 
+An electronic class-D amplifier including a one servo-loop amplifier plus pulse width modulator, and a controlled delay stage including a delay modulation input, and a negative feedback path connects an output of the output switching stage to an input of the servo-loop amplifier wherein the forward gain of an output switching stage, the forward gain of the servo-loop amplifier plus pulse width modulator and controlled delay stage, and a carrier reference output signal's mean frequency, and modulation gain of the controlled delay stage, and the gain of the negative feedback path, are selected to lower the distortion of a signal at the amplifier output relative to a signal applied to the amplifier input.

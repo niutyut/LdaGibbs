@@ -1,0 +1,4 @@
+title: Sanitary fill valve assembly with adjustable flow regulator
+
+abstract: 
+A sanitary fill head and sanitary fill head assembly for dispensing viscous flowable materials including a housing having an inlet passage for receiving the viscous flowable material and an outlet passage from which the viscous flowable material is dispensed, a product dispenser for dispensing the viscous flowable material from the outlet passage, and a product flow regulator for adjustably regulating the rate of flow of the viscous flowable material into the chamber to accommodate viscous flowable materials having different physical properties.

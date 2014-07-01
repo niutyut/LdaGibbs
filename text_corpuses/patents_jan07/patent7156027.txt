@@ -1,0 +1,4 @@
+title: Method for producing soil, soil-processing unit, method for processing and unit for processing
+
+abstract: 
+An object to be treated such as soil, burned fly ashes, or the like containing organic halides is introduced to a hermetically sealable thermal decomposition furnace  and heated under reduced pressure. Emitted gases of the object to be treated are treated so that the generation and recomposition of dioxins are supressed. A heated residue of the object to be treated is cooled after being purged with a purge gas which is organic halide-free and has no organic halide generating capacity. Thus, the concentration of organic halides remaining in the heated residue can be held to an extremely low level.

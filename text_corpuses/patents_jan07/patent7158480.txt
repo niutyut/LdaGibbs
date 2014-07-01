@@ -1,0 +1,4 @@
+title: Feedback output queuing system, apparatus, and method
+
+abstract: 
+A feedback output queuing system, apparatus, and method controls the rate at which packets are forwarded from the ingress ports to a particular output queue over the switching/routing fabric based upon the level of congestion at the output queue. The output queue is monitored and the level of congestion at the output queue is determined based upon a predetermined congestion determination mechanism. An ingress forwarding scheme is determined based upon the level of congestion at the output queue. Information is forwarded from the ingress ports to the output queue based upon the ingress forwarding scheme.

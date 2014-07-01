@@ -1,0 +1,4 @@
+title: Heat pipe type cooler
+
+abstract: 
+To realize a integrally constructed cooler of the heat pipe type which ensures the achievement of sufficient cooling capacity and the realization of a simple, compact and inexpensive cooler, that is especially low in height, employing and incorporating ingeniously a heat pipe, there is provided a heat pipe type cooler comprising: a heat receiving plate ; a heat radiator having a configuration of a plurality of horizontally oriented heat radiation plates  extending vertically; and a heat pipe H having a generally U or V shaped profile, the middle portion of which is secured to the heat receiving plate : and wherein each end of the heat pipe H passes through the heat radiation plates 

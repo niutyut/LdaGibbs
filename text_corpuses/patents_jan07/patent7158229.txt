@@ -1,0 +1,4 @@
+title: Small-spot spectrometry instrument with reduced polarization and multiple-element depolarizer therefor
+
+abstract: 
+A small-spot imaging, spectrometry instrument for measuring properties of a sample has a polarization-scrambling element, such as a birefringent plate depolarizer, incorporated between the polarization-introducing components of the system, such as the beamsplitter, and the microscope objective of the system. The plate depolarizer varies polarization with wavelength, and may be a Lyot depolarizer with two plates, or a depolarizer with more than two plates (such as a three-plate depolarizer). Sinusoidal perturbation in the resulting measured spectrum can be removed by data processing techniques or, if the depolarizer is thick or highly birefringent, the perturbation may be narrower than the wavelength resolution of the instrument.

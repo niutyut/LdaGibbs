@@ -1,0 +1,4 @@
+title: Gaming device for wagering on multiple game outcomes
+
+abstract: 
+Systems and methods for wagering on game outcomes allow a player to wager on game outcomes resulting from linked gaming devices linked to a primary gaming device being played by the player. A primary game display shows game plays and outcomes and allows wagering on a primary game and a linked game display shows game plays and outcomes and allows wagering on linked games. Both the primary and linked gaming devices may be the same type of gaming device, or they may be two different types of gaming devices, such as gaming devices for playing slot games, card games, keno, and the like. Further, either or both of the primary and linked games may allow bonus game outcomes resulting in a bonus game having bonus game awards.

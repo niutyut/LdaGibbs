@@ -1,0 +1,4 @@
+title: Radio communications system with a minimal broadcast channel
+
+abstract: 
+In one embodiment, the present invention comprises transmitting a broadcast burst in a broadcast channel from a base station of a radio communications system. The invention further comprises receiving a request burst from a user terminal, and transmitting a message burst from the base station to the user terminal from which the request was received. The message burst includes a description of the channels available on the radio communications system for receiving messages from user terminals.

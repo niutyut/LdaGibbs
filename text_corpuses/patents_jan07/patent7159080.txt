@@ -1,0 +1,4 @@
+title: System and method for storing storage operating system data in switch ports
+
+abstract: 
+A system and method of storing data for use by storage operating systems in memories associated with switch ports. The data is written to a switch port memory, which is readable by all devices connected to the switch, and by all devices connected to a switching fabric containing that switch. When a device connected to the switching fabric requires the information, the device retrieves the stored information from the switch-port memory, without the need for any interaction of the device that originally wrote the data.

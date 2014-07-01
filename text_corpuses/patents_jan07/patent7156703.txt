@@ -1,0 +1,4 @@
+title: Electrical conductor tap
+
+abstract: 
+An electrical tap connector is provided having a housing that forms a first attachment section aligned with a second attachment section. Each attachment section forms a conductor receiving orifice into a conductor receiving channel. The housing about each section forms a pair of opposed and offset screw receiving orifices which are threadingly engaged with a set screw. The each pair of opposed and offset set screws mechanically bind an electrical conduct in a tortuous, crimped pattern within the receiving channel.

@@ -1,0 +1,4 @@
+title: Polishing method and electropolishing apparatus
+
+abstract: 
+A polishing method for electropolishing a metal film formed on a wafer surface so as to fill concave portions formed on the wafer surface comprises a step of determining an electropolishing end point of the metal film on the basis of a change of a current waveform resulting from electropolishing the metal film. An electropolishing apparatus comprising a current detector for detecting a current waveform resulting from electropolishing a metal film and an end point determination part for determining an electropolishing end point of the metal film on the basis of the change of a current detected with the current detector is used to realize the polishing method.

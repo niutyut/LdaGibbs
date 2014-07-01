@@ -1,0 +1,4 @@
+title: Electrical rotating machine control unit and power generation system
+
+abstract: 
+Because of the necessity of resolver for detecting a rotating position, which is very expensive, and noise suppression of the rotating position signal line on a doubly-fed machine, cost increase of the generator and reduced reliability due to possible failures are inevitable. In order to solve such problem, a generation system in the present invention is equipped with an exciter that estimates the slip frequency of the doubly-fed machine from each primary current Iand voltage Vand secondary current Iand voltage Vof the doubly-fed machine and excites the secondary of the doubly-fed machine at the estimated slip frequency.

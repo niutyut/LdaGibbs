@@ -1,0 +1,4 @@
+title: Display panel driver
+
+abstract: 
+A display panel driver has a single resistor string for gamma correction and a signal power supply, which have heretofore been required for each of red, green, and blue, and is small in size and has its power consumption reduced. Voltage generator including a single resistor string having n reference voltage terminals generates n reference voltages. Voltage selector selects and outputs m red gradation voltages Vr() through Vr(), m green gradation voltages Vg() through Vg(), and m blue gradation voltages Vb() through Vb() from the n reference voltages. The display panel driver provides all of a gamma correction curve for red, gamma correction curve for green, and a gamma correction curve for blue with a single resistor string and a pair of power supplies including a ground potential.

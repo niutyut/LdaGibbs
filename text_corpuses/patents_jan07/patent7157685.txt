@@ -1,0 +1,4 @@
+title: Method and system to enhance differential dynamic range and signal/noise in CMOS range finding systems using differential sensors
+
+abstract: 
+Dynamic range of a differential pixel is enhanced by injecting, synchronously or asynchronously, a fixed compensating offset (?V) into a differential signal capacitor whenever magnitude of the differential signal across the capacitor exceeds a predetermined value. The number (N) of ?V offsets made is counted. Effective differential signal capacitor voltage V(t)=Vo+N??V, where Vo is capacitor voltage. Differential pixel signal/noise ratio is increased by dynamically maximizing operational amplifier gain Afor each differential pixel.

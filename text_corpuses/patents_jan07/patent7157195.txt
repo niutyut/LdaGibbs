@@ -1,0 +1,4 @@
+title: Recording material and image forming method
+
+abstract: 
+An image forming method is disclosed, comprising (a) exposing a recording material comprising on a support an image forming layer containing colored magnetophoretic particles and a photopolymerizable composition to light to perform photocuring and (b) applying a magnetic field to the recording material to migrate the magnetophoretic particles.

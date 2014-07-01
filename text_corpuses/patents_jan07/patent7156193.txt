@@ -1,0 +1,4 @@
+title: Continuous positive flow backflash prevention system
+
+abstract: 
+A method and system for the prevention of backflash from an ignition source in a flare stack to a separator or wellbore particularly during drilling and production. A continuous positive flow of air or exhaust gas is provided into the flow of gases from the wellbore or the separator to ensure that the velocity of the flow is always higher than the velocity at which the flame can propagate backwards into either the separator or the wellbore. This method and system is particularly applicable to balanced, underbalanced and air drilling operations where the flow of gas from the wellbore is intermittent and unpredictable and can stop and start during connection and disconnection of the air used as the drilling fluid.

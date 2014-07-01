@@ -1,0 +1,4 @@
+title: Function objects
+
+abstract: 
+Methods and tools are provided for graphically creating a mapping between a source object and a target object. The invention includes function objects or functoids, which may be graphically linked between a source object and a target object in a graphical user interface of a mapping tool. The function objects include a script component adapted to perform a function, a graphical component allowing a user to use the function object in creating a mapping in a mapping tool graphical user interface, and an interface component providing access to the script and graphical components. The invention further comprises methodologies and tools for creating such a mapping using one or more of the function objects, as well as a method and tool for creating function objects.

@@ -1,0 +1,4 @@
+title: Multi-purpose surgical instrument
+
+abstract: 
+A multi-instrument surgical tool for use during hand-assisted laparoscopic surgery includes a housing having a plurality of ports disposed therein which are each dimensioned to slidingly house one of a plurality of surgical instruments for selective deployment from the case. The housing also includes a corresponding plurality of elongated channels each in communication with a respective one of the plurality of ports. Each of the instruments including an actuator which is movable within a respective channel from a first position wherein the instrument is at least partially housed within the housing to a second position wherein the actuator is disengaged from the respective channel and the actuator is freely operable to actuate the instrument for its intended purpose.

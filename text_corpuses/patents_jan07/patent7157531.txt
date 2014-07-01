@@ -1,0 +1,4 @@
+title: Methods for producing polymers with control over composition distribution
+
+abstract: 
+Methods for controlling a melt viscosity of a polyolefin, controlling comonomer distribution of a polyolefin, achieving a targeted melt viscosity of a polyolefin, and films made from such polyolefins are provided. The methods include contacting an olefin monomer and at least one comonomer with a catalyst system in the presence of a condensable fluid comprising a saturated hydrocarbon having from 2 to 8 carbon atoms. The catalyst system in one embodiment includes a hafnium metallocene catalyst component.

@@ -1,0 +1,4 @@
+title: Power steering system
+
+abstract: 
+In a hydraulic power steering system employing a power cylinder accommodating therein a piston connected to a steering mechanism for steering assistance, and having first and second hydraulic chambers defined on both sides of the piston, hydraulic pressure is supplied through first and second fluid lines to the respective hydraulic chambers. A communicating circuit is provided to intercommunicate the first and second fluid lines therevia. A directional control valve, disposed in the communicating circuit, has a poppet valve mechanism, which is switched to a valve-open position in presence of a hydraulic power steering system failure, to intercommunicate the first and second fluid lines with the poppet valve mechanism opened.

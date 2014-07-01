@@ -1,0 +1,7 @@
+title: Materials for electroluminescent devices
+
+abstract: 
+Materials containing one or more borazine rings are employed as materials for electroluminescent devices. The compounds have molecular structures represented by the following formula:
+
+
+in which R?Rare independently a metal; a whole or part of an optionally substituted borazine ring; hydrogen; halogen; hydroxyl; optionally substituted alkyl, cycloalkyl, aryl, acyl, alkoxy, acyloxy, amino, acylamino, aralkyl, cyano, carboxyl, thio, vinyl, styryl, aminocarbonyl, carbamoyl, aryloxycarbonyl, phenoxycarbonyl, or alkoxycarbonyl, as well as recognized donor and acceptor groups. The compounds have high thermal stability as well as hole and electron mobilities.

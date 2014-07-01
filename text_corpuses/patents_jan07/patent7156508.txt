@@ -1,0 +1,4 @@
+title: Printhead module for printhead assembly
+
+abstract: 
+A printhead module for a printhead assembly is provided as a unitary arrangement of a support member, at least two printhead integrated circuits, each of which has nozzles formed therein for delivering printing fluid onto the surface of print media, at least one fluid distribution member mounting the at least two printhead integrated circuits to the support member, and an electrical connector for connecting electrical signals to the at least two printhead integrated circuits. The support member has at least one longitudinally extending channel for carrying the printing fluid for the printhead integrated circuits, with a plurality of apertures extending through a wall thereof arranged so as to direct the printing fluid from the at least one channel to associated nozzles in the printhead integrated circuits.

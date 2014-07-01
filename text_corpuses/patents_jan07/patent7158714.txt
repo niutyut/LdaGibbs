@@ -1,0 +1,4 @@
+title: Image recording/reproducing apparatus and method
+
+abstract: 
+In an image recording/reproducing apparatus capable of handling a hard disk and an optical disk, when just-recording on the hard disk has been requested, if a residual recording capacity of the hard disk is more than a residual recording capacity of the optical disk that is in a non-recorded state, a compression encoding rate for image information is set by regarding the residual recording capacity of the hard disk as being equal to the residual recording capacity of the optical disk in the non-recorded state.

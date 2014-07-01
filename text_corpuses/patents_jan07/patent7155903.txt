@@ -1,0 +1,4 @@
+title: Buffer washer member and vibration and heat insulating board having the same
+
+abstract: 
+A collar member including a main body part having a bolt hole for inserting a bolt and a flange part projecting horizontally to outside from the upper end of the main body part, a fitting member being a member for fitting with a vibration and heat insulating board main body part, having an inside diameter larger than the outside diameter of the collar member by specified dimension, and disposed at the outside of the collar member, and a spring member disposed in a specified dimension between the collar member and fitting member for coupling the collar member and fitting member at least on three positions. As a result, mounting on the vibration source is stable, the heat insulation effect and vibration control effect are high, and the cost is reduced.

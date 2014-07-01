@@ -1,0 +1,4 @@
+title: Method and apparatus for treating a layer of bulk material
+
+abstract: 
+The invention includes a method and an apparatus for treating, in particular cooling, a layer of bulk material by means of a stream of gas passed through it on a grate. The grate includes a plurality of elongated planks which extend in a conveying direction and are driven in advancing and return strokes in the conveying direction in such a manner that at least two adjacent planks are moved forwardly simultaneously and are moved backwardly non-simultaneously. Since the material located on a plank which is being moved back is prevented from completely following the plank moving back by the friction generated with the material located above the adjacent planks or with the wall, the conveying effect in the conveying direction outweighs the conveying effect in the opposite direction.

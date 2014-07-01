@@ -1,0 +1,4 @@
+title: Juice extractor with integral juice manifold and cup bridge
+
+abstract: 
+A juice extractor and associated method includes an extractor frame, extractor cup mounted for movement within the extractor frame and a cup bridge mounted within the extractor frame. A juice manifold is integral with the cup bridge for receiving juice during extractor operation.

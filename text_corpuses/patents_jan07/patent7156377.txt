@@ -1,0 +1,4 @@
+title: Water aeration device and method
+
+abstract: 
+A liquid feed line includes a stepped internal nozzle and an exit diameter smaller than the diameter of the liquid feed line. The stepped internal nozzle desirably introduces hydrodynamics or hydraulic waves for the fluid, with the number of steps selected based on the pressure of the motive flow. By limiting the length of the stepped internal nozzle cylinder, a desirable splayed liquid stream is formed within a mixing chamber in fluid communication with a vent line. An exit cylinder in fluid communication with the mixing chamber includes a channel through which an aerated liquid stream of fluid passes. The entrance and exit faces forming the channel are substantially perpendicular to the fluid flow with the channel having a generally uniform dimension, neither converging nor diverging, and a diameter 1 to 10 times greater, depending on the pressure of the motive flow, than the exit to the internal nozzle.

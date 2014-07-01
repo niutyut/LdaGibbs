@@ -1,0 +1,4 @@
+title: Magnetically shielded circuit board
+
+abstract: 
+A magnetically shielded circuit board having a conductive solenoid to repel high speed charged particles away from an integrated circuit chip. The conductive solenoid is embedded in the circuit board, or located around the circuit board, or located within an integrated circuit package, the integrated circuit package have been connected to the circuit board. The conductive solenoid is used for conducting an electrical current, the electrical current forming a magnetic field. The magnetic field will repel high speed charged particles away from the integrated circuit chip, the integrated circuit chip being within the integrated circuit package. The circuit board can be used in a space vehicle.

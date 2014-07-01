@@ -1,0 +1,4 @@
+title: Method for producing a stratified composite material
+
+abstract: 
+A method is described for producing a stratified composite material, with a layer of sinterable solids particles being applied to a strip-like metal carrier and being sintered with liquid phase by the supply of heat continuously in the forward feed direction. In order to provide simplified production conditions it is proposed that the metal carrier is heated continuously in the forward feed direction with a temperature profile which decreases towards lower temperatures from a maximum temperature above the melting temperature of the solids particles in the region of a surface layer receiving the particle layer towards a core layer of the metal carrier, and that the particle layer is sintered at least in a layer resting on the metal carrier by a heat transmission from the heated metal carrier.

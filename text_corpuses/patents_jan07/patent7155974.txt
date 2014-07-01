@@ -1,0 +1,4 @@
+title: Inertia sensor unit
+
+abstract: 
+An inertia sensor unit having a detecting element, a signal processor being constituted as an element separate from the detecting element, for at least amplifying signals output from the detecting element, and an inertia sensor mounted to a detection object for detecting acceleration or angular velocity of the detection object as an inertial force of the detection object to output electrical signals changing according to the inertial force, includes: a first temperature detecting element for detecting the temperature of the signal processor, a second temperature detecting element for detecting the temperature of the detecting element directly or indirectly, and a correcting processor for correcting the signals output from the inertia sensor based on the result detected by the first temperature detecting element and the second temperature detecting element.

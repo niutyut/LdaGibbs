@@ -1,0 +1,4 @@
+title: Substrate holding apparatus
+
+abstract: 
+A substrate holding apparatus can accurately control temperature of a substrate in a direct manner with a relatively simple arrangement. The substrate holding apparatus has a top ring configured to hold a substrate to be polished and press the substrate against a polishing surface, and an air bag attached to the top ring so as to be brought into contact with a rear face of the substrate. The substrate holding apparatus also has a regulator operable to regulate a temperature control fluid to be supplied into the air bag, and a flow regulating valve operable to regulate a flow rate of the temperature control fluid discharged from the air bag.

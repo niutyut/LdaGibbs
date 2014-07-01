@@ -1,0 +1,4 @@
+title: Terahertz lasers and amplifiers based on resonant optical phonon scattering to achieve population inversion
+
+abstract: 
+The present invention provides quantum cascade lasers and amplifier that operate in a frequency range of about 1 Terahertz to about 10 Terahertz. In one aspect, a quantum cascade laser of the invention includes a semiconductor heterostructure that provides a plurality of lasing modules connected in series. Each lasing module includes a plurality of quantum well structure that collectively generate at least an upper lasing state, a lower lasing state, and a relaxation state such that the upper and the lower lasing states are separated by an energy corresponding to an optical frequency in a range of about 1 to about 10 Terahertz. The lower lasing state is selectively depopulated via resonant LO-phonon scattering of electrons into the relaxation state.

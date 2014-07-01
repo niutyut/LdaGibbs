@@ -1,0 +1,4 @@
+title: Corrosion-resistant rare earth element magnet
+
+abstract: 
+A corrosion resistant rare earth magnet is characterized by comprising a rare earth permanent magnet represented by R-T-M-B wherein R is at least one rare earth element inclusive of Y, T is Fe or Fe and Co, M is at least one element selected from among Ti, Nb, Al, V, Mn, Sn, Ca, Mg, Pb, Sb, Zn, Si, Zr, Cr, Ni, Cu, Ga, Mo, W, and Ta, the contents of the respective elements are 5 wt %?R?40 wt %, 50 wt %?T?90 wt %, 0 wt %?M?8 wt %, and 0.2 wt %?B?8 wt %, and a coating on a surface of the permanent magnet comprising a silicone resin, a flake metal fine powder, and a complexing agent.

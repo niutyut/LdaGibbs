@@ -1,0 +1,4 @@
+title: Semiconductor device and its manufacture
+
+abstract: 
+In a logic area, impurities are doped into the gate electrode and the source/drain diffusion regions of a MIS transistor. Thereafter in a memory cell area, word lines are patterned, source/drain regions are formed, and contact holes are formed. Side wall spacers of the MIS transistor in the logic area are made of silicon oxide. A semiconductor device of logic-memory can be manufactured by a reduced number of manufacture processes while the transistor characteristics are stabilized and the fine patterns in the memory cell are ensured.

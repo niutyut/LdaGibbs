@@ -1,0 +1,4 @@
+title: Chain block
+
+abstract: 
+A chain block comprising a load sheave winding up a load chain, a hand wheel arranged on one side of the load sheave and rotatable in one of a normal direction and a reverse direction in response to the manual operation of a hand chain, a pinion shaft inserted through the load sheave along the center axis of the load sheave in a manner allowing the load sheave to be freely rotatable thereabout, one end of the pinion shaft screwed into the center of the hand wheel and the other end of the pinion shaft including a spindle gear, a reduction gear composed of a small-diameter gear and a large-diameter gear, the large-diameter gear in mesh with the spindle gear, a main shaft gear, in mesh with the small-diameter gear, transferring a torque of the reduction gear to the load sheave.

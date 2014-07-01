@@ -1,0 +1,4 @@
+title: Murine lecithin-cholesterol acyltransferase protein
+
+abstract: 
+This invention relates to a novel protein having a lecithin-cholesterol acyltransferase-like activity, etc. or its salt, a precursor protein of the protein or its salt, a partial peptide of the protein or its salt; a DNA coding for the protein; a recombinant vector; a transformant; a method for producing the protein, a pharmaceutical composition comprising the protein, the partial peptide or its salt; and an antibody to the protein or the partial peptide. The protein, the partial peptide or its salt, and the DNA are useful as an agent for treating or preventing arteriosclerosis, atherosclerosis, hyperlipidemia, hypercalorism, obesity or hypertriglyceridemia. The antibody can be used in assay of the protein, the partial peptide or its salt. The protein, the partial peptide or its salt is useful as a reagent for the screening for candidate medical compounds.

@@ -1,0 +1,4 @@
+title: Radar rainfall estimation technique when attenuation is negligible
+
+abstract: 
+A method of using a bipolar radar to estimate a precipitation rate for rain that generates negligible attenuation. The method includes using the bipolar radar to measure the differential phase ?and the apparent reflectivity Zon at least one of horizontal polarization H and vertical polarization V over a given interval [r, r] of path radii relative to the radar. An estimate of the value N* representative of the dimensional distribution of rain drops is made on the basis of the differential phase difference in the range rto rand on the basis of an integral of a function of the apparent reflectivity Zalong the interval [r, r]. A value is deduced for the precipitation rate at a point from N* and the apparent reflectivity at the point.

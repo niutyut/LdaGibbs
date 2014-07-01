@@ -1,0 +1,4 @@
+title: Magnetic flux concentrator anti-differential current sensing topology
+
+abstract: 
+A system and method for current sensing includes a conductor configured to receive current flow therethrough and generate magnetic flux thereabout. The current sensor system also includes an anti-differential current sensor configured to monitor magnetic flux about the conductor and a flux concentrator configured to concentrate magnetic flux induced by current flow through the conductor.

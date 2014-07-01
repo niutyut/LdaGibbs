@@ -1,0 +1,4 @@
+title: Installation and use of removable heaters in a hydrocarbon containing formation
+
+abstract: 
+In an embodiment, a system may be used to heat a hydrocarbon containing formation. The system may include a heater placed in an opening in the formation. The system may allow heat to transfer from the heater to a part of the formation. The transferred heat may pyrolyze at least some hydrocarbons in the formation. The heater may be removable from the opening in the formation and redeployable in at least one alternative opening in the formation.

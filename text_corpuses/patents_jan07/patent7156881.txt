@@ -1,0 +1,4 @@
+title: Counteracting bioprosthetic calcification
+
+abstract: 
+Adapting crosslinking with triglycidyl amine (TGA) to incorporate the use of a particular type of anti-calcification agent provides a broad-reaching solution to the problem in vivo bioprosthesis calcification. The anti-calcification agent in question includes a polyphosphonate compound that contains a functional group, which serves as a reaction site between the polyphosphonate and a polyepoxide. The functional group is reactive enough to dominate the reaction between the polyphosphonate and the polyepoxide, thereby excluding the chelating oxygen atoms of polyphosphonate from the reaction, protecting their anti-calcification ability. Furthermore, the high reactivity of the functional group allows the polyphosphonate to attach to the polyepoxide more completely, which improves the calcification resistance of bioprosthetic material with which the polyepoxide is crosslinked.

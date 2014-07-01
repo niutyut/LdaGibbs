@@ -1,0 +1,4 @@
+title: Anti-roll bar for the chassis of a motor vehicle
+
+abstract: 
+The invention relates to a roll stabilizer for the chassis of a motor vehicle, comprising an actuator (), which is mounted between anti-roll bar halves () and which rotates these about a rotation axis in opposite directions as necessary. The curved path carriers () of the actuator that are assigned to the roll stabilizer halves () are each provided with a curved path () inside of which a coupling element () is guided that can be displaced along these curved paths () via an actuating drive (). The U-shaped or V-shaped curved path () of one curved path carrier () has two curved path branches () that are arranged in a mirror symmetric manner in relation to a longitudinal central plane containing the rotation axis of the actuator ().

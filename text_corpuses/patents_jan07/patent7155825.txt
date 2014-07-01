@@ -1,0 +1,4 @@
+title: Method of liquid withdrawal from a tool spindle
+
+abstract: 
+A method for withdrawing liquid from the liquid bearings of a spindle () carried in liquid bearings () distinguished in that with the help of pressurized gas, the liquid, together with the gas, is forced to exit the spindle during the operation of the spindle via at least one first channel (), and that when the spindle is shut down, is forced to exit via at least one second channel () with a smaller flow-through cross-section than the first channel.

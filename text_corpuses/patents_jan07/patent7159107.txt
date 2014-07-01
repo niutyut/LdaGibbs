@@ -1,0 +1,4 @@
+title: Booting method capable of executing a warm boot or a cold boot when a CPU crash occurs and computer system therefor
+
+abstract: 
+A booting method capable of executing a warm boot or a cold boot when a CPU crash occurs in a computer system having a CPU and a memory. First, when the CPU is in a crash state, it is detected that a user wants to execute a hardware reset function or a software reset function. Next, a hardware reset operation is executed to reboot the CPU. Then, when the user chooses to execute the hardware reset function, data and predefined values of the memory are deleted to make the computer system return to a default state. Thereafter, when the user chooses to execute the software reset function, the hardware reset operation is regarded as an operation to replace a software reset operation, and the computer system holds the data and predefined values to make the computer system return to a setting state before the computer system is crashed.

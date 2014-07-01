@@ -1,0 +1,4 @@
+title: Method and system for fast computation of routes under multiple network states with communication continuation
+
+abstract: 
+A system and method for network routing is provided where significant (those that impact optimal network routes) state changes of network components are considered. A set of optimal communication paths are generated for a number of actual and potential component failure scenarios. An optimal communication path is generated for each failure scenario. In addition, a method that enables continued communication using intermediate routing points and routing update propagation during periods of network non-convergence or congestion is disclosed.

@@ -1,0 +1,4 @@
+title: Multi-level microchannel heat exchangers
+
+abstract: 
+An apparatus and method of circulating a heat-absorbing material within a heat exchanger. The apparatus comprises a manifold layer coupled to an interface layer. The manifold layer comprises an inlet manifold and an outlet manifold. The interface layer comprises a plurality of channels that extend from the inlet manifold, toward a heat-exchanging plane, and turn away from the heat-exchanging plane, terminating at the outlet manifold. The plurality of channels are stacked in a plane non-parallel to the heat-exchanging plane. Each of the channels is adjacent to another, thus allowing heat radiated from a heat-generating device to be conducted to a cooling material circulating within the channels, away from the heat-generating device. Preferably, each of the channels has a U-shape or an elongated U-shape.

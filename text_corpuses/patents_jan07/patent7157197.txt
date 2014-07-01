@@ -1,0 +1,4 @@
+title: Electrophotographic photosensitive member
+
+abstract: 
+An electrophotographic photosensitive member is provided which can keep at a minimum the absorption of image exposure light of 380 to 500 nm in wavelength in its surface layer and concurrently can satisfactorily keep electrophotographic properties including resolving power. The electrophotographic photosensitive member has a substrate, and a photoconductive layer and a surface layer in this order provided on the substrate. The surface layer includes an amorphous material composed chiefly of silicon atoms and nitrogen atoms and containing at least oxygen atoms and carbon atoms, and the ratios of the numbers of the respective oxygen atoms, carbon atoms and nitrogen atoms to the total number of oxygen atoms, carbon atoms and nitrogen atoms contained in the amorphous material are each within a specific range.

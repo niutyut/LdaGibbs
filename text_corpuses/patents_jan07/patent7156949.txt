@@ -1,0 +1,4 @@
+title: Plasma processing apparatus
+
+abstract: 
+The present invention concerns a plasma processing apparatus for processing a processing object by applying two types of high-frequency power with different frequencies to generate plasma. A first high-frequency line is provided with a first filter circuit for attenuating a high-frequency current from a second high-frequency power supply. A second high-frequency line is provided with a second filter circuit for attenuating a high-frequency current from a first high-frequency power supply. The first filter circuit is provided with a variable capacitor for changing a circuit constant. For changing the circuit constant, the variable capacitor is varied so that a resonance point becomes greater than an optimum resonance point most attenuating a high frequency in the second high-frequency power supply. Doing so decreases a sputter rate of the generated plasma affected on a wall surface of the processing chamber.

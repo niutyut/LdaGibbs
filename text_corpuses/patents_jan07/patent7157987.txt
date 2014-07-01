@@ -1,0 +1,4 @@
+title: Transmission line having a transforming impedance
+
+abstract: 
+A transmission line for high-frequency differential signals and having a transforming impedance is formed into a substrate. The transmission line is comprised of a first slot, the opposing surfaces of which carry a conductive surface capable of carrying electrical signals. By virtue of their dimensions, spacing and dielectric filler, the conductive surfaces constitute a transmission line. A second slot, also with opposing surfaces, each of which also carry a conductive surface but which are spaced differently than the opposing surfaces of the first slot, provide a second transmission line but with a different impedance. The impedances between the two transmission lines are transformed by an impedance transition section of transmission line that is slot section the dimensions of which are tapered to meet the different slot dimensions of the two different transmission line segments.

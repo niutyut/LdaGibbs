@@ -1,0 +1,4 @@
+title: Inverter controlled generator set and method for controlling the same
+
+abstract: 
+A method for controlling an inverter controlled generator set which comprises a DC power source section having as a power source a generator driven by an engine and an inverter which converts an output of said DC power source section into an AC output, the method comprising a step of controlling a rotational speed of the engine so that the AC output suitable for driving a load is output from the inverter; wherein, after the engine is started, the rotational speed of the engine is controlled by a constant speed control mode for maintaining the rotational speed of the engine at a set rotational speed, and the rotational speed of the engine is increased to the set rotational speed; and wherein an operation of the inverter is started after the rotational speed of the engine reaches the set rotational speed.

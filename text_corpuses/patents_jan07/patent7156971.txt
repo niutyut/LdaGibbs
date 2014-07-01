@@ -1,0 +1,4 @@
+title: Capillary array and electrophoresis apparatus, and methods
+
+abstract: 
+A capillary array capable of being easily mounted on an electrophoresis apparatus without damaging the capillaries. The capillary array can include a plurality of capillaries that can be fixed via hollow electrodes on a load header in a matrix arrangement. The load header can be disposed on the electrophoresis apparatus. The capillary array can include a capillary frame onto which a capillary head and a detection portion can be detachably mounted. The structure allows the load header, the capillary head, the detection unit and other portions of the capillary array to be handled as a unit, thereby making it easier to mount the capillary array on the electrophoresis apparatus.

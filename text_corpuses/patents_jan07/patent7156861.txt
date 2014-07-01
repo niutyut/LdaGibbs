@@ -1,0 +1,4 @@
+title: Expandable structures for deployment in interior body regions
+
+abstract: 
+Apparatus for deploying an expandable structure in interior body regions provide an outer catheter tube, an inner catheter tube sized and configured to be received within the outer catheter tube, and an expandable structure having a distal end and a proximal end. The expandable structure also has a first end region adjacent the distal end and a second end region adjacent the proximal end. The distal end is bonded to the inner catheter tube to form a first bonded region and the proximal end is bonded to the outer catheter tube to form a second bonded region. The first end region is inverted to overlie the first bonded region and the second end region is inverted to overlie the second bonded region.

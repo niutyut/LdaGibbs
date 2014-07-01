@@ -1,0 +1,4 @@
+title: Reduction device for nitrate determination
+
+abstract: 
+A nitrate reduction device has a cadmium structure forming a plurality of longitudinal channels within a flow chamber, which may be formed by a plurality of wires. The device is used to reduce nitrate to a final nitrite product for analysis.

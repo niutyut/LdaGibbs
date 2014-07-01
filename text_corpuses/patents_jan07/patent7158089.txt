@@ -1,0 +1,4 @@
+title: Compact antennas for ultra wide band applications
+
+abstract: 
+Compact antennas for ultra wide band applications are disclosed. The compact antenna may be an elliptic dipole antenna with a poise and counterpoise both having an elliptical shape. A substrate may be used to support the poise and counterpoise with the substrate having a closed three-dimensional shape.

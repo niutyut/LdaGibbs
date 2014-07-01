@@ -1,0 +1,4 @@
+title: Sliding module for portable terminal
+
+abstract: 
+A sliding module employing a semi-automatic opening/closing of the portable terminal, is disclosed. A driving force is used to open and close the sliding-type portable terminal with the resilient force of an elastic means, by converting the direction of the driving force by means of sliders formed on a sliding guide and a sliding plate, respectively. Thus, a user can conveniently manipulate the sliding-type portable terminal.

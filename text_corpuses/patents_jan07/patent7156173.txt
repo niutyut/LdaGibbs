@@ -1,0 +1,4 @@
+title: Cement compositions useful in oil and gas wells
+
+abstract: 
+Cement compositions containing low reactivity materials are disclosed. The compositions are useful in conditions involving high temperatures, high pressures, and tectonic forces such as oil and gas wells. The cement compositions display increased compressive strength, flexural strength, and tensile strength. Fractures appear to occur in a non-linear fashion between the Interfacial Transition Zone (ITZ) of the particles, rather than in a straight line such as those observed in conventional cement materials.

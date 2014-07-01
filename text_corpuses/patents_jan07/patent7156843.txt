@@ -1,0 +1,4 @@
+title: Irrigated focal ablation tip
+
+abstract: 
+A helical ablation electrode extends from a distal end of the shaft and includes a first portion extending from a first end winding about a first diameter, a second portion extending from the first portion and winding about a second diameter smaller than the first diameter, and a second end terminating the second portion. The electrode further includes a fluid lumen extending from a location in proximity to the first end of the electrode to a location in proximity to the second end of the electrode and in fluid communication with a fluid delivery lumen of the catheter shaft. An irrigation fluid delivered through the fluid delivery lumen of the catheter shaft, from a fluid port, passes through the fluid lumen of the ablation electrode to cool the electrode.

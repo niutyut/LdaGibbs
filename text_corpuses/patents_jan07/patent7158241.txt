@@ -1,0 +1,4 @@
+title: Method for calibration and certifying laser projection beam accuracy
+
+abstract: 
+A system for certifying laser projection beam accuracy includes a certification fixture having a test pattern and a color background. The certification fixture is configured so that any portion of the laser projection beam reflected from the color background is reflected with a color contrasting to that of the laser beam or of the test pattern. Contrast can be further enhanced by making the pattern of a material that absorbs the laser beam color. Failure of the test is indicated by the presence of any of the laser beam light reflecting from the background. Passage of the test is indicated by the laser beam striking only the test pattern. A functional test pattern tests for both laser beam width and positioning accuracy. A method is provided to use a calibration test pattern to test laser beam width and length projection accuracy independently of one another.

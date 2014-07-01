@@ -1,0 +1,4 @@
+title: Optical component formation method
+
+abstract: 
+Provided are methods of forming optical components. The methods involves (a) forming over a substrate a layer of a photoimageable composition that includes a hybrid organic-inorganic polymer and a photoactive component, wherein the layer has a first index of refraction and a first dissolution rate; and (b) exposing by multi-photon absorption using actinic radiation a predefined volume of the layer. The volume is caused to have: (i) a second index of refraction which is different than the first index of refraction and/or (ii) a second dissolution rate which is different than the first dissolution rate. The methods have particular applicability in the formation of optical waveguides and other optical components.

@@ -1,0 +1,4 @@
+title: Production of proteins in plant seeds
+
+abstract: 
+Transgenic monocot plants and seeds comprising monocot seed-specific promoters from seed-storage protein genes and monocot seed-specific targets sequences of expression of heterologous proteins in subcellular compartments to protect the protein are disclosed. The transgenic monocot plants include maize, wheat, rice and barley. Also disclosed are methods of producing transgenic monocot seed from the transgenic plants.

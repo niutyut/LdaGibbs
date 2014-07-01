@@ -1,0 +1,4 @@
+title: Feedforward, feedback wafer to wafer control method for an etch process
+
+abstract: 
+A method of using a run-to-run (R2R) controller to provide wafer-to-wafer (W2W) control in a semiconductor processing system is provided. The R2R controller includes a feed-forward (FF) controller, a process model controller, a feedback (FB) controller, and a process controller. The R2R controller uses feed-forward data, modeling data, feedback data, and process data to update a process recipe on a wafer-to-wafer time frame.

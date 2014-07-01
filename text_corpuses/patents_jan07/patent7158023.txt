@@ -1,0 +1,4 @@
+title: Method for testing the interconnection of remote hazardous condition detectors
+
+abstract: 
+A method of testing the interconnect between remotely distributed hazardous condition detectors is provided. The method utilizes the detector's self-test button to initiate a detector self-test. Once the self-test is complete, the detector's alarm is silenced and an interconnect test signal is sent to the interconnected remote hazardous condition detectors. The transmission of this signal continues so long as the test button remains depressed. The remote detectors, on receipt of this signal, sound their alarm. The user, with the local detector's alarm now silenced, is better able to hear the remotely interconnected detector's alarm.

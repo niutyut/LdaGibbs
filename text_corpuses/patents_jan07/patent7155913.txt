@@ -1,0 +1,4 @@
+title: Turbomachine annular combustion chamber
+
+abstract: 
+The invention relates to a turbomachine annular combustion chamber () comprising an outer axial wall (), an inner axial wall (), and a chamber bottom end () connecting the said walls, the chamber bottom end being provided with several passages () enabling initiation of a cooling air film (D) along the hot inner surface () of the outer axial wall and initiation of a cooling air film (D) along the hot inner surface () of the inner axial wall, the outer axial wall and the inner axial wall being multi-perforated roughly over their full length in order to enable reinforcement of the cooling air films. According to the invention, the outer axial wall and the inner axial wall are provided, in an upstream part, with a first zone () of perforations () formed such that cooling air is introduced inside the combustion chamber in reverse flow.

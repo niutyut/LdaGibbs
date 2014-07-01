@@ -1,0 +1,17 @@
+title: Method of producing ?,?-unsaturated carboxylic acid compounds
+
+abstract: 
+There is disclosed a method of producing ?,?-unsaturated carboxylic acid of formula (3)
+
+
+wherein Rdenotes a hydrogen atom, an alkyl group, an aryl group, an aralkyl group, an alkenyl group or an alkynyl group,
+
+which method comprises reacting a carboxylic acid of formula (1)
+
+
+
+wherein Rdenotes the same as the above, or carboxylic anhydride of formula (2)
+
+
+
+wherein Rdenotes the same as the above, with a methylenating agent in a presence of a catalyst containing metal of Group 13 of the Periodic Table of Elements in the amount of not more than 5 weight %.

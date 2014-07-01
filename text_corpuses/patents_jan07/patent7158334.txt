@@ -1,0 +1,4 @@
+title: Method and apparatus for head positioning control with disturbance compensation in a disk drive
+
+abstract: 
+A head positioning control system which is applied to a disk drive is disclosed. The system includes a feedback control system which performs head positioning control of a head and a feedforward control system. The feedforward control system detects the amplitude and phase of a disturbance based on the position error between the position of the head and a target position. The feedforward control system computes a disturbance compensation value for eliminating the disturbance to output the disturbance compensation value to the feedback control system based on each detection result of the amplitude and the phase.

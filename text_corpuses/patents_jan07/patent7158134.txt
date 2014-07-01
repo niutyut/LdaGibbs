@@ -1,0 +1,4 @@
+title: Image processing apparatus and image processing method
+
+abstract: 
+There is provided an image processing apparatus and an image processing method capable of conducting different manners of resolution conversion processing depending on scanning direction. An image processing apparatus  includes: a sub-scanning-directional first resolution converting section  for enhancing resolution of input image data in a sub-scanning direction; a sub-scanning-directional second resolution converting section ; a main-scanning-directional first resolution converting section  for enhancing resolution of input image data in a main-scanning direction; and a main-scanning-directional second resolution converting section . The structure such as above enables the image processing apparatus  to conduct resolution conversion processing in sub-scanning direction and main-scanning direction independently, thereby to obtain a high-quality output image.

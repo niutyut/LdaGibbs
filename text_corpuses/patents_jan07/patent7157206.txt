@@ -1,0 +1,4 @@
+title: Positive resist composition
+
+abstract: 
+A positive resist composition comprising (A) a resin containing at least one group that is decomposed by the action of an acid to generate an alkali-soluble group and (B) at least two compounds selected from (B1) a compound that generates an aliphatic or aromatic sulfonic acid substituted with at least one fluorine atom, (B2) a compound that generates an aliphatic or aromatic sulfonic acid that does not contain a fluorine atom, (B3) a compound that generates an aliphatic or aromatic carboxylic acid substituted with at least one fluorine atom and (B4) a compound that generates an aliphatic or aromatic carboxylic acid that does not contain a fluorine atom, as (B) a compound that generates an acid upon irradiation of an actinic ray or radiation, wherein the group that is decomposed by the action of an acid contained in the resin (A) includes a group represented by formula (Y) defined in the specification.

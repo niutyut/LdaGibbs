@@ -1,0 +1,4 @@
+title: Circuit for and method of employing a clock signal
+
+abstract: 
+The circuits and methods of the present invention relate to circuits for generating a multiplied clock signal based upon a reference clock signal, and circuits using the clock signal to deserialize data. According to one embodiment of the invention, a circuit comprising a counter is coupled to generate a count representative of the period of the input clock signal. A divider circuit coupled to the counter generates a divided count. Finally, a clock generator coupled to the divider circuit outputs an output clock signal having a period which is based upon the divided count. According to other embodiments, circuits and methods disclose receiving serial data using the output clock signal, and outputting the data as parallel data using the reference clock.

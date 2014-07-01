@@ -1,0 +1,4 @@
+title: System and method for obtaining accurate symbol rate and carrier phase, frequency, and timing acquisition for minimum shift keyed waveform
+
+abstract: 
+The present invention relates generally to communication systems, both wired and wireless, employing a continuous phase modulation (?CPM?) waveform with a minimum shift keying (?MSK?) preamble. The present inventive system and method uses information from contiguous Fourier Transforms taken on contiguous data blocks to determine baud rate, phase, frequency offset, and bit timing of the CPM waveform or can be used to determine the frequency of continuous wave waveform. More particularly, the inventive system and method is applicable to the military satellite communications UHF frequency band for deciding whether a signal of interest is.

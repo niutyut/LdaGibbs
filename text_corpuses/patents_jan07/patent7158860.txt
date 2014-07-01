@@ -1,0 +1,4 @@
+title: Healthcare tele-robotic system which allows parallel remote station observation
+
+abstract: 
+A robotic system that includes a mobile robot linked to a plurality of remote stations. The robot provides both audio and visual information to the stations. One of the remote stations, a primary station, may control the robot while receiving and providing audio and visual information with the remote controlled robot. The other stations, the secondary stations, may also receive the audio and visual information transmitted between the robot and the primary station. This allows operators of the secondary stations to observe, communicate and be trained through the robot and primary station. Such an approach may reduce the amount of travel required to train personnel.

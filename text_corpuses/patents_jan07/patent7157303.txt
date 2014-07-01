@@ -1,0 +1,4 @@
+title: Thin film transistor array substrate and fabricating method thereof
+
+abstract: 
+A thin film transistor array substrate structure includes a plurality of data lines; a plurality of gate lines intersecting the data lines to define pixel areas, the gate line being adjacent to at least two pixel areas; a plurality of common lines disposed between the at least two pixel areas; a plurality of thin film transistors formed at each intersection between the gate lines and the data lines; a plurality of common electrodes provided substantially parallel to the common lines; and a plurality of pixel electrodes connected to the thin film transistors.

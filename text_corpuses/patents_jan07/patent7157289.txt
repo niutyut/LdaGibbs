@@ -1,0 +1,5 @@
+title: Method for homogenizing the thickness of a coating on a patterned layer
+
+abstract: 
+A method for homogenizing the thickness of a uniform layer deposited on a layer of a material etched according to functional patterns, consisting of filling the empty areas with dummy patterns; a function, providing the thickness variation of the uniform layer for a given distribution of the functional and dummy patterns, being known; the method comprising:
+

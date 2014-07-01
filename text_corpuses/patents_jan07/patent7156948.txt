@@ -1,0 +1,4 @@
+title: Wet etching apparatus
+
+abstract: 
+A wet etching apparatus is disclosed. The apparatus comprises a first tank, containing a first wet etching solution; a filter, having a filter cartridge, connected to the first tank to filter out the impurities in the first solution; a second etching tank, connected to the filter and the first tank in parallel, containing a second solution; a reaction tank, connected to the filter, wherein having a wet etching reaction; an exhaust component, connected to the filter and the reaction tank in parallel; a first pump, delivering the first solution to the reaction tank through the filter; and a second pump, delivering the second solution to the exhaust component to exhaust the solution from the etching tank through the filter.

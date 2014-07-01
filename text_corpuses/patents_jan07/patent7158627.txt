@@ -1,0 +1,4 @@
+title: Method and system for inhibiting softswitch overload
+
+abstract: 
+A method includes receiving, at a softswitch executing on a computer, a plurality of calls for switching, monitoring at least one criteria associated with operation of the computer, and based on the monitoring, limiting the number of calls processed by the computer.

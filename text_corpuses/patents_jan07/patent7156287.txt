@@ -1,0 +1,4 @@
+title: Container with integrated spout and method for making same
+
+abstract: 
+The present invention provides a container with an integrated spout and a method for forming the container. The container includes an inner panel that defines a spout and an outer panel that defines an orifice. The width of the spout exceeds the width of the orifice. The outer panel may include a first tab adjacent to the orifice to provide access to the spout. The outer panel may also include a second tab that temporarily occludes the orifice. The orifice may be exposed when the spout on the inner panel is accessed and the second tab is at least partially detached by extracting the spout. An integrated spout on the inner panel, the width of which exceeds the width of the orifice on the outer panel, reduces the cycle time and cost of manufacturing containers with a spout and prevents the container contents from bypassing the spout upon pouring.

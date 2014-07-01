@@ -1,0 +1,4 @@
+title: Folding machine with stacking arm
+
+abstract: 
+A paper folding machine is provided including a housing having upper and lower fold plates constructed for quick and easy removal of the upper plates from the machine so that repairs may be made. The machine includes an automatically adjustable stacking arm movable to positions corresponding to the settings of the machine for fold type and size.

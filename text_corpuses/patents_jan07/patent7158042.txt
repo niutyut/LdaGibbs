@@ -1,0 +1,4 @@
+title: Voltage regulator for physically remote loads
+
+abstract: 
+The invention relates to a voltage regulator for physically remote loads () with an adjustable power supply () for the load (), with a measurement device () assigned to the load () for creating a digital measurement signal, which is transmitted over a digital data channel () arranged between a data source () and a data sink () to a setting device ( to ) for the power supply ().

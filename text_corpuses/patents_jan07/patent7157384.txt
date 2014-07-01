@@ -1,0 +1,4 @@
+title: Low dielectric (low k) barrier films with oxygen doping by plasma-enhanced chemical vapor deposition (PECVD)
+
+abstract: 
+Methods are provided for depositing a silicon carbide layer having significantly reduced current leakage. The silicon carbide layer may be a barrier layer or part of a barrier bilayer that also includes a barrier layer. Methods for depositing oxygen-doped silicon carbide barrier layers are also provided. The silicon carbide layer may be deposited by reacting a gas mixture comprising an organosilicon compound, an aliphatic hydrocarbon comprising a carbon-carbon double bond or a carbon-carbon triple bond, and optionally, helium in a plasma. Alternatively, the silicon carbide layer may be deposited by reacting a gas mixture comprising hydrogen or argon and an organosilicon compound in a plasma.

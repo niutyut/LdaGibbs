@@ -1,0 +1,4 @@
+title: Acoustic device
+
+abstract: 
+Acoustic device including a member extending transversely of its thickness and capable of sustaining bending waves at least over an intendedly consequentially acoustically active area of the transverse extent of said member, the member having, by reason of orderly design methodology disclosed and claimed, a distribution of resonant modes of its natural bending wave vibration at least over said area that is dependent on values of particular parameters of said members, including geometrical configuration and directional bending stiffness(es), which values have been selected to predetermine said distribution of natural resonant modes being consonant with required achievable acoustic action of said member for operation of said device over a desired operative acoustic frequency range.

@@ -1,0 +1,4 @@
+title: Method and apparatus for performing limited area spectral analysis
+
+abstract: 
+A method and apparatus for obtaining in-situ data of a substrate in a semiconductor substrate processing chamber is provided. The apparatus includes an optics assembly for acquiring data regarding a substrate and an actuator assembly adapted to laterally move the optics assembly in two dimensions relative to the substrate.

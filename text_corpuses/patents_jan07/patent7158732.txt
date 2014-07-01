@@ -1,0 +1,4 @@
+title: Method and system for using toner concentration as an active control actuator for TRC control
+
+abstract: 
+A method of using toner concentration (TC) as an active actuator in the tonal reproduction curve (TRC) controller, so that not only will the TRC controller maintain the TRC of the output, but also all the electrostatic actuators will not diverge, and the toner concentration will be within the latitude range of the xerographic system. The process ensures that the target of the toner concentration (TC) sensor will be changed properly in direction (up/down) and amplitude to compensate the TRC output of the print engine based on either reflective reactance readings and/or the level of the electrostatic actuators.

@@ -1,0 +1,4 @@
+title: Integrated digital platform
+
+abstract: 
+An integrated digital platform includes a digital display unit adapted to display visual images, with a broadband device at the top side thereof, two glass whiteboards arranged at left and right sides of the digital display unit, an electron beam track extended along the digital display unit and the glass whiteboards at the top side, an electron beam set in the electron beam track, a concealable inner layer provided at an inner side of one the glass whiteboard and accommodating an audio video input/output device and a data processing/storage device, and a multi-channel speaker mounted on the integrated digital platform and the lecture environment.

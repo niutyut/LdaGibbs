@@ -1,0 +1,4 @@
+title: Vehicle multimedia system having a safety interlock mechanism
+
+abstract: 
+A vehicle multimedia system having a safety interlock mechanism. The vehicle multimedia system comprising a portable multimedia unit having a support sensor for sensing support thereon and a docking station configured to interlock the portable multimedia unit therein. The docking station comprises a main frame having a receiving port to receive the portable multimedia unit. The main frame includes a locking assembly for securing the portable multimedia unit to the main frame and a microprocessor for communicating with the locking assembly and the support sensor.

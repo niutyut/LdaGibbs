@@ -1,0 +1,4 @@
+title: Method and device for modifying the polarization state of light
+
+abstract: 
+A magnetic, single-axis crystal is used to modify the polarization state of light, whereby light passes through pre-determined areas of the crystal. To change the polarization state of the light, a magnetic field pulse is applied to the crystal with a magnetic field amplitude, at which the crystal no longer remains in the single-domain state at the end of the pulse, but returns to a defined multi-domain state that is determined by the direction of the applied magnetic field, thus achieving large usable apertures of the switching element and extremely short change periods. According to the invention, energy is only required for the change operation and not for maintaining a specific state.

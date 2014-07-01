@@ -1,0 +1,4 @@
+title: Method and apparatus for configuring communication between devices in a computer system
+
+abstract: 
+A control hub includes a first interface and a second interface to transfer data. The first interface connects to a first bus. The second interface connects to a peripheral bus. The control hub receives configuration address and configuration data during a configuration access. The control hub transfers the configuration data between the first interface and the second interface without transferring the configuration data to a configuration data register. The control hub further includes other interfaces to allow access to peripheral devices for system management and testing purposes.

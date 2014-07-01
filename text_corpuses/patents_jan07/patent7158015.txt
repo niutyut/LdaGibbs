@@ -1,0 +1,4 @@
+title: Vision-based method and system for automotive parking aid, reversing aid, and pre-collision sensing application
+
+abstract: 
+A vision-based object detection decision-making system () for a vehicle () includes multiple vision sensing systems () that have vision receivers () and that generate an object detection signal. A controller () includes a plurality of sensing system aid modules () that correspond to each of the vision sensing systems (). The controller () operates the sensing system aid modules () in response to a vehicle parameter and generates a safety system signal in response to the object detection signal. The sensing system aid modules () have associated operating modes and operate the vision sensing systems () in the operating modes in response to the vehicle parameter.

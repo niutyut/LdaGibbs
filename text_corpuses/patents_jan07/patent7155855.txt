@@ -1,0 +1,4 @@
+title: Firearms protected from unauthorized use
+
+abstract: 
+Firearms protected from unauthorized use. A disclosed firearm comprises a housing having a handle; a safety located in the housing to selectively prevent firing; and a module removably attachable to the handle and containing an electronic identification device to identify an authorized user. The electronic identification device controls the safety to prevent firing by unauthorized persons and to permit firing by the authorized user.

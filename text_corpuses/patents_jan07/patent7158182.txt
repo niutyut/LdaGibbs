@@ -1,0 +1,4 @@
+title: Camera that engages in a focusing operation through a contrast method
+
+abstract: 
+A camera includes: an image-capturing element that captures a subject image through a photographic lens having a focusing lens; an evaluation value calculation unit that calculates focus evaluation values at a plurality of lens positions assumed by the focusing lens based upon an image-capturing signal output by the image-capturing element; a weighting unit that weights the focus evaluation values calculated by the evaluation value calculation unit in correspondence to the lens positions of the focusing lens assumed when the focus evaluation values are calculated respectively; and a focusing operation unit that performs a focusing operation for the photographic lens based upon the weighted focus evaluation values.

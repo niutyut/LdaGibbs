@@ -1,0 +1,4 @@
+title: Method for exposing a substrate with a structure pattern which compensates for the optical proximity effect
+
+abstract: 
+In a circuit layout, a partial area is defined in a first structure pattern, which is stored electronically in a data format and represents a first lithographic plane, in which partial area a lower limit value for the length of a serif to be added to a structure element in an OPC correction can be undershot in order to locally increase the resolution. The partial area in the electronically stored circuit layout maybe, for example, an active region with which contact is to be made and which has been selected in a second structure pattern of a further lithographic plane as a structure element. Thus, within such a partial area of an integrated circuit, elevated requirements made of dimensionally accurate imaging are satisfied, while the required data volume overall increases only to an insignificant extent.

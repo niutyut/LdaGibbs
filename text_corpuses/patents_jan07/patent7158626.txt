@@ -1,0 +1,4 @@
+title: Method for call establishment
+
+abstract: 
+A call establishment method and corresponding communications terminal for a trunked radio network such as TETRA () to establish a call from one network () to another network () through a gateway (). A target telephone number is dialled at the calling communications terminal storing unique associations between telephone numbers and call types. Alternatively the call type is requested from a user of the calling communications terminal in case no call type is stored with the target telephone number. The gateway () through which the target telephone number can be reached is then selected on the basis of the call type.

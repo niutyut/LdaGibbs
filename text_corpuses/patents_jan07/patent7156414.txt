@@ -1,0 +1,4 @@
+title: Airbag apparatus and lid thereof
+
+abstract: 
+A lid body for an airbag apparatus that can be torn along tear lines without generating hangnails. The lid body includes a lid body and a tear line disposed on a surface of the lid body. The tear line includes a center tear line extending in a lateral direction along the surface of the lid body, a left tear line continuing from a left end of the center tear line, and a right tear line continuing from a right end of the center tear line. The left tear line and the right tear line extend in directions of mutual intersection. Additionally, the angle of intersection between the left tear line and the center tear line is an acute angle, and the angle of intersection between the right tear line and the center tear line is an acute angle.

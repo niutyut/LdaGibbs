@@ -1,0 +1,4 @@
+title: Modular inkjet printhead incorporating a casing with a series of printhead modules
+
+abstract: 
+An inkjet printhead includes an elongate casing that defines a longitudinally extending mounting formation. A series of printhead modules are positioned in the mounting formation. Each printhead module includes a support member that defines a plurality of longitudinally extending conduits for conveying respective inks. A series of ink distribution arrangements is positioned on the support member. The support member defines a series of sets of apertures. The apertures of each set are in fluid communication with respective conduits and the ink distribution arrangements are in fluid communication with respective sets. A printhead integrated circuit is mounted on each ink distribution arrangement to receive ink from the support member via the associated ink distribution arrangement.

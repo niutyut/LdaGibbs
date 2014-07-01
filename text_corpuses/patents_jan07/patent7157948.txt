@@ -1,0 +1,4 @@
+title: Method and apparatus for calibrating a delay line
+
+abstract: 
+A delay line calibration circuit and method are provided in which a programmable master delay line drives a delay clock and has a propagation delay that is a function of a delay setting. A delay counter is clocked by the delay clock and has a delay count. A reference counter is clocked by a reference clock and has a reference count. A control circuit controls the delay and reference counters, compares a representation of the delay count to a representation of the reference count and responsively generates a modified value for the delay setting to reduce a difference between the representations of delay count and the reference count.

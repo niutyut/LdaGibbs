@@ -1,0 +1,4 @@
+title: Toner, developer including the toner, container containing the toner or the developer and method of producing the toner
+
+abstract: 
+A toner comprising toner particles comprising a first binder resin; a second binder resin different from said first binder resin and having a glass transition temperature of from 40 to 55? C.; a colorant; and a release agent, and a particulate resin material which is located on surface of the toner particles with a coverage of from 50 to 100%, and which has a glass transition temperature of from 50 to 90? C., wherein a weight ratio (W/W) between the second binder resin (W) and the first binder resin (W) is from 5/95 to 40/60, and wherein a ratio (G?80/G?180) between a storage modulus of the toner at 80? C. (G?80) and a storage modulus at 180? C. (G?180) is from 100 to 1,000.

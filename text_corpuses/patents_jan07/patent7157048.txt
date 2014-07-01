@@ -1,0 +1,4 @@
+title: Detection of contaminants
+
+abstract: 
+The present invention relates to a contamination detector associated with a double bar code that includes coded indicia used to identify the presence of conditions indicative of microbial contamination, including toxic contaminants, bacterial metabolites, and other microbial secretions. Of the two bar code symbols associated with the contamination detector, the first identifies the product or container, while the second bar code symbol is designed to identify the presence of contaminants. When contamination is not detected, the first bar code symbol is scanner readable, whereas the second bar code symbol is not. Once contamination is detected, bars in both bar code symbols can appear or disappear causing the first bar code symbol to become scanner unreadable and the second bar code symbol to become scanner readable.

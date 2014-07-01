@@ -1,0 +1,4 @@
+title: Motor vehicle seat
+
+abstract: 
+A motor vehicle seat has a pivoted backrest that can be swung forward in the direction of a seating of the seat, a longitudinal seat adjuster for adjusting the longitudinal position of the seat, a locking device of the longitudinal seat adjuster for locking a longitudinal seat position previously adjusted, and an unlocking mechanism for unlocking the locking device, and a flexible traction device via which the unlocking mechanism is coupled with the backrest so that the locking device is unlocked when the backrest is swung forward. An actuation element acts upon the traction device with a force component at an angle to the direction of extension of the traction device when the backrest is swung forward, thereby tightening the traction device and unlocking the locking device.

@@ -1,0 +1,4 @@
+title: Large field of view protection optical system with aberration correctability for flat panel displays
+
+abstract: 
+An exposure system for manufacturing flat panel displays (FPDs) includes a reticle stage adapted to support a reticle. A substrate stage is adapted to support a substrate. A reflective optical system is adapted adapted to image the reticle onto the substrate. The reflective optical system includes a primary mirror including a first mirror and a second mirror, and a secondary mirror. The reflective optical system has sufficient degrees of freedom for both alignment and correction of third order aberrations when projecting an image of the reticle onto the substrate by reflections off the first mirror, the secondary mirror, and the second mirror.

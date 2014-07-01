@@ -1,0 +1,4 @@
+title: Decryption of graphics data in a graphics processing pipeline
+
+abstract: 
+Encrypted graphics data is transmitted between systems or components of a system. The data is decrypted within a graphics processor or other recipient device that has been provided with an appropriate key. In one embodiment, encryption is performed by perturbing selected parameters of the graphics data so that the encrypted data can be used to generate a distorted image, and decryption is performed by reversing the perturbation.

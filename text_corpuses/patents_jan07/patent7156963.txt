@@ -1,0 +1,4 @@
+title: Tantalum sputtering target and method for preparation thereof
+
+abstract: 
+Provided is a tantalum sputtering target having a crystal structure in which the (222) orientation is preferential from a position of 10% of the target thickness toward the center face of the target, and a manufacturing method of a tantalum sputtering target, including the steps of forging and recrystallization annealing, and thereafter rolling, a tantalum ingot or billet having been subject to melting and casting, and forming a crystal structure in which the (222) orientation is preferential from a position of 10% of the target thickness toward the center face of the target. As a result, evenness (uniformity) of the film is enhanced, and quality of the sputter deposition is improved.

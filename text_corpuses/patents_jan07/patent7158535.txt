@@ -1,0 +1,4 @@
+title: System and method for translating overhead bytes in a multidimensional digital frame structure
+
+abstract: 
+A system and method have been provided for translating digitally wrapped communications between networks using different protocols. This invention makes use of an integrated circuit (IC) relay with programmable features to modify the locations and functions of overhead bytes between the receive and transmit sides of the device, permitting two dissimilar networks to be bridged. That is, the IC relay converts frame formatting from one frame structure to another, so that incompatible networks can communicate.

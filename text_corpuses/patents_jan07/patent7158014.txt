@@ -1,0 +1,4 @@
+title: Post-trip bus inspection alert system
+
+abstract: 
+A system and method for alerting responsible personnel to perform a post-trip inspection check for passengers remaining on a bus at the end of a trip by issuing audible and/or visual alerts when the bus is parked and the motor shut off at the end of the trip. The ignition switch () must be placed in ACCESSORY position and a park brake applied for the system to be rendered capable of being disarmed by operation of a disarming device (S) at the rear of the bus. Operation of the disarming device is indicated by a correct sequence of operating conditions of the device, namely first non-actuated, then actuated, and then non-actuated. The system includes a SNOOZE state that allows the ignition switch to be temporarily turned off during a trip and the alert to be stopped by pressing a snooze switch.

@@ -1,0 +1,4 @@
+title: Sample and hold system for controlling a plurality of pulse-width-modulated switching power converters
+
+abstract: 
+A system is disclosed for controlling a plurality of pulse-width-modulated switching power converters. The system includes a sample and hold circuit which is configured to receive information at time-separated intervals. The information the sample and hold circuit receives includes information which is indicative of the performance of the power converters. In some embodiments, the sample and hold circuit takes samples of data from each of the switching power converters and provides information to an analog to digital conversion circuit coupled to the sample and hold circuit. In one embodiment, the plurality of pulse-width-modulated switching power are configured to independently provide power to unrelated loads.

@@ -1,0 +1,4 @@
+title: Enhancement of intracellular delivery and tissue targeting of drugs and genes
+
+abstract: 
+A method for enhancing intracellular delivery of effector molecules is provided. The method involves modifying selected antibodies with biotin and streptavidin, conjugating these antibodies with an effector molecule, and delivering the conjugated effector to an intracellular target specifically recognized by the antibody.

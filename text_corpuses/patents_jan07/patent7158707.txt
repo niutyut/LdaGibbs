@@ -1,0 +1,4 @@
+title: Solid core optic fiber and method for the production thereof
+
+abstract: 
+An optical insulated core with a coated optical fiber () shows a core jacket () with a core jacket material containing polyvinylchloride () which is applied to the coating of the optical fiber. It contains a solid component () distributed within the core jacket material, which produces a mechanical separation effect against the coating of the optical fiber. The solid component () is mixed and distributed into the core jacket material during a compounding process. Thus the core jacket can be removed from the coating of the optical fiber in a simple way.

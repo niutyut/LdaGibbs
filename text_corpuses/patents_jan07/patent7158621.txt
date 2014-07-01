@@ -1,0 +1,4 @@
+title: Pre-paid calling and voice messaging services for inmates
+
+abstract: 
+Inmates place free incoming calls to a call processing system and are prompted to choose between accessing a voice mail system and calling an outside party. If an outside party is to be called, an inmate provides a phone number and an outgoing call is placed to the outside party. If the outside party provides payment for the call, the inmate is connected to the outgoing call and the incoming call is terminated. If the outgoing call is not accepted, the inmate may record a voice message for the outside party in a voice mailbox assigned to the inmate. For an access fee, the outside party may access the voice mailbox assigned to the inmate. Advertising messages may be presented to inmates during incoming calls and/or to outside parties during outgoing calls. Advertising revenue may cover incoming call charges. Inmates and/or outside parties may record voice messages for advertisers.

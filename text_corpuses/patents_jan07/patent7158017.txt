@@ -1,0 +1,4 @@
+title: Method for controlling a safety system in a vehicle
+
+abstract: 
+In a method for controlling a safety system in a vehicle, wherein an output signal of at least one impact sensor is subjected to frequency analysis in an evaluation unit which is integrated into an electronic control unit, the frequency analysis is performed in at least one predetermined frequency range, the spectrum of the output signal is compared with references patterns, the dependence of the spectrum on the present speed of the vehicle and/or the present outside temperature of the vehicle is taken into account, and a triggering signal is generated from the control unit to trigger planned protective measures if a person to be protected is detected with at least a predetermined probability.

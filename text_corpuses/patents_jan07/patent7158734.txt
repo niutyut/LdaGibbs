@@ -1,0 +1,4 @@
+title: Image forming apparatus
+
+abstract: 
+A second opening and closing door has a main body of the second opening and closing door, a sound absorbing member and a sound absorbing member cover. The sound absorbing member covers almost the entire surface of the main body of the second opening and closing door facing a guide member. The sound absorbing member cover is dyed black and made of an antistatic-treated cloth material which has air permeability, and is designed to cover almost the entire surface of the sound absorbing member facing the guide member. Further, the sound absorbing member cover is dyed with a dye which does not contain carbon, so that carbon-containing fibrous materials can be prevented from floating in an image forming apparatus while the light-shielding effect can be maintained.

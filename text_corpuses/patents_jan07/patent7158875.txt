@@ -1,0 +1,4 @@
+title: Misfire detection system for internal combustion engine
+
+abstract: 
+In a misfire detection system for an internal combustion engine, a product is calculated at every predetermined crank angle by multiplying a value retrieved from a periodic function defined to model torque generation of individual cylinders synchronously with each combustion cycle, by a detected crank angle velocity, and the product is integrated over a predetermined interval to calculate an integral. The integral is then compared with a predetermined value and is detected whether misfire has occurred in one of the individual cylinders, thereby enabling to detect misfire even when misfire occurs successively in a multiple cylinder engine, identify the misfiring cylinders with good accuracy.

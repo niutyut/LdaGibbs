@@ -1,0 +1,4 @@
+title: Surfactant-containing insulation binder
+
+abstract: 
+A fiberglass insulation binder composition made from a polycarboxy polymer, a polyhydroxy crosslinking agent, and a cationic surfactant, amphoteric surfactant, nonionic surfactant, or mixture thereof. Also, a process for manufacturing a fiberglass insulation product, which involves a step of applying the binder composition onto a fiberglass substrate and curing the fiberglass substrate so treated. Binders produced in accordance with the present invention are characterized by improved atomization, improved binder dispersion and fiber wetting properties, and improved protection of individual fibers during processing.

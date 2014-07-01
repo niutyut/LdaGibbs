@@ -1,0 +1,4 @@
+title: Apparatus and system for welding preforms and associated method
+
+abstract: 
+An assembly for positioning a structural assembly for friction stir welding, and a system and method for friction stir welding the structural assembly are provided. The assembly includes a frame defining an aperture therein, and at least one structural member positioned within the aperture. The assembly also includes at least one spacer positioned within the aperture such that the spacer and structural member substantially fill the aperture to secure the structural member within the frame, as well as a substrate secured to the frame and positioned adjacent to the structural member in an overlapping configuration to define an interface between the substrate and structural member. In this configuration, the substrate and structural member are capable of being friction stir welded together.

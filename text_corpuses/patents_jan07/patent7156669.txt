@@ -1,0 +1,4 @@
+title: Anisotropic conductive film
+
+abstract: 
+The present invention provides an anisotropic conductive film for testing an electronic component, which comprises a film substrate comprising an insulating resin and plural conductive paths insulated from each other and penetrating the film substrate in the thickness direction, preferably, an anisotropic conductive film wherein the plural conductive paths are disposed in a houndstooth check pattern and the distance between conductive paths between adjacent rows of conductive paths is smaller than the distance between conductive paths within a row of conductive paths. In another preferable embodiment, the insulating resin comprises a naphthalene skeleton epoxy resin crosslinked with a phenol resin and an acrylic rubber, and both ends of the plural conductive paths are exposed on both the front and the back surfaces of the film substrate.

@@ -1,0 +1,4 @@
+title: Liquid charging method, liquid container, and method for manufacturing the same
+
+abstract: 
+A liquid charging method for charging a liquid container with a liquid, the liquid container being provided with a piezo-electric device for detecting a consumption condition of the liquid in said liquid container, the piezo-electric device being provided with a cavity connecting to an inside of the liquid container, has the steps of: reducing a pressure in the liquid container to a pressure lower than atmospheric pressure; and charging the liquid container with the liquid. The liquid container requiring no complicated seal structure for precisely detecting the consumption condition of a liquid by using the piezo-electric device is charged with a liquid without internally leaving air bubbles.

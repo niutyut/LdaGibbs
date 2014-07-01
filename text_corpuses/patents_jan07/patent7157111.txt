@@ -1,0 +1,4 @@
+title: MOCVD selective deposition of C-axis oriented PB5GE3O11 thin films on In2O3 oxides
+
+abstract: 
+A method of selectively depositing a ferroelectric thin film on an indium-containing substrate in a ferroelectric device includes preparing a silicon substrate; depositing an indium-containing thin film on the substrate; patterning the indium containing thin film; annealing the structure; selectively depositing a ferroelectric layer by MOCVD; annealing the structure; and completing the ferroelectric device.

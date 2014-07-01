@@ -1,0 +1,4 @@
+title: Conductor compositions and the use thereof
+
+abstract: 
+Use of a composition comprising finely divided particles of (a) an electrically-conductive material; (b) one or more inorganic binders; and (c) one or more metal(s) selected from cobalt, nickel, iron and bismuth, wherein components (a), (b) and (c) are dispersed in a liquid vehicle, in the manufacture of an electrically-conductive pattern on a substrate for the purpose of increasing the resistivity of said electrically-conductive pattern.

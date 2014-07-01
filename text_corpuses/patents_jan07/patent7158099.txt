@@ -1,0 +1,4 @@
+title: Systems and methods for forming a reduced-glare image
+
+abstract: 
+A method and system are disclosed for producing a reduced-glare image. The method and system use at least two light sources located a selected distance apart from each other. An image acquisition device acquires a first image of an object using illumination from the first light source, but not the second. Then the image acquisition device acquires a second image of the object using illumination from the second light source, but not the first. The two images, having glare at different pixel locations, are then used to form a reduced-glare image.

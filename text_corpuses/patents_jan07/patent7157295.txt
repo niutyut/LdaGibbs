@@ -1,0 +1,4 @@
+title: Method of manufacturing liquid crystal display
+
+abstract: 
+A conductive layer, a metal layer and a doped layer are sequentially formed on a glass substrate. A CMOS circuit region, a transistor region, a reflective region, a transmission region and a capacitor region are defined. Next, a polysilicon layer and an insulating layer are formed to serve as a source/drain region, a channel region and a gate insulating layer. Then, a resin layer with a rough surface is formed. Next, a metal layer is formed to serve as a gate structure and a reflective electrode. Then, an ion implanting process is performed to form the source/drain structure of a PMOS. Then, a passivation layer is formed to define a transmission region. Finally, the metal layer and the doped layer are removed to expose the conductive layer.

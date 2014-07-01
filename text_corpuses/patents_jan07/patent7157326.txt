@@ -1,0 +1,4 @@
+title: Process for fabricating capacitor element
+
+abstract: 
+A process of the invention for fabricating a capacitor element includes the steps of forming a dielectric coating on a surface of an anode body and a surface of lower part of a projecting portion of an anode lead member implanted in the anode body, forming a precoat layer of an electrically conductive high polymer on the dielectric coating, exposing an area of the surface of the lower part in an annular form by partly removing the dielectric coating and the precoat layer, forming an electrically conductive high polymer layer on the precoat layer using an electrolytic polymerization process by immersing the anode body in a solution of a monomer so as to position said area of the surface of the lower part at the liquid level of the solution, and deburring the conductive high polymer formed on said area of the surface of the lower part.

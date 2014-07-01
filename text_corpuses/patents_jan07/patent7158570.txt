@@ -1,0 +1,4 @@
+title: Motion picture encoding apparatus
+
+abstract: 
+Motion picture data is compression-encoded by a compression encoder with the frame rate changing according to the amount of accumulated data of the buffer, which can adequately change the number of pieces of frame image data to be compression-encoded per unit time, according to the change in the picture of the motion picture. In addition, tracing is done to trace extract image data in the frame image data by using a simple motion vector detected for the frame image data of the motion picture data, a higher layer motion vector detector detects a motion vector of the frame image data by using the simple motion vector in common, and a compression encoder extracts the extract image data based on the results of tracing and compression-encodes it by using the motion vector.

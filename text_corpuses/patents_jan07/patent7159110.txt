@@ -1,0 +1,4 @@
+title: Identifying and coalescing identical objects encrypted with different keys
+
+abstract: 
+Cryptographic protocols and methods of employing the same are described. The described protocols advantageously enable two or more identical encryptable objects that are coded for encryption with different keys to be identified as identical without access to either the unencrypted objects or the keys that are used in the encryption process. Additionally, the protocols enable two or more identical encryptable objects to be processed with different encryption keys, yet be stored in a manner so that the total required storage space is proportional to the space that is required to store a single encryptable object, plus a constant amount for each distinct encryption key. In various embodiments, the encryptable objects comprise files and the cryptographic protocols enable encrypted files to be used in connection with single instance store (SIS) systems.

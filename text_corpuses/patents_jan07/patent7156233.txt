@@ -1,0 +1,4 @@
+title: Tamper barrier enclosure with corner protection
+
+abstract: 
+A tamper protected printed circuit board assembly including a printed circuit board and a tamper wrap attached to the printed circuit board. The tamper wrap includes a plurality of side tabs extending from a main body portion and a plurality of corner protection flaps extending from the side tabs. The tamper wrap covers the entirety of a first surface of the printed circuit board and at least a portion of a second surface opposite the first surface of the printed circuit board. Each of the side tabs covers at least a portion of one of the side walls of the printed circuit board and each of the corner flaps is folded around and covers a respective one of the corner edges of the printed circuit board. The printed circuit board may have a plurality of corner sentinels mounted adjacent to the corners of a surface thereof for protecting such corners.

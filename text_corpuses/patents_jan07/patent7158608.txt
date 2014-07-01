@@ -1,0 +1,4 @@
+title: X-ray diffraction apparatus
+
+abstract: 
+An x-ray diffraction apparatus comprises an x-ray source for generating an x-ray beam, a monochromator for generating a monochromatic x-ray beam from the x-ray beam, and a collimator for collimating the monochromatic x-ray beam and directing it onto a sample, wherein the x-ray source and the monochromator are pre-assembled and fixed with respect to each other in an integrated unit such that in use the path length of the x-ray beam from the source to the monochromator is maintained substantially constant. X-ray flux at the sample is further enhanced by use of a partial monocapillary collimator arranged to direct part of the X-ray beam to the sample by a single grazing reflection.

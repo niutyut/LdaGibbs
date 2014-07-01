@@ -1,0 +1,4 @@
+title: Plug attaching mechanism
+
+abstract: 
+Apparatus to hang a portable audio equipment that outputs audio signals from the user's neck includes a plug shell provided with a connecting terminal fixed to the inside of a cylindrical plug cover through a sleeve formed of an elastic member. A projecting portion is integrally formed on the connecting terminal side of the plug cover and in the projecting portion is formed an engaging groove that engages with an engaging piece provided on the jack side.

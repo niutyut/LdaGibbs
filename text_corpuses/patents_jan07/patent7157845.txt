@@ -1,0 +1,4 @@
+title: Single-component yellow-emitting electroluminescent phosphor
+
+abstract: 
+A single-component, yellow-emitting electroluminescent phosphor, a method for making same, and an electroluminescent lamp containing same, are described. The phosphor produces a yellow emission having an x color coordinate from 0.420 to 0.500 and y color coordinate from 0.420 to 0.460 when stimulated by an electric field.

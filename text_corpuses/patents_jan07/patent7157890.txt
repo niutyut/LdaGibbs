@@ -1,0 +1,4 @@
+title: Using pulse width modulation in the control of load sharing between paralleled power supplies
+
+abstract: 
+A plurality of power supply modules having their outputs coupled in parallel are controlled for load balancing purposes through a direct current bus having filtered pulse width modulation (PWM) signals representative of the power outputs of each of the plurality of power supply modules. A local PWM signal for each of the plurality of power supply modules is filtered to a DC voltage and used to compare with an average power required from each of the plurality of power supply modules.

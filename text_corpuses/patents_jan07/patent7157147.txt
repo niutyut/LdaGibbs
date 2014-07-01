@@ -1,0 +1,4 @@
+title: Gas-barrier film and gas-barrier coating agent, and method for production thereof
+
+abstract: 
+Provided are a gas-barrier film which is a laminate comprising a substrate layer comprising a thermoplastic resin film and a gas-barrier layer comprising a hydrolysate of a silicon alkoxide, a stratified silicate and a polyvinyl alcohol base resin, wherein a radius (Rg) of gyration of a scattering matter which is measured by light scattering in the gas-barrier layer described above is 2.4 ?m or less, and the silicon alkoxide and/or the hydrolysate thereof are present between the layers of the stratified silicate present in the above gas-barrier layer. The above film shows an excellent gas-barrier property even under such a high humidity as exceeding 90% RH.

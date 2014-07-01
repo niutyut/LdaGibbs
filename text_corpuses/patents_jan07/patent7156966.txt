@@ -1,0 +1,4 @@
+title: Nox-decomposing electrode and NOx concentration-measuring apparatus
+
+abstract: 
+A detecting electrode comprises a first cermet electrode layer formed directly on a solid electrolyte layer and a second cermet electrode layer formed on the first cermet electrode layer. A ratio between an alloy of Pt?Rh and ZrOin the first cermet electrode layer ranges from 20:80 to 50:50 by volume ratio. On the other hand, a ratio between an alloy of Pt?Rh and ZrOin the second cermet electrode layer ranges from 60:40 to 50:50 by volume ratio.

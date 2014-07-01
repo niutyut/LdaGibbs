@@ -1,0 +1,4 @@
+title: Self-service terminals
+
+abstract: 
+A self-service terminal (SST), such as an ATM includes apparatus for producing images containing instructions for users of the terminal, and an arrangement for projecting the images onto a screen forming part of a terminal user interface.

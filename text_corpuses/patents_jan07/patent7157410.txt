@@ -1,0 +1,10 @@
+title: Perfluoropolyether ester compound, lubricant and magnetic recording medium
+
+abstract: 
+A novel perfluoropolyether derivative, which has at least one ester bond and is useful as a lubricant with a decomposition temperature of 300? C. or more, is obtained by an esterification reaction between a perfluoropolyether diol having hydroxyl groups at both ends thereof and represented by the formula (1) and a perfluoropolyether dicarboxylic acid having carboxyl groups at both ends thereof and represented by the formula (2):
+
+HOCH?R?CHOH??(1)
+
+HOOC?R??COOH??(2)
+
+wherein each of R and R? is a perfluoroether group.

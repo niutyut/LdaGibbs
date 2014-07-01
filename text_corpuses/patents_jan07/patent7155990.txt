@@ -1,0 +1,4 @@
+title: Method and apparatus for determining a downhole fluid sample volume
+
+abstract: 
+A formation test tool  for obtaining a downhole fluid sample from a formation of interest  and returning the sample to the surface of a well includes a cylinder  forming a fluid sample chamber therein, and a piston  sealingly movable within the cylinder and separating the fluid sample from a cushioning fluid. A fluid line  connects the formation of interest to the fluid sample chamber, and a valve  controls fluid flow along the fluid line. In one embodiment, a magnet  supported on the piston outputs signals indicative of the position of the piston and thus the volume of the fluid sample within the cylinder. A meter  is movable along the exterior of the cylinder  for determining the position of the magnet within the cylinder, such that the volume of sampled fluid in the cylinder can be determined at the surface.

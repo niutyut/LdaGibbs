@@ -1,0 +1,4 @@
+title: Semiconductor equipment
+
+abstract: 
+A duty of a system clock is changed by a duty changing circuit, and a phase difference is provided between a current consumed at a leading edge of the system clock and a current consumed at a trailing edge thereof in an internal circuit, so as to shift phases of consumed currents away from each other. Thereby, frequency components concentrating on frequencies each of an even order frequency of the system clock can be cancelled and harmonic components each of a frequency of an even order in a current be reduced. Thus, a semiconductor equipment with less electromagnetic interference can be realized.

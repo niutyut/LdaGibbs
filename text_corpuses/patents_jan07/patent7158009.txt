@@ -1,0 +1,4 @@
+title: Electronic circuit for contactless tag, and contactless tag
+
+abstract: 
+An electronic circuit for a contactless tag includes a transceiving device having an antenna coil and a circuit changeover switch that switching between a state where the antenna coil forms a resonance circuit of the transceiving device and a state where the antenna coil forms a booster circuit.

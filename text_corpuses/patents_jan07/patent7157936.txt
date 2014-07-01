@@ -1,0 +1,4 @@
+title: Utilization of unused IO block for core logic functions
+
+abstract: 
+A method and an improved FPGA apparatus for enabling the selective deployment of unused flip-flops or other circuit elements in IO cells and unused decoders or other circuit elements in Look Up Tables (LUT), for core logic functions is provided, comprising disconnecting means for selectively disconnecting unused circuit elements from the IO pad circuitry or from said LUT circuitry, and connecting means for selectively connecting said disconnected circuit elements either to the connection matrix of the core logic or between themselves to provide independently configured functions.

@@ -1,0 +1,4 @@
+title: System and method for metering fibrous material
+
+abstract: 
+A system and method are used to meter fibrous material into a concrete mixture. The system includes an endless conveyor belt rotatably supported on first and second rollers. Pick up members on the belt project into the direction of travel for collecting fibrous material as the belt is rotated through a container having fibrous material therein. The fibrous material is released as the belt is rotated over the second roller where the pick up members are moved away from the belt at the free end thereof due to curvature of the belt. A sweeper mechanism may be provided at the second roller to assist in releasing the fibrous material from the pickup members. The configuration of the container permits any brand or type of fibres to be readily used while still maintaining a consistent delivery or discharge of fibres which is proportional to the movement of the conveyor.

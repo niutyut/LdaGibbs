@@ -1,0 +1,4 @@
+title: Method and system for battery protection employing averaging of measurements
+
+abstract: 
+A system and method for battery protection. In some aspects, a method of a method for operating a battery pack. The battery pack having a battery pack condition, and the battery pack condition having a range. The method including the acts of conducting an operation including the battery pack, measuring a first measurement of the battery pack condition, measuring a second measurement of the battery pack condition, averaging the first measurement and the second measurement to provide an average measurement and if the average measurement is within the range, continuing the operation including the battery pack. At least one of the first measurement and the second measurement being outside of the range.

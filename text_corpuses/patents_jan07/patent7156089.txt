@@ -1,0 +1,4 @@
+title: Method and device for treatment of respiratory tract disorders
+
+abstract: 
+An organizational treatment device and method for the treatment of obstructive pulmonary disease comprising both controller and rescue medications such that the need for rescue medication and consequent need for controller medication can be more certainly determined than at present.

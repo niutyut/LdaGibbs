@@ -1,0 +1,4 @@
+title: Helical blow molding preform and method of manufacturing
+
+abstract: 
+A multiple cavity bottle is manufactured by injection molding a preform having a helical septum and blow molding the preform to create a bottle having a helical septum separating the bottle into two cavities. The helical septum is molded with a twist sufficient to accommodate a contact point size for stretch rods used in blow molding. Blow molding is then accomplished by inserting at least two stretch rods from the top end of the preform to the contact points, heating the preform to a softening temperature, extending the stretch rods to stretch the preform and introducing gas pressure into the preform to stretch a blow molding portion into a final bottle shape within a mold.

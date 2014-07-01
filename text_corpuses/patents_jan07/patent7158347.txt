@@ -1,0 +1,4 @@
+title: Grounding connection between suspension flexure and arm actuator
+
+abstract: 
+An actuator arm assembly of a hard disk drive. The assembly includes a flexure that is attached to an actuator arm and a head coupled to the flexure. The head is coupled to a pre-amplifier circuit of the drive. The head is also electrically grounded through the flexure and the actuator arm. To improve the reliability of the ground path the flexure has a spring that is contact with a slot of the actuator arm. The spring provides a ground path from the head to the actuator arm.

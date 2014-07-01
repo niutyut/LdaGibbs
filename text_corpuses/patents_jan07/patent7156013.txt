@@ -1,0 +1,4 @@
+title: Hydraulic cylinder comprising valves
+
+abstract: 
+An energy cylinder for operating a valve of a turbine, in particular of a steam turbine, is disclosed, wherein a cylinder housing and a control block are combined into a common block. The latter has two diametrically arranged lateral surfaces on which a control valve and a logic valve for controlling the pressure medium flows are arranged.

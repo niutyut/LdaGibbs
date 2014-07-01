@@ -1,0 +1,9 @@
+title: Method for synthesissing (2s, 3as, 7as)-perhydroindole-2-carboxylic acid and the esters thereof and the use thereof for perindopril synthesis
+
+abstract: 
+Process for the synthesis of compounds of formula (I):
+
+
+wherein R represents hydrogen or a protecting group.
+
+Application in the synthesis of perindopril and pharmaceutically acceptable salts thereof.

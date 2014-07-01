@@ -1,0 +1,4 @@
+title: Film projector with high efficiency illumination
+
+abstract: 
+A motion picture film projector including a lamp house section having a lamp bulb and a reflector; a head section located in front of the lamp house section; and an optical member located proximate a junction between the lamp house section and the head section. The optical member has infrared filtering coatings on both a front side and a rear side of the optical member. The reflector has a rear aperture with a portion of the lamp bulb extending therethrough. The rear aperture is larger than a center outer diameter of the lamp bulb. The lamp bulb and the reflector are sized and shaped such that an operator looking rearward from a front side of the lamp bulb and reflector can see a general ring shaped gap between the reflector and the lamp bulb when the lamp bulb is aligned relative to the reflector.

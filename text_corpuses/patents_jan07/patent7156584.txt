@@ -1,0 +1,4 @@
+title: Method for installing a high or medium power cable in the ground
+
+abstract: 
+The invention concerns a method for setting medium or high power electric cables () in the ground, which consists in digging a trench () evacuating the materials derived from the trench () towards a treatment device, for example by crushing, depositing at least a duct or an assembly of three installation ducts in the trench (), backfilling the trench () with the treated materials and setting in said installation duct (), at least a medium or high power electric cable () by pushing it while injecting water () under pressure into the installation duct () so as to use the water () as carrier and discharge fluid for the heat energy resulting from friction between the cable () and the installation duct ().

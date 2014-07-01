@@ -1,0 +1,4 @@
+title: Varied density nonwoven
+
+abstract: 
+A nonwoven having varying densities of the fibers that make up the nonwoven. The nonwoven has a length direction x, a width direction y, and a thickness direction z. The density of the fibers  in the nonwoven  varies long the width direction y of the nonwoven 
