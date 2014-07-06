@@ -1,4 +1,9 @@
 require("tm")
+require(Rcpp)
+
+# Grab the cpp gibbs sampler. 
+sourceCpp("gibbsC.cpp")
+
 
 
 
@@ -182,4 +187,7 @@ gibbs.sampler.lda <- function(dtm, n.sim, K, alpha, beta) {
  
 }
 
+gibbs.c.wrapper <- function(dtm, n.sim, K, alpha, beta, sampler) {
+  gibbsC(dtm, n.sim, K, alpha, beta, sample.from.conditional)		  		
+}
 
