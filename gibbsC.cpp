@@ -1,10 +1,13 @@
 #include <Rcpp.h>
 #include <random>
+#include <stdexcept>
 using namespace Rcpp;
 
 // akin to 'import __ as __' in python. 
 typedef std::uniform_int_distribution<> D;
 typedef std::minstd_rand G;
+
+// Get rmultinom. 
 
 double rowSum(NumericMatrix x, int r) {
   int numCols = x.ncol();
@@ -15,8 +18,68 @@ double rowSum(NumericMatrix x, int r) {
   return sum;
 }
 
+int whichC(NumericVector x, double val) {
+  int ind = -1;
+  int n = x.size();
+  for (int i = 0; i < n; ++i) {
+    if (x[i] == val) {
+      if (ind == -1) {
+	ind = i;
+      } else {
+	throw std::invalid_argument( "value appears multiple times." );
+      }
+    } // end if
+  } // end for
+  if (ind != -1) {
+    return ind;
+  } else {
+    throw std::invalid_argument( "value doesn't appear here!" );
+    return -1;
+  }
+}
+
 // [[Rcpp::export]]
-RObject GibbsC(NumericMatrix dtm, int nSim, int K, int alpha, int beta, Function sample) {
+int sampler(NumericMatrix dtm, NumericMatrix dtc, NumericMatrix ttc,
+	    int alpha, int beta, int m, int n, int K) {
+
+  int M = dtm.nrow();
+  int V = dtm.ncol();
+  int newZ = 0;
+  
+  if (dtm(m, n) > 0) {
+
+    // These will be parameters for a multinomial distribution.
+    NumericVector params(K);
+    double sum = 0;
+
+    // Set the appropriate values for each entry of 'params'
+    for (int k = 0; k < K; ++k) {
+      double prob = ttc(k, n) + beta;
+      prob = prob * dtc(m, k) + alpha;
+      prob = prob / (rowSum(ttc, k) + (beta * V));
+      prob = prob / (rowSum(dtc, m) + alpha * K);
+
+      params[k] = prob;
+      sum += prob;
+    } // end for
+
+    // Normalize so that 'params' sums to 1. 
+    for (int k = 0; k < K; ++k) {
+      params[k] = params[k] / sum;
+    }
+
+    // TODO - figure out why rmultinom ain't workin'. 
+    RObject sampled = rmultinom(1, 1, params);
+    newZ = whichC(as<NumericVector>(sampled), 1);
+    
+  } else {
+    newZ = 0;
+  }
+  return newZ;
+}
+
+// [[Rcpp::export]]
+RObject GibbsC(NumericMatrix dtm, int nSim, int K, int alpha, int beta) {
   
   int M = dtm.nrow();
   int V = dtm.ncol();
@@ -71,7 +134,7 @@ RObject GibbsC(NumericMatrix dtm, int nSim, int K, int alpha, int beta, Function
 	    ttc(oldZ, n) -= 1;
 	  }
 
-	  newZ = as<int>(sample(dtm, ttc, dtc, alpha, beta, m, n, K));
+	  newZ = sampler(dtm, ttc, dtc, alpha, beta, m, n, K);
 	  dtc(m, newZ) += 1;
 	  ttc(newZ, n) += 1;
 	} else {
