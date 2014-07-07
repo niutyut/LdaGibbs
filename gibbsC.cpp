@@ -7,8 +7,6 @@ using namespace Rcpp;
 typedef std::uniform_int_distribution<> D;
 typedef std::minstd_rand G;
 
-// Get rmultinom. 
-
 double rowSum(NumericMatrix x, int r) {
   int numCols = x.ncol();
   int sum = 0;
