@@ -114,8 +114,44 @@ newZ <- sampler(dtm001, dtc.init, ttc.init, alpha, beta, 0, 38, K)
 m <- 1
 n <- 39
 
-params.test <- rep(0, K)
+
 sum <- 0
+
+
+getProbs <- function(m, n, K, V) {
+	params.test <- rep(0, K)
+	for (k in 1:K) {
+		prob.test <- ttc.init[k, n] + beta
+		prob.test <- prob.test * (dtc.init[m, k] + alpha)
+		prob.test <- prob.test / (rowSum(ttc.init, (k - 1) ) + (beta * V))
+		prob.test <- prob.test / (rowSum(dtc.init, (m - 1) ) + (alpha * K))
+	
+		sum = sum + prob.test
+		params.test[k] <- prob.test
+	}
+
+params.test
+}
+
+getProbs(1, 39, K, V)
+# Okay, so this works too, but as we can see, the params are really small.
+# Let's normalize. 
+
+params.test <- params.test / sum
+
+# And then pass these as probs to 'cmultinom'
+cmultinom(params.test, (m - 1), (n -1))
+
+# Damn. This is working here, too! Why??? I suspect rounding issues due to small numbers.  There must be different rounding behavior in C++ than in R. 
+
+# Are the parameters smaller for word 39 than for word 31?
+# Word 31 is succesfully sampled in the gibbsC code. 
+
+getProbs(1, 31, K, V)
+
+# Well, yes, they are somewhat smaller.  All the params in the former case are
+# on the order of 10e-6, whereas there are a few on the order of 10e-4
+# in the former case. 
 
 for (k in 1:K) {
 	prob.test <- ttc.init[k, n] + beta
@@ -129,15 +165,6 @@ for (k in 1:K) {
 
 params.test
 
-# Okay, so this works too, but as we can see, the params are really small.
-# Let's normalize. 
-
-params.test <- params.test / sum
-
-# And then pass these as probs to 'cmultinom'
-cmultinom(params.test, (m - 1), (n -1))
-
-# Damn. This is working here, too! Why??? I suspect rounding issues due to small numbers.  There must be different rounding behavior in C++ than in R. 
 
 
 
