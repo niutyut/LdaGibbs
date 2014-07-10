@@ -153,17 +153,7 @@ getProbs(1, 31, K, V)
 # on the order of 10e-6, whereas there are a few on the order of 10e-4
 # in the former case. 
 
-for (k in 1:K) {
-	prob.test <- ttc.init[k, n] + beta
-	prob.test <- prob.test * (dtc.init[m, k] + alpha)
-	prob.test <- prob.test / (rowSum(ttc.init, (k - 1) ) + (beta * V))
-	prob.test <- prob.test / (rowSum(dtc.init, (m - 1) ) + (alpha * K))
-	
-	sum = sum + prob.test
-	params.test[k] <- prob.test
-}
 
-params.test
 
 
 
