@@ -75,6 +75,8 @@ beta <- 0.01
 nsim <- 1
 
 # See the output in R for the problems.
+# Note - I haven't included the code for the parameter estimates yet. 
+#      - This is only a very little bit of code compared to getting gibbsC working. 
 matrices <- gibbsC(dtm001, 1, K, alpha, beta, verbose = F), times = 5)
 
 
