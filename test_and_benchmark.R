@@ -1,16 +1,14 @@
-# This script analyzes the C++ code I wrote for the Gibbs Sampler. 
-# It runs locally on my computer. 
+# This script analyzes the C++ code I for the Gibbs Sampler. 
 
 require(Rcpp)
 require(microbenchmark)
 
-# Store path names in variables for convenience. 
-sandbox <- "/Users/jacobmenick/Desktop/sandbox"
-home_path <- "/Users/jacobmenick/Desktop/Summer_2014_Research/r_scripts/LdaGibbs"
-
-# Import 'devGibbs.cpp' from the sandbox. 
-setwd(sandbox)
 sourceCpp("devGibbs.cpp")
+source("gibbs_prep.R")
+
+
+# Section 1: BENCHMARKS
+
 
 # Benchmark my multinomial sampling code against R's multinomial sampling code.
 probs <- c(.1, .05, .15, .3, .4)
@@ -63,9 +61,10 @@ microbenchmark(
   testUnifC(n.test, b),
   testUnifR(n.test, b))
   
-// Test the full gibbs code. 
-setwd(home_path)
-source("gibbs_prep.R")
+
+# Section 2: TEST GIBBS SAMPLER
+
+
 path_to_reuters <- "text_corpuses/reuters001"
 reuters001 <- get_corpus(path_to_reuters)
 dtm001 <- get_dtm_matrix(reuters001)
@@ -75,6 +74,7 @@ alpha <- 50/K
 beta <- 0.01
 nsim <- 1
 
-microbenchmark( gibbsC(dtm001, 25, K, alpha, beta, verbose = F), times = 5)
+# See the output in R for the problems.
+matrices <- gibbsC(dtm001, 1, K, alpha, beta, verbose = F), times = 5)
 
 
