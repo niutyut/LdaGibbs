@@ -228,7 +228,7 @@ RObject initializeGibbs(NumericMatrix dtm, int K) {
 // and return an error if so. 
 
 // [[Rcpp::export]]
-int sampler(NumericMatrix dtm, NumericMatrix dtc, NumericMatrix ttc,
+int sampler(NumericMatrix dtm, NumericMatrix dtcm, NumericMatrix ttcm,
 	    int alpha, int beta, int m, int n, int K) {
   
   int M = dtm.nrow();
@@ -257,13 +257,10 @@ int sampler(NumericMatrix dtm, NumericMatrix dtc, NumericMatrix ttc,
     // And it should work out because everything is normalized to 1 anyway. 
 
     for (int k = 0; k < K; ++k) {
-      double prob = ttc(k, n) + beta;
-      if (m == 0) {
-	prob = prob * 100000;
-      }
-      prob = prob * (dtc(m, k) + alpha);
-      prob = prob / (rowSum(ttc, k) + (beta * V));
-      prob = prob / (rowSum(dtc, m) + (alpha * K));
+      double prob = ttcm(k, n) + beta;
+      prob = prob * (dtcm(m, k) + alpha);
+      prob = prob / (rowSum(ttcm, k) + (beta * V));
+      prob = prob / (rowSum(dtcm, m) + (alpha * K));
 
       params[k] = prob;
       sum += prob;
@@ -372,7 +369,7 @@ RObject gibbsC(NumericMatrix dtm, int nsim, int K, int alpha, int beta, bool ver
 		      << m << " as " << initZ << ". " << std::endl << std::endl;
 	}
 	
-      } 
+      } else {}
     } // end loop over words
   } // end loop over documents.
 
