@@ -194,7 +194,7 @@ RObject initializeGibbs(NumericMatrix dtm, int K) {
 	ta(m, n) = initZ;
 
 	// Increment the count of initZ in dtc and ttc. 
-        // SUBTRACT BY 1 BECAUSE THESE MATRICES INDEX TOPIC at [0, K-1]
+        // SUBTRACT 1 BECAUSE THESE MATRICES INDEX TOPIC at [0, K-1]
 	dtc(m, (initZ - 1) ) += 1;
 	ttc( (initZ - 1), n) += 1;
 	
@@ -202,6 +202,8 @@ RObject initializeGibbs(NumericMatrix dtm, int K) {
     } // end loop over words
   } // end loop over documents.
 
+  
+  // Return ta (topic-assignemnts), dtc (doc-topic counts), and ttc (topic-term-counts)
   RObject out = Rcpp::List::create(Rcpp::Named("DTC") = dtc,
 				   Rcpp::Named("TTC") = ttc,
 				   Rcpp::Named("TA") = ta);
@@ -217,12 +219,12 @@ RObject initializeGibbs(NumericMatrix dtm, int K) {
 // of the words. 
 //
 // We then sample a topic index for word 'n' in document 'm'
-// from this multinomial distribution and return it. 
+// from this multinomial distribution and return the index as 'newZ'. 
 // This topic will be indexed by [1, K]. 
 // So we will have to subtract one from the index when we update the counts
-// in the full GibbsC function. 
+// for dtc and ttc (as topic is index from [0, K-1] in those matrices. 
 // 
-// Let's remember to check if the index is -1 in that funciton as well 
+// Let's remember to check if the index is -1 in that function as well 
 // and return an error if so. 
 
 // [[Rcpp::export]]
@@ -236,11 +238,11 @@ int sampler(NumericMatrix dtm, NumericMatrix dtc, NumericMatrix ttc,
   // Only assign a new topic to word 'n' if it occurs in document 'm'. 
   if (dtm(m, n) > 0) {
 
-    // params will hold the parameters for the multinomial distribution. 
+    // 'params' will hold the parameters for the multinomial distribution. 
     // It is zero-indexed. 
     NumericVector params(K);
     
-    // sum will hold the sum of the params so that we can normalize 
+    // 'sum' will hold the sum of the params so that we can normalize 
     // the multinomial probabilities to sum to 1. 
     double sum = 0;
 
@@ -251,8 +253,8 @@ int sampler(NumericMatrix dtm, NumericMatrix dtc, NumericMatrix ttc,
 
     // What happens if we multiply by 10000? I think it should be fine because
     // it keeps everything proportional.  That way maybe avoid some issues with REALLY
-    // small numbers being rounded to zero, 
-    // and it should work out because everything is normalized to 1 anyway. 
+    // small numbers being rounded to zero? 
+    // And it should work out because everything is normalized to 1 anyway. 
 
     for (int k = 0; k < K; ++k) {
       double prob = ttc(k, n) + beta;
@@ -293,12 +295,12 @@ int sampler(NumericMatrix dtm, NumericMatrix dtc, NumericMatrix ttc,
 
 // gibbsC
 // 
-// TODO - there are bugz. 
+// TODO - there are bugz. Errors arise with doc 0. 
 //
 // This is the gibbs sampler for LDA. 
 // We hand this funciton a 'document-term-matrix', dtm,
-// the number of topics, K,
-// the hyperparameters alpha and beta,
+// the number of topics, 'K',
+// the hyperparameters 'alpha' and 'beta',
 // and the number of iterations for MCMC, 'nsim'. 
 // 
 // We receive an R List object containing two matrices corresponding
@@ -439,7 +441,9 @@ RObject gibbsC(NumericMatrix dtm, int nsim, int K, int alpha, int beta, bool ver
   // SECTION 3: Estimate parameters and return them as an R List. 
 
 
-  // Create the list with 'phi' and 'theta' for return. 
+  // For now we just return the dtc and ttc, because I didn't want
+  // to write the code for estimating parameters before the rest of the algorithm
+  // was working right. So we get the count matrices instead of 'theta' and 'phi'.
   RObject out = Rcpp::List::create(Rcpp::Named("DTC") = dtc,
 				   Rcpp::Named("TTC") = ttc);
   return out;
