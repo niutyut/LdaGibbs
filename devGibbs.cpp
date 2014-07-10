@@ -229,7 +229,7 @@ RObject initializeGibbs(NumericMatrix dtm, int K) {
 
 // [[Rcpp::export]]
 int sampler(NumericMatrix dtm, NumericMatrix dtcm, NumericMatrix ttcm,
-	    int alpha, int beta, int m, int n, int K) {
+	    double alpha, double beta, int m, int n, int K, bool verbose = false) {
   
   int M = dtm.nrow();
   int V = dtm.ncol();				
@@ -266,7 +266,7 @@ int sampler(NumericMatrix dtm, NumericMatrix dtcm, NumericMatrix ttcm,
       sum += prob;
     }
 
-    if (m == 0 ) {
+    if (verbose) {
       Rcpp::Rcout << "Params: (";
       for (int i = 0; i < (K - 1); i++) {
 	Rcpp::Rcout << params[i] << ", ";
@@ -307,7 +307,7 @@ int sampler(NumericMatrix dtm, NumericMatrix dtcm, NumericMatrix ttcm,
 // THETA is the M * K matrix with the mixture proportions. 
 
 // [[Rcpp::export]]
-RObject gibbsC(NumericMatrix dtm, int nsim, int K, int alpha, int beta, bool verbose) {
+RObject gibbsC(NumericMatrix dtm, int nsim, int K, double alpha, double beta, bool verbose) {
 
 
   // SECTION 1: Initialize. 
@@ -364,7 +364,7 @@ RObject gibbsC(NumericMatrix dtm, int nsim, int K, int alpha, int beta, bool ver
 	dtc(m, (initZ - 1) ) += 1;
 	ttc( (initZ - 1), n) += 1;
 	
-	if (verbose || m == 0) {
+	if (verbose) {
 	  Rcpp::Rcout << "Initialized topic of word " << n << " in doc " 
 		      << m << " as " << initZ << ". " << std::endl << std::endl;
 	}
@@ -436,13 +436,38 @@ RObject gibbsC(NumericMatrix dtm, int nsim, int K, int alpha, int beta, bool ver
 
 
   // SECTION 3: Estimate parameters and return them as an R List. 
+  NumericMatrix phi(K, V);
+  NumericMatrix theta(M, K);
 
+  // Estimate Phi first. 
+  // This is the mode of the posterior distribution for Phi. 
+  
+  // loop over topics (rows)
+  for (int k = 0; k < K; ++k) {
+    // loop over terms in vocab (columns)
+    for (int t = 0; t < V; ++t) {
+      phi(k, t) = ttc(k, t) + beta;
+      phi(k, t) = phi(k, t) / ( rowSum(ttc, k) + (beta * V) );
+    }
+  }
 
-  // For now we just return the dtc and ttc, because I didn't want
-  // to write the code for estimating parameters before the rest of the algorithm
-  // was working right. So we get the count matrices instead of 'theta' and 'phi'.
-  RObject out = Rcpp::List::create(Rcpp::Named("DTC") = dtc,
-				   Rcpp::Named("TTC") = ttc);
+  // Now estimate Theta.
+  // Row i of the Theta is the topic mixture-proportions for doc i. 
+
+  // loop over docs (rows)
+  for (int m = 0; m < M; ++m) {
+    // loop over topics (columns)
+    for (int k = 0; k < K; ++k) {
+      theta(m, k) = dtc(m, k) + alpha;
+      theta(m, k) = theta(m, k) / ( rowSum(dtc, m) + (alpha * K) );
+    }
+  }
+
+  // Return an R List containing Phi and Theta. 
+
+  RObject out = Rcpp::List::create(Rcpp::Named("Phi") = phi,
+				   Rcpp::Named("Theta") = theta);
+
   return out;
 }
 
