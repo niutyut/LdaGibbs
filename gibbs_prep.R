@@ -107,8 +107,6 @@ inspect.frequent.words <- function(dtm, vocab, how.many) {
   most.common
 }
 
-
-
 get_doc_keys <- function(corpus) {
     dtm <- DocumentTermMatrix(corpus)
     dtm_matrix <- as.matrix(dtm)
