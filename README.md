@@ -4,8 +4,8 @@ R Implementation of a collapsed Gibbs sampler for approximate inference in the L
 
 ## TODO
 
-Clean up the pre-processing and output code for streamlined use.
-Think up new ways to present the results. 
+* Clean up the pre-processing and output code for streamlined use.
+* Think up new ways to present the results. 
 
 ## Depends
 
