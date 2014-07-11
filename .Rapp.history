@@ -1,76 +1,3 @@
-costFunctionJ = function(X,y,theta) {
-m = nrow(X)
-predictions = X %*% theta
-sqrErrors = (predictions - y)^2
-J = 1/(2*m) * sum(sqrErrors)
-J
-}
-y = c(1,2,3)
-x
-y
-theta = c(0,1)
-j = costFunctionJ(x,y,theta)
-j
-theta
-X %*% theta
-theta <- as.matrix(tehta)
-theta <- as.matrix(theta)
-X %*% theta
-X
-x %*% theta
-x
-x <- matrix(c(1, 1, 1, 2, 1, 3), byrow = T, nrow = 3)
-j = costFunctionJ(x,y,theta)
-j
-data(reuters)
-library(tm)
-data(reuters)
-reuters
-library(lda)
-demo(lda)
-crude <- data(crude)
-crude
-data("crude")
-crude <- data("crude")
-crude
-library(tm)
-crude
-tm.crude
-?crude
-summary(crude)
-remove(crude)
-library(Tm)
-library(tm)
-crude
-data(crude)
-summary(crude)
-reut21578 <- system.file("texts", "crude", package = "tm")
-reut21578
-reuters <- Corpus(DirSource(reut21578),
-readerControl = list(reader = readReut21578XML))
-reuters
-reuters[1]
-?readPdf
-?readPdf(0)
-?readPdf()
-?readPDF
-curve(dbinom(x, 20, 0.5))
-plot(dbinom(x, 20, 0.5))
-plot(dbinom(seq(1,20), 20, 0.5))
-plot(dbinom(seq(1,20), 20, 0.1))
-plot(dbinom(seq(1,20), 20, 0.5))
-density(dbinom(seq(1,20), 20, 0.5))
-plotdensity(dbinom(seq(1,20), 20, 0.5))
-?plo
-?plot
-plot(density(dbinom(seq(1,20), 20, 0.5)))
-X <- dbinom(seq(1,20), 20, 0.5))
-X <- dbinom(seq(1,20), 20, 0.5)
-plot(X)
-?plto
-?plot
-barplot(X)
-X <- dbinom(seq(1, 20), 20, 0.05)
 Y <- dbinom(seq(1,20), 20, 0.1)
 Z <- dbinom(seq(1, 20), 20, 0.20)
 cols <- c("red","blue","yellow")
@@ -962,15 +889,117 @@ sourceCpp(path)
 require(Rcpp)#
 require(microbenchmark)#
 #
-# Store path names in variables for convenience. #
-sandbox <- "/Users/jacobmenick/Desktop/sandbox"#
-home_path <- "/Users/jacobmenick/Desktop/Summer_2014_Research/r_scripts/LdaGibbs"#
+sourceCpp("devGibbs.cpp")#
+source("gibbs_prep.R")
+home_path <- "# This script analyzes the C++ code I for the Gibbs Sampler. #
+# Be sure to setwd() to the dir containing this script. #
 #
-# Import 'devGibbs.cpp' from the sandbox. #
-setwd(sandbox)#
-sourceCpp("devGibbs.cpp")
-setwd(home_path)#
+require(Rcpp)#
+require(microbenchmark)#
+#
+sourceCpp("devGibbs.cpp")#
 source("gibbs_prep.R")#
+# Section 1: BENCHMARKS#
+# Benchmark my multinomial sampling code against R's multinomial sampling code.#
+probs <- c(.1, .05, .15, .3, .4)#
+n.test <- 1000#
+#
+testOMC <- function(n.test, probs) {#
+	s <- length(probs)#
+	out <- rep(0, s)#
+	for (i in 1:n.test) {#
+		vector.sampled <- oneMultinomC(probs)#
+		index <- whichC(vector.sampled, 1)#
+		out[index + 1] = out[index + 1] + 1#
+	}#
+	out <- out / n.test#
+	rbind(out, probs)#
+}#
+#
+testOMR <- function(n.test, probs) {#
+	s <- length(probs)#
+	out <- rep(0, s)#
+	for (i in 1:n.test) {#
+		vector.sampled <- rmultinom(1, 1, probs)#
+		index <- which(vector.sampled == 1)#
+		out[index] <- out[index] + 1#
+	}#
+	out <- out / n.test#
+	rbind(out, probs)#
+}#
+#
+microbenchmark(#
+  testOMC(n.test, probs),#
+  testOMR(n.test, probs))#
+#
+# Benchmark my uniform sampling code against R's uniform sampling code. #
+b <- 10#
+#
+testUnifC <- function(n.test, b) {#
+	for (i in 1:n.test) {#
+      unif <- cUnifTest(b)		#
+    }#
+}#
+#
+testUnifR <- function(n.test, b) {#
+	for (i in 1:n.test) {#
+      unif <- round(runif(1, 1, b))#
+    }#
+}#
+#
+microbenchmark(#
+  testUnifC(n.test, b),#
+  testUnifR(n.test, b))#
+# Section 2: TEST GIBBS SAMPLER#
+path_to_reuters <- "text_corpuses/reuters001"#
+reuters001 <- get_corpus(path_to_reuters)#
+dtm001 <- get_dtm_matrix(reuters001)#
+#
+K <- 10#
+alpha <- 50/K#
+beta <- 0.01#
+nsim <- 1#
+#
+# See the output in R for the problems.#
+# Note - I haven't included the code for the parameter estimates yet. #
+#      - This is only a very little bit of code compared to getting gibbsC working. #
+matrices <- gibbsC(dtm001, 1, K, alpha, beta, verbose = F)#
+#
+# Okay, we see some errors. Let's investigate. #
+#
+count.matrices.init <- initializeGibbs(dtm001, K)#
+#
+dtc.init <- count.matrices.init[[1]]#
+ttc.init <- count.matrices.init[[2]]#
+ta.init <- count.matrices.init[[3]]#
+#
+# Are these counts tabulated correctly? Let's have a look at document zero. #
+# Get the vocab terms that occur in document zero (have greater than one count in dtm)#
+doczero <- which(dtm001[1,] > 0)#
+#
+# Okay, so we can see which words occur in document 0 by having a look at 'doczero'. #
+# One such word is '38' if we index at zero (or '39' if we index at 1)#
+# Let's see what topic it was assigned in the initialization step. #
+#
+topiczero.38 <- ta.init[1, 39]#
+#
+# Okay, this was random, so it will be different for me and you.  For me it's 3. #
+# We see from the output that there is an error sampling a new topic for document 0, word 38. Let's try to do it manually: #
+#
+newZ <- sampler(dtm001, dtc.init, ttc.init, alpha, beta, 0, 38, K)#
+"
+_))))))
+}}}}
+)))))@
+SDl;kjasf
+;xmcvz.xmvxcvzxcjvzl;kxcjvzl;xcjvz;lxckjvz;xclkjvz;xcljvz;xclvjz;xcvjz;xcljvx"
+home_dir <- "/Users/jacobmenick/Desktop/Summer_2014_Research/r_scripts/LdaGibbs"
+setwd(home_dir)
+require(Rcpp)#
+require(microbenchmark)#
+#
+sourceCpp("devGibbs.cpp")#
+source("gibbs_prep.R")
 path_to_reuters <- "text_corpuses/reuters001"#
 reuters001 <- get_corpus(path_to_reuters)#
 dtm001 <- get_dtm_matrix(reuters001)#
@@ -980,3 +1009,154 @@ alpha <- 50/K#
 beta <- 0.01#
 nsim <- 1
 matrices <- gibbsC(dtm001, 1, K, alpha, beta, verbose = F)
+count.matrices.init <- initializeGibbs(dtm001, K)
+dtc.init <- count.matrices.init[[1]]#
+ttc.init <- count.matrices.init[[2]]#
+ta.init <- count.matrices.init[[3]]
+doczero <- which(dtm001[1,] > 0)
+topiczero.38 <- ta.init[1, 39]
+newZ <- sampler(dtm001, dtc.init, ttc.init, alpha, beta, 0, 38, K)
+newZ
+sourceCpp("devGibbs.cpp")
+setwd(home_path)
+setwd(home_dir)
+sourceCpp("devGibbs.cpp")
+newZ <- sampler(dtm001, dtc.init, ttc.init, alpha, beta, 0, 38, K)
+matrices <- gibbsC(dtm001, 1, K, alpha, beta, verbose = F)
+m <- 1#
+n <- 39#
+#
+params.test <- rep(0, K)#
+sum <- 0#
+#
+for (k in 1:K) {#
+	prob.test <- ttc[k, n] + beta#
+	prob.test <- prob.test * (dtc[m, k] + alpha)#
+	prob.test <- prob.test / (rowSum(ttc.init, (k - 1) ) + (beta * V))#
+	prob.test <- prob.test / (rowSum(dtc.init, (m - 1) ) + (alpha * K))#
+	sum = sum + prob.test#
+	params.test[k] <- prob.test#
+}
+m <- 1#
+n <- 39#
+#
+params.test <- rep(0, K)#
+sum <- 0#
+#
+for (k in 1:K) {#
+	prob.test <- ttc.init[k, n] + beta#
+	prob.test <- prob.test * (dtc.init[m, k] + alpha)#
+	prob.test <- prob.test / (rowSum(ttc.init, (k - 1) ) + (beta * V))#
+	prob.test <- prob.test / (rowSum(dtc.init, (m - 1) ) + (alpha * K))#
+	sum = sum + prob.test#
+	params.test[k] <- prob.test#
+}
+M <- nrow(dtm001)#
+V <- ncol(dtm001)
+m <- 1#
+n <- 39#
+#
+params.test <- rep(0, K)#
+sum <- 0#
+#
+for (k in 1:K) {#
+	prob.test <- ttc.init[k, n] + beta#
+	prob.test <- prob.test * (dtc.init[m, k] + alpha)#
+	prob.test <- prob.test / (rowSum(ttc.init, (k - 1) ) + (beta * V))#
+	prob.test <- prob.test / (rowSum(dtc.init, (m - 1) ) + (alpha * K))#
+	sum = sum + prob.test#
+	params.test[k] <- prob.test#
+}
+params.test
+params.test[sort(params.test, decreasing = F)]
+sort(params.test)
+order(params.test)
+params.test[order(params.test)]
+cmultinom(params.test, (m - 1), (n -1))
+sum
+params.test <- params.test / sum
+params.test
+cmultinom(params.test, (m - 1), (n -1))
+cmultinom(params.test, (m - 1), (n -1))
+cmultinom(params.test, (m - 1), (n -1))
+cmultinom(params.test, (m - 1), (n -1))
+cmultinom(params.test, (m - 1), (n -1))
+cmultinom(params.test, (m - 1), (n -1))
+cmultinom(params.test, (m - 1), (n -1))
+cmultinom(params.test, (m - 1), (n -1))
+cmultinom(params.test, (m - 1), (n -1))
+cmultinom(params.test, (m - 1), (n -1))
+cmultinom(params.test, (m - 1), (n -1))
+cmultinom(params.test, (m - 1), (n -1))
+cmultinom(params.test, (m - 1), (n -1))
+cmultinom(params.test, (m - 1), (n -1))
+cmultinom(params.test, (m - 1), (n -1))
+cmultinom(params.test, (m - 1), (n -1))
+cmultinom(params.test, (m - 1), (n -1))
+cmultinom(params.test, (m - 1), (n -1))
+cmultinom(params.test, (m - 1), (n -1))
+cmultinom(params.test, (m - 1), (n -1))
+cmultinom(params.test, (m - 1), (n -1))
+cmultinom(params.test, (m - 1), (n -1))
+cmultinom(params.test, (m - 1), (n -1))
+cmultinom(params.test, (m - 1), (n -1))
+cmultinom(params.test, (m - 1), (n -1))
+cmultinom(params.test, (m - 1), (n -1))
+cmultinom(params.test, (m - 1), (n -1))
+cmultinom(params.test, (m - 1), (n -1))
+cmultinom(params.test, (m - 1), (n -1))
+cmultinom(params.test, (m - 1), (n -1))
+cmultinom(params.test, (m - 1), (n -1))
+cmultinom(params.test, (m - 1), (n -1))
+cmultinom(params.test, (m - 1), (n -1))
+cmultinom(params.test, (m - 1), (n -1))
+cmultinom(params.test, (m - 1), (n -1))
+cmultinom(params.test, (m - 1), (n -1))
+cmultinom(params.test, (m - 1), (n -1))
+cmultinom(params.test, (m - 1), (n -1))
+cmultinom(params.test, (m - 1), (n -1))
+cmultinom(params.test, (m - 1), (n -1))
+cmultinom(params.test, (m - 1), (n -1))
+cmultinom(params.test, (m - 1), (n -1))
+cmultinom(params.test, (m - 1), (n -1))
+cmultinom(params.test, (m - 1), (n -1))
+cmultinom(params.test, (m - 1), (n -1))
+cmultinom(params.test, (m - 1), (n -1))
+cmultinom(params.test, (m - 1), (n -1))
+cmultinom(params.test, (m - 1), (n -1))
+cmultinom(params.test, (m - 1), (n -1))
+cmultinom(params.test, (m - 1), (n -1))
+cmultinom(params.test, (m - 1), (n -1))
+cmultinom(params.test, (m - 1), (n -1))
+cmultinom(params.test, (m - 1), (n -1))
+cmultinom(params.test, (m - 1), (n -1))
+cmultinom(params.test, (m - 1), (n -1))
+sourceCpp("devGibbs.cpp")
+matrices <- gibbsC(dtm001, 1, K, alpha, beta, verbose = F)
+n2 <- 31#
+#
+for (k in 1:K) {#
+	prob.test <- ttc.init[k, n] + beta#
+	prob.test <- prob.test * (dtc.init[m, k] + alpha)#
+	prob.test <- prob.test / (rowSum(ttc.init, (k - 1) ) + (beta * V))#
+	prob.test <- prob.test / (rowSum(dtc.init, (m - 1) ) + (alpha * K))#
+	sum = sum + prob.test#
+	params.test[k] <- prob.test#
+}#
+#
+params.test
+getProbs <- function(m, n, K, V) {#
+	params.test <- rep(0, K)#
+	for (k in 1:K) {#
+		prob.test <- ttc.init[k, n] + beta#
+		prob.test <- prob.test * (dtc.init[m, k] + alpha)#
+		prob.test <- prob.test / (rowSum(ttc.init, (k - 1) ) + (beta * V))#
+		prob.test <- prob.test / (rowSum(dtc.init, (m - 1) ) + (alpha * K))#
+		sum = sum + prob.test#
+		params.test[k] <- prob.test#
+	}#
+#
+params.test#
+}
+getProbs(1, 31, K, V)
+getProbs(1, 39, K, V)

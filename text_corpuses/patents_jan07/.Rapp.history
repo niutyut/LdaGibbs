@@ -1,3 +1,28 @@
+diag(A)
+A = matrix(c(8, 1, 6, 3, 5, 7, 4, 9, 2),byrow= T, nrow = 3)
+A
+solve(A)
+?pseudoinverse
+??pseudoinverse
+v = rep(0,10)
+v
+for (i in 1:10) {}
+for (i in 1:10) {
+v[i] = 2^i
+}
+v
+indices = 1:10
+indices
+for (i in indices) {
+v[i] = 2^i
+}
+v
+var squareThisNumber = function(x) {
+function(x) {}
+function(x) {
+}
+squareThisNumber(x) {
+squareThisNumber = function(x) {
 return x^2
 squareThisNumber = function(x) {
 x^2
@@ -952,35 +977,70 @@ demo(lda)
 top.words
 ?apply
 top.topic.words
-path_to_patents <- "/Users/jacobmenick/Desktop/datasets/patents_jan07"
-path_to_scripts <- "/Users/jacobmenick/Desktop/Summer_2014_Research/r_scripts/LdaGibbs"
-setwd(path_to_scripts)
-source("gibbs_prep.R")
-source("gibbs_output.R")
-library('topicmodels')
-corpusPatents <- get_corpus(path_to_patents)
-dtmPatents <- get_dtm_matrix(corpusPatents)
-vocabPatents <- colnames(dtmPatents)
-stop.words <- c("title","abstract")
-new_objects <- remove.stopwords(dtmPatents, vocabPatents, stop.words)
-dtmPatents <- new_objects[[1]]
-vocabPatents <- new_objects[[2]]
-inspect.frequent.words(dtmPatents, vocabPatents, 20)
-k <- 20
-SEED <- 420
-vem_model <- LDA(dtmPatents, k = k, control = list(seed = SEED))
-vem_model.beta
-beta(vem_model)
-vem_model
-vem_model@beta
-terms(vem_model)
-terms(vem_model, 5)
-Phi <- vem_model@beta
-Theta <- vem_model@gamma
-theta[1,]
-Theta[1,]
-params <- list(Phi, Theta)
-df <- get_plottable_df(corpusPatents, dtmPatents, vocabPatents, params, 10)
-plot <- get_primitive_qplot(df, 10)
+library(mallet)
+install.packages('topicwatch')
+install.packages('TopicWatch')
+home_path <- "/Users/jacobmenick/Desktop/Summer_2014_Research/r_scripts/LdaGibbs"
+setwd(home_path)
+source("gibbs_prep.R")#
+source("Gibbs.R")#
+source("gibbs_output.R")#
+#
+# Store the path to the reuters001 corpus as a string. #
+path_to_patents <- "/Users/jacobmenick/Desktop/Summer_2014_Research/r_scripts/LdaGibbs/text_corpuses/patents_jan07"#
+#
+# Get corpus and dtm.#
+corpusPATENTS <- get_corpus(path_to_patents)#
+dtmPATENTS <- get_dtm_matrix(corpusPATENTS)#
+vocabPATENTS <- colnames(dtmPATENTS)#
+#
+# Remove stopwords.#
+# The words 'title' and 'abstract' appear in each file.  #
+stop.words <- c("title", "abstract")#
+new_objs <- remove.stopwords(dtmPATENTS, vocabPATENTS, stop.words)#
+dtmPATENTS <- new_objs[[1]]#
+vocabPATENTS <- new_objs[[2]]#
+#
+# Set Parameters for the LDA Model#
+K <- 50#
+alpha <- 50/K#
+#
+# Run the LDA code from the 'topicmodels' package. #
+paramsPATENTS <- get_params_from_topicmodels(dtmPATENTS, K)#
+#
+# Let's visualize the results by making plots. #
+df <- get_plottable_df(corpusPATENTS, dtmPATENTS, colnames(dtmPATENTS), paramsPATENTS, 10)#
+#
+plot <- get_primitive_qplot(df, 10)#
 print(plot)
-dim(dtmPatents)
+source("gibbs_prep.R")#
+source("Gibbs.R")#
+source("gibbs_output.R")#
+#
+# Store the path to the reuters001 corpus as a string. #
+path_to_patents <- "/Users/jacobmenick/Desktop/Summer_2014_Research/r_scripts/LdaGibbs/text_corpuses/patents_jan07"#
+#
+# Get corpus and dtm.#
+corpusPATENTS <- get_corpus(path_to_patents)#
+dtmPATENTS <- get_dtm_matrix(corpusPATENTS)#
+vocabPATENTS <- colnames(dtmPATENTS)#
+#
+# Remove stopwords.#
+# The words 'title' and 'abstract' appear in each file.  #
+stop.words <- c("title", "abstract")#
+new_objs <- remove.stopwords(dtmPATENTS, vocabPATENTS, stop.words)#
+dtmPATENTS <- new_objs[[1]]#
+vocabPATENTS <- new_objs[[2]]#
+#
+# Set Parameters for the LDA Model#
+K <- 30#
+alpha <- 50/K#
+#
+# Run the LDA code from the 'topicmodels' package. #
+paramsPATENTS <- get_params_from_topicmodels(dtmPATENTS, K)#
+#
+# Let's visualize the results by making plots. #
+df <- get_plottable_df(corpusPATENTS, dtmPATENTS, colnames(dtmPATENTS), paramsPATENTS, 10)#
+#
+plot <- get_primitive_qplot(df, 10)#
+print(plot)

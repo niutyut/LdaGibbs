@@ -25,7 +25,7 @@ dtmPATENTS <- new_objs[[1]]
 vocabPATENTS <- new_objs[[2]]
 
 # Set Parameters for the LDA Model
-K <- 50
+K <- 30
 alpha <- 50/K
 
 # Run the LDA code from the 'topicmodels' package. 
