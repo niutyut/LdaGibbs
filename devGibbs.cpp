@@ -307,7 +307,7 @@ int sampler(NumericMatrix dtm, NumericMatrix dtcm, NumericMatrix ttcm,
 // THETA is the M * K matrix with the mixture proportions. 
 
 // [[Rcpp::export]]
-RObject gibbsC(NumericMatrix dtm, int nsim, int K, double alpha, double beta, bool verbose) {
+RObject gibbsC(NumericMatrix dtm, int nsim, int K, double alpha, double beta, bool verbose = false) {
 
 
   // SECTION 1: Initialize. 
