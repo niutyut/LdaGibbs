@@ -3,6 +3,8 @@
 ## Thanks to Drew Blount for his XMLParser.  
 ## 
 ## The program assumes our current directory is the root of this project.  
+## Note - this is a pretty big corpus, so the algo takes awhile to run:
+##      - around 10 minutes with 25 iterations.
 
 # Load functions into workspace
 source("gibbs_prep.R")
