@@ -26,13 +26,8 @@ get_vocabObj <- function(corpus) {
   vocab
 }
 
-dtm_to_vocab <- function(dtm_matrix) {
-  vocab <- colnames(dtm_matrix)
-  vocab
-}
-
 # Get a dtm as an R matrix given a corpus. 
-get_dtm_matrix <- function(corpus) {
+get_dtm <- function(corpus) {
   dtm <- DocumentTermMatrix(corpus)
   dtm_matrix <- as.matrix(dtm)
   dtm_matrix 

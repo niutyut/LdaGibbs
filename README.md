@@ -6,6 +6,7 @@ R Implementation of a collapsed Gibbs sampler for approximate inference in the L
 
 * Clean up the pre-processing and output code for streamlined use.
 * Think up new ways to present the results. 
+* Implement Online Variational Learning [3].
 
 ## Depends
 
@@ -17,10 +18,10 @@ R Implementation of a collapsed Gibbs sampler for approximate inference in the L
 
 You can see a full demo in the file *reuters_analysis.R*.
 
+## References
+
 [1] http://machinelearning.wustl.edu/mlpapers/paper_files/BleiNJ03.pdf
 
 [2] http://cran.r-project.org/web/packages/Rcpp/index.html
 
-[3] http://faculty.cs.byu.edu/~ringger/CS601R/papers/Heinrich-GibbsLDA.pdf
-
-[4] https://www.cs.princeton.edu/~blei/papers/HoffmanBleiBach2010b.pdf
+[3] https://www.cs.princeton.edu/~blei/papers/HoffmanBleiBach2010b.pdf
