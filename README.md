@@ -11,7 +11,8 @@ R Implementation of a collapsed Gibbs sampler for approximate inference in the L
 ## Depends
 
 * Rcpp - for interface to C++ code
-* tm - for pre-processing
+* tm - for preprocessing
+* SnowballC - for stemming (in pre-processing). 
 * reshape and ggplot2 - for visualizing output.  
 
 ## Use
