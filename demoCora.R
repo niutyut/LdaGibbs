@@ -30,10 +30,10 @@ dtmCORA <- lda_corpus_to_dtm(cora.documents, cora.vocab)
 # Convert the dtm to a tm 'corpus' for pre-processing. 
 corpusCORA <- dtm_to_corpus(dtmCORA)
 corpusCORA <- process_corpus(corpusCORA)
-corpusCORA <- stem_corpus(corpusCORA)
+# corpusCORA <- stem_corpus(corpusCORA)
 
 # Convert back to a dtm.  
-dtmCORA <- get_dtm_matrix(corpusCORA)
+dtmCORA <- get_dtm(corpusCORA)
 cora.vocab <- colnames(dtmCORA)
 
 
