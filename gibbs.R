@@ -1,8 +1,8 @@
 require("tm")
 require(Rcpp)
 
-# Grab the cpp gibbs sampler. 
-sourceCpp("gibbsC.cpp")
+
+
 
 
 

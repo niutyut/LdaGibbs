@@ -1,19 +1,3 @@
-costFunctionJ = function(X,y,theta) {
-m = nrow(X)
-predictions = X %*% theta
-sqrErrors = (predictions - y)^2
-J = 1/(2*m) * sum(sqrErrors)
-J
-}
-y = c(1,2,3)
-x
-y
-theta = c(0,1)
-j = costFunctionJ(x,y,theta)
-j
-theta
-X %*% theta
-theta <- as.matrix(tehta)
 theta <- as.matrix(theta)
 X %*% theta
 X
@@ -959,24 +943,268 @@ sourceCpp("path")
 sourceCpp(path)
 sourceCpp(path)\
 sourceCpp(path)
+home <- "/Users/jacobmenick/Desktop/Summer_2014_Research/r_scripts/LdaGibbs"
+setwd(home)
+This file runs the analysis on the 'cora' corpus from the CRAN lda package.  #
+## 1.  We hope to achieve similar results as #
+##     their demo so as test whether or not his implementation of #
+##     the Gibbs sampler is correct. #
+###
+## 2.  It assumes our current directory is the root of this project.  #
+##     We use the same parameters as are used in the demo(lda) script. #
+###
+## 3.  You may want to try a few runs with different seeds.  #
+##     Because the Gibbs sampler is non-deterministic, #
+##     And we are doing a relatively samll number of iterations,#
+##     The initial state of the Markov Chain can have big effects on #
+##     the output.  #
+#
 require(Rcpp)#
-require(microbenchmark)#
 #
-# Store path names in variables for convenience. #
-sandbox <- "/Users/jacobmenick/Desktop/sandbox"#
-home_path <- "/Users/jacobmenick/Desktop/Summer_2014_Research/r_scripts/LdaGibbs"#
-#
-# Import 'devGibbs.cpp' from the sandbox. #
-setwd(sandbox)#
-sourceCpp("devGibbs.cpp")
-setwd(home_path)#
+# Load functions into workspace#
 source("gibbs_prep.R")#
+sourceCpp("gibbs.cpp")#
+source("gibbs_output.R")#
+#
+# Load cora dataset into the workspace. #
+library(lda)#
+data(cora.documents)#
+data(cora.vocab)#
+#
+# Get the dtm for cora. #
+dtmCORA <- lda_corpus_to_dtm(cora.documents, cora.vocab)#
+#
+# Convert the dtm to a tm 'corpus' for pre-processing. #
+corpusCORA <- dtm_to_corpus(dtmCORA)#
+corpusCORA <- process_corpus(corpusCORA)#
+# corpusCORA <- stem_corpus(corpusCORA)#
+#
+# Convert back to a dtm.  #
+dtmCORA <- get_dtm(corpusCORA)#
+cora.vocab <- colnames(dtmCORA)#
+# Remove some stop words. Blei mentioned in a video that they did this as well.  #
+# stop.words <- c("paper", "result", "model", "show", "method", "approach", "base", #
+#                "data", "general", "function", "perform", "comput", "present")#
+#
+# new_corpus_objects <- remove.stopwords(dtmCORA, cora.vocab, stop.words)#
+# dtmCORA <- new_corpus_objects[[1]]#
+# cora.vocab <- new_corpus_objects[[2]]#
+# Set Parameters for the Gibbs Sampler, #
+n.sim <- 25#
+K <- 10#
+alpha <- 0.1#
+beta <- 0.1#
+#
+# Run Gibbs Sampler and store results in the variable 'paramsCORA'#
+paramsCORA <- gibbsC(dtmCORA, n.sim, K, alpha, beta)#
+#
+# Now let's visualize the results of the model fit with ggplot2. #
+#
+numDocs <- 10#
+#
+# Get a melted dataframe#
+df <- get_plottable_df_lda(dtmCORA, cora.vocab, paramsCORA, numDocs)#
+#
+# Plot the results. #
+plot <- get_primitive_qplot(df, numDocs)#
+print(plot)
+new_corpus_objects <- remove.stopwords(dtmCORA, cora.vocab, stop.words)#
+dtmCORA <- new_corpus_objects[[1]]#
+cora.vocab <- new_corpus_objects[[2]]
+stop.words <- c("paper", "results", "show")#
+#
+new_corpus_objects <- remove.stopwords(dtmCORA, cora.vocab, stop.words)#
+dtmCORA <- new_corpus_objects[[1]]#
+cora.vocab <- new_corpus_objects[[2]]
+n.sim <- 25#
+K <- 10#
+alpha <- 0.1#
+beta <- 0.1#
+#
+# Run Gibbs Sampler and store results in the variable 'paramsCORA'#
+paramsCORA <- gibbsC(dtmCORA, n.sim, K, alpha, beta)#
+#
+# Now let's visualize the results of the model fit with ggplot2. #
+#
+numDocs <- 10#
+#
+# Get a melted dataframe#
+df <- get_plottable_df_lda(dtmCORA, cora.vocab, paramsCORA, numDocs)#
+#
+# Plot the results. #
+plot <- get_primitive_qplot(df, numDocs)#
+print(plot)
+n.sim <- 25#
+K <- 8#
+alpha <- 0.1#
+beta <- 0.1#
+#
+# Run Gibbs Sampler and store results in the variable 'paramsCORA'#
+paramsCORA <- gibbsC(dtmCORA, n.sim, K, alpha, beta)#
+#
+# Now let's visualize the results of the model fit with ggplot2. #
+#
+numDocs <- 10#
+#
+# Get a melted dataframe#
+df <- get_plottable_df_lda(dtmCORA, cora.vocab, paramsCORA, numDocs)#
+#
+# Plot the results. #
+plot <- get_primitive_qplot(df, numDocs)#
+print(plot)
+n.sim <- 25#
+K <- 20#
+alpha <- 0.1#
+beta <- 0.1#
+#
+# Run Gibbs Sampler and store results in the variable 'paramsCORA'#
+paramsCORA <- gibbsC(dtmCORA, n.sim, K, alpha, beta)#
+#
+# Now let's visualize the results of the model fit with ggplot2. #
+#
+numDocs <- 10#
+#
+# Get a melted dataframe#
+df <- get_plottable_df_lda(dtmCORA, cora.vocab, paramsCORA, numDocs)#
+#
+# Plot the results. #
+plot <- get_primitive_qplot(df, numDocs)#
+print(plot)
+df
+n.sim <- 100#
+K <- 10#
+alpha <- 0.1#
+beta <- 0.1#
+#
+# Run Gibbs Sampler and store results in the variable 'paramsCORA'#
+paramsCORA <- gibbsC(dtmCORA, n.sim, K, alpha, beta)#
+#
+# Now let's visualize the results of the model fit with ggplot2. #
+#
+numDocs <- 10#
+#
+# Get a melted dataframe#
+df <- get_plottable_df_lda(dtmCORA, cora.vocab, paramsCORA, numDocs)#
+#
+# Plot the results. #
+plot <- get_primitive_qplot(df, numDocs)#
+print(plot)
+Run the analysis on a reuters corpus. #
+#
+require(Rcpp)#
+#
+# Load the functions for the package into the namespace.#
+source("gibbs_prep.R")#
+sourceCpp("gibbs.cpp")#
+source("gibbs_output.R")#
+#
+# Get the reuters corpus from the text files. #
 path_to_reuters <- "text_corpuses/reuters001"#
 reuters001 <- get_corpus(path_to_reuters)#
-dtm001 <- get_dtm_matrix(reuters001)#
+dtm001 <- get_dtm(reuters001)#
 #
+# Set model parameters. #
+K <- 20#
+alpha <- 1#
+beta <- 0.01#
+nsim <- 50#
+#
+# Run the model to get parameter estimate for phi and theta. #
+params <- gibbsC(dtm001, 25, K, alpha, beta, verbose = F)#
+#
+# Plot the results with ggplot2.#
+df <- get_plottable_df_lda(dtm001, colnames(dtm001), params, 10)#
+plot <- get_primitive_qplot(df, 10)#
+print(plot)
+Run the analysis on a reuters corpus. #
+#
+require(Rcpp)#
+#
+# Load the functions for the package into the namespace.#
+source("gibbs_prep.R")#
+sourceCpp("gibbs.cpp")#
+source("gibbs_output.R")#
+#
+# Get the reuters corpus from the text files. #
+path_to_reuters <- "text_corpuses/reuters001"#
+reuters001 <- get_corpus(path_to_reuters)#
+dtm001 <- get_dtm(reuters001)#
+#
+# Set model parameters. #
+K <- 20#
+alpha <- 1#
+beta <- 0.01#
+nsim <- 1#
+#
+# Run the model to get parameter estimate for phi and theta. #
+params <- gibbsC(dtm001, 25, K, alpha, beta, verbose = F)#
+#
+# Plot the results with ggplot2.#
+df <- get_plottable_df_lda(dtm001, colnames(dtm001), params, 10)#
+plot <- get_primitive_qplot(df, 10)#
+print(plot)
+home <- "/Users/jacobmenick/Desktop/Summer_2014_Research/r_scripts/LdaGibbs"
+require(microbenchmark)
+library(microbenchmark)
+require(Rcpp)#
+require(topicmodels)#
+require(lda)#
+require(microbenchmark)
+source("gibbs_prep.R")#
+source("Gibbs.R")#
+sourceCpp("gibbs.cpp")#
+source("gibbs_output.R")
+setwd(home)
+getwd()
+source("gibbs_prep.R")#
+source("Gibbs.R")#
+sourceCpp("gibbs.cpp")#
+source("gibbs_output.R")
+source("gibbs_prep.R")#
+source("Gibbs.R")#
+sourceCpp("gibbs.cpp")#
+source("gibbs_output.R")
+path_to_reuters <- "text_corpuses/reuters001"#
+reuters001 <- get_corpus(path_to_reuters)#
+dtm001 <- get_dtm(reuters001)
 K <- 10#
-alpha <- 50/K#
+alpha <- 10 / K#
 beta <- 0.01#
 nsim <- 1
-matrices <- gibbsC(dtm001, 1, K, alpha, beta, verbose = F)
+gibbs.sampler.lda(dtm001, nsim, K, alpha, beta)
+microbenchmark(times#
+	gibbsC(dtm001, nsim, K, alpha, beta, verbose = F),#
+	get_params_from_topicmodels(dtm001, K),#
+	gibbs.sampler.lda(dtm001, nsim, K, alpha, beta), times = 10)
+microbenchmark(#
+	gibbsC(dtm001, nsim, K, alpha, beta, verbose = F),#
+	get_params_from_topicmodels(dtm001, K),#
+	gibbs.sampler.lda(dtm001, nsim, K, alpha, beta), times = 10)
+K <- 10#
+alpha <- 10 / K#
+beta <- 0.01#
+nsim <- 10#
+#
+microbenchmark(#
+	gibbsC(dtm001, nsim, K, alpha, beta, verbose = F),#
+	get_params_from_topicmodels(dtm001, K),#
+	gibbs.sampler.lda(dtm001, nsim, K, alpha, beta), times = 10)
+nsim <- 25#
+#
+microbenchmark(#
+	gibbsC(dtm001, nsim, K, alpha, beta, verbose = F),#
+	get_params_from_topicmodels(dtm001, K),#
+	gibbs.sampler.lda(dtm001, nsim, K, alpha, beta), times = 10)
+library(malet)
+library(mallet)
+params
+det(params)
+params
+det(params[[1]])
+params[[1]]
+names(params)
+phi <- params[[1]]
+det(t(phi) %*% phi)
+t(phi) %*% phi
+dim(t(phi) %*% phi)
+det(t(phi) %*% phi)

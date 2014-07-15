@@ -466,7 +466,8 @@ RObject gibbsC(NumericMatrix dtm, int nsim, int K, double alpha, double beta, bo
   // Return an R List containing Phi and Theta. 
 
   RObject out = Rcpp::List::create(Rcpp::Named("Phi") = phi,
-				   Rcpp::Named("Theta") = theta);
+				   Rcpp::Named("Theta") = theta,
+				   Rcpp::Named("Topic Assignments") = ta);
 
   return out;
 }
