@@ -1,13 +1,10 @@
-# Now deprecated - this code is a full R implementation of a Gibbs sampler.
-# It is horrifyingly slow - a single iteration of MCMC takes
-# about three minuteon a small corpus with (about 100 docs, vocab of size 1000)
-# Recall that 25-100 are often necessary to attain reasonable accuracy.
-
-# Look at gibbs.cpp for the currently used gibbs sampler code. 
-
-
 require("tm")
 require(Rcpp)
+
+
+
+
+
 
 
 gibbs.sampler.lda <- function(dtm, n.sim, K, alpha, beta) {

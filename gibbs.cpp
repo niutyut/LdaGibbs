@@ -279,10 +279,6 @@ int sampler(NumericMatrix dtm, NumericMatrix dtcm, NumericMatrix ttcm,
     for (int k = 0; k < K; ++k) {
       params[k] = params[k] / sum;
     }
-    // TODO - FIGURE OUT HOW TO PRINT A VECTOR.
-    // I NEED TO KNOW WHY THERE ARE NO ONES SOMETIMES.
-    // Rcpp::Rcout << "Params: " <<  params << std::endl;
-    // Now params is a NumericVector that can be passed to cmultinom.
     // Receive a zero-indexed topic from cmultinom and add 1 to it. 
     newZ = cmultinom(params, m, n) + 1; 
   }
