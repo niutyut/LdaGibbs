@@ -17,7 +17,7 @@ R Implementation of a collapsed Gibbs sampler for approximate inference in the L
 
 ## Use
 
-You can see a full demo in the file *reuters_analysis.R*.
+You can see full demos in demoReuters.R, demoCora.R, and demoPatents.R.
 
 ## References
 
