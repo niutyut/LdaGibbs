@@ -1,4 +1,4 @@
-# The utilities provided by this file are for evaluation topic models.
+# The utilities provided by this file are for evaluating topic models' performance. .
 # We will provide implementations of different model comparison metrics.
 # It may be best to implement this in c++ as well. 
 
@@ -29,3 +29,8 @@ taToCounts <- function(ta, K) {
     names(out) <- c("Doc-Topic-Counts", "Topic-Term-Counts")
     out
 }
+
+# Here 'dtv' is a "document-topic vector", representing a single document.
+# Essentially we will run the gibbs sampler on this one document to assign topics.
+# We will then 
+probNewDoc <- function(dtv
