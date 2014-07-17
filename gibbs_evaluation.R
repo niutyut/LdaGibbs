@@ -30,6 +30,11 @@ taToCounts <- function(ta, K) {
     out
 }
 
+getDtvfromDtm <- function(dtm, doc) {
+    dtv <- dtm[doc, ]
+    dtv
+}
+
 # Here 'dtv' is a "document-topic vector", representing a single document.
 # Essentially we will run the gibbs sampler on this one document to assign topics.
 # We will then 

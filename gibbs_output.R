@@ -109,6 +109,32 @@ get_plottable_df <- function(corpus, dtm, vocab, params, numdocs) {
   df
 }
 
+# Would like to have the word appear in the bag according to count.  
+getBagOfWords <- function(dtm, doc) {
+    out <- 0
+    vocab <- colnames(dtm)
+    wordIndices <- which(dtm[doc,] > 0)
+    words <- vocab[wordIndices]
+    for (i in 1:length(words)) {
+        addition <- rep(words[i], dtm[doc, wordIndices[i]])
+        if (length(out) == 1 && out == 0) {
+            out <- addition
+        }
+        else {
+            out <- append(out, addition)
+        }
+    }
+    out
+}
+
+queryByTopicStrength <- function(params, dtm, topic, strength) {
+    # theta is M*K
+    theta <- params[[2]]
+    indices <- which(theta[,topic] > strength)
+    # return indices of dtm for which topic exceeds strength.
+    indices
+}
+
 get_primitive_qplot <- function(df, numdocs) {
 
 
