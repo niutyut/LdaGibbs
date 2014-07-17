@@ -7,6 +7,7 @@ R Implementation of a collapsed Gibbs sampler for approximate inference in the L
 * Clean up the pre-processing and output code for streamlined use.
 * Think up new ways to present the results. 
 * Implement Online Variational Learning [3].
+* Develop a heuristic technique for choosing the correct number of topics. 
 
 ## Depends
 
