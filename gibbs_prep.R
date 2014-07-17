@@ -145,4 +145,20 @@ lda_corpus_to_dtm <- function(docs, vocab) {
   }
   colnames(dtm) <- vocab
   dtm
-} 
+}
+
+holdOut <- function(dtm, proportion) {
+    # Hold out a 'proportion' of the dtm for testing.
+    # The rest will be used to train the model.
+    numDocs <- nrow(dtm)
+    numTrain <- round(numDocs * (1 -proportion), digits = 0)
+    numTest <- numDocs - numTrain
+    all.indices <- seq(1, numDocs)
+    train.indices <- sort(sample(all.indices, numTrain, replace = F))
+    test.indices <- setdiff(all.indices, train.indices)
+    trainingSet <- dtm[train.indices, ]
+    testSet <- dtm[test.indices, ]
+    out <- list(trainingSet, testSet)
+    names(out) <- c("Training Set", "Test Set")
+    out
+}
