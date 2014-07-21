@@ -2,6 +2,7 @@
 # We will provide implementations of different model comparison metrics.
 # It may be best to implement this in c++ as well. 
 
+require(gtools)
 
 # Get dtc, ttc from 'ta', the M * V topic assignments matrix.
 # K is the number of topics in the topic model.
@@ -36,6 +37,39 @@ getDtvfromDtm <- function(dtm, doc) {
 }
 
 # Here 'dtv' is a "document-topic vector", representing a single document.
-# Essentially we will run the gibbs sampler on this one document to assign topics.
-# We will then 
-probNewDoc <- function(dtv
+# We use Importance Sampling to get the likelihood of a new document.
+# The likelihoods are quite small. Like, REALLY small. 
+probNewDoc <- function(dtv, alpha, phi, numSamples) {
+    V <- length(dtv)
+    K <- nrow(phi)
+    alphaVec <- rep(alpha, K)
+    prob <- 0
+    for (s in 1:numSamples) {
+        prod <- 1
+        for (n in 1:V) {
+            if (dtv[n] > 0) {
+                sum <- 0
+                for (k in 1:K) {
+                    term <- rdirichlet(1, alphaVec)[k] * phi[k,n]
+                    sum <- sum + log(term)
+                }
+                prod <- prod * sum
+            }
+        } 
+    prob <- prob + prod
+    }
+    prob <- prob/ numSamples
+    prob
+}
+
+# This takes awhile. Might port it to c++.
+ProbNewDocSet <- function(dtm, alpha, phi , numSamples) {
+    prod <- 1
+    numDocs <- nrow(dtm)
+    for (d in 1:numDocs) {
+        prod <- prod * probNewDoc(dtm[d,], alpha, phi, numSamples)
+    }
+    prod
+}
+
+    
