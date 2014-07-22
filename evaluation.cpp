@@ -58,6 +58,25 @@ double lDocProbC(NumericVector dtv, double alpha, NumericMatrix phi, int numSamp
 }
 
 // [[Rcpp::export]]
+RObject lCorpusProbC(NumericMatrix dtm, double alpha, NumericMatrix phi, int numSamples) {
+	IntegerVector errors;
+	int M = dtm.nrow();
+	double out = 0;
+	for (int d = 0; d < M; d++) {
+		double newProb = lDocProbC(dtm.row(d), alpha, phi, numSamples);
+		if (newProb > -DBL_MAX) {
+			out += newProb;
+		}
+		else {
+			errors.insert(errors.size(), d);
+		}
+	}
+	RObject ret = Rcpp::List::create(Rcpp::Named("CorpusProb") = out,
+																	 Rcpp::Named("error indices") = errors);
+	return ret;
+}
+
+// [[Rcpp::export]]
 RObject perplexityC(NumericMatrix dtm, double alpha, NumericMatrix phi, int numSamples) {
 	IntegerVector errors;
 	double sum = 0;
