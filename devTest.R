@@ -46,7 +46,7 @@ docProb <- probNewDoc(docSampled, alpha, phi, 10)
 
 # This is a corpus created with docs that strongly exhibit
 # two particular topics from the old corpus. 
-#newCorpus <- build.K.Topic.Corpus(dtmCORA, paramsCORA, K, 2, .7)
+newCorpus <- build.K.Topic.Corpus(dtmCORA, paramsCORA, K, 2, .5)
 #dtmNew <- newCorpus[,-ncol(newCorpus)]
 #paramsNew <- gibbsC(dtmNew, n.sim, 2, alpha, beta, verbose = F)
 
