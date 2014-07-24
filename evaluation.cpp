@@ -102,3 +102,91 @@ RObject perplexityC(NumericMatrix dtm, double alpha, NumericMatrix phi, int numS
 
 	return out;
 }
+
+// [[Rcpp::export]]
+double dotProduct(NumericVector x, NumericVector y) {
+	int xLen = x.size();
+	int yLen = y.size();
+	if (xLen != yLen) {
+		std::cout << "Error. x and y must have the same length to take dot prod.";
+	}
+	double sum = 0;
+	for (int i = 0; i < xLen; ++i) {
+		sum += x[i]*y[i];
+	}
+	return sum;
+}
+
+// [[Rcpp::export]]
+double norm(NumericVector x) {
+	return sqrt(dotProduct(x, x));
+}
+
+// [[Rcpp::export]]
+NumericVector normalize(NumericVector x) {
+	double nmX = norm(x);
+	int xLen = x.size();
+	NumericVector out(xLen);
+	for (int i = 0; i < xLen; ++i) {
+		out[i] = x[i]/nmX;
+	}
+	return out;
+}
+
+// [[Rcpp::export]]
+double similarity(NumericVector x, NumericVector y) {
+	int xLen = x.size();
+	int yLen = y.size();
+	if (xLen == yLen) {
+		return dotProduct(x, y)/(norm(x) * norm(y));
+	}
+	else {
+		std::cout << "Error.  Vectors must have same length to take similarity." << std::endl;
+		return -1;
+	}
+}
+
+// [[Rcpp::export]]
+double MatSimi(NumericMatrix x) {
+	int K = x.nrow();
+	double simi = 0;
+	for (int i = 0; i < K; ++i) {
+		for (int j = 0; j < K; ++j) {
+			if (i != j) {
+				simi += similarity(x.row(i), x.row(j));
+			}
+		}
+	}
+	return simi;
+}
+
+// [[Rcpp::export]]
+double lg(double x) {
+	return log(x)/log(2);
+}
+
+// vectorEntropy assumes the vector is a probability vector. 
+// i.e. entries sum to one. 
+
+// [[Rcpp::export]]
+double vectorEntropy(NumericVector x) {
+	int xLen = x.size();
+	double ent = 0;
+	for (int i = 0; i < xLen; ++i) {
+		ent += x[i] * lg(x[i]);
+	}
+	return ent;
+}
+
+// By 'Matrix Entropy', 
+// I just mean the sum of the entropy of the rows.
+
+// [[Rcpp::export]]
+double MatEntropy(NumericMatrix x) {
+	int numRows = x.nrow();
+	double totEnt = 0;
+	for (int i = 0; i < numRows; ++i) {
+		totEnt += vectorEntropy(x.row(i));
+	}
+	return totEnt;
+}
