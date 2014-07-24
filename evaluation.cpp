@@ -188,5 +188,5 @@ double MatEntropy(NumericMatrix x) {
 	for (int i = 0; i < numRows; ++i) {
 		totEnt += vectorEntropy(x.row(i));
 	}
-	return totEnt;
+	return -1*totEnt;
 }
