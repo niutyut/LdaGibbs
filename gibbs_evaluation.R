@@ -1,4 +1,4 @@
-# The utilities provided by this file are for evaluating topic models' performance. .
+# The utilities provided by this file are for evaluating topic models' performance.
 # We will provide implementations of different model comparison metrics.
 # It may be best to implement this in c++ as well. 
 
@@ -31,15 +31,11 @@ taToCounts <- function(ta, K) {
     out
 }
 
-getDtvfromDtm <- function(dtm, doc) {
-    dtv <- dtm[doc, ]
-    dtv
-}
 
 # Here 'dtv' is a "document-topic vector", representing a single document.
 # We use Importance Sampling to get the likelihood of a new document.
 # The likelihoods are quite small. Like, REALLY small. 
-probNewDoc <- function(dtv, alpha, phi, numSamples) {
+logProbNewDoc <- function(dtv, alpha, phi, numSamples) {
     V <- length(dtv)
     K <- nrow(phi)
     alphaVec <- rep(alpha, K)
@@ -51,7 +47,7 @@ probNewDoc <- function(dtv, alpha, phi, numSamples) {
                 sum <- 0
                 for (k in 1:K) {
                     term <- rdirichlet(1, alphaVec)[k] * phi[k,n]
-                    sum <- sum + log(term)
+                    sum <- sum + term
                 }
                 prod <- prod * sum
             }
@@ -59,7 +55,12 @@ probNewDoc <- function(dtv, alpha, phi, numSamples) {
     prob <- prob + prod
     }
     prob <- prob/ numSamples
-    prob
+    log(prob)
+}
+
+# Determine the number of words in a document. 
+numWords <- function(dtm, doc) {
+    sum(dtm[doc,])
 }
 
 # This takes awhile. Might port it to c++.
@@ -70,6 +71,36 @@ ProbNewDocSet <- function(dtm, alpha, phi , numSamples) {
         prod <- prod * probNewDoc(dtm[d,], alpha, phi, numSamples)
     }
     prod
+}
+
+# Perplexity. See LDA Paper for definition.
+Perplexity <- function(dtm, alpha, phi, numSamples = 10) {
+    errors <- 0
+    sum <- 0
+    # M = number of documents in corpus. 
+    M <- nrow(dtm)
+    entropy <- 0
+    totalWordCount <- 0
+    for (d in 1:M) {
+        newProb <- logProbNewDoc(dtm[d,], alpha, phi, numSamples)
+        if (newProb != -Inf) {
+            entropy <- entropy + newProb
+        }
+        else {
+            if (length(errors) == 1 && errors == 0) {
+                errors <- d
+            }
+            else {
+                append(errors, d)
+            }
+        }
+        print(paste("entropy: ", entropy))
+        totalWordCount = totalWordCount + numWords(dtm, d)
+        print(paste("totalWordCount: ", totalWordCount))
+    }
+    out <- list(exp(-1*entropy/totalWordCount), errors)
+    names(out) <- c("Perplexity","Bad Docs")
+    out
 }
 
     
