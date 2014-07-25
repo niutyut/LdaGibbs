@@ -13,15 +13,8 @@
 
 require(ggplot2)
 require(reshape2)
-require(topicmodels)
 
 source("gibbs_prep.R")
-
-get_mixture_proportions <- function(params, doc_index) {
-  theta <- params[[2]]
-  mixture_props <- theta[doc_index, ]
-  mixture_props
-}
 
 get_top_k_words <- function(dtm, vocab, params, top_k, topic_index) {
   # given a dtm, gibbs output, and a topic index, 
@@ -33,15 +26,6 @@ get_top_k_words <- function(dtm, vocab, params, top_k, topic_index) {
   top_k_indices <- ord[1:top_k]
   top_k_words <- vocab[top_k_indices]
   top_k_words
-}
-
-sample_doc_indices <- function(corpus, n) {
-    # n is the number of document indices to sample
-		   
-    dtm_matrix <- get_dtm_matrix(corpus)
-    num_docs <- nrow(dtm_matrix)
-    pool <- 1:num_docs
-    indices <- sample(pool, n, rep=F)
 }
 
 get_plottable_df_lda <- function(dtm, vocab, params, numdocs) {
@@ -67,19 +51,6 @@ get_plottable_df_lda <- function(dtm, vocab, params, numdocs) {
   df <- theta.sample.m.df
   df 
 }
-
-# Uses the c code from 'topicmodels' to fit a topic model
-# rather than my own. 
-get_params_from_topicmodels <- function(dtm, k) {
-  vem_model <- LDA(dtm, k = k, control = list(seed = 420,
-                                              estimate.alpha = F,
-					      alpha = 50/k))
-  Phi <- vem_model@beta
-  Theta <- vem_model@gamma
-  params <- list(Phi,Theta)
-  params			    
-}
-
 
 get_plottable_df <- function(corpus, dtm, vocab, params, numdocs) {
 
@@ -135,7 +106,7 @@ queryByTopicStrength <- function(params, dtm, topic, strength) {
     indices
 }
 
-get_primitive_qplot <- function(df, numdocs) {
+get.qplot <- function(df, numdocs) {
 
 
   plot <- qplot(Topic, Proportion, fill=factor(Document), data = df, geom="bar",stat="identity") + 

@@ -165,6 +165,10 @@ double lg(double x) {
 	return log(x)/log(2);
 }
 
+double log10(double x) {
+	return log(x)/log(10);
+}
+
 // vectorEntropy assumes the vector is a probability vector. 
 // i.e. entries sum to one. 
 
@@ -190,3 +194,15 @@ double MatEntropy(NumericMatrix x) {
 	}
 	return -1*totEnt;
 }
+
+// [[Rcpp::export]]
+double jMetric(NumericMatrix phi, int K) {
+	if (K == 1) {
+		return 3*MatSimi(phi) + MatEntropy(phi);
+	}
+	else {
+		return 3*MatSimi(phi)/(pow(K, 2) - K) + MatEntropy(phi)/K + log10(K);
+	}
+}
+
+
