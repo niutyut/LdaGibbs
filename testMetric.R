@@ -41,29 +41,19 @@ stop.words <- c("paper", "papers", "results", "show", "methods", "method")
 new_obj <- remove.stopwords(dtmCORA, cora.vocab, stop.words)
 dtmCORA <- new_obj[[1]]
 cora.vocab <- new_obj[[2]]
-
-
-
-# Remove some stop words. Blei mentioned in a video that they did this as well.  
-# stop.words <- c("paper", "result", "model", "show", "method", "approach", "base", 
-#                "data", "general", "function", "perform", "comput", "present")
-
-# new_corpus_objects <- remove.stopwords(dtmCORA, cora.vocab, stop.words)
-# dtmCORA <- new_corpus_objects[[1]]
-# cora.vocab <- new_corpus_objects[[2]]
-
 		
 # Set Parameters for the Gibbs Sampler, 
 n.sim <- 25
 alpha <- 0.1
 beta <- 0.01
 
-K1 <- 1
-K2 <- 3
-K3 <- 5
-K4 <- 10
-K5 <- 20
-K6 <- 30
+
+K1 <- 3
+K2 <- 5
+K3 <- 10
+K4 <- 25
+K5 <- 100
+K6 <- 200
 
 # Run Gibbs Sampler and store results in the variable 'paramsCORA'
 params1 <- gibbsC(dtmCORA, n.sim, K1, alpha, beta)
@@ -72,12 +62,14 @@ params3 <- gibbsC(dtmCORA, n.sim, K3, alpha, beta)
 params4 <- gibbsC(dtmCORA, n.sim, K4, alpha, beta)
 params5 <- gibbsC(dtmCORA, n.sim, K5, alpha, beta)
 params6 <- gibbsC(dtmCORA, n.sim, K6, alpha, beta)
+
 phi1 <- params1[[1]]
 phi2 <- params2[[1]]
 phi3 <- params3[[1]]
 phi4 <- params4[[1]]
 phi5 <- params5[[1]]
 phi6 <- params6[[1]]
+
 
 jMetric(phi1, K1)
 jMetric(phi2, K2)
@@ -87,18 +79,16 @@ jMetric(phi5, K5)
 jMetric(phi6, K6)
 
 
+
 numDocs <- 10
 df1 <- get_plottable_df_lda(dtmCORA, cora.vocab, params1, numDocs)
 df2 <- get_plottable_df_lda(dtmCORA, cora.vocab, params2, numDocs)
 df3 <- get_plottable_df_lda(dtmCORA, cora.vocab, params3, numDocs)
 df4 <- get_plottable_df_lda(dtmCORA, cora.vocab, params4, numDocs)
-df5 <- get_plottable_df_lda(dtmCORA, cora.vocab, params5, numDocs)
-df6 <- get_plottable_df_lda(dtmCORA, cora.vocab, params6, numDocs)
 
 plot1 <- get_primitive_qplot(df1, numDocs)
 plot2 <- get_primitive_qplot(df2, numDocs)
 plot3 <- get_primitive_qplot(df3, numDocs)
 plot4 <- get_primitive_qplot(df4, numDocs)
-plot5 <- get_primitive_qplot(df5, numDocs)
-plot6 <- get_primitive_qplot(df6, numDocs)
+
 

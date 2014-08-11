@@ -16,7 +16,7 @@ require(reshape2)
 
 source("gibbs_prep.R")
 
-get_top_k_words <- function(dtm, vocab, params, top_k, topic_index) {
+get_top_k_words <- function(vocab, params, top_k, topic_index) {
   # given a dtm, gibbs output, and a topic index, 
   # get the top k words in the topic, as strings. 
 		
@@ -28,6 +28,49 @@ get_top_k_words <- function(dtm, vocab, params, top_k, topic_index) {
   top_k_words
 }
 
+# Result is a matrix. 
+getTopicOutputMatrix <- function(vocab, params, numTerms) {
+    phi <- params[[1]]
+    K <- nrow(phi)
+    out <- 0
+    for (i in 1:K) {
+        indices <- order(phi[i,], decreasing = T)[1:numTerms]
+        words <- vocab[indices]
+        if (i == 1) {
+            out <- words
+        }
+        else {
+            out <- rbind(out, words)
+        }
+    }
+    rownames(out) <- paste(rep("topic ", K), seq(1, K), rep(": ", K))
+    out
+}
+
+writeMatToCSV <- function(matrix, path, filename) {
+    outFileName <- paste(path, filename, sep="/")
+    
+}
+
+nameFunc <- function(row, dtm) {
+    names(row) <- colnames(dtm)
+}
+
+sortFunc <- function(row) {
+    row <- sort(row, decreasing=T)
+}
+
+topicTable <- function(row)
+# get_top_words_matrix #<- function(dtm, params) {
+#    phi <- params[[1]]
+#    namedPhi <- phi
+#    colnames(namedPhi) <- colnames(dtm)
+#    apply(namedPhi, 1, nameFunc, dtm=dtm)
+#    sortedPhi <- namedPhi
+#    apply(sortedPhi, 1, sortFunc)
+#    return sortFunc
+# }
+
 get_plottable_df_lda <- function(dtm, vocab, params, numdocs) {
 
   theta <- params[[2]]
@@ -35,13 +78,10 @@ get_plottable_df_lda <- function(dtm, vocab, params, numdocs) {
   K <- dim(theta)[2]
   colnames <- rep(0, K)
   for (i in 1:K) {
-    colnames[i] <- paste(get_top_k_words(dtm, vocab, params, 5, i), collapse=", ")
+    colnames[i] <- paste(get_top_k_words(vocab, params, 5, i), collapse=", ")
   }
 
   colnames(theta) <- colnames
-
-  
-
   random_doc_indices <- sample(1:M, numdocs)
   theta.sample <- theta[random_doc_indices,]
   
@@ -53,7 +93,7 @@ get_plottable_df_lda <- function(dtm, vocab, params, numdocs) {
 }
 
 get_plottable_df <- function(corpus, dtm, vocab, params, numdocs) {
-
+    
   theta <- params[[2]]
   M <- dim(theta)[1]
   K <- dim(theta)[2]
@@ -61,7 +101,7 @@ get_plottable_df <- function(corpus, dtm, vocab, params, numdocs) {
   # Set colnames to be top topic words
   colnames <- rep(0, K)
   for (i in 1:K) {
-    colnames[i] <- paste(get_top_k_words(dtm, vocab, params, 5, i), collapse=", ")
+    colnames[i] <- paste(get_top_k_words(vocab, params, 5, i), collapse=", ")
   }
 
   colnames(theta) <- colnames
@@ -107,12 +147,9 @@ queryByTopicStrength <- function(params, dtm, topic, strength) {
 }
 
 get.qplot <- function(df, numdocs) {
-
-
   plot <- qplot(Topic, Proportion, fill=factor(Document), data = df, geom="bar",stat="identity") + 
           theme(axis.text.x = element_text(colour="black")) +
           coord_flip() + facet_wrap( ~ Document, ncol = numdocs/2)
 
   plot
-		    
 }

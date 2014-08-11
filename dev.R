@@ -9,6 +9,7 @@
 require(Rcpp)
 
 source("gibbs_output.R")
+sourceCpp("evaluation.cpp")
 
 build.K.Topic.Corpus <- function(dtm, params, kOriginal, kNew, strength) {
     # kNew is the number of topics we'd like in this handpicked corpus.
@@ -35,5 +36,16 @@ build.K.Topic.Corpus <- function(dtm, params, kOriginal, kNew, strength) {
     # greater than 'strength' for the random new topics (of which there are 'kNew').
     newCorpus
 }
+
+evalParams <- function(dtm, params, alpha, numSamples, K) {
+    phi <- params[[1]]
+    perp <- perplexityC(dtm, alpha, phi, numSamples)[[1]]
+    phiSimi <- MatSimi(phi)
+    phiEntro <- MatEntropy(phi)
+    mkScore <- phiEntro + phiSimi + perp/log(K) + K
+    mkScore
+}
+
+
 
 

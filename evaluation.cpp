@@ -118,6 +118,11 @@ double dotProduct(NumericVector x, NumericVector y) {
 }
 
 // [[Rcpp::export]]
+int chooseC(int n, int k) {
+	return Rf_choose(n, k);
+}
+
+// [[Rcpp::export]]
 double norm(NumericVector x) {
 	return sqrt(dotProduct(x, x));
 }
@@ -160,6 +165,21 @@ double MatSimi(NumericMatrix x) {
 	return simi;
 }
 
+double AvgMatSimi(NumericMatrix x) {
+	int K = x.nrow();
+	double simi = 0;
+	for (int i = 0; i < K; ++i) {
+		for (int j = 0; j < K; ++j) {
+			if (i != j) {
+				simi += similarity(x.row(i), x.row(j));
+			}
+		}
+	}
+	return simi/(chooseC(K, 2));
+}
+
+
+
 // [[Rcpp::export]]
 double lg(double x) {
 	return log(x)/log(2);
@@ -201,7 +221,7 @@ double jMetric(NumericMatrix phi, int K) {
 		return 3*MatSimi(phi) + MatEntropy(phi);
 	}
 	else {
-		return 3*MatSimi(phi)/(pow(K, 2) - K) + MatEntropy(phi)/K + log10(K);
+		return 3*MatSimi(phi)/(chooseC(K, 2)) + MatEntropy(phi)/K + log10(K);
 	}
 }
 
