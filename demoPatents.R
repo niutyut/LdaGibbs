@@ -17,6 +17,7 @@ path_to_patents <- paste(home,"text_corpuses/patents_jan07", sep="/")
 
 # Get corpus and dtm from .txt files
 corpusPATENTS <- get_corpus(path_to_patents)
+# Use only a random sample of 500 patents in the interest of time. 
 corpusPATENTS <- sample(corpusPATENTS, 500)
 dtmPATENTS <- get_dtm(corpusPATENTS)
 vocabPATENTS <- colnames(dtmPATENTS)
