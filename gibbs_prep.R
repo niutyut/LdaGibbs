@@ -12,7 +12,7 @@ get_corpus <- function(path) {
   corpus <- tm_map(corpus, removePunctuation)
   corpus <- tm_map(corpus, stripWhitespace)
 	corpus <- tm_map(corpus, content_transformer(tolower))
-  corpus <- tm_map(corpus, removeWords, stopwords("english"))
+  corpus <- tm_map(corpus, removeWords, stopwords("SMART"))
 #  corpus <- tm_map(corpus, stemDocument, language="english")
   corpus
 }

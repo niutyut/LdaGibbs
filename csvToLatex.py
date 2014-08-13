@@ -6,7 +6,7 @@ import csv
 
 inBase = raw_input("Please enter the base name of your csv file (don't include the path): -------> ")
 inPath = raw_input("Please enter the path to the directory where the file lives: -----> ")
-inFN = '/'.join(inBase, inPath)
+inFN = '/'.join([inBase, inPath])
 outBase = inFN.split(".")[0] + "Latex" + ".txt"
 outPath = raw_input("Please enter the path to the directory where you'd like the latex table to go: ------> ")
 outFN = '/'.join([outPath, outBase])
@@ -34,12 +34,15 @@ reader = csv.reader(inFile)
 outFile = open(outFN, 'w')
 first = reader.next()
 tableIntro.append(r'\begin{tabular}{' + getRowInst(first) + '\n')
+# Write table intro
 for line in tableIntro:
     outFile.write(line)
 outFile.write(csvRowToLatex(first))
+# Write table contents
 for row in reader:
     outFile.write(csvRowToLatex(row))
 outFile.write('\n')
+# Write table outro
 for line in tableOutro:
     outFile.write(line)
 outFile.close()

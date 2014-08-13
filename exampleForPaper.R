@@ -54,9 +54,9 @@ topics3 <- getTopicOutputMatrix(vocabPATENTS, paramsPATENTS3, numTerms)
 topics4 <- getTopicOutputMatrix(vocabPATENTS, paramsPATENTS4, numTerms)
 
 # Write the output to csv
-setwd(home)
-write.table(topics0, paste(getwd(), "testOutput/fiveTopicsPat.csv", sep="/"), col.names = F)
-write.table(topics1, paste(getwd(), "testOutput/twentyTopicsPat.csv", sep="/"), col.names = F)
-write.table(topics2, paste(getwd(), "testOutput/fiftyTopicsPat.csv", sep="/"), col.names = F)
+csvDest <- "/Users/jacobmenick/Desktop/Summer_2014_Research/paper_draft/csvs"
+write.table(topics0, paste(csvDest, "fiveTopicsPat.csv", sep="/"), col.names = F)
+write.table(topics1, paste(csvDest, "twentyTopicsPat.csv", sep="/"), col.names = F)
+write.table(topics2, paste(csvDest, "fiftyTopicsPat.csv", sep="/"), col.names = F)
 
 
