@@ -6,8 +6,8 @@ import csv
 
 inBase = raw_input("Please enter the base name of your csv file (don't include the path): -------> ")
 inPath = raw_input("Please enter the path to the directory where the file lives: -----> ")
-inFN = '/'.join([inBase, inPath])
-outBase = inFN.split(".")[0] + "Latex" + ".txt"
+inFN = '/'.join([inPath, inBase])
+outBase = inBase.split(".")[0] + "Latex" + ".txt"
 outPath = raw_input("Please enter the path to the directory where you'd like the latex table to go: ------> ")
 outFN = '/'.join([outPath, outBase])
 title = raw_input("What is the title of your latex table? --------> ")

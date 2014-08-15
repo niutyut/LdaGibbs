@@ -9,6 +9,7 @@ require(Rcpp)
 source("gibbs_prep.R")
 source("gibbs_output.R")
 sourceCpp("gibbs.cpp")
+sourceCpp("evaluation.cpp")
 
 # Store the path to the reuters001 corpus as a string. 
 path_to_patents <- paste(getwd(),"text_corpuses/patents_jan07", sep="/")
@@ -21,7 +22,7 @@ vocabPATENTS <- colnames(dtmPATENTS)
 
 # Remove stopwords.
 # Here are some really uninformative words in this corpus. 
-stop.words <- c("title", "abstract", "method", "apparatus", "include", "includes", "provided", "methods", "present", "system", "based", "device", "invention", "providing", "disposed", "end")
+stop.words <- c("title", "abstract", "method", "apparatus", "include", "includes", "provided", "methods", "present", "system", "based", "device", "invention", "providing", "disposed", "end", "high", "including", "comprise", "comprises", "comprising", "formed", "form", "made", "plurality", "part", "portion", "plurality", "unit", "andor", "relates", "thereof", "set", "provide", "provides", "attached", "attach", "substantially", "defining", "define", "defines")
 new_objs <- remove.stopwords(dtmPATENTS, vocabPATENTS, stop.words)
 dtmPATENTS <- new_objs[[1]]
 vocabPATENTS <- new_objs[[2]]
@@ -53,10 +54,16 @@ topics2 <- getTopicOutputMatrix(vocabPATENTS, paramsPATENTS2, numTerms)
 topics3 <- getTopicOutputMatrix(vocabPATENTS, paramsPATENTS3, numTerms)
 topics4 <- getTopicOutputMatrix(vocabPATENTS, paramsPATENTS4, numTerms)
 
-# Write the output to csv
-csvDest <- "/Users/jacobmenick/Desktop/Summer_2014_Research/paper_draft/csvs"
-write.table(topics0, paste(csvDest, "fiveTopicsPat.csv", sep="/"), col.names = F)
-write.table(topics1, paste(csvDest, "twentyTopicsPat.csv", sep="/"), col.names = F)
-write.table(topics2, paste(csvDest, "fiftyTopicsPat.csv", sep="/"), col.names = F)
+# Get a ggplot of the results 
+numDocs <- 10  
+df <- get_plottable_df(corpusPATENTS, dtmPATENTS, vocabPATENTS, paramsPATENTS1, numDocs)
+plot <- get.qplot(df, numDocs)
+
+# Test the metric with both weights set to one. 
+jMetric(phi0, K0)
+jMetric(phi1, K1)
+jMetric(phi2, K2)
+jMetric(phi3, K3)
+jMetric(phi4, K4)
 
 
