@@ -60,17 +60,6 @@ sortFunc <- function(row) {
     row <- sort(row, decreasing=T)
 }
 
-topicTable <- function(row)
-# get_top_words_matrix #<- function(dtm, params) {
-#    phi <- params[[1]]
-#    namedPhi <- phi
-#    colnames(namedPhi) <- colnames(dtm)
-#    apply(namedPhi, 1, nameFunc, dtm=dtm)
-#    sortedPhi <- namedPhi
-#    apply(sortedPhi, 1, sortFunc)
-#    return sortFunc
-# }
-
 get_plottable_df_lda <- function(dtm, vocab, params, numdocs) {
 
   theta <- params[[2]]

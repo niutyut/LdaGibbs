@@ -248,19 +248,19 @@ require(Rcpp)#
 source("gibbs_prep.R")#
 source("gibbs_output.R")#
 sourceCpp("gibbs.cpp")#
+sourceCpp("evaluation.cpp")#
 #
 # Store the path to the reuters001 corpus as a string. #
 path_to_patents <- paste(getwd(),"text_corpuses/patents_jan07", sep="/")#
 #
 # Get corpus and dtm.#
 corpusPATENTS <- get_corpus(path_to_patents)#
-corpusPATENTS <- sample(corpusPATENTS, 500)#
+corpusPATENTS <- sample(corpusPATENTS, 1000)#
 dtmPATENTS <- get_dtm(corpusPATENTS)#
-vocabPATENTS <- colnames(dtmPATENTS)#
-#
+vocabPATENTS <- colnames(dtmPATENTS)
 # Remove stopwords.#
-# The words 'title' and 'abstract' appear in each file.  #
-stop.words <- c("title", "abstract", "method", "apparatus")#
+# Here are some really uninformative words in this corpus. #
+stop.words <- c("title", "abstract", "method", "apparatus", "include", "includes", "provided", "methods", "present", "system", "based", "device", "invention", "providing", "disposed", "end", "high", "including", "comprise", "comprises", "comprising", "formed", "form", "made", "plurality", "part", "portion", "plurality", "unit", "andor", "relates", "thereof", "set", "provide", "provides", "attached", "attach", "substantially", "defining", "define", "defines")#
 new_objs <- remove.stopwords(dtmPATENTS, vocabPATENTS, stop.words)#
 dtmPATENTS <- new_objs[[1]]#
 vocabPATENTS <- new_objs[[2]]#
@@ -268,32 +268,9 @@ vocabPATENTS <- new_objs[[2]]#
 # Set Parameters for the LDA Model#
 nsim <- 40#
 alpha <- 0.01#
-beta <- 0.01#
-#
-K0 <- 5#
-K1 <- 20#
-K2 <- 50#
-K3 <- 100#
-K4 <- 200
-paramsPATENTS0 <- gibbsC(dtmPATENTS, nsim, K0, alpha, beta, verbose=F)
+beta <- 0.01
+K <- 30
+paramsPATENTS <- gibbsC(dtmPATENTS, nsim, K, alpha, beta, verbose=F)
 numTerms <- 5
-topics0 <- getTopicOutputMatrix(vocabPATENTS, paramsPATENTS0, numTerms)
+topics0 <- getTopicOutputMatrix(vocabPATENTS, paramsPATENTS, numTerms)
 topics0
-paramsPATENTS1 <- gibbsC(dtmPATENTS, nsim, K1, alpha, beta, verbose=F)
-topics1 <- getTopicOutputMatrix(vocabPATENTS, paramsPATENTS1, numTerms)
-topics1
-stop.words <- c("title", "abstract", "method", "apparatus", "include", "includes", "provided", "methods", "present", "system", "based", "device", "invention", "providing")#
-new_objs <- remove.stopwords(dtmPATENTS, vocabPATENTS, stop.words)#
-dtmPATENTS <- new_objs[[1]]#
-vocabPATENTS <- new_objs[[2]]#
-#
-# Set Parameters for the LDA Model#
-nsim <- 40#
-alpha <- 0.01#
-beta <- 0.01#
-#
-K0 <- 5#
-K1 <- 20#
-K2 <- 50#
-K3 <- 100#
-K4 <- 200
