@@ -81,6 +81,12 @@ get_plottable_df_lda <- function(dtm, vocab, params, numdocs) {
   df 
 }
 
+cleanFilename <- function(text) {
+    text <- sub("patent", "", text)
+    text <- sub(".txt", "", text)
+    text
+}
+
 get_plottable_df <- function(corpus, dtm, vocab, params, numdocs) {
     
   theta <- params[[2]]
@@ -97,6 +103,8 @@ get_plottable_df <- function(corpus, dtm, vocab, params, numdocs) {
 
   # Set row names to be document filenames. 
   filenames <- get_filenames_from_indices(corpus, 1:M)
+  filenames <- sapply(filenames, cleanFilename)
+  filenames <- unname(filenames)
   rownames(theta) <- filenames
 
   random_doc_indices <- sample(1:M, numdocs)
@@ -136,8 +144,8 @@ queryByTopicStrength <- function(params, dtm, topic, strength) {
 }
 
 get.qplot <- function(df, numdocs) {
-  plot <- qplot(Topic, Proportion, fill=factor(Document), data = df, geom="bar",stat="identity") + 
-          theme(axis.text.x = element_text(colour="black")) +
+  plot <- qplot(Topic, Proportion, fill=rev(factor(Topic)), data = df, geom="bar",stat="identity") + 
+          theme(axis.text.y = element_blank()) +
           coord_flip() + facet_wrap( ~ Document, ncol = numdocs/2)
 
   plot
