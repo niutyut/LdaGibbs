@@ -87,7 +87,7 @@ cleanFilename <- function(text) {
     text
 }
 
-get_plottable_df <- function(corpus, dtm, vocab, params, numdocs) {
+get_plottable_df <- function(corpus, dtm, vocab, params, numdocs, givenIndices = 0) {
     
   theta <- params[[2]]
   M <- dim(theta)[1]
@@ -107,8 +107,14 @@ get_plottable_df <- function(corpus, dtm, vocab, params, numdocs) {
   filenames <- unname(filenames)
   rownames(theta) <- filenames
 
+  
   random_doc_indices <- sample(1:M, numdocs)
-  theta.sample <- theta[random_doc_indices,]
+  if (givenIndices == 0) {
+      theta.sample <- theta[random_doc_indices,]
+  }
+  else {
+      theta.sample <- theta[givenIndices,]
+  }
   
   theta.sample.m <- melt(theta.sample)
   theta.sample.m.df <- data.frame(theta.sample.m)
