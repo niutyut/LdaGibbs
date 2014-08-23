@@ -163,3 +163,13 @@ get.qplot <- function(df, numdocs) {
 
   plot
 }
+
+get.qplot.old <- function(df, numdocs) {
+  plot <- qplot(Topic, Proportion, fill=factor(Document), data = df, geom="bar",stat="identity") + 
+#          theme(axis.text.y = element_blank()) +
+          coord_flip() + facet_wrap( ~ Document, ncol = numdocs/2)
+
+  plot
+}
+
+
