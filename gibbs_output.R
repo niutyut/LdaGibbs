@@ -81,6 +81,13 @@ get_plottable_df_lda <- function(dtm, vocab, params, numdocs) {
   df 
 }
 
+fnameToIndex <- function(fname, dtm) {
+    map <- names(dtm[,1])
+    pno <- cleanFilename(fname)
+    index <- which(map == paste(pno, ".txt", sep=""))
+    index
+}
+
 cleanFilename <- function(text) {
     text <- sub("patent", "", text)
     text <- sub(".txt", "", text)
