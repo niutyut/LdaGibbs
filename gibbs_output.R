@@ -157,17 +157,23 @@ queryByTopicStrength <- function(params, dtm, topic, strength) {
 }
 
 get.qplot <- function(df, numdocs) {
+  K <- length(unique(df$Topic))
   plot <- qplot(Topic, Proportion, fill=rev(factor(Topic)), data = df, geom="bar",stat="identity") + 
-          theme(axis.text.y = element_blank()) +
+#          theme(axis.text.y = element_blank()) +
+          scale_x_discrete(labels=rev(as.character(seq(1, K)))) +
+          theme(axis.ticks = element_blank()) +
+          scale_fill_discrete(name="Topic") +
           coord_flip() + facet_wrap( ~ Document, ncol = numdocs/2)
-
+          
   plot
 }
 
 get.qplot.old <- function(df, numdocs) {
+  
   plot <- qplot(Topic, Proportion, fill=factor(Document), data = df, geom="bar",stat="identity") + 
 #          theme(axis.text.y = element_blank()) +
-          coord_flip() + facet_wrap( ~ Document, ncol = numdocs/2)
+
+          coord_flip() + facet_wrap( ~ Document, ncol = numdocs/2) 
 
   plot
 }
