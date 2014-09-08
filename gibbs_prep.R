@@ -1,6 +1,5 @@
 # Get a directory of .txt files ready for analysis with LDA. 
 require("tm")
-require("SnowballC")
 
 # Give this function a path to the directory containing your .txt file documents.  
 get_corpus <- function(path) {
@@ -13,7 +12,6 @@ get_corpus <- function(path) {
   corpus <- tm_map(corpus, stripWhitespace)
 	corpus <- tm_map(corpus, content_transformer(tolower))
   corpus <- tm_map(corpus, removeWords, stopwords("SMART"))
-#  corpus <- tm_map(corpus, stemDocument, language="english")
   corpus
 }
 
@@ -51,15 +49,8 @@ process_corpus <- function(corpus) {
   corpus <- tm_map(corpus, stripWhitespace)
   corpus <- tm_map(corpus, tolower)
   corpus <- tm_map(corpus, removeWords, stopwords("english"))
-#  corpus <- tm_map(corpus, stemDocument, language="english")
   corpus
 }
-
-stem_corpus <- function(corpus) {
-  corpus <- tm_map(corpus, stemDocument, language = "english")
-  corpus
-}
-
 
 remove.stopwords <- function(dtm, vocab, stop.words) {
   stop.word.indices <- rep(0, length(stop.words))
